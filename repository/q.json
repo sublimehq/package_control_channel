@@ -243,6 +243,18 @@
 			]
 		},
 		{
+			"name": "QuickLineNavigator",
+			"author": "ChenZhu-Xie",
+			"details": "https://github.com/ChenZhu-Xie/QuickLineNavigator",
+			"labels": ["search", "grep", "highlight"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "QuickLinks",
 			"details": "https://bitbucket.org/sigzegv/quicklinks",
 			"releases": [
@@ -299,6 +311,17 @@
 				{
 					"sublime_text": "*",
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "QuickRulers",
+			"description": "Easy access to the \"rulers\" setting",
+			"details": "https://github.com/FichteFoll/QuickRulers",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "v"
 				}
 			]
 		},

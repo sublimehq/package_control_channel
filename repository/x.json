@@ -156,6 +156,15 @@
 			]
 		},
 		{
+			"details": "https://github.com/haloway13/XmlTransformer",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "XMPFilter",
 			"details": "https://github.com/kassi/sublime-text-2-xmpfilter",
 			"releases": [

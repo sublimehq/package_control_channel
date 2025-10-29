@@ -16,7 +16,7 @@
 		{
 			"name": "W3CValidators",
 			"details": "https://github.com/ericsorenson/Sublime-W3CValidators",
-			"labels": ["html", "svg", "validator"],
+			"labels": ["html", "svg", "validation"],
 			"releases": [
 				{
 					"sublime_text": "*",

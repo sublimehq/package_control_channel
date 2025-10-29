@@ -556,7 +556,7 @@
 		{
 			"name": "file-downloader",
 			"details": "https://github.com/fcannizzaro/sublime-file-downloader",
-			"labels": ["url (file) download/open"],
+			"labels": ["url", "file", "download", "open"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -862,7 +862,7 @@
 		{
 			"name": "Find PHP Vulnerabilities",
 			"details": "https://github.com/WangYihang/Find-PHP-Vulnerabilities",
-			"labels": ["php", "securiy", "bug", "vulnerability"],
+			"labels": ["php", "security", "bug", "vulnerability"],
 			"releases": [
 				{
 					"sublime_text": "*",

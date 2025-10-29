@@ -271,7 +271,7 @@
 		{
 			"name": "Ohdeung-eun",
 			"details": "https://github.com/luavis/Ohdeung-eun",
-			"labels": ["lorem", "hangul", "\\uc624\\ub4f1\\uc740"],
+			"labels": ["lorem", "hangul", "오등은"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -656,7 +656,7 @@
 		{
 			"name": "Open URL",
 			"details": "https://github.com/noahcoad/open-url",
-			"labels": ["open folders", "open files", "shortcut", "power user", "web search", "url"],
+			"labels": ["open paths", "open files", "shortcut", "power user", "web search", "url"],
 			"releases": [
 				{
 					"sublime_text": "3000 - 4049",
@@ -687,7 +687,7 @@
 		},
 		{
 			"name": "OpenAI completion",
-			"labels": ["auto-complete", "openai", "chatgpt", "llm"],
+			"labels": ["auto-complete", "openai", "chatgpt", "llm", "agents"],
 			"details": "https://github.com/yaroslavyaroslav/OpenAI-sublime-text",
 			"donate": "https://github.com/sponsors/yaroslavyaroslav",
 			"releases": [
@@ -1088,6 +1088,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "OverpassQL",
+			"details": "https://github.com/michaelblyons/SublimeSyntax-OverpassQL",
+			"labels": ["language syntax", "gis", "osm", "openstreetmap"],
+			"releases": [
+				{
+					"sublime_text": ">=4077",
+					"tags": "version/st4077/"
 				}
 			]
 		},

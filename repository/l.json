@@ -201,7 +201,7 @@
 		{
 			"name": "Laravel 5 Docs Light Color Scheme",
 			"details": "https://github.com/yos-virtus/laravel_docs_light_color_scheme",
-			"labels": ["color scheme", "light color scheme", "laravel docs", "laravel 5"],
+			"labels": ["color scheme", "light", "laravel docs", "laravel"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -310,7 +310,7 @@
 			"details": "https://github.com/michaeldyrynda/Laravel.tmTheme",
 			"homepage": "https://dyrynda.com.au",
 			"author": "michaeldyrynda",
-			"labels": ["color scheme", "light color scheme", "laravel", "laravel docs", "laravel color scheme"],
+			"labels": ["color scheme", "light", "laravel", "laravel docs"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -582,7 +582,7 @@
 		{
 			"name": "Launch",
 			"details": "https://github.com/zinefer/sublime-launch",
-			"labels": ["launch", "execute", "run", "terminal", "open", "gui", "runner", "opener"],
+			"labels": ["launch", "execute", "run", "terminal", "open", "gui", "runner"],
 			"releases": [
 				{
 					"sublime_text": "*",

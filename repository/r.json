@@ -329,6 +329,17 @@
 			]
 		},
 		{
+			"name": "RAScript",
+			"details": "https://github.com/joshraphael/sublime-rascript",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/facelessuser/RawLineEdit",
 			"releases": [
 				{
@@ -717,7 +728,7 @@
 		{
 			"name": "Redlime",
 			"details": "https://github.com/tosher/Redlime",
-			"labels": ["redmine", "bug tracking", "project management"],
+			"labels": ["redmine", "bugtracker", "project management"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1428,7 +1439,7 @@
 		},
 		{
 			"name": "RGBDS",
-			"details": "https://github.com/ISSOtm/sublime-RGBDS",
+			"details": "https://codeberg.org/ISSOtm/sublime-RGBDS",
 			"labels": ["language syntax", "game boy", "rgbds"],
 			"releases": [
 				{
@@ -1599,6 +1610,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RoadBookmarks",
+			"details": "https://github.com/stevengpa/RoadBookmarks",
+			"labels": ["bookmark", "navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

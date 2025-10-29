@@ -121,17 +121,6 @@
 			]
 		},
 		{
-			"name": "Varnish VCL",
-			"details": "https://github.com/brandonwamboldt/sublime-varnish",
-			"labels": ["vcl", "varnish", "language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Vash",
 			"details": "https://github.com/theoperatore/VashSyntaxDefinition",
 			"labels": ["language syntax"],

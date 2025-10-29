@@ -422,7 +422,7 @@
 			"name": "JavaScript Scratch Pad",
 			"author": "Bijoy Thomas",
 			"details": "https://github.com/bijoythomas/sublime-jsscratchpad",
-			"labels": ["javascript", "scratch pad"],
+			"labels": ["javascript", "scratchpad"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -705,11 +705,11 @@
 					"tags": "4107-"
 				},
 				{
-					"sublime_text": "4152 - 4199",
+					"sublime_text": "4152 - 4198",
 					"tags": "4152-"
 				},
 				{
-					"sublime_text": ">=4200",
+					"sublime_text": ">=4199",
 					"tags": "4200-"
 				}
 			]
@@ -717,7 +717,7 @@
 		{
 			"name": "Jira",
 			"details": "https://github.com/mix86/SublimeJira",
-			"labels": ["atlassian jira", "jira integration", "jira"],
+			"labels": ["atlassian", "jira"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1190,6 +1190,17 @@
 			]
 		},
 		{
+			"name": "JsonFixUp",
+			"details": "https://github.com/nuclearpolygon/sublime-fix-json",
+			"labels": ["json", "python", "formatting", "prettify"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://bitbucket.org/hmml/jsonlint",
 			"labels": ["linting", "json"],
 			"releases": [
@@ -1280,7 +1291,7 @@
 		{
 			"name": "JsValidate",
 			"details": "https://github.com/duereg/sublime-jsvalidate",
-			"labels": ["javascript", "js", "linting", "validation", "validate", "esprima"],
+			"labels": ["javascript", "js", "linting", "validation", "esprima"],
 			"releases": [
 				{
 					"sublime_text": "*",

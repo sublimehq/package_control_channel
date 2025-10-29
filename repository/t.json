@@ -56,6 +56,18 @@
 			]
 		},
 		{
+			"name": "Table Editor",
+			"author": ["Valery Kocubinsky (vkocubinsky)"],
+			"details": "https://github.com/SublimeText/TableEditor",
+			"labels": ["markdown", "textile", "restructuredtext", "pandoc", "emacs org mode"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Table of comments",
 			"details": "https://github.com/kizza/Table-of-comments",
 			"labels": ["comments", "documentation", "utilities"],
@@ -491,6 +503,19 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Telescope",
+			"details": "https://github.com/Mister7F/sublime-telescope",
+			"labels": [
+				"code navigation"
+			],
+			"releases": [
+				{
+					"sublime_text": ">=4198",
 					"tags": true
 				}
 			]
@@ -2335,7 +2360,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "Tinacious Design colour scheme",
 			"details": "https://github.com/tinacious/sublime-tinacious-design-syntax",
@@ -2482,12 +2507,12 @@
 		},
 		{
 			"name": "Tmux Syntax Highlight",
-			"details": "https://github.com/kei-q/sublime-tmux-syntax-highlight",
+			"details": "https://github.com/Edditoria/tmux-sublime",
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -3330,7 +3355,7 @@
 		{
 			"name": "Tubsted Color Schemes",
 			"details": "https://github.com/eduardolundgren/sublime-tubsted-color-scheme",
-			"labels": ["color scheme", "tubster", "tubsted"],
+			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -3499,7 +3524,7 @@
 		{
 			"name": "Twitter Recess",
 			"details": "https://github.com/morganestes/sublime-recess",
-			"labels": ["build system", "language syntax", "linting", "minification"],
+			"labels": ["build system", "language syntax", "linting", "minify"],
 			"releases": [
 				{
 					"sublime_text": "*",

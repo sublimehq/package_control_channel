@@ -14,6 +14,17 @@
 			]
 		},
 		{
+			"name": "SabeNight",
+			"details": "https://github.com/SabeDoesThings/SabeNight",
+			"labels": ["color scheme", "dark"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/ayonix/sablecc-syntax",
 			"labels": ["language syntax"],
 			"releases": [
@@ -129,6 +140,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Sandpaper Color Scheme",
+			"details": "https://github.com/tetafro/sublime-sandpaper",
+			"labels": ["color scheme", "light"],
+			"releases": [
+				{
+					"sublime_text": ">=3100",
+					"tags": true
 				}
 			]
 		},
@@ -553,7 +575,7 @@
 		{
 			"name": "Scratch",
 			"details": "https://github.com/jschonberg/Scratch",
-			"labels": ["snippets notes notepad scratchpad"],
+			"labels": ["snippets", "notes", "notepad", "scratchpad"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1274,6 +1296,17 @@
 			"name": "Share File",
 			"details": "https://github.com/devdinu/ShareFile",
 			"labels": ["share", "file", "code", "upload"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ShareToS3",
+			"details": "https://github.com/jamesacklin/ShareToS3",
+			"labels": ["share", "snippets", "S3", "upload"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -3400,7 +3433,7 @@
 			"name": "SSH Config",
 			"details": "https://github.com/robballou/sublimetext-sshconfig",
 			"author": ["michaelblyons", "robballou"],
-			"labels": ["completions", "language syntax", "snippets"],
+			"labels": ["completions", "language syntax", "snippets", "ssh"],
 			"releases": [
 				{
 					"sublime_text": "3000 - 3155",
@@ -3420,7 +3453,7 @@
 			"name": "SSH-Panel",
 			"details": "https://github.com/Haiquan-27/SSH-Panel",
 			"author": "Haiquan",
-			"labels": ["file navigation", "file creation", "remote"],
+			"labels": ["file navigation", "file creation", "remote", "ssh"],
 			"releases": [
 				{
 					"sublime_text": ">=3211",
@@ -3782,7 +3815,7 @@
 		},
 		{
 			"details": "https://github.com/gravejester/stposh",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "snippets", "powershell"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -4124,7 +4157,7 @@
 		{
 			"name": "Sublime Files",
 			"details": "https://github.com/al63/SublimeFiles",
-			"labels": ["open file", "file navigation"],
+			"labels": ["open files", "file navigation"],
 			"releases": [
 				{
 					"sublime_text": "*",

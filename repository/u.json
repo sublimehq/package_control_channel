@@ -56,12 +56,13 @@
 			]
 		},
 		{
-			"name": "UIkit autocomplete",
-			"details": "https://github.com/uikit/uikit-sublime",
+			"name": "UIkitCompletions",
+			"details": "https://github.com/dlzi/UIkitCompletions",
 			"labels": ["auto-complete"],
+			"previous_names": ["UIkit autocomplete"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -580,6 +581,17 @@
 				{
 					"sublime_text": "*",
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "USFM Bible",
+			"details": "https://github.com/michaelblyons/SublimeSyntax-USFM-Bible",
+			"labels": ["language syntax", "bible"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": "version/st3092/"
 				}
 			]
 		},

@@ -581,7 +581,7 @@
 		{
 			"name": "PathBox",
 			"details": "https://github.com/budlime/PathBox",
-			"labels": ["tabcompletion"],
+			"labels": ["auto-complete"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",
@@ -1958,7 +1958,7 @@
 		{
 			"name": "PowerShell",
 			"details": "https://github.com/SublimeText/PowerShell",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "powershell"],
 			"releases": [
 				{
 					"sublime_text": "<4000",
@@ -1973,7 +1973,7 @@
 		{
 			"name": "Powershell Help Generator",
 			"details": "https://github.com/sponte/sublime_powershell_help",
-			"labels": ["help doc"],
+			"labels": ["documentation", "powershell"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2106,7 +2106,7 @@
 			"name": "Pretty EDN",
 			"details": "https://github.com/oakmac/sublime-pretty-edn",
 			"author": "Chris Oakman",
-			"labels": ["linting", "minify", "prettify", "validate", "babashka", "clojure", "clojurescript", "clj", "cljs", "edn"],
+			"labels": ["linting", "minify", "prettify", "validation", "babashka", "clojure", "clojurescript", "clj", "cljs", "edn"],
 			"releases": [
 				{
 					"platforms": ["osx", "linux"],
@@ -2118,7 +2118,7 @@
 		{
 			"name": "Pretty JSON",
 			"details": "https://github.com/dzhibas/SublimePrettyJson",
-			"labels": ["linting", "minify", "prettify", "validate", "query", "json", "json2xml"],
+			"labels": ["linting", "minify", "prettify", "validation", "query", "json", "json2xml"],
 			"releases": [
 				{
 					"sublime_text": "<4000",

@@ -576,7 +576,7 @@
 		{
 			"name": "Kusto Syntax Highlighter",
 			"details": "https://github.com/mmanela/kusto-sublime",
-			"labels": ["language syntax", "kusto", "azure data explorer"],
+			"labels": ["language syntax", "kusto", "azure"],
 			"releases": [
 				{
 					"sublime_text": "*",

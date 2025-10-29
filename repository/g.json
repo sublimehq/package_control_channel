@@ -1450,7 +1450,7 @@
 			"name": "Googler",
 			"author": "ashishg-qburst",
 			"details": "https://github.com/ashishg-qburst/googler",
-			"labels": ["google", "google-search"],
+			"labels": ["google", "search"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1513,16 +1513,6 @@
 					"sublime_text": "*",
 					"platforms": ["*"],
 					"tags": true
-				}
-			]
-		},
-		{
-			"details": "https://github.com/DisposaBoy/GoSublime",
-			"labels": ["language syntax", "go"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": "unsupported-"
 				}
 			]
 		},

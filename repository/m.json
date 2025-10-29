@@ -329,7 +329,7 @@
 		},
 		{
 			"name": "Mandoc",
-			"details": "https://github.com/ISSOtm/sublime-mandoc",
+			"details": "https://codeberg.org/ISSOtm/sublime-mandoc",
 			"labels": ["language syntax", "mandoc", "man", "man page"],
 			"releases": [
 				{
@@ -352,7 +352,7 @@
 		{
 			"name": "MantisBT",
 			"details": "https://github.com/vboctor/sublime-mantisbt",
-			"labels": ["mantis", "mantisbt", "bugtracker", "mantis bug tracker"],
+			"labels": ["mantis", "mantisbt", "bugtracker"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -374,7 +374,7 @@
 		{
 			"name": "Maperitive",
 			"details": "https://github.com/klangfarbe/sublime-maperitive",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "gis", "osm", "openstreetmap"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -677,7 +677,7 @@
 		{
 			"name": "MarkdownWriter",
 			"details": "https://github.com/vanleo2001/MarkdownWriter",
-			"labels": ["markdown", "convert html to markdown"],
+			"labels": ["markdown", "html", "converting"],
 			"releases": [
 				{
 					"sublime_text": ">=3118",
@@ -1098,6 +1098,19 @@
 			"releases": [
 				{
 					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "MCPHelper",
+			"description": "Connects to a local Model Context Protocol (MCP) server for AI-powered code generation, review, refactoring, and translation using OpenAI or Gemini.",
+			"author": "David Donohue",
+			"details": "https://github.com/sdirishguy/MCPHelperSublimePlugin",
+			"labels": ["mcp", "ai", "code-generation", "sublime-text"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -1558,7 +1571,7 @@
 			"name": "Minify",
 			"details": "https://github.com/tssajo/Minify",
 			"author": "tssajo",
-			"labels": ["minification"],
+			"labels": ["minify"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1570,7 +1583,7 @@
 			"name": "Minify on Save",
 			"details": "https://github.com/eltonvs/sublime-minify-on-save",
 			"author": "eltonvs",
-			"labels": ["automatization", "minification"],
+			"labels": ["automatization", "minify"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2511,7 +2524,7 @@
 		{
 			"name": "Multi line paste",
 			"details": "https://github.com/shuky19/MultiLinePaste",
-			"labels": ["paste multiline edit clipboard"],
+			"labels": ["text manipulation", "clipboard", "paste"],
 			"releases": [
 				{
 					"sublime_text": "*",

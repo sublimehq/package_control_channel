@@ -1418,7 +1418,7 @@
 		},
 		{
 			"name": "evscript",
-			"details": "https://github.com/ISSOtm/sublime-evscript",
+			"details": "https://codeberg.org/ISSOtm/sublime-evscript",
 			"labels": ["language syntax", "game boy", "rgbds"],
 			"releases": [
 				{

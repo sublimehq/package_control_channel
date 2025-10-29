@@ -840,7 +840,7 @@
 		},
 		{
 			"name": "Bison",
-			"details": "https://github.com/ISSOtm/sublime-Bison",
+			"details": "https://codeberg.org/ISSOtm/sublime-Bison",
 			"labels": ["bison", "language syntax", "yacc"],
 			"releases": [
 				{
@@ -1049,6 +1049,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Blueprint for GTK",
+			"details": "https://github.com/nbenitez/blueprint-gtk",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]

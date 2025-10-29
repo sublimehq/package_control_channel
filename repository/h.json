@@ -418,16 +418,6 @@
 			]
 		},
 		{
-			"name": "Hex to HSL Color Converter",
-			"details": "https://github.com/atadams/Hex-to-HSL-Color",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "Hex to Int Preview",
 			"details": "https://github.com/unknownuser88/hex2int",
 			"author": "David Bekoyan",
@@ -895,7 +885,7 @@
 		{
 			"name": "Hosts",
 			"details": "https://github.com/tijn/hosts.tmLanguage",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "hosts", "hostsfile"],
 			"author": ["tijn", "michaelblyons"],
 			"releases": [
 				{
@@ -907,7 +897,7 @@
 		{
 			"name": "HostsEdit",
 			"details": "https://github.com/martinssipenko/SublimeHostsEdit",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "hosts", "hostsfile"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1010,15 +1000,27 @@
 		{
 			"name": "HTML (C#)",
 			"details": "https://github.com/michaelblyons/SublimeSyntax-HTML-CSharp",
-			"labels": ["language syntax", "completions"],
+			"labels": ["language syntax", "completions", "snippets", ".net", "c#", "cshtml", "webforms", "razor"],
 			"releases": [
+				{
+					"sublime_text": "3000 - 3152",
+					"tags": "version/st3000/"
+				},
 				{
 					"sublime_text": "3153 - 4133",
 					"tags": "version/st3153/"
 				},
 				{
-					"sublime_text": ">=4134",
+					"sublime_text": "4134 - 4148",
 					"tags": "version/st4134/"
+				},
+				{
+					"sublime_text": "4149 - 4156",
+					"tags": "version/st4149/"
+				},
+				{
+					"sublime_text": ">=4157",
+					"tags": "version/st4157/"
 				}
 			]
 		},
@@ -1385,12 +1387,34 @@
 			]
 		},
 		{
+			"name": "Hypeon Color Scheme",
+			"details": "https://github.com/apehex/sublime-hypeon-scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "HyperClick",
 			"details": "https://github.com/aziz/SublimeHyperClick",
 			"labels": ["file navigation", "code navigation", "file open"],
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Hyperflask",
+			"details": "https://github.com/SublimeText/Hyperflask",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4152",
 					"tags": true
 				}
 			]

@@ -1,0 +1,16 @@
+name: Schema test
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  schema:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: packagecontrol/st-schema-reviewer-action@f0ed8819bd9058dfa9921e4a061a6a1b643339a2
+        with:
+          test_repositories: true

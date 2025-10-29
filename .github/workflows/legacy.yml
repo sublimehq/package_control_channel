@@ -1,11 +1,11 @@
-name: Package Review
+name: Legacy package review
 
 on:
   pull_request:
     types: [review_requested]
 
 jobs:
-  trigger-review:
+  legacy:
     if: github.event.requested_reviewer.id == 29230230
     runs-on: ubuntu-latest
     steps:

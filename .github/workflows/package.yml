@@ -1,0 +1,36 @@
+name: Package test
+
+on:
+  pull_request:
+  issue_comment:
+    types: [created]  # run when comment added with just "📦"
+
+jobs:
+  package:
+    if: ${{ github.event_name == 'pull_request' || (github.event_name == 'issue_comment' && github.event.issue.pull_request != null && github.event.comment.body == '📦') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: ${{ format('refs/pull/{0}/merge', github.event.pull_request.number || github.event.issue.number) }}
+
+      - id: get_pr
+        if: ${{ github.event_name == 'issue_comment' }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const pr = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.payload.issue.number
+            });
+            core.setOutput('base_sha', pr.data.base.sha);
+            core.setOutput('head_sha', pr.data.head.sha);
+
+      # latest version on simplify branch see #5
+      # https://github.com/packagecontrol/st-package-reviewer-action/pull/5
+      - uses: packagecontrol/st-package-reviewer-action@de58167cfca93775fcbf5061cce6e452b51ce7b6
+        with:
+          base-sha: ${{ github.event.pull_request.base.sha || steps.get_pr.outputs.base_sha }}
+          current-sha: ${{ github.event.pull_request.head.sha || steps.get_pr.outputs.head_sha }}

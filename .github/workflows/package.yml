@@ -3,11 +3,11 @@ name: Package test
 on:
   pull_request:
   issue_comment:
-    types: [created]  # run when comment added with just "📦"
+    types: [created]  # run when comment added with "📦"
 
 jobs:
   package:
-    if: ${{ github.event_name == 'pull_request' || (github.event_name == 'issue_comment' && github.event.issue.pull_request != null && github.event.comment.body == '📦') }}
+    if: ${{ github.event_name == 'pull_request' || (github.event_name == 'issue_comment' && github.event.issue.pull_request != null && contains(github.event.comment.body, '📦')) }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -36,7 +36,7 @@ jobs:
           current-sha: ${{ github.event.pull_request.head.sha || steps.get_pr.outputs.head_sha }}
   
   crawl_package:
-    if: ${{ github.event_name == 'pull_request' || (github.event_name == 'issue_comment' && github.event.issue.pull_request != null && github.event.comment.body == '📦') }}
+    if: ${{ github.event_name == 'pull_request' || (github.event_name == 'issue_comment' && github.event.issue.pull_request != null && contains(github.event.comment.body, '📦')) }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5

@@ -43,7 +43,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@8a7cf411772e870209a5e1d95aac6af94aa4648b
+        uses: kaste/st_package_reviewer/gh_action@568eea73a0277e1406271ca7180376c7a253e862
         with:
           pr: ${{ github.event.pull_request.html_url }}
           file: repository.json

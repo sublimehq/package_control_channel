@@ -2981,19 +2981,6 @@
 			]
 		},
 		{
-			"name": "Tortoise",
-			"author": "Will Bond (wbond)",
-			"details": "https://github.com/wbond/sublime_tortoise",
-			"labels": ["vcs", "svn", "hg", "git"],
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"platforms": ["windows"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "TortoiseGit Context Integration",
 			"details": "https://github.com/ses4j/tgit-st3",
 			"labels": ["git", "vcs", "tortoise"],

@@ -145,7 +145,7 @@
 			"name": "bracex",
 			"description": "Bracex creates arbitrary strings via brace expansion much like Bash's.",
 			"author": "facelessuser",
-			"issues": "https://github.com/facelessuser/sublime-bracex/issues",
+			"issues": "https://github.com/facelessuser/bracex/issues",
 			"releases": [
 				{
 					"base": "https://github.com/facelessuser/sublime-bracex",
@@ -373,7 +373,7 @@
 			"name": "coloraide",
 			"description": "A color library.",
 			"author": "facelessuser",
-			"issues": "https://github.com/facelessuser/sublime-coloraide/issues",
+			"issues": "https://github.com/facelessuser/coloraide/issues",
 			"releases": [
 				{
 					"base": "https://github.com/facelessuser/sublime-coloraide",
@@ -906,8 +906,8 @@
 		{
 			"name": "Markdown",
 			"description": "Python Markdown module",
-			"author": "facelessuser",
-			"issues": "https://github.com/facelessuser/sublime-markdown/issues",
+			"author": "waylan",
+			"issues": "https://github.com/Python-Markdown/markdown/issues",
 			"releases": [
 				{
 					"base": "https://github.com/facelessuser/sublime-markdown",
@@ -977,8 +977,13 @@
 			"releases": [
 				{
 					"base": "https://github.com/facelessuser/sublime-markdown-popups",
-					"python_versions": ["3.3", "3.8", "3.13"],
-					"tags": true
+					"python_versions": ["3.3", "3.8"],
+					"tags": "st3-"
+				},
+				{
+					"base": "https://github.com/facelessuser/sublime-markdown-popups",
+					"asset": "mdpopups-*-py3-none-any.whl",
+					"python_versions": ["3.13"]
 				}
 			]
 		},
@@ -1474,15 +1479,38 @@
 			]
 		},
 		{
-			"name": "pymdownx",
+			"name": "pymdown-extensions",
 			"description": "PyMdown Extensions for Python Markdown",
 			"author": "facelessuser",
-			"issues": "https://github.com/facelessuser/sublime-pymdownx/issues",
+			"issues": "https://github.com/facelessuser/pymdown-extensions/issues",
 			"releases": [
 				{
 					"base": "https://github.com/facelessuser/sublime-pymdownx",
-					"python_versions": ["3.3", "3.8", "3.13"],
-					"tags": true
+					"python_versions": ["3.3", "3.8"],
+					"tags": "st3-"
+				},
+				{
+					"base": "https://pypi.org/project/pymdown-extensions",
+					"asset": "pymdown_extensions-*-py3-none-any.whl",
+					"python_versions": ["3.13"]
+				}
+			]
+		},
+		{
+			"name": "pymdownx",
+			"description": "PyMdown Extensions for Python Markdown",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/pymdown-extensions/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-pymdownx",
+					"python_versions": ["3.3", "3.8"],
+					"tags": "st3-"
+				},
+				{
+					"base": "https://pypi.org/project/pymdown-extensions",
+					"asset": "pymdown_extensions-*-py3-none-any.whl",
+					"python_versions": ["3.13"]
 				}
 			]
 		},
@@ -1622,7 +1650,13 @@
 					"base": "https://pypi.org/project/pywinpty",
 					"asset": "pywinpty-0.5.7-cp${py_version}-cp${py_version}-win_amd64.whl",
 					"platforms": ["windows-x64"],
-					"python_versions": ["3.8", "3.13"]
+					"python_versions": ["3.8"]
+				},
+				{
+					"base": "https://pypi.org/project/pywinpty",
+					"asset": "pywinpty-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.13"]
 				}
 			]
 		},
@@ -2380,7 +2414,7 @@
 			"name": "wcmatch",
 			"description": "Python wcmatch module which provides enhanced file globbing and matching",
 			"author": "facelessuser",
-			"issues": "https://github.com/facelessuser/sublime-wcmatch/issues",
+			"issues": "https://github.com/facelessuser/wcmatch/issues",
 			"releases": [
 				{
 					"base": "https://github.com/facelessuser/sublime-wcmatch",

@@ -659,7 +659,7 @@
 			"labels": ["markdown", "preview", "build system"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 4200",
+					"sublime_text": "<=4200",
 					"tags": "st3-"
 				},
 				{

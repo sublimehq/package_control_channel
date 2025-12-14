@@ -144,8 +144,12 @@
 			"details": "https://github.com/facelessuser/EasyDiff",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -1654,8 +1658,12 @@
 			"details": "https://github.com/facelessuser/ExportHtml",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},

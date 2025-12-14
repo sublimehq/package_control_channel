@@ -469,8 +469,12 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -659,17 +663,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=3211",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "HIVE Log File",
-			"details": "https://github.com/digitalinblue/SublimeHIVELogHighlighter",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1019,8 +1012,12 @@
 					"tags": "version/st4149/"
 				},
 				{
-					"sublime_text": ">=4157",
+					"sublime_text": "4157 - 4200",
 					"tags": "version/st4157/"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "version/st4201/"
 				}
 			]
 		},
@@ -1466,6 +1463,17 @@
 		{
 			"name": "HypnotoadSVN",
 			"details": "https://github.com/m-hall/HypnotoadSVN",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Hyprlang",
+			"details": "https://github.com/0x000C0A71/hyprlang-sublime-syntax",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",

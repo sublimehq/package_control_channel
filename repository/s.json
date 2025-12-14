@@ -525,8 +525,12 @@
 			"details": "https://github.com/facelessuser/ScopeHunter",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -1095,8 +1099,12 @@
 			"details": "https://github.com/facelessuser/SerializedDataConverter",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -4707,8 +4715,12 @@
 			"details": "https://github.com/facelessuser/SubNotify",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},

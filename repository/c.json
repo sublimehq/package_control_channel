@@ -704,6 +704,17 @@
 			]
 		},
 		{
+			"name": "ChannelRepositoryTools",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/ChannelRepositoryTools",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ChapelLang",
 			"details": "https://github.com/acrosby/sublimetext-chapel",
 			"labels": ["language syntax"],
@@ -2722,8 +2733,16 @@
 			"details": "https://github.com/facelessuser/ColorHelper",
 			"releases": [
 				{
-					"sublime_text": ">=3170",
+					"sublime_text": "3170 - 3999",
+					"tags": "st3a-"
+				},
+				{
+					"sublime_text": "4000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},

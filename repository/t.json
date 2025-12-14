@@ -179,8 +179,12 @@
 			"details": "https://github.com/facelessuser/TabsExtra",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -1444,17 +1448,6 @@
 			]
 		},
 		{
-			"name": "Theme - Fox",
-			"details": "https://github.com/karelvuong/st-fox",
-			"labels": ["color scheme", "theme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Theme - Freesia",
 			"details": "https://github.com/nilium/st-theme-freesia",
 			"labels": ["theme"],
@@ -2084,6 +2077,17 @@
 			]
 		},
 		{
+			"name": "Theme - Timeless",
+			"details": "https://github.com/iccir/Timeless-Theme",
+			"labels": ["theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Theme - Toxin",
 			"details": "https://github.com/p3lim/sublime-toxin",
 			"labels": ["theme", "color scheme"],
@@ -2185,8 +2189,12 @@
 			"details": "https://github.com/facelessuser/ThemeScheduler",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -2194,8 +2202,12 @@
 			"details": "https://github.com/facelessuser/ThemeTweaker",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -2563,6 +2575,17 @@
 			"name": "TodoReview",
 			"details": "https://github.com/jonathanrdelgado/SublimeTodoReview",
 			"labels": ["todo", "search", "review", "comments", "tasks"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "TodoTxt",
+			"details": "https://github.com/overflowy/todotxt",
+			"labels": ["todotxt", "language syntax", "todo", "tasks", "task manager"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2953,6 +2976,19 @@
 			"releases": [
 				{
 					"sublime_text": ">=3084",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Tortoise",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/sublime_tortoise",
+			"labels": ["vcs", "svn", "hg", "git"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"platforms": ["windows"],
 					"tags": true
 				}
 			]

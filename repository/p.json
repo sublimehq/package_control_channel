@@ -56,18 +56,6 @@
 			]
 		},
 		{
-			"name": "Package Coverage",
-			"author": "Will Bond (wbond)",
-			"details": "https://github.com/codexns/package_coverage",
-			"labels": ["testing"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Package Control",
 			"author": ["Will Bond (wbond)", "DeathAxe"],
 			"details": "https://github.com/sublimehq/package_control",
@@ -76,6 +64,18 @@
 			"releases": [
 				{
 					"sublime_text": ">=3143",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Package Coverage",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/codexns/package_coverage",
+			"labels": ["testing"],
+			"releases": [
+				{
+					"sublime_text": "*",
 					"tags": true
 				}
 			]

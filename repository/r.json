@@ -1508,8 +1508,8 @@
 			"previous_names": ["Ribosome Syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
-					"tags": true
+					"asset": "*.sublime-package",
+					"sublime_text": ">=3092"
 				}
 			]
 		},

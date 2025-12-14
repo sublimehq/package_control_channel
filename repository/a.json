@@ -548,6 +548,19 @@
 				}
 			]
 		},
+		{	
+			"name": "AiComplete",
+			"description": "Auto code completion using Gemini API",
+			"author": "Chinmay Agarwal",
+			"details": "https://gitlab.com/chinag32/AiComplete",
+			"labels": ["completions", "auto-complete","gemini","ai"],
+			"releases": [
+				{
+					"sublime_text": ">=4143",
+					"tags": true
+				}
+			]
+		},
 		{
 			"name": "Aizu Online Judge",
 			"details": "https://github.com/shibainurou/SublimeAizuOnlineJudge",
@@ -1607,8 +1620,12 @@
 			"details": "https://github.com/facelessuser/ApplySyntax",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},

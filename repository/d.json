@@ -1780,16 +1780,6 @@
 			]
 		},
 		{
-			"name": "DrupalContribSearch",
-			"details": "https://github.com/seregatte/DrupalContribSearch",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "DrupalSearch",
 			"details": "https://github.com/thamanameexusa/DrupalSearch",
 			"author": "Purushoṭhaman",

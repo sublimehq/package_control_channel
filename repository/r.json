@@ -421,8 +421,12 @@
 			"details": "https://github.com/facelessuser/RawLineEdit",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -946,6 +950,18 @@
 			]
 		},
 		{
+			"name": "RegexLab",
+			"previous_names": ["RegexPortfolio"],
+			"details": "https://github.com/KaminoU/RegexLab",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RegExLink",
 			"details": "https://github.com/antonioriva/RegExLink",
 			"labels": ["utilities"],
@@ -980,8 +996,12 @@
 			"details": "https://github.com/facelessuser/RegReplace",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
@@ -2149,16 +2169,6 @@
 				{
 					"sublime_text": ">=3080",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "RuboCop",
-			"details": "https://github.com/pderichs/sublime_rubocop",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
 				}
 			]
 		},

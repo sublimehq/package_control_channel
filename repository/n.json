@@ -752,6 +752,17 @@
 			]
 		},
 		{
+			"name": "Nilesoft Shell Script",
+			"details": "https://github.com/abdalmoniem/Nilesoft-Shell-Script",
+			"labels": ["language syntax", "nilesoft shell", "nss"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Nim",
 			"details": "https://github.com/nim-lang/NimLime",
 			"labels": ["language syntax", "snippets", "nim"],

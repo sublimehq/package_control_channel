@@ -679,17 +679,6 @@
 			]
 		},
 		{
-			"name": "LC2200 Assembly",
-			"details": "https://github.com/driazati/lc2200-sublime",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "LC3 Assembly",
 			"details": "https://github.com/mcgunslinger/Sublime-LC3",
 			"labels": ["language syntax"],
@@ -960,17 +949,6 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
-				}
-			]
-		},
-		{
-			"name": "Libraries from CDN",
-			"details": "https://github.com/narendrans/sublime-cdn-lib-snippets",
-			"labels": ["snippets"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
 				}
 			]
 		},

@@ -184,17 +184,6 @@
 			]
 		},
 		{
-			"name": "VDP Logs",
-			"details": "https://github.com/narendrans/sublime-vdp-logs",
-			"labels": ["language syntax","vdp","denodo"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Veeam Logs Helper",
 			"details": "https://github.com/yandexx/VeeamLogsHelper",
 			"labels": ["language syntax"],

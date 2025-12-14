@@ -219,21 +219,6 @@
 			]
 		},
 		{
-			"name": "Yollama",
-			"description": "Use AI from the comfort of Sublime Text to auto-complete code or chat with LLMs.",
-			"details": "https://gitlab.com/mwwaa/yollama",
-			"readme": "https://gitlab.com/mwwaa/yollama/-/raw/main/README.md",
-			"labels": ["auto-complete", "ai", "assistant"],
-			"author": "mwa",
-			"homepage": "https://gitlab.com/mwwaa/yollama",
-			"releases": [
-				{
-					"sublime_text": ">=4107",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Yosys",
 			"details": "https://github.com/YosysHQ/Sublime-Yosys",
 			"labels": ["language syntax"],

@@ -842,18 +842,6 @@
 			]
 		},
 		{
-			"name": "InsertDate",
-			"description": "Insert the current date/time according to given formatting or timezone",
-			"labels": ["text manipulation"],
-			"details": "https://github.com/FichteFoll/InsertDate",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": "v"
-				}
-			]
-		},
-		{
 			"name": "Inspired GitHub Color Scheme",
 			"details": "https://github.com/sethlopezme/InspiredGitHub.tmtheme",
 			"labels": ["color scheme"],

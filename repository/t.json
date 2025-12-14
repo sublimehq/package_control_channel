@@ -40,23 +40,6 @@
 		},
 		{
 			"name": "Table Editor",
-			"details": "https://github.com/vkocubinsky/SublimeTableEditor",
-			"donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CBL373WUKNTZW",
-			"author": "Valery Kocubinsky (vkocubinsky)",
-			"labels": ["text manipulation", "emacs org mode", "markdown", "pandoc", "reStructuredText", "textile"],
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "st2"
-				},
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Table Editor",
 			"author": ["Valery Kocubinsky (vkocubinsky)"],
 			"details": "https://github.com/SublimeText/TableEditor",
 			"labels": ["markdown", "textile", "restructuredtext", "pandoc", "emacs org mode"],

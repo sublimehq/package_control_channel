@@ -319,17 +319,6 @@
 			]
 		},
 		{
-			"name": "QuickRulers",
-			"description": "Easy access to the \"rulers\" setting",
-			"details": "https://github.com/FichteFoll/QuickRulers",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": "v"
-				}
-			]
-		},
-		{
 			"name": "QuickSearchEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-quick-search-enhanced",
 			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",

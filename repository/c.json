@@ -4373,22 +4373,8 @@
 			"details": "https://github.com/csscomb/sublime-csscomb",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
-					"tags": true
-				},
-				{
-					"sublime_text": "<3000",
-					"tags": "st2-v"
-				}
-			]
-		},
-		{
-			"name": "CSScomb",
-			"details": "https://github.com/csscomb/sublime-csscomb",
-			"releases": [
-				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

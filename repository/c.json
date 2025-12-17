@@ -1205,6 +1205,16 @@
 			]
 		},
 		{
+			"name": "CiscoSyntax BadWifi",
+			"details": "https://github.com/badwifi/CiscoSyntax-Badwifi-Sublime-syntax",
+			"releases": [
+				{
+				"sublime_text": ">=3000",
+				"tags": true
+				}
+			]
+		},
+		{
 			"name": "CiteBibtex",
 			"details": "https://github.com/sjpfenninger/citebibtex",
 			"releases": [

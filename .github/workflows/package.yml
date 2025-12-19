@@ -5,13 +5,6 @@ on:
   issue_comment:
     types: [created]  # run when comment added with "📦"
 
-env:
-  GITHUB_TOKEN: ${{ github.token }}
-
-permissions:
-  contents: read
-  pull-requests: write
-
 jobs:
   # run package test on pull request event (but not on drafts)
   package:
@@ -22,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@7dd94a9f77ab03d7a7a412ae88132076c66cf5ff
+        uses: kaste/st_package_reviewer/gh_action@c31b4581d84e7481c38ba0552cf9b7bfb4178b87
         with:
           pr: ${{ github.event.pull_request.html_url }}
           file: repository.json
@@ -36,7 +29,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@7dd94a9f77ab03d7a7a412ae88132076c66cf5ff
+        uses: kaste/st_package_reviewer/gh_action@c31b4581d84e7481c38ba0552cf9b7bfb4178b87
         with:
           pr: ${{ github.event.issue.pull_request.html_url }}
           file: repository.json

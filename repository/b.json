@@ -1460,6 +1460,17 @@
 			]
 		},
 		{
+			"name": "Breadcrumb Panel",
+			"details": "https://github.com/sarev/sublime-breadcrumb-panel",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BreakLines",
 			"details": "https://github.com/Moojuiceman/BreakLines",
 			"labels": ["break", "group", "split", "separate", "lines"],

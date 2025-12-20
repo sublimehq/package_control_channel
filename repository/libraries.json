@@ -99,9 +99,9 @@
 		},
 		{
 			"name": "beautifulsoup4",
-			"description": "Beautiful Soup is a Python library for pulling data out of HTML and XML files - https://www.crummy.com/software/BeautifulSoup/",
+			"description": "Beautiful Soup is a Python library for pulling data out of HTML and XML files - https://www.crummy.com/software/BeautifulSoup",
 			"author": "Leonard Richardson",
-			"issues": "https://bugs.launchpad.net/beautifulsoup/",
+			"issues": "https://bugs.launchpad.net/beautifulsoup",
 			"releases": [
 				{
 					"base": "https://pypi.org/project/beautifulsoup4",
@@ -187,19 +187,6 @@
 			]
 		},
 		{
-			"name": "channelmanager",
-			"description": "Manages packages installed as git submodules",
-			"author": "evandrocoan",
-			"issues": "https://github.com/evandrocoan/channelmanager/issues",
-			"releases": [
-				{
-					"base": "https://github.com/evandrocoan/channelmanager",
-					"python_versions": ["3.3", "3.8", "3.13"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "cffi",
 			"description": "Foreign Function Interface for Python calling C code.",
 			"author": "python-cffi",
@@ -234,6 +221,19 @@
 					"asset": "cffi-*-cp${py_version}-cp${py_version}-win_amd64.whl",
 					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13"]
+				}
+			]
+		},
+		{
+			"name": "channelmanager",
+			"description": "Manages packages installed as git submodules",
+			"author": "evandrocoan",
+			"issues": "https://github.com/evandrocoan/channelmanager/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandrocoan/channelmanager",
+					"python_versions": ["3.3", "3.8", "3.13"],
+					"tags": true
 				}
 			]
 		},
@@ -350,19 +350,19 @@
 			"issues": "https://github.com/hexedtech/codemp/issues",
 			"releases": [
 				{
-					"base": "https://pypi.org/project/codemp/",
+					"base": "https://pypi.org/project/codemp",
 					"asset": "codemp-*-cp${py_version}-none-win_amd64.whl",
 					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13"]
 				},
 				{
-					"base": "https://pypi.org/project/codemp/",
+					"base": "https://pypi.org/project/codemp",
 					"asset": "codemp-*-cp${py_version}-abi3-manylinux_*_x86_64.whl",
 					"platforms": ["linux-x64"],
 					"python_versions": ["3.8", "3.13"]
 				},
 				{
-					"base": "https://pypi.org/project/codemp/",
+					"base": "https://pypi.org/project/codemp",
 					"asset": "codemp-*-cp${py_version}-abi3-macosx_*_arm64.whl",
 					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13"]
@@ -491,44 +491,6 @@
 					"platforms": ["linux-x32", "linux-x64"],
 					"python_versions": ["3.3"],
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "pycryptodome",
-			"description": "PyCryptodome is a self-contained Python package of low-level cryptographic primitives.",
-			"author": "Legrandin",
-			"issues": "https://github.com/Legrandin/pycryptodome/issues",
-			"releases": [
-				{
-					"base": "https://pypi.org/project/pycryptodome",
-					"asset": "pycryptodome-*-cp37-abi3-manylinux_*_aarch64.whl",
-					"platforms": ["linux-arm64"],
-					"python_versions": ["3.8", "3.13"]
-				},
-				{
-					"base": "https://pypi.org/project/pycryptodome",
-					"asset": "pycryptodome-*-cp37-abi3-manylinux_*_x86_64.whl",
-					"platforms": ["linux-x64"],
-					"python_versions": ["3.8", "3.13"]
-				},
-				{
-					"base": "https://pypi.org/project/pycryptodome",
-					"asset": "pycryptodome-*-cp37-abi3-macosx_*_universal2.whl",
-					"platforms": ["osx-arm64"],
-					"python_versions": ["3.8", "3.13"]
-				},
-				{
-					"base": "https://pypi.org/project/pycryptodome",
-					"asset": "pycryptodome-*-cp37-abi3-macosx_*_x86_64.whl",
-					"platforms": ["osx-x64"],
-					"python_versions": ["3.8", "3.13"]
-				},
-				{
-					"base": "https://pypi.org/project/pycryptodome",
-					"asset": "pycryptodome-*-cp37-abi3-win_amd64.whl",
-					"platforms": ["windows-x64"],
-					"python_versions": ["3.8", "3.13"]
 				}
 			]
 		},
@@ -766,37 +728,37 @@
 			"issues": "https://github.com/yaroslavyaroslav/llm_runner/issues",
 			"releases": [
 				{
-					"base": "https://pypi.org/project/llm-runner/",
+					"base": "https://pypi.org/project/llm-runner",
 					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
 					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13"]
 				},
 				{
-					"base": "https://pypi.org/project/llm-runner/",
+					"base": "https://pypi.org/project/llm-runner",
 					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
 					"platforms": ["osx-x64"],
 					"python_versions": ["3.8", "3.13"]
 				},
 				{
-					"base": "https://pypi.org/project/llm-runner/",
+					"base": "https://pypi.org/project/llm-runner",
 					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-manylinux*_aarch64.whl",
 					"platforms": ["linux-arm64"],
 					"python_versions": ["3.8", "3.13"]
 				},
 				{
-					"base": "https://pypi.org/project/llm-runner/",
+					"base": "https://pypi.org/project/llm-runner",
 					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-manylinux*_x86_64.whl",
 					"platforms": ["linux-x64"],
 					"python_versions": ["3.8", "3.13"]
 				},
 				{
-					"base": "https://pypi.org/project/llm-runner/",
+					"base": "https://pypi.org/project/llm-runner",
 					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-win32.whl",
 					"platforms": ["windows-x32"],
 					"python_versions": ["3.8", "3.13"]
 				},
 				{
-					"base": "https://pypi.org/project/llm-runner/",
+					"base": "https://pypi.org/project/llm-runner",
 					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-win_amd64.whl",
 					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13"]
@@ -977,6 +939,7 @@
 			"releases": [
 				{
 					"base": "https://github.com/facelessuser/sublime-markdown-popups",
+					"asset": "mdpopups-*-py3-none-any.whl",
 					"python_versions": ["3.3", "3.8"],
 					"tags": "st3-"
 				},
@@ -1194,13 +1157,13 @@
 		{
 			"name": "pathlib",
 			"description": "Python pathlib module",
-			"author": "FichteFoll",
-			"issues": "https://github.com/packagecontrol/pathlib/issues",
+			"author": "antoine",
+			"issues": "https://github.com/jazzband/pathlib2",
 			"releases": [
 				{
-					"base": "https://github.com/packagecontrol/pathlib",
-					"python_versions": ["3.3"],
-					"tags": true
+					"base": "https://pypi.org/project/pathlib",
+					"asset": "pathlib-*-py3-none-any.whl",
+					"python_versions": ["3.3"]
 				}
 			]
 		},
@@ -1346,19 +1309,14 @@
 		},
 		{
 			"name": "ptyprocess",
-			"description": "Python ptyprocess module",
-			"author": "randy3k",
-			"issues": "https://github.com/packagecontrol/ptyprocess/issues",
+			"description": "Launch a subprocess in a pseudo terminal (pty), and interact with both the process and its pty.",
+			"author": ["luyer", "Red_M", "takowl"],
+			"issues": "https://github.com/pexpect/ptyprocess/issues",
 			"releases": [
-				{
-					"base": "https://github.com/packagecontrol/ptyprocess",
-					"python_versions": ["3.3"],
-					"tags": true
-				},
 				{
 					"base": "https://pypi.org/project/ptyprocess",
 					"asset": "ptyprocess-*-py2.py3-none-any.whl",
-					"python_versions": ["3.8", "3.13"]
+					"python_versions": ["3.3", "3.8", "3.13"]
 				}
 			]
 		},
@@ -1378,7 +1336,7 @@
 		},
 		{
 			"name": "PyCrypto",
-			"description": "Python Cryptography Toolkit - https://www.dlitz.net/software/pycrypto/",
+			"description": "Python Cryptography Toolkit - https://www.dlitz.net/software/pycrypto",
 			"author": "jlegewie",
 			"issues": "https://github.com/jlegewie/sublime-PyCrypto/issues",
 			"releases": [
@@ -1386,6 +1344,44 @@
 					"base": "https://github.com/jlegewie/sublime-PyCrypto",
 					"python_versions": ["3.3"],
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pycryptodome",
+			"description": "PyCryptodome is a self-contained Python package of low-level cryptographic primitives.",
+			"author": "Legrandin",
+			"issues": "https://github.com/Legrandin/pycryptodome/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13"]
 				}
 			]
 		},
@@ -1466,15 +1462,14 @@
 			"issues": "https://github.com/packagecontrol/pygments/issues",
 			"releases": [
 				{
-					"base": "https://github.com/packagecontrol/pygments",
-					"python_versions": ["3.3"],
-					"tags": true
+					"base": "https://pypi.org/project/pygments",
+					"asset": "Pygments-*-py3-none-any.whl",
+					"python_versions": ["3.3"]
 				},
 				{
 					"base": "https://pypi.org/project/pygments",
 					"asset": "pygments-*-py3-none-any.whl",
-					"python_versions": ["3.8", "3.13"],
-					"tags": true
+					"python_versions": ["3.8", "3.13"]
 				}
 			]
 		},
@@ -1855,7 +1850,7 @@
 			"name": "ruamel.yaml.clib",
 			"description": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml",
 			"author": "Anthon van der Neut",
-			"issues": "https://sourceforge.net/p/ruamel-yaml-clib/tickets/",
+			"issues": "https://sourceforge.net/p/ruamel-yaml-clib/tickets",
 			"releases": [
 				{
 					"platforms": ["windows-x32"],
@@ -1964,14 +1959,14 @@
 		},
 		{
 			"name": "six",
-			"description": "Python six library https://github.com/benjaminp/six",
-			"author": "jcoc611",
-			"issues": "https://github.com/packagecontrol/sublime-six/issues",
+			"description": "Six is a Python 2 and 3 compatibility library.",
+			"author": "Benjamin Peterson",
+			"issues": "https://github.com/benjaminp/six/issues",
 			"releases": [
 				{
-					"base": "https://github.com/packagecontrol/sublime-six",
-					"python_versions": ["3.3", "3.8", "3.13"],
-					"tags": true
+					"base": "https://pypi.org/project/six",
+					"asset": "six-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13"]
 				}
 			]
 		},
@@ -2071,26 +2066,13 @@
 		{
 			"name": "tabulate",
 			"description": "Python tabulate module",
-			"author": "csch0",
-			"issues": "https://github.com/packagecontrol/tabulate/issues",
+			"author": "Sergey",
+			"issues": "https://github.com/astanin/python-tabulate/issues",
 			"releases": [
 				{
-					"base": "https://github.com/packagecontrol/tabulate",
-					"python_versions": ["3.3", "3.8", "3.13"],
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "TM1py",
-			"description": "Python module for interfacing with IBM TM1 Planning Analytics",
-			"author": "MariusWirtz",
-			"issues": "https://github.com/ajmyers/TM1py/issues",
-			"releases": [
-				{
-					"base": "https://github.com/ajmyers/TM1py",
-					"python_versions": ["3.3"],
-					"tags": true
+					"base": "https://pypi.org/project/tabulate",
+					"asset": "tabulate-*-py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13"]
 				}
 			]
 		},
@@ -2129,6 +2111,19 @@
 					"asset": "tiktoken-*-cp${py_version}-cp${py_version}-win_amd64.whl",
 					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13"]
+				}
+			]
+		},
+		{
+			"name": "TM1py",
+			"description": "Python module for interfacing with IBM TM1 Planning Analytics",
+			"author": "MariusWirtz",
+			"issues": "https://github.com/ajmyers/TM1py/issues",
+			"releases": [
+				{
+					"base": "https://github.com/ajmyers/TM1py",
+					"python_versions": ["3.3"],
+					"tags": true
 				}
 			]
 		},
@@ -2435,13 +2430,26 @@
 			"issues": "https://github.com/packagecontrol/wcwidth/issues",
 			"releases": [
 				{
-					"base": "https://github.com/packagecontrol/wcwidth",
-					"python_versions": ["3.3"],
-					"tags": true
-				},
-				{
 					"base": "https://pypi.org/project/wcwidth",
 					"asset": "wcwidth-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13"]
+				}
+			]
+		},
+		{
+			"name": "websocket-client",
+			"description": "WebSocket client for Python with low level API options",
+			"author": "liris",
+			"issues": "https://github.com/websocket-client/websocket-client/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/websocket-client",
+					"asset": "websocket_client-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/websocket-client",
+					"asset": "websocket_client-*-py3-none-any.whl",
 					"python_versions": ["3.8", "3.13"]
 				}
 			]
@@ -2480,24 +2488,6 @@
 					"platforms": ["osx-arm64"],
 					"base": "https://pypi.org/project/websockets",
 					"asset": "websockets-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
-					"python_versions": ["3.8", "3.13"]
-				}
-			]
-		},
-		{
-			"name": "websocket-client",
-			"description": "WebSocket client for Python with low level API options",
-			"author": "liris",
-			"issues": "https://github.com/websocket-client/websocket-client/issues",
-			"releases": [
-				{
-					"base": "https://pypi.org/project/websocket-client",
-					"asset": "websocket_client-*-py2.py3-none-any.whl",
-					"python_versions": ["3.3"]
-				},
-				{
-					"base": "https://pypi.org/project/websocket-client",
-					"asset": "websocket_client-*-py3-none-any.whl",
 					"python_versions": ["3.8", "3.13"]
 				}
 			]

@@ -825,6 +825,17 @@
 			]
 		},
 		{
+			"name": "Insert Markdown Hyperlink",
+			"details": "https://github.com/noahcoad/SublimeInsertMarkdownHyperlink",
+			"labels": ["markdown", "hyperlink", "url", "link"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Insert Nums",
 			"author": ["jbrooksuk", "FichteFoll"],
 			"details": "https://github.com/SublimeText/InsertNums",

@@ -7,7 +7,6 @@
 			"details": "https://github.com/NicoSantangelo/sublime-text-i18n-rails",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -18,7 +17,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -29,7 +27,6 @@
 			"labels": ["markup", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -40,7 +37,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -51,7 +47,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -62,7 +57,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -73,7 +67,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -84,7 +77,6 @@
 			"labels": ["snippets", "icon_fonts", "fonts"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -95,7 +87,6 @@
 			"labels": ["snippets", "icon_fonts", "fonts"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -105,7 +96,6 @@
 			"details": "https://github.com/badprint/ST-iconFont-snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -115,7 +105,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -126,7 +115,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -137,7 +125,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -159,7 +146,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -171,7 +157,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -182,7 +167,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -192,7 +176,6 @@
 			"details": "https://github.com/everyonesdesign/IgnoreErrorUnableToOpenFile",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -203,7 +186,6 @@
 			"labels": ["javascript", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -214,7 +196,6 @@
 			"labels": ["language syntax", "snippets", "julia", "ijulia"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -236,7 +217,6 @@
 			"labels": ["image manipulation", "base64", "image", "converting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -246,7 +226,6 @@
 			"details": "https://github.com/kawasako/sublime-plugin-Image2tag",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": "osx",
 					"tags": true
 				}
@@ -258,7 +237,6 @@
 			"author": "Ilya Kulakov",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -269,7 +247,6 @@
 			"author": "robinchenyu",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms":["windows", "linux"],
 					"tags": true
 				}
@@ -294,7 +271,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -305,7 +281,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -315,7 +290,6 @@
 			"details": "https://github.com/chikatoike/IMESupport",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": "windows",
 					"branch": "master"
 				}
@@ -326,7 +300,6 @@
 			"details": "https://github.com/fisker/img-placeholder",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -337,7 +310,6 @@
 			"labels": ["completions", "css", "html"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -348,7 +320,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -359,7 +330,6 @@
 			"labels": ["js", "npm", "webpack", "import-cost"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "windows"],
 					"tags": true
 				}
@@ -380,7 +350,6 @@
 			"details": "https://github.com/unlight/sublime-import-helper",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -390,7 +359,6 @@
 			"details": "https://github.com/Galooshi/sublime-import-js",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": "*",
 					"tags": true
 				}
@@ -401,7 +369,6 @@
 			"details": "https://github.com/skuroda/ImprovedMacros",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -411,7 +378,6 @@
 			"labels": ["language syntax", "sql"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -421,7 +387,6 @@
 			"details": "https://bitbucket.org/luisillo/imsiencoder",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -431,7 +396,6 @@
 			"details": "https://github.com/zhongxingdou/IMSwitchForVintage-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx"],
 					"tags": true
 				}
@@ -444,7 +408,6 @@
 			"labels": ["color scheme manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -455,7 +418,6 @@
 			"author": "Razumenko Maksim",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -465,7 +427,6 @@
 			"details": "https://github.com/pieterverstraete/include_autocomplete",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -477,7 +438,6 @@
 			"labels": ["extension", "convert", "txt", "doc", "docx", "xlsx", "pdf", "epub"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -488,7 +448,6 @@
 			"author": "cgjosephlee",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -498,7 +457,6 @@
 			"details": "https://github.com/yulanggong/IncrementSelection",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -519,7 +477,6 @@
 			"details": "https://github.com/born2c0de/Incrementor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -532,7 +489,6 @@
 			"labels": ["text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -544,7 +500,6 @@
 			"labels": ["sort", "indent"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -555,7 +510,6 @@
 			"labels": ["indent", "tab", "size"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -566,7 +520,6 @@
 			"labels": ["indent", "align", "parenthesis", "bracket"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -576,7 +529,6 @@
 			"details": "https://github.com/alek-sys/sublimetext_indentxml",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -587,7 +539,6 @@
 			"labels": ["indent", "tab", "size", "settings"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -599,7 +550,6 @@
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -610,7 +560,6 @@
 			"labels": ["convert", "converting", "formatting", "indent", "language syntax", "scope"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -622,7 +571,6 @@
 			"releases": [
 				{
 					"platforms": "*",
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -633,7 +581,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["*"],
 					"tags": true
 				}
@@ -645,7 +592,6 @@
 			"labels": ["convert", "converting", "formatting", "indent", "json", "xml", "yaml"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -656,7 +602,6 @@
 			"labels": ["theme", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -666,7 +611,6 @@
 			"details": "https://github.com/Infinidat/sublime-infinidat",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -677,7 +621,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -688,7 +631,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -699,7 +641,6 @@
 			"labels": ["automation", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -719,7 +660,6 @@
 			"details": "https://github.com/apiad/Sublime-InlinePython",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -755,7 +695,6 @@
 			"labels": ["input", "arguments", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -768,7 +707,6 @@
 			"labels": ["text input", "input method", "ibus", "linux"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -780,7 +718,6 @@
 			"labels": ["language syntax", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -791,7 +728,6 @@
 			"labels": ["snippets", "text manipulation", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -802,7 +738,6 @@
 			"labels": ["latex", "math", "markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -814,7 +749,6 @@
 			"labels": ["automation", "utilities", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -825,7 +759,6 @@
 			"labels": ["formatting", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -836,7 +769,6 @@
 			"labels": ["text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -847,7 +779,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -857,7 +788,6 @@
 			"details": "https://github.com/lindskogen/InstacodeSublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -868,7 +798,6 @@
 			"labels": ["language syntax", "hexadecimal"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -880,7 +809,6 @@
 			"author":"Taiwo Kareem",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -891,7 +819,6 @@
 			"labels": ["auto-complete", "completions", "help", "hint", "php", "python"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -934,7 +861,6 @@
 			"details": "https://github.com/ichichikin/sublime-plugin-interactivity",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -944,7 +870,6 @@
 			"details": "https://bitbucket.org/hxss/internationalkeymap",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -954,7 +879,6 @@
 			"details": "https://github.com/krasun/SublimeInternetSearch",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -965,7 +889,6 @@
 			"labels": ["color scheme", "colour scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -976,7 +899,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -987,7 +909,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1009,7 +930,6 @@
 			"labels": ["text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1020,7 +940,6 @@
 			"labels": ["formatting", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1031,7 +950,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1042,7 +960,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1053,7 +970,6 @@
 			"labels": ["auto-complete", "completions", "snippets", "markup", "ionic"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1065,7 +981,6 @@
 			"author":"Matheus Cardoso",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1075,7 +990,6 @@
 			"details": "https://github.com/imsingh/ionic-sublime-plugin",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1086,7 +1000,6 @@
 			"labels": ["snippets", "markup"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1097,7 +1010,6 @@
 			"labels": ["emacs", "file open", "open path"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1119,7 +1031,6 @@
 			"details": "https://github.com/vovayatsyuk/sublime-ip-address",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1131,7 +1042,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1142,7 +1052,6 @@
 			"labels": ["language syntax", "markup"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1153,7 +1062,6 @@
 			"labels": ["formatting", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1164,7 +1072,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1174,7 +1081,6 @@
 			"details": "https://github.com/interlegis/sublime_ipython_pick",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1185,7 +1091,6 @@
 			"labels": ["irc"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1196,7 +1101,6 @@
 			"labels": ["language syntax", "irc"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1207,7 +1111,6 @@
 			"labels": ["color scheme", "colour scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1218,7 +1121,6 @@
 			"labels": ["snippets", "meteor", "router", "iron router"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1229,7 +1131,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1240,7 +1141,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1250,7 +1150,6 @@
 			"details": "https://github.com/guilhermeleobas/IrView",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1261,7 +1160,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1271,7 +1169,6 @@
 			"details": "https://github.com/asfaltboy/sublime-text-isort-plugin",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1281,7 +1178,6 @@
 			"details": "https://github.com/rimvaliulin/isorted",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1292,7 +1188,6 @@
 			"author": "Avtandil Kikabidze",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1303,7 +1198,6 @@
 			"releases": [
 				{
 					"platforms": "osx",
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1314,7 +1208,6 @@
 			"releases": [
 				{
 					"platforms": "*",
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

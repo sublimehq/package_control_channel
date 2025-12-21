@@ -7,7 +7,6 @@
 			"details": "https://github.com/huaxiaolong/Yaf-Completions",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -18,7 +17,6 @@
 			"labels": ["language syntax", "yaml"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -29,7 +27,6 @@
 			"labels": ["language syntax", "yaml"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -40,7 +37,6 @@
 			"labels": ["convert", "converter", "yaml", "json"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -51,7 +47,6 @@
 			"labels": ["translate", "yandex"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -62,7 +57,6 @@
 			"labels": ["yandex", "wiki", "language syntax", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -73,7 +67,6 @@
 			"labels": ["language syntax", "yang"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -94,7 +87,6 @@
 			"details": "https://bitbucket.org/fappelman/yardgen",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -104,7 +96,6 @@
 			"details": "https://github.com/revathskumar/sublime-yardoc",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -115,7 +106,6 @@
 			"labels": ["formatting", "indent", "lisp"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -126,7 +116,6 @@
 			"labels": ["formatting", "language syntax", "yasm", "jinja2", "yandex"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -137,7 +126,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -148,7 +136,6 @@
 			"labels": ["auto-complete", "linting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -159,7 +146,6 @@
 			"labels": ["utilities", "file open", "productivity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -170,7 +156,6 @@
 			"labels": ["search"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -181,7 +166,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -192,7 +176,6 @@
 			"labels": ["auto-complete"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -203,7 +186,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -214,7 +196,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -225,7 +206,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -236,7 +216,6 @@
 			"labels": ["auto-complete", "linting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -247,7 +226,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -258,7 +236,6 @@
 			"labels": ["language syntax", "preview"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

@@ -8,7 +8,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -19,7 +18,6 @@
 			"labels": ["macro", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -30,7 +28,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -43,7 +40,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -67,7 +63,6 @@
 			"labels": ["markdown", "preview", "editor", "macdown.app"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx"],
 					"tags": true
 				}
@@ -79,7 +74,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -89,7 +83,6 @@
 			"details": "https://github.com/bigcakes/Macroptimize",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -100,7 +93,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -111,7 +103,6 @@
 			"labels": ["magento", "frontend", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -122,7 +113,6 @@
 			"labels": ["snippets", "magento", "frontend"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -133,7 +123,6 @@
 			"labels": ["magento", "magento automation", "docker magento", "magento cache clean"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -145,7 +134,6 @@
 			"labels": ["magento", "magerun", "commands"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -157,7 +145,6 @@
 			"labels": ["text manipulation", "ruby", "frozen string"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -167,7 +154,6 @@
 			"details": "https://github.com/daryltucker/MagiclessQuotes",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -189,7 +175,6 @@
 			"labels": ["magento", "php templates", "boilerplate"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -200,7 +185,6 @@
 			"labels": ["language syntax", "magma"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -211,7 +195,6 @@
 			"labels": ["snippets", "magma"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -222,7 +205,6 @@
 			"labels": ["language syntax", "magpie"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -233,7 +215,6 @@
 			"labels": ["color scheme", "dark", "dlang", "d"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -244,7 +225,6 @@
 			"labels": ["snippets", "makefile"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -254,7 +234,6 @@
 			"details": "https://github.com/gillibrand/MakeBookmarklet",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -265,7 +244,6 @@
 			"labels": ["chmod", "permissions"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["linux", "osx"],
 					"tags": true
 				}
@@ -277,7 +255,6 @@
 			"details": "https://github.com/Altomare/sublime-makefile-plus",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -288,7 +265,6 @@
 			"labels": ["build system", "nsis"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -299,7 +275,6 @@
 			"labels": ["make", "makefile", "target", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["*"],
 					"tags": true
 				}
@@ -311,7 +286,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -322,7 +296,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -333,7 +306,6 @@
 			"labels": ["language syntax", "mandoc", "man", "man page"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -344,7 +316,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -355,7 +326,6 @@
 			"labels": ["mantis", "mantisbt", "bugtracker"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -366,7 +336,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -377,7 +346,6 @@
 			"labels": ["language syntax", "gis", "osm", "openstreetmap"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -398,7 +366,6 @@
 			"details": "https://github.com/doneill/MapPreview",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -409,7 +376,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -430,7 +396,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -452,7 +417,6 @@
 			"labels": ["markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -463,7 +427,6 @@
 			"labels": ["markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -474,7 +437,6 @@
 			"labels": ["language syntax", "markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -485,7 +447,6 @@
 			"labels": ["markdown", "preview", "build system", "html"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -495,7 +456,6 @@
 			"details": "https://github.com/xsleonard/sublime-MarkdownImages",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -506,7 +466,6 @@
 			"labels": ["markdown", "headers", "numbered headers"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -516,7 +475,6 @@
 			"details": "https://github.com/ogom/sublimetext-markdown-slideshow",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -527,7 +485,6 @@
 			"labels": ["markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -549,7 +506,6 @@
 			"details": "https://github.com/zhimiaoli/Sublime.Markdown2Clipboard",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -570,7 +526,6 @@
 			"details": "https://github.com/kenspirit/MarkdownCodeBlockWrapper",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -581,7 +536,6 @@
 			"labels": ["markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -616,7 +570,6 @@
 			"labels": ["markdown", "academic markdown", "footnote", "multimarkdown", "insert", "automate"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -626,7 +579,6 @@
 			"labels": ["language syntax", "markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -637,7 +589,6 @@
 			"labels": ["markdown", "links", "urls"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -648,7 +599,6 @@
 			"labels": ["markdown", "preview"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -673,7 +623,6 @@
 			"labels": ["markdown", "toc", "table of contents"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -696,7 +645,6 @@
 			"labels": ["markdown", "preview", "build system", "marked.app"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -706,7 +654,6 @@
 			"details": "https://github.com/Harurow/sublime_markingchangedrows",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -717,7 +664,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -727,7 +673,6 @@
 			"details": "https://github.com/yyjhao/sublime-text-markmon",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -738,7 +683,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -749,7 +693,6 @@
 			"labels": ["search", "find", "mark"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -772,7 +715,6 @@
 			"details": "https://github.com/42iscool42/MCC",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags":true
 				}
 			]
@@ -783,7 +725,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -793,7 +734,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -803,7 +743,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -814,7 +753,6 @@
 			"labels": ["file navigation", "search"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -825,7 +763,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -837,7 +774,6 @@
 			"author": "Aliaksandr Radzevich",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -849,7 +785,6 @@
 			"author": "Arindam Pradhan",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": "*",
 					"tags": true
 				}
@@ -861,7 +796,6 @@
 			"labels": ["color scheme", "material design", "monokai"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -873,7 +807,6 @@
 			"author": "Avtandil Kikabidze aka LONGMAN",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -896,7 +829,6 @@
 			"labels": ["theme", "color scheme", "material"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -907,7 +839,6 @@
 			"labels": ["theme", "color scheme", "material"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -918,7 +849,6 @@
 			"labels": ["theme", "color scheme", "material"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -929,7 +859,6 @@
 			"labels": ["snippets", "css", "materialized", "material"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -942,7 +871,6 @@
 			"labels": ["auto-complete", "snippets", "component", "material", "react"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -953,7 +881,6 @@
 			"labels": ["language syntax", "documentation", "notes"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -964,7 +891,6 @@
 			"labels": ["language syntax", "mathml"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -975,7 +901,6 @@
 			"labels": ["auto-complete", "completions", "matlab"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -985,7 +910,6 @@
 			"labels": ["auto-complete", "matlab"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -995,7 +919,6 @@
 			"details": "https://github.com/wangchao0502/MatrixList-Snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1005,7 +928,6 @@
 			"details": "https://github.com/rubberneck/sublime-mattermost-post",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1016,7 +938,6 @@
 			"labels": ["maude", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1026,7 +947,6 @@
 			"details": "https://github.com/nlloyd/SublimeMaven",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "sublime3"
 				}
 			]
@@ -1035,7 +955,6 @@
 			"details": "https://github.com/jisaacks/MaxPane",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1045,7 +964,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1056,7 +974,6 @@
 			"labels": ["utilities", "file navigation", "window management"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1067,7 +984,6 @@
 			"labels": ["auto-complete", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1079,7 +995,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1090,7 +1005,6 @@
 			"labels": ["language syntax", "minecraft"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1125,7 +1039,6 @@
 			"labels": ["language syntax", "mcs", "xilinx", "fpga"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1136,7 +1049,6 @@
 			"labels" : ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1147,7 +1059,6 @@
 			"labels": ["doc", "documentation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1181,7 +1092,6 @@
 			"labels": ["media"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1191,7 +1101,6 @@
 			"labels": ["wiki editor", "mediawiki", "wikipedia editor", "wikipedia", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1216,7 +1125,6 @@
 			"details": "https://github.com/timiyay/MelbourneIpsum",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1227,7 +1135,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1237,7 +1144,6 @@
 			"details": "https://github.com/mem-dev/st_plugin",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1257,7 +1163,6 @@
 			"details": "https://github.com/max-mykhailenko/memTask",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1268,7 +1173,6 @@
 			"labels": ["vcs", "hg"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1279,7 +1183,6 @@
 			"donate": "http://pjdietz.com/say-thanks/",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1300,7 +1203,6 @@
 			],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1310,7 +1212,6 @@
 			"details": "https://github.com/cynddl/sublime-text-merlin",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1347,7 +1248,6 @@
 			"labels": ["linting", "tool execution"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -1359,7 +1259,6 @@
 			"labels": ["linting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -1371,7 +1270,6 @@
 			"labels": ["build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -1383,7 +1281,6 @@
 			"labels": ["text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx"],
 					"tags": true
 				}
@@ -1394,7 +1291,6 @@
 			"details": "https://github.com/IlanFrumer/mql4compiler",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1405,7 +1301,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1415,7 +1310,6 @@
 			"details": "https://github.com/slava/tern-meteor-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1425,7 +1319,6 @@
 			"details": "https://github.com/qualialabs/reval-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1435,7 +1328,6 @@
 			"details": "https://github.com/mrtnbroder/meteor-snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1447,7 +1339,6 @@
 			"labels": ["sublime-enhanced", "text navigation", "text selection", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1458,7 +1349,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1469,7 +1359,6 @@
 			"labels": ["build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1480,7 +1369,6 @@
 			"labels": ["micropython"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1491,7 +1379,6 @@
 			"labels": ["language syntax", "query", "excel", "powerbi", "microsoft", "ms"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags":true
 				}
 			]
@@ -1502,7 +1389,6 @@
 			"labels": ["mika", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1513,7 +1399,6 @@
 			"labels": ["mcore", "miking", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1524,7 +1409,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1535,7 +1419,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags" : true
 				}
 			]
@@ -1546,7 +1429,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1556,7 +1438,6 @@
 			"details": "https://github.com/destruc7i0n/SublimeMinecraftCommandFormat",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1566,7 +1447,6 @@
 			"details": "https://github.com/bistory/Sublime-Minifier",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1578,7 +1458,6 @@
 			"labels": ["minify"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1590,7 +1469,6 @@
 			"labels": ["automatization", "minify"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1602,7 +1480,6 @@
 			"labels": ["theme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1612,7 +1489,6 @@
 			"labels": ["language syntax", "fortran"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1623,7 +1499,6 @@
 			"labels": ["minipy", "inline", "engine", "parser"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1635,7 +1510,6 @@
 			"labels": ["miniscript", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1646,7 +1520,6 @@
 			"labels": ["file navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1658,7 +1531,6 @@
 			"labels": ["minizinc", "language syntax", "mzn", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1668,7 +1540,6 @@
 			"details": "https://github.com/Stubbs/sublime-minkextension",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1679,7 +1550,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1690,7 +1560,6 @@
 			"labels": ["theme", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1701,7 +1570,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1713,7 +1581,6 @@
 			"author": "Evan Greene",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1724,7 +1591,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1734,7 +1600,6 @@
 			"details": "https://github.com/fjl/Sublime-Missing-Palette-Commands",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "st3"
 				}
 			]
@@ -1745,7 +1610,6 @@
 			"labels": ["search"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1756,7 +1620,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1767,7 +1630,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1778,7 +1640,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1789,7 +1650,6 @@
 			"labels": ["auto-complete", "snippets", "javascript", "mithril"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1801,7 +1661,6 @@
 			"labels": ["auto-complete", "formatting", "language syntax", "snippets", "miva", "mvt", "mivascript", "miva script"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1812,7 +1671,6 @@
 			"labels": ["language syntax", "miva script", "miva"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1823,7 +1681,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1834,7 +1691,6 @@
 			"labels": ["auto-complete", "color scheme", "formatting", "language syntax", "linting", "mkb", "minecraft"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1845,7 +1701,6 @@
 			"labels": ["language syntax", "mlfi", "csml"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1856,7 +1711,6 @@
 			"labels": ["snippets", "mobilecaddy", "salesforce"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1867,7 +1721,6 @@
 			"labels": ["language syntax", "formatting", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1878,7 +1731,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1889,7 +1741,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1900,7 +1751,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1911,7 +1761,6 @@
 			"labels": ["language syntax", "snippets", "modelica"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1922,7 +1771,6 @@
 			"labels": ["language syntax", "fortran"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1933,7 +1781,6 @@
 			"labels": ["language syntax", "todo"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1942,7 +1789,6 @@
 			"details": "https://github.com/gornostal/Modific",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1953,7 +1799,6 @@
 			"labels": ["auto complete", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1964,7 +1809,6 @@
 			"labels": ["snippets", "language strings", "placeholders", "resource fields", "system settings"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1974,7 +1818,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1995,7 +1838,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2006,7 +1848,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2017,7 +1858,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2028,7 +1868,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2038,7 +1877,6 @@
 			"details": "https://github.com/kioyong/Mongo-Aggregate-Snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2048,7 +1886,6 @@
 			"details": "https://github.com/Kristories/Sublime-Mongo-PHP",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2058,7 +1895,6 @@
 			"details": "https://github.com/aChatir/MongoExec",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2069,7 +1905,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2080,7 +1915,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2091,7 +1925,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2102,7 +1935,6 @@
 			"labels": ["color scheme", "monochrome", "amber", "green", "blueprint"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2113,7 +1945,6 @@
 			"labels": ["monokai", "cyanide", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2124,7 +1955,6 @@
 			"labels": ["monokai", "spacegray", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2135,7 +1965,6 @@
 			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2146,7 +1975,6 @@
 			"labels": ["monokai", "dark", "color scheme", "seti_ui"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2156,7 +1984,6 @@
 			"details": "https://github.com/jonschlinkert/sublime-monokai-extended",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2167,7 +1994,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2178,7 +2004,6 @@
 			"labels": ["monokai", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2189,7 +2014,6 @@
 			"labels": ["monokai", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2212,7 +2036,6 @@
 			"labels": ["monokai", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2223,7 +2046,6 @@
 			"labels": ["monokai", "color scheme", "markdown", "preview"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2248,7 +2070,6 @@
 			"details": "https://github.com/dannielarriola/moodle-completions",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2281,7 +2102,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2292,7 +2112,6 @@
 			"labels": ["theme", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2303,7 +2122,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2315,7 +2133,6 @@
 			"labels": ["layout"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2326,7 +2143,6 @@
 			"labels": ["completions", "python"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2336,7 +2152,6 @@
 			"details": "https://github.com/hippasus/SublimeMorse",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2346,7 +2161,6 @@
 			"details": "https://github.com/foundation/foundation-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2356,7 +2170,6 @@
 			"details": "https://github.com/matthewkapfhammer/MotionBuilderSublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["windows", "linux"],
 					"tags": true
 				}
@@ -2366,7 +2179,6 @@
 			"details": "https://github.com/SublimeText/MouseEventListener",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2376,7 +2188,6 @@
 			"details": "https://github.com/xsleonard/sublime-MoveByParagraph",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2387,7 +2198,6 @@
 			"labels": ["code navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2397,7 +2207,6 @@
 			"details": "https://github.com/Finnerale/Sublime-MoveHalfPages",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2420,7 +2229,6 @@
 			"details": "https://github.com/saadq/MozillaQuery",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2430,7 +2238,6 @@
 			"details": "https://github.com/RachitKansal/sublime-Mp3Player",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["linux", "windows"],
 					"tags": true
 				}
@@ -2441,7 +2248,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2452,7 +2258,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2462,7 +2267,6 @@
 			"details": "https://github.com/tisto/MrIgor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"branch": "master"
 				}
@@ -2475,7 +2279,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2486,7 +2289,6 @@
 			"labels": ["auto-complete", "build system", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2498,7 +2300,6 @@
 			"labels": ["build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["windows"],
 					"tags": true
 				}
@@ -2510,7 +2311,6 @@
 			"labels": ["language syntax", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2520,7 +2320,6 @@
 			"details": "https://github.com/hoanglan87/mthuy-local-sync",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2531,7 +2330,6 @@
 			"labels": ["text manipulation", "clipboard", "paste"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2541,7 +2339,6 @@
 			"details": "https://github.com/jasongornall/sublime-alphabetizer",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2551,7 +2348,6 @@
 			"details": "https://github.com/shwk86/multiAlign",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2562,7 +2358,6 @@
 			"labels": ["japanese"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2573,7 +2368,6 @@
 			"labels": ["keybinding"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2584,7 +2378,6 @@
 			"labels": ["text manipulation", "code navigation", "text selection"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2594,7 +2387,6 @@
 			"details": "https://github.com/Lellansin/MultiFill",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2605,7 +2397,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2616,7 +2407,6 @@
 			"labels": ["cursors manipulation", "text navigation", "text selection"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2627,7 +2417,6 @@
 			"labels": ["color scheme", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2638,7 +2427,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2649,7 +2437,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2675,7 +2462,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2685,7 +2471,6 @@
 			"details": "https://github.com/steveosoule/MvtAssignIt",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2695,7 +2480,6 @@
 			"details": "https://github.com/erikgassler/My-Snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2705,7 +2489,6 @@
 			"details": "https://github.com/ionutvmi/SublimeMybbTplEditor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2716,7 +2499,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -2745,7 +2527,6 @@
 			"labels": ["ftp", "sftp", "ssh", "free", "open source"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -2756,7 +2537,6 @@
 			"labels": ["snippets", "mysql", "sql"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

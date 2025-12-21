@@ -8,7 +8,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -19,7 +18,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -30,7 +28,6 @@
 			"labels": ["jade", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -41,7 +38,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -52,7 +48,6 @@
 			"labels": ["auto-complete", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -63,7 +58,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -74,7 +68,6 @@
 			"labels": ["jam", "language syntax", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -85,7 +78,6 @@
 			"labels": ["jamf", "log", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -96,7 +88,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -107,7 +98,6 @@
 			"labels": ["janet", "language syntax", "build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -117,7 +107,6 @@
 			"details": "https://github.com/ngr-t/SublimeJapaneseWordJump",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -128,7 +117,6 @@
 			"labels": ["japanese", "separator"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -152,7 +140,6 @@
 			"details": "https://github.com/woodmix/JapanWordStop",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["windows", "linux"],
 					"tags": true
 				}
@@ -164,7 +151,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -175,7 +161,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -187,7 +172,6 @@
 			"previous_names": ["jasmine", "jasmine bdd"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -198,7 +182,6 @@
 			"labels": ["snippets", "testing", "javascript", "jasmine", "es6", "es2015"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -209,7 +192,6 @@
 			"labels": ["snippets", "testing", "javascript", "jasmine"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -220,7 +202,6 @@
 			"labels": ["testing", "jasmine", "javascript", "outline", "overview", "structure"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -231,7 +212,6 @@
 			"labels": ["snippets", "testing", "angular", "jasmine", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -242,7 +222,6 @@
 			"labels": ["testing", "jasmine", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -253,7 +232,6 @@
 			"labels": ["language syntax", "java", "bytecode"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -263,7 +241,6 @@
 			"details": "https://github.com/sivakumar-kailasam/jprop-cleaner-sb3",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -274,7 +251,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -285,7 +261,6 @@
 			"labels": ["auto-complete", "completions", "snippets", "java"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -295,7 +270,6 @@
 			"details": "https://github.com/MDeiml/SublimeJavaImports",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -316,7 +290,6 @@
 			"labels": ["javascript", "coffeescript", "js2coffee", "nodejs", "compile", "run"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -327,7 +300,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -337,7 +309,6 @@
 			"details": "https://github.com/enginespot/js-beautify-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -348,7 +319,6 @@
 			"labels": ["completions", "javascript", "javascript completions"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -359,7 +329,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -381,7 +350,6 @@
 			"labels": ["snippets", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -392,7 +360,6 @@
 			"labels": ["completions", "snippets", "es6", "es7", "javascript", "react"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -403,7 +370,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -413,7 +379,6 @@
 			"details": "https://github.com/s-a/sublime-text-refactor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -425,7 +390,6 @@
 			"labels": ["javascript", "scratchpad"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -436,7 +400,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -447,7 +410,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -480,7 +442,6 @@
 			"labels": ["auto-complete", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -491,7 +452,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -502,7 +462,6 @@
 			"labels": ["javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -513,7 +472,6 @@
 			"labels": ["build system", "java"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -524,7 +482,6 @@
 			"labels": ["auto-complete", "snippets", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -536,7 +493,6 @@
 			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -547,7 +503,6 @@
 			"labels": ["debugger", "java", "jdb"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -557,7 +512,6 @@
 			"details": "https://github.com/pnfsoftware/jeb_scriptdev_helper",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -568,7 +522,6 @@
 			"labels": ["auto-complete", "code navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -589,7 +542,6 @@
 			"details": "https://github.com/webtechnick/sublime_jedit_theme",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -600,7 +552,6 @@
 			"labels": ["auto-complete", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -611,7 +562,6 @@
 			"labels": ["auto-complete", "build system", "file creation", "file navigation", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -632,7 +582,6 @@
 			"details": "https://github.com/benmatselby/sublime-jenkins-dashboard",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -642,7 +591,6 @@
 			"details": "https://github.com/june07/sublime-Jenkinsfile",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -653,7 +601,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -664,7 +611,6 @@
 			"labels": ["javascript", "jest", "testing", "tdd"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -676,7 +622,6 @@
 			"author": "Johny Georges",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -686,7 +631,6 @@
 			"details": "https://github.com/Jimbly/SublimeClipboardHistory",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -720,7 +664,6 @@
 			"labels": ["atlassian", "jira"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -732,7 +675,6 @@
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -744,7 +686,6 @@
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -756,7 +697,6 @@
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -768,7 +708,6 @@
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -779,7 +718,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -790,7 +728,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -802,7 +739,6 @@
 			"labels": ["interactive", "jq", "json"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -813,7 +749,6 @@
 			"labels": ["language syntax", "jq", "stedolan"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -822,7 +757,6 @@
 			"details": "https://github.com/SublimeText/jQuery",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -833,7 +767,6 @@
 			"labels": ["jquery mobile"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -844,7 +777,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -855,7 +787,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -866,7 +797,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -878,7 +808,6 @@
 			"labels": ["jquery"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -889,7 +818,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -900,7 +828,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -922,7 +849,6 @@
 			"labels": ["formatting", "text manipulation", "js", "javascript", "var", "variable"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -932,7 +858,6 @@
 			"details": "https://github.com/aziz/sublime-js2coffee",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -942,7 +867,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -952,7 +876,6 @@
 			"details": "https://github.com/TheSavior/SublimeJSCSFormatter",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -978,7 +901,6 @@
 			"labels": ["javascript", "debug"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -988,7 +910,6 @@
 			"details": "https://github.com/rDr4g0n/JsDebuggr",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -998,7 +919,6 @@
 			"details": "https://github.com/ionutvmi/sublime-jsfmt",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1007,7 +927,6 @@
 			"details": "https://github.com/jdavisclark/JsFormat",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1017,7 +936,6 @@
 			"details": "https://github.com/uipoet/sublime-jshint",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1027,7 +945,6 @@
 			"details": "https://github.com/victorporof/Sublime-JSHint",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1040,7 +957,6 @@
 			"labels": ["linting"],
 			"releases" : [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1051,7 +967,6 @@
 			"labels": ["auto-complete"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1061,7 +976,6 @@
 			"details": "https://github.com/breakside/sublime-jskit",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1072,7 +986,6 @@
 			"labels": ["linting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1083,7 +996,6 @@
 			"labels": ["jsml"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1094,7 +1006,6 @@
 			"labels": ["javascript", "convert", "cjs", "es6"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1105,7 +1016,6 @@
 			"labels": ["code navigation", "color scheme", "formatting", "language syntax", "json"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1116,7 +1026,6 @@
 			"labels": ["language syntax", "json"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1126,7 +1035,6 @@
 			"details": "https://github.com/alex18881/JsonL18nResourcesEditor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["*"],
 					"tags": true
 				}
@@ -1137,7 +1045,6 @@
 			"details": "https://github.com/ThomasKliszowski/json_reindent",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1147,7 +1054,6 @@
 			"details": "https://github.com/Nadock/json_stringify",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1162,7 +1068,6 @@
 			],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1173,7 +1078,6 @@
 			"labels": ["json", "apex", "salesforce", "code generation", "json to apex"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1184,7 +1088,6 @@
 			"labels": ["formatting", "text manipulation", "json"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1195,7 +1098,6 @@
 			"labels": ["json", "python", "formatting", "prettify"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1205,7 +1107,6 @@
 			"labels": ["linting", "json"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1216,7 +1117,6 @@
 			"labels": ["jsonnet", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1227,7 +1127,6 @@
 			"labels": ["json", "tree", "search"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1238,7 +1137,6 @@
 			"labels": ["formatting", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1249,7 +1147,6 @@
 			"labels": ["browser integration", "repl", "javascript", "browser"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": "osx",
 					"tags": true
 				}
@@ -1261,7 +1158,6 @@
 			"labels": ["formatting", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1272,7 +1168,6 @@
 			"labels": ["auto-complete", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1283,7 +1178,6 @@
 			"labels": ["language syntax", "jstl", "jsp"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1294,7 +1188,6 @@
 			"labels": ["javascript", "js", "linting", "validation", "esprima"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1331,7 +1224,6 @@
 			"labels": ["text navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1341,7 +1233,6 @@
 			"details": "https://github.com/Mister7F/sublime-jumper",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			],
@@ -1356,7 +1247,6 @@
 			"author": ["JonasPf", "FichteFoll"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1366,7 +1256,6 @@
 			"details": "https://github.com/jgburet/jumpy-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1377,7 +1266,6 @@
 			"labels": ["completions", "java"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1388,7 +1276,6 @@
 			"labels": ["language syntax", "junlang"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1399,7 +1286,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1425,7 +1311,6 @@
 			"labels": ["formatting", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1435,7 +1320,6 @@
 			"details" : "https://github.com/Xiangjiaox/jwt-sublime-text",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1446,7 +1330,6 @@
 			"labels": ["build system", "editor emulation", "javascript", "open scripting architecture"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx"],
 					"tags": true
 				}

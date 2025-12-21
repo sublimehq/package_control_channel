@@ -8,7 +8,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -21,7 +20,6 @@
 			"labels": ["theme", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -32,7 +30,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -43,7 +40,6 @@
 			"labels" : ["competitive-programming","test","cp","web-scrapping","java","python","c++"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["windows"],
 					"tags": true
 				}
@@ -55,7 +51,6 @@
 			"labels": ["auto-complete", "php", "wordpress"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -66,7 +61,6 @@
 			"labels": ["auto-complete", "code generation", "completions", "utilities", "java"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -78,7 +72,6 @@
 			"labels": ["utilities", "file navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -89,7 +82,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -100,7 +92,6 @@
 			"labels": ["auto-complete", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -135,7 +126,6 @@
 			"labels": ["git", "commit", "push", "easy"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -158,7 +148,6 @@
 			"details": "https://github.com/bcostoff/EasyElement",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -169,7 +158,6 @@
 			"labels": ["file", "hider", "easy", "clean"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -179,7 +167,6 @@
 			"details": "https://github.com/tednaleid/sublime-EasyMotion",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "st3"
 				}
 			]
@@ -190,7 +177,6 @@
 			"labels": ["snippets", "text manipulation", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -199,7 +185,6 @@
 			"details": "https://github.com/Zinggi/EasySettings",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -210,7 +195,6 @@
 			"labels": ["win", "files", "path", "escape", "backslash"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -221,7 +205,6 @@
 			"labels": ["workspace", "files", "project"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -232,7 +215,6 @@
 			"labels": ["language syntax", "eazybi", "mdx"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -253,7 +235,6 @@
 			"details": "https://github.com/Monnoroch/EchoEvaluator",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -265,7 +246,6 @@
 			"labels": ["ecl", "hpcc", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -274,7 +254,6 @@
 			"details": "https://github.com/i-am-a-paull/EclipseJavaFormatter",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -296,7 +275,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -306,7 +284,6 @@
 			"details": "https://github.com/hudochenkov/ecsstractor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -317,7 +294,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -327,7 +303,6 @@
 			"details": "https://github.com/Metrakit/eddy-malou-lorem-ipsum",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -338,7 +313,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -373,7 +347,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -387,7 +360,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -398,7 +370,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -409,7 +380,6 @@
 			"labels": ["commands", "file navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -420,7 +390,6 @@
 			"author": "Borja Campina",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -430,7 +399,6 @@
 			"details": "https://github.com/sublimator/EditPreferences",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -443,7 +411,6 @@
 			"labels": ["snippets", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -454,7 +421,6 @@
 			"labels": ["language syntax", "code style", "formatting", "linting", "snippets", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -465,7 +431,6 @@
 			"labels": ["code style", "formatting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -476,7 +441,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -487,7 +451,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -498,7 +461,6 @@
 			"labels": ["color scheme", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -533,7 +495,6 @@
 			"details": "https://github.com/KunihikoKido/sublime-elasticsearch-client",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -542,7 +503,6 @@
 			"details": "https://github.com/SublimeText/ElasticTabstops",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -553,7 +513,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -564,7 +523,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -578,7 +536,6 @@
 			"releases": [
 				{
 					"base": "https://github.com/thinkv/sublime-elfinder",
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -589,7 +546,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -599,7 +555,6 @@
 			"details": "https://github.com/andresdominguez/elementor-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": "st3-"
 				}
 			]
@@ -610,7 +565,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -632,7 +586,6 @@
 			"labels": ["formatting", "elixir", "mix"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -642,7 +595,6 @@
 			"details": "https://github.com/gmcabrita/SublimeElixirPlayground",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -652,7 +604,6 @@
 			"details": "https://github.com/vishnevskiy/ElixirSublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -673,7 +624,6 @@
 			"details": "https://github.com/tarzan/sublime-text-elixir-tests",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -684,7 +634,6 @@
 			"labels": ["formatting", "elm"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -706,7 +655,6 @@
 			"labels": ["snippets", "elm"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -717,7 +665,6 @@
 			"labels": ["elm", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -728,7 +675,6 @@
 			"labels": ["eloquence","language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -739,7 +685,6 @@
 			"labels": ["snippets", "laravel", "eloquent"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -750,7 +695,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -760,7 +704,6 @@
 			"details": "https://github.com/sublime-emacs/sublemacspro",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -771,7 +714,6 @@
 			"labels": ["formatting", "text manipulation", "emacs"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -781,7 +723,6 @@
 			"details": "https://github.com/kvs/STEmacsModelines",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -793,7 +734,6 @@
 			"details": "https://github.com/13Cubed/EmailHeader",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -804,7 +744,6 @@
 			"labels": ["snippets", "ember", "cli", "seeds"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -815,7 +754,6 @@
 			"labels": ["ember", "sfc", "single-file", "language syntax", "handlebars", "glimmer"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -826,7 +764,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -837,7 +774,6 @@
 			"labels": ["language syntax", "javascript", "coffeescript", "emberjs"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -848,7 +784,6 @@
 			"labels": ["snippets", "javascript", "emberjs", "embercli", "ember"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -859,7 +794,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -872,7 +806,6 @@
 			"donate": "https://gratipay.com/mariozaizar/",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -884,7 +817,6 @@
 			"author": "Jacob Lee",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -895,7 +827,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -906,7 +837,6 @@
 			"author": "Ermes Enea Colella",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -917,7 +847,6 @@
 			"author": "Rostislav Nazmeev",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -927,7 +856,6 @@
 			"details": "https://github.com/ethanal/SublimeEmoji",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -949,7 +877,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -959,7 +886,6 @@
 			"details": "https://github.com/evilsocket/Sublime-Text-2-EmotiCODE-Plugin",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -970,7 +896,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -981,7 +906,6 @@
 			"labels": ["theme", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -991,7 +915,6 @@
 			"details": "https://github.com/Foxboron/SublimeClojure",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1002,7 +925,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1012,7 +934,6 @@
 			"details": "https://github.com/daytonn/EnhancedReadline",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1034,7 +955,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1044,7 +964,6 @@
 			"details": "https://github.com/kaelspencer/sublime-enlister",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1055,7 +974,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1066,7 +984,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1077,7 +994,6 @@
 			"labels": ["auto-complete"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1088,7 +1004,6 @@
 			"labels": ["environment", "project"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1099,7 +1014,6 @@
 			"labels": ["snippets", "eon"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1111,7 +1025,6 @@
 			"labels": ["linting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1122,7 +1035,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1132,7 +1044,6 @@
 			"details": "https://github.com/mycelo1/equalize",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1143,7 +1054,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1153,7 +1063,6 @@
 			"details": "https://github.com/aviflombaum/erato-markdown-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1164,7 +1073,6 @@
 			"labels": ["language syntax", "auto-complete", "erb"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1175,7 +1083,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1186,7 +1093,6 @@
 			"labels": ["erlang autocompletion"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1197,7 +1103,6 @@
 			"labels": ["documentation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -1209,7 +1114,6 @@
 			"labels": ["snippets", "precompiler", "es2015", "ecmascript6", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1221,7 +1125,6 @@
 			"author": "Jeanmichel Cote",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1233,7 +1136,6 @@
 			"labels": ["language syntax", "auto-complete", "build system", "color scheme", "tooltips"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1243,7 +1145,6 @@
 			"details": "https://github.com/piuccio/sublime-esformatter",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1254,7 +1155,6 @@
 			"labels": ["javascript", "linting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1264,7 +1164,6 @@
 			"details": "https://github.com/kufii/Sublime-ESLint-Fix",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1274,7 +1173,6 @@
 			"details": "https://github.com/TheSavior/ESLint-Formatter",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1285,7 +1183,6 @@
 			"labels": ["formatting", "javascript", "eslint", "autofix"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1296,7 +1193,6 @@
 			"labels":["snippets", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1306,7 +1202,6 @@
 			"details": "https://bitbucket.org/Cpsgames/sublime-3-esolua",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1317,7 +1212,6 @@
 			"labels":["build system", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -1329,7 +1223,6 @@
 			"labels": ["text manipulation", "text selection", "aggregation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1340,7 +1233,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1351,7 +1243,6 @@
 			"labels": ["language syntax", "solidity", "vyper", "smart contracts", "blockchain", "cairo", "starknet"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1361,7 +1252,6 @@
 			"details": "https://github.com/chevdor/EthereumSoliditySnippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1372,7 +1262,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1383,7 +1272,6 @@
 			"labels": ["evaluation", "javascript", "coffeescript", "python"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1393,7 +1281,6 @@
 			"details": "https://github.com/jbrooksuk/Sublime-Evaluate",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1404,7 +1291,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1415,7 +1301,6 @@
 			"labels": ["language syntax", "evernote", "markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1426,7 +1311,6 @@
 			"labels": ["language syntax", "game boy", "rgbds"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1438,7 +1322,6 @@
 			"labels": ["search", "text navigation", "text selection"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1449,7 +1332,6 @@
 			"labels": ["language syntax", "formatting", "validation", "xml", "html", "xslt"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx-x64", "linux-x64", "windows"],
 					"tags": true
 				}
@@ -1461,7 +1343,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1472,7 +1353,6 @@
 			"labels": ["project", "indexing", "exclude", "paths"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1482,7 +1362,6 @@
 			"details": "https://github.com/edankwan/Exec-Parser-Sublime-Plugin",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1515,7 +1394,6 @@
 			"details": "https://github.com/thosgood/STexercism",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1527,7 +1405,6 @@
 			"labels": ["cursors manipulation", "text manipulation", "text selection"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1538,7 +1415,6 @@
 			"labels": ["coding", "group", "expand"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1548,7 +1424,6 @@
 			"details": "https://github.com/gillibrand/expand-selection-to-function-js",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1561,7 +1436,6 @@
 			"releases": [
 				{
 					"platforms": "*",
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1571,7 +1445,6 @@
 			"details": "https://github.com/kek/sublime-expand-selection-to-quotes",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1582,7 +1455,6 @@
 			"labels": ["text selection", "text navigation", "editor emulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1593,7 +1465,6 @@
 			"labels": ["text indentation", "whitespace", "tabs"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1604,7 +1475,6 @@
 			"labels": ["expand", "macro", "expansion", "c", "c++"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -1616,7 +1486,6 @@
 			"labels": [ "snippets", "code navigation", "expand selection", "text selection"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1627,7 +1496,6 @@
 			"labels": ["expand", "selection", "comment"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1638,7 +1506,6 @@
 			"labels": ["expect.js", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1649,7 +1516,6 @@
 			"labels": ["formatting", "sql", "postgresql", "explain", "tools"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1673,7 +1539,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1684,7 +1549,6 @@
 			"labels": ["completions", "express", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1695,7 +1559,6 @@
 			"labels": ["auto-complete", "completions", "javascript", "nodejs"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1707,7 +1570,6 @@
 			"labels": ["sublime-enhanced", "text navigation", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1718,7 +1580,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1728,7 +1589,6 @@
 			"details": "https://github.com/lukewilkins/EE-Add-On-Builder",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1740,7 +1600,6 @@
 			"labels": ["text selection", "cursors manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1750,7 +1609,6 @@
 			"details": "https://github.com/rajeshvaya/Sublime-Extended-Tab-Switcher",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1760,7 +1618,6 @@
 			"details": "https://github.com/seblavoie/sublime-extendscript",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1771,7 +1628,6 @@
 			"labels": ["text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1782,7 +1638,6 @@
 			"labels": ["coding"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1805,7 +1660,6 @@
 			"labels": ["utilities", "commands"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1816,7 +1670,6 @@
 			"labels": ["snippets", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1826,7 +1679,6 @@
 			"details": "https://github.com/poma/sublime-extractlines",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1836,7 +1688,6 @@
 			"details": "https://github.com/SublimeText/ExtractSublimePackage",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -1846,7 +1697,6 @@
 			"details": "https://github.com/dreki/sublime-extract-to-file",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1856,7 +1706,6 @@
 			"details": "https://github.com/MohannadNaj/sublime-extract-to-blade",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1867,7 +1716,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -1878,7 +1726,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

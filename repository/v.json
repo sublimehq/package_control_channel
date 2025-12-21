@@ -8,7 +8,6 @@
 			"labels": ["language syntax", "v", "vlang"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -18,7 +17,6 @@
 			"details": "https://github.com/Stubbs/sublime-vagrant",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -29,7 +27,6 @@
 			"labels": ["language syntax", "vala"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -51,7 +48,6 @@
 			"labels": ["language syntax", "c", "c++", "valgrind"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -61,7 +57,6 @@
 			"details": "https://github.com/jarod2d/sublime_valign",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -72,7 +67,6 @@
 			"labels": ["snippets", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -83,7 +77,6 @@
 			"labels": ["color scheme", "vapor", "vaporwave"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -115,7 +108,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -126,7 +118,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -137,7 +128,6 @@
 			"labels": ["language syntax", "vb", "visual basic"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -147,7 +137,6 @@
 			"labels": ["language syntax", "vb", "visual basic"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -158,7 +147,6 @@
 			"labels": ["vcs", "git", "hg", "svn"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -169,7 +157,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -201,7 +188,6 @@
 			"details": "https://github.com/Starli0n/SublimeVerbose",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -211,7 +197,6 @@
 			"details": "https://github.com/sxr1223/VeribleFormatterVerilog",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -222,7 +207,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -232,7 +216,6 @@
 			"details": "https://github.com/Tian-Changsong/Verilog-Automatic",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -243,7 +226,6 @@
 			"labels": ["verilog"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -265,7 +247,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -275,7 +256,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -286,7 +266,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -297,7 +276,6 @@
 			"labels": ["language syntax", "snippets", "vhdl"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -319,7 +297,6 @@
 			"labels": ["bookmarks", "file navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -329,7 +306,6 @@
 			"details": "https://github.com/adampresley/sublime-view-in-browser",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -339,7 +315,6 @@
 			"details": "https://github.com/fsaad/Sublime-ViewSetting",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -349,7 +324,6 @@
 			"details": "https://github.com/demisx/sublime-vim-navigation",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -361,7 +335,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -373,7 +346,6 @@
 			"labels": ["formatting", "vim", "indentation", "modeline"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -384,7 +356,6 @@
 			"labels": ["vim"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -394,7 +365,6 @@
 			"details": "https://github.com/tonymagro/VintageEscape",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -405,7 +375,6 @@
 			"labels": [ "vintage", "line numbers" ],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -416,7 +385,6 @@
 			"author": "muffinmad",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -426,7 +394,6 @@
 			"details": "https://github.com/jcartledge/vintage-sublime-surround",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -438,7 +405,6 @@
 			"labels": ["vim", "kill ring"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -447,7 +413,6 @@
 			"details": "https://github.com/garyc40/Vintage-Origami",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -457,7 +422,6 @@
 			"details": "https://github.com/acarabott/VintageColor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -467,7 +431,6 @@
 			"details": "https://github.com/SublimeText/Vintage-Extended-Support",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -477,7 +440,6 @@
 			"details": "https://github.com/co-dh/VintageLines",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -486,7 +448,6 @@
 			"details": "https://github.com/guillermooo/Vintageous",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -496,7 +457,6 @@
 			"details": "https://github.com/rodcloutier/Vintageous-Origami",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -506,7 +466,6 @@
 			"details": "https://github.com/guillermooo/Vintageous_Plugin_Surround",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -517,7 +476,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -529,7 +487,6 @@
 			"labels": ["auto-complete", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -541,7 +498,6 @@
 			"labels": ["build system"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -554,7 +510,6 @@
 			"labels": ["vscode", "visual studio code"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -566,7 +521,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -577,7 +531,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -588,7 +541,6 @@
 			"author": "Vik Borges",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -600,7 +552,6 @@
 			"labels": ["auto-complete", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -611,7 +562,6 @@
 			"author": "Lance Shi",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -621,7 +571,6 @@
 			"details": "https://github.com/yvess/sublime_vm4docker",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -632,7 +581,6 @@
 			"details": "https://github.com/glmanhtu/VN_IME",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -642,7 +590,6 @@
 			"details": "https://github.com/VoiceCode/sublime-voicecode",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -654,7 +601,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -665,7 +611,6 @@
 			"labels": ["snippets", "voxa", "alexa", "skills", "echo"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -677,7 +622,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -688,7 +632,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -698,7 +641,6 @@
 			"details": "https://github.com/drew-wallace/VSCMT",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -708,7 +650,6 @@
 			"details": "https://github.com/acheronfail/VSCodeColumnSelection",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -718,7 +659,6 @@
 			"details": "https://github.com/ricardodantas/sublime-vtex-snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -728,7 +668,6 @@
 			"details": "https://github.com/Rodrigonavarro23/vtex-tags",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -763,7 +702,6 @@
 			"author": "keven",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -774,7 +712,6 @@
 			"labels": ["language syntax", "vue", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -785,7 +722,6 @@
 			"labels": ["snippets", "vue", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -796,7 +732,6 @@
 			"labels": ["snippets", "vue", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -808,7 +743,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -819,7 +753,6 @@
 			"author": "Zhaonan Li",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

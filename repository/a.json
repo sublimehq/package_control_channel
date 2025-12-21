@@ -478,7 +478,7 @@
 				}
 			]
 		},
-		{	
+		{
 			"name": "AiComplete",
 			"description": "Auto code completion using Gemini API",
 			"author": "Chinmay Agarwal",

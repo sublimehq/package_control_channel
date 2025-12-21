@@ -1183,13 +1183,14 @@
 			]
 		},
 		{
-			"name": "Cisco Syntax Highlighter",
-			"details": "https://github.com/tunnelsup/sublime-cisco-syntax",
+			"name": "Cisco",
+			"details": "https://github.com/mburknoe/CiscoSyntax-Badwifi-Sublime-syntax",
+			"previous_names": ["Cisco Syntax Highlighter"],
 			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

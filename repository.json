@@ -15,6 +15,7 @@
 		"./repository/j.json",
 		"./repository/k.json",
 		"./repository/l.json",
+		"./repository/libraries.json",
 		"./repository/m.json",
 		"./repository/n.json",
 		"./repository/o.json",
@@ -28,7 +29,6 @@
 		"./repository/w.json",
 		"./repository/x.json",
 		"./repository/y.json",
-		"./repository/z.json",
-		"./repository/libraries.json"
+		"./repository/z.json"
 	]
 }

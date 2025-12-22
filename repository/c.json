@@ -2544,7 +2544,7 @@
 		{
 			"name": "ColorPicker",
 			"details": "https://github.com/weslly/ColorPicker",
-			"homepage": "http://weslly.github.io/ColorPicker/",
+			"homepage": "https://weslly.github.io/ColorPicker/",
 			"author": "Weslly H.",
 			"labels": ["css"],
 			"releases": [

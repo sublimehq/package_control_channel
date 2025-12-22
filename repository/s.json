@@ -322,7 +322,7 @@
 		{
 			"name": "ScalaFormat",
 			"details": "https://github.com/timonwong/ScalaFormat",
-			"homepage": "http://timonwong.github.io/ScalaFormat/",
+			"homepage": "https://timonwong.github.io/ScalaFormat/",
 			"author": "timonwong",
 			"labels": ["formatting", "scala"],
 			"releases": [
@@ -3979,7 +3979,7 @@
 		{
 			"name": "SublimeAStyleFormatter",
 			"details": "https://github.com/timonwong/SublimeAStyleFormatter",
-			"homepage": "http://timonwong.github.io/SublimeAStyleFormatter/",
+			"homepage": "https://timonwong.github.io/SublimeAStyleFormatter/",
 			"author": "timonwong",
 			"labels": ["formatting"],
 			"releases": [
@@ -3990,7 +3990,7 @@
 		},
 		{
 			"details": "https://github.com/ckaznocha/SublimeAxosoft/",
-			"homepage": "http://ckaznocha.github.io/SublimeAxosoft/",
+			"homepage": "https://ckaznocha.github.io/SublimeAxosoft/",
 			"labels": ["axosoft", "ontime", "issue tracker"],
 			"releases": [
 				{
@@ -4633,7 +4633,7 @@
 		{
 			"name": "SurroundWith",
 			"details": "https://github.com/Andr3as/Sublime-SurroundWith",
-			"homepage": "http://andrano.de/SurroundWith/",
+			"homepage": "https://andrano.de/SurroundWith/",
 			"labels": ["text manipulation"],
 			"releases": [
 				{

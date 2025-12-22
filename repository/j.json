@@ -953,7 +953,7 @@
 			"name": "jshintify",
 			"details": "https://github.com/afterdesign/jshintify",
 			"author": "Rafał 'afterdesign' Malinowski",
-			"homepage": "http://afterdesign.github.io/jshintify/",
+			"homepage": "https://afterdesign.github.io/jshintify/",
 			"labels": ["linting"],
 			"releases" : [
 				{

@@ -1013,6 +1013,17 @@
 			]
 		},
 		{
+			"name": "Android Syntax",
+			"details": "https://github.com/google/sublime-text-android-syntax",
+			"labels": ["android", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AndroidImport",
 			"details": "https://github.com/ribot/SublimeAndroidImport",
 			"labels": ["auto-complete", "android", "java", "imports"],

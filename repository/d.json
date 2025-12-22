@@ -345,7 +345,7 @@
 		{
 			"name": "Date Formatter",
 			"details": "https://github.com/pjdietz/sublime-date-formatter",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1338,7 +1338,6 @@
 		{
 			"name": "DocBlockr",
 			"details": "https://github.com/spadgos/sublime-jsdocs",
-			"donate": "http://pledgie.com/campaigns/16316",
 			"labels": ["documentation", "comments"],
 			"releases": [
 				{

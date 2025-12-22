@@ -641,7 +641,7 @@
 		{
 			"name": "Path Tools",
 			"details": "https://github.com/pjdietz/sublime-path-tools",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1315,7 +1315,6 @@
 		{
 			"name": "PhpCodeGen",
 			"details": "https://bitbucket.org/bteryek/phpcodegen",
-			"homepage": "http://idevelopsolutions.com/PhpCodeGen",
 			"labels": ["code generation", "formatting", "snippets", "text manipulation", "php", "docblock"],
 			"releases": [
 				{

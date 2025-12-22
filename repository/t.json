@@ -751,7 +751,7 @@
 		},
 		{
 			"name": "termX",
-			"homepage": "http://malinowski.be/termX",
+			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",
 			"labels": ["terminal"],
 			"releases" : [
@@ -1276,7 +1276,7 @@
 		{
 			"name": "Theme - City Lights",
 			"details": "https://github.com/Yummygum/city-lights-sublime",
-			"homepage": "http://citylights.xyz/",
+			"homepage": "https://citylights.xyz/",
 			"labels": ["theme", "color scheme", "city lights"],
 			"author": "Yummygum",
 			"releases": [
@@ -3330,7 +3330,7 @@
 		{
 			"name": "Trainz Config",
 			"details": "https://github.com/Dangoo/trainz_config",
-			"homepage": "http://trainz-sachsen.com",
+			"homepage": "https://trainz-sachsen.com",
 			"readme": "https://raw.githubusercontent.com/Dangoo/trainz_config/master/README.md",
 			"author": "Daniel Gooß",
 			"labels": ["language syntax"],
@@ -3855,7 +3855,7 @@
 		{
 			"name": "TypeScript",
 			"details": "https://github.com/Microsoft/TypeScript-Sublime-Plugin",
-			"homepage": "http://typescriptlang.org",
+			"homepage": "https://typescriptlang.org",
 			"donate": null,
 			"labels": ["auto-complete", "code navigation", "formatting", "language syntax", "snippets", "typescript", "javascript"],
 			"releases": [

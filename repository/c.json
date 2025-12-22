@@ -2116,7 +2116,7 @@
 		{
 			"name": "Codeforces Util",
 			"details": "https://github.com/shankhs/CodeforcesUtil",
-			"homepage": "http://www.shankhs.com",
+			"homepage": "https://www.shankhs.com",
 			"author": "shankhs",
 			"releases": [
 				{
@@ -2209,7 +2209,7 @@
 		{
 			"name": "Codeivate",
 			"details": "https://github.com/codeivate/codeivate-st",
-			"issues": "http://codeivate.userecho.com/",
+			"issues": "https://codeivate.userecho.com/",
 			"labels": ["code sharing", "analytics"],
 			"releases": [
 				{

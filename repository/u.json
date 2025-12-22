@@ -546,7 +546,6 @@
 		{
 			"name": "Unyson Snippets",
 			"details": "https://github.com/XeCreators/Unyson-Snippets-Sublime",
-			"homepage": "http://unyson.io/",
 			"labels": ["snippets"],
 			"author": "xecreators",
 			"releases": [

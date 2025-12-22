@@ -1356,7 +1356,7 @@
 		{
 			"name": "Merge Variables",
 			"details": "https://github.com/pjdietz/sublime-merge-variables",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1368,7 +1368,7 @@
 			"name": "Merge Windows",
 			"details": "https://github.com/chinchin96/SublimeText-Merge-Windows",
 			"author": "Chinedu Ezeamuzie",
-			"donate": "http://paypal.me/chinchin96",
+			"donate": "https://paypal.me/chinchin96",
 			"labels": [
 				"merge windows",
 				"merge tabs",

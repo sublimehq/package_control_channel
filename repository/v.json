@@ -37,7 +37,6 @@
 			"labels": ["linting", "prose"],
 			"releases": [
 				{
-					"sublime_text": ">=3080",
 					"tags": true
 				}
 			]
@@ -86,7 +85,6 @@
 			"details": "https://github.com/mohammad6006/var-type",
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -97,7 +95,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -167,7 +164,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -178,7 +174,6 @@
 			"labels": ["vento", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]
@@ -236,7 +231,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]

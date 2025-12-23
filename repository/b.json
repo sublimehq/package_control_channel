@@ -277,7 +277,6 @@
 			"author": ["stone5265"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -337,7 +336,6 @@
 			"labels": ["http", "rest client"],
 			"releases": [
 				{
-					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]
@@ -774,7 +772,6 @@
 			"labels": ["bison", "language syntax", "yacc"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -785,7 +782,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3084",
 					"tags": true
 				}
 			]
@@ -864,7 +860,6 @@
 			"details": "https://github.com/svenfraeys/SublimeBlender",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"branch": "master"
 				}
 			]
@@ -971,7 +966,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -1065,7 +1059,6 @@
 			"labels": ["auto-complete", "bootstrap"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -1077,7 +1070,6 @@
 			"labels": ["snippets", "bootstrap"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -1097,7 +1089,6 @@
 			"labels": ["language syntax", "snippets", "python"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -1126,7 +1117,6 @@
 			"labels": ["php", "bow", "bowphp", "tintin", "language syntax", "bow tintin"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -1146,7 +1136,6 @@
 			"labels": ["bower injector","bower","inject","css","js"],
 			"releases": [
 				{
-					"sublime_text": ">=3010",
 					"tags": true
 				}
 			]
@@ -1268,7 +1257,6 @@
 			"labels": ["auto-complete", "language syntax", "nsis"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": "st3-"
 				}
 			]
@@ -1328,7 +1316,6 @@
 			"details": "https://github.com/iamdjones/sublime-text-browser-sync",
 			"releases":[
 				{
-					"sublime_text":"*",
 					"tags":true
 				}
 			]

@@ -135,7 +135,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -259,7 +258,6 @@
 			"details": "https://github.com/alvesjtiago/hover-preview",
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -681,7 +679,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3103",
 					"tags": "st3-"
 				}
 			]
@@ -826,7 +823,6 @@
 			"labels": ["auto-complete", "completions", "help", "hint", "php"],
 			"releases": [
 				{
-					"sublime_text": ">=3070",
 					"tags": true
 				}
 			]
@@ -837,7 +833,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -848,7 +843,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3114",
 					"tags": true
 				}
 			]

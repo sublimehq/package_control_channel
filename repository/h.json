@@ -163,7 +163,6 @@
 			"labels": ["build system", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -894,7 +893,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]
@@ -1116,7 +1114,6 @@
 			"details": "https://github.com/jaredmoody/sublime_html_to_text",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"branch": "master"
 				}
 			]
@@ -1217,7 +1214,6 @@
 			"details": "https://github.com/regisphilibert/Sublime-Hugo-Snippets",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -1227,7 +1223,6 @@
 			"details": "https://github.com/akmittal/Hugofy-sublime",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -1238,7 +1233,6 @@
 			"labels" : ["hungry","backspace","indentation","spacing","delete","line"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -1249,7 +1243,6 @@
 			"labels": ["language syntax", "hybris", "impex", "sap"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]

@@ -400,7 +400,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": ">=3100",
 					"tags": true
 				}
 			]
@@ -638,7 +637,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -842,7 +840,6 @@
 			"labels": ["chipper", "chip8", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -978,7 +975,6 @@
 			"labels": ["chrome", "chromium", "cross reference", "references", "code search", "call graph"],
 			"releases": [
 				{
-					"sublime_text": ">=3118",
 					"tags": true
 				}
 			]
@@ -1109,7 +1105,6 @@
 			"labels": ["cjsx", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -1120,10 +1115,11 @@
 			"homepage": "https://www.connected-environments.org",
 			"author": "sjg",
 			"labels": ["snippets"],
-			"releases": [{
-				"sublime_text": "*",
-				"tags": true
-			}]
+			"releases": [
+				{
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "Clafer Tools",
@@ -2005,7 +2001,6 @@
 			"details": "https://github.com/dperetti/sublime-codestory",
 			"releases": [
 				{
-					"sublime_text": ">=3070",
 					"tags": true
 				}
 			]
@@ -2177,7 +2172,6 @@
 			"details": "https://github.com/shantanu3637/CollaBroText",
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"platforms": ["linux"],
 					"tags": true
 				}
@@ -2198,7 +2192,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -2350,7 +2343,6 @@
 			"labels": ["color scheme", "legacy"],
 			"releases": [
 				{
-					"sublime_text": ">3131",
 					"tags": true
 				}
 			]
@@ -2954,7 +2946,6 @@
 			"labels": ["php", "composer"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -3141,7 +3132,6 @@
 			"details": "https://github.com/leibnizli/ConvertChineseCharacters",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -3161,7 +3151,6 @@
 			"labels": ["japanese", "zenkaku", "hankaku"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -3449,7 +3438,6 @@
 			"labels": ["completions", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3143",
 					"tags": "3143-"
 				}
 			]
@@ -3488,7 +3476,6 @@
 			"labels": ["language syntax", "linting"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": "st3-"
 				}
 			]
@@ -3567,7 +3554,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -3793,7 +3779,6 @@
 			"readme": "https://raw.githubusercontent.com/cslint/sublime-cslint/master/README.md",
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"platforms": ["osx"],
 					"tags": true
 				}
@@ -4000,7 +3985,6 @@
 			"labels": ["color scheme editing"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": "v"
 				},
 				{
@@ -4096,7 +4080,6 @@
 			"details": "https://github.com/fitnr/SublimeCSSTidy",
 			"releases": [
 				{
-					"sublime_text": ">2999",
 					"branch": "master"
 				}
 			]
@@ -4134,7 +4117,6 @@
 			"labels": ["utilities"],
 			"releases": [
 				{
-					"sublime_text": ">=3070",
 					"tags": true
 				}
 			]

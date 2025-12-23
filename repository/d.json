@@ -706,7 +706,6 @@
 			"labels": ["linting", "security"],
 			"releases": [
 				{
-					"sublime_text": ">=3114",
 					"tags": true
 				}
 			]
@@ -737,7 +736,6 @@
 			"labels": ["language syntax", "dhall"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -789,7 +787,6 @@
 			"labels": ["dictionary"],
 			"releases": [
 				{
-					"sublime_text": ">=3080",
 					"tags": true
 				}
 			]
@@ -946,7 +943,6 @@
 			"details": "https://github.com/nia40m/sublime-display-nums",
 			"releases": [
 				{
-					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]
@@ -1249,7 +1245,6 @@
 			"labels": ["formatting", "documentation"],
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]
@@ -1288,7 +1283,6 @@
 			"details": "https://github.com/monty5811/doi2bibSublime",
 			"releases": [
 				{
-					"sublime_text": ">2999",
 					"tags": true
 				}
 			]
@@ -1299,7 +1293,6 @@
 			"labels": ["auto-complete", "color scheme", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]

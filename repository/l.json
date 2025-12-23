@@ -461,7 +461,6 @@
 			"details": "https://github.com/divinites/LatexEquationPreview",
 			"releases": [
 				{
-					"sublime_text": ">3118",
 					"tags": true
 				}
 			]
@@ -866,7 +865,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -1101,7 +1099,6 @@
 			"labels": ["language syntax", "build system"],
 			"releases": [
 				{
-					"sublime_text": ">3099",
 					"platforms": ["windows"],
 					"tags": true
 				}
@@ -1503,7 +1500,6 @@
 			"labels": ["language syntax", "logs"],
 			"releases": [
 				{
-					"sublime_text": ">=3065",
 					"tags": true
 				}
 			]
@@ -1592,7 +1588,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -1612,7 +1607,6 @@
 			"details": "https://github.com/kauboy26/LimeStyle",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]

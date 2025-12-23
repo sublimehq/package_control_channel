@@ -139,7 +139,6 @@
 			"details": "https://github.com/sahibalejandro/sublime-nav-panel",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -198,7 +197,6 @@
 			"labels": ["completions", "language syntax", "snippets", "nekoml"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -398,7 +396,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -650,7 +647,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -764,7 +760,6 @@
 			"labels": ["language syntax", "nirum"],
 			"releases" : [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -886,7 +881,6 @@
 			"details": "https://github.com/arshavindn/NormalMode",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -980,7 +974,6 @@
 			"details": "https://github.com/thomscode/notifications",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -990,7 +983,6 @@
 			"details": "https://github.com/yeled/sublime-notmuch-address",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"platforms": ["osx"],
 					"tags": true
 				}
@@ -1096,7 +1088,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3103",
 					"tags": "st3-"
 				}
 			]
@@ -1121,7 +1112,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3103",
 					"tags": "st3-"
 				}
 			]
@@ -1146,7 +1136,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3103",
 					"tags": "st3-"
 				}
 			]
@@ -1167,7 +1156,6 @@
 			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": "st3-"
 				}
 			]

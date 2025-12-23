@@ -142,7 +142,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -252,7 +251,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -281,7 +279,6 @@
 			"labels":["snippets", "i18n", "l10n"],
 			"releases":[
 				{
-					"sublime_text":"*",
 					"tags": true
 				}
 			]
@@ -292,7 +289,6 @@
 			"labels":["language syntax", "correctness proofs", "uwaterloo"],
 			"releases":[
 				{
-					"sublime_text":"*",
 					"tags": true
 				}
 			]
@@ -691,7 +687,6 @@
 			"details": "https://github.com/divinites/gissues",
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -1024,7 +1019,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -1220,7 +1214,6 @@
 			"labels": ["go", "golang", "gocode", "oracle", "golint", "gorename"],
 			"releases": [
 				{
-					"sublime_text": ">=3067",
 					"tags": true
 				}
 			]
@@ -1289,7 +1282,6 @@
 			"labels": ["dictionary", "google", "translator"],
 			"releases": [
 				{
-					"sublime_text": ">=3080",
 					"tags": true
 				}
 			]
@@ -1350,7 +1342,6 @@
 			"labels": ["language syntax", "googlesql", "sql", "bigquery"],
 			"releases": [
 				{
-					"sublime_text": ">=3090",
 					"tags": true
 				}
 			]
@@ -1547,7 +1538,6 @@
 			"labels": ["text navigation"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -1588,7 +1578,6 @@
 			"labels": ["language syntax", "go", "golang", "gocode", "oracle", "godef", "gofmt"],
 			"releases": [
 				{
-					"sublime_text": ">=3067",
 					"tags": true
 				}
 			]
@@ -1972,7 +1961,6 @@
 			"labels": ["theme", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]

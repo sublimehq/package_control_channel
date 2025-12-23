@@ -43,7 +43,6 @@
 			"labels": ["markdown", "textile", "restructuredtext", "pandoc", "emacs org mode"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -541,7 +540,6 @@
 			"author": "MuntasirSZN",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1283,7 +1281,6 @@
 			"labels": ["theme"],
 			"releases": [
 				{
-					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]
@@ -1424,7 +1421,6 @@
 			"labels": ["theme", "legacy"],
 			"releases": [
 				{
-					"sublime_text": ">3100",
 					"tags": true
 				}
 			]
@@ -1716,7 +1712,6 @@
 			"labels": ["theme"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -2289,7 +2284,6 @@
 			"labels": ["language syntax", "ibm", "tm1", "turbo integrator", "planning analytics"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -2311,7 +2305,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -2675,10 +2668,11 @@
 			"name": "ToolRunner",
 			"details": "https://github.com/KuttKatrea/sublime-toolrunner",
 			"author": "Kutt Katrea",
-			"releases": [{
-				"sublime_text": "*",
-				"tags": true
-			}]
+			"releases": [
+				{
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "ToolTip-Helper",
@@ -2696,7 +2690,6 @@
 			"labels": ["tooltip", "help system"],
 			"releases": [
 				{
-					"sublime_text": ">=3070",
 					"tags": true
 				}
 			]
@@ -2727,7 +2720,6 @@
 			"labels": ["language syntax", "python", "html"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -3068,7 +3060,6 @@
 			"labels": ["language syntax", "sql", "sql server", "t-sql"],
 			"releases": [
 				{
-					"sublime_text": ">=3114",
 					"tags": true
 				}
 			]

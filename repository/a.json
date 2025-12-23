@@ -1653,7 +1653,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]
@@ -1781,7 +1780,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -2297,7 +2295,6 @@
 			"donate": "https://ko-fi.com/croebh",
 			"releases": [
 				{
-					"sublime_text": ">=3093",
 					"tags": true
 				}
 			]

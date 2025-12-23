@@ -258,7 +258,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -886,7 +885,6 @@
 			"labels":["language syntax"],
 			"releases":[
 				{
-					"sublime_text":"*",
 					"tags":true
 				}
 			]
@@ -1121,7 +1119,6 @@
 			"details": "https://github.com/tptee/FlowIDE",
 			"releases": [
 				{
-					"sublime_text": ">=3070",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -1280,7 +1277,6 @@
 			"details": "https://github.com/LuckyKat/sublime-fold-functions",
 			"releases": [
 				{
-					"sublime_text": ">=3125",
 					"tags": true
 				}
 			]
@@ -1363,7 +1359,6 @@
 			"details": "https://github.com/math2001/FoldFunctions",
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]
@@ -1462,7 +1457,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -1620,7 +1614,6 @@
 			"labels": ["language syntax", "auto-complete", "f#"],
 			"releases": [
 				{
-					"sublime_text": ">=3080",
 					"tags": true
 				}
 			]

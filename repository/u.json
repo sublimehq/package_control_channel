@@ -382,7 +382,6 @@
 			"labels": ["language syntax", "snippets", "unity"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -540,7 +539,6 @@
 			"labels": ["language syntax", "bible"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": "version/st3092/"
 				}
 			]

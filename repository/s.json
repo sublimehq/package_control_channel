@@ -107,7 +107,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]
@@ -138,7 +137,6 @@
 			"labels": ["color scheme", "light"],
 			"releases": [
 				{
-					"sublime_text": ">=3100",
 					"tags": true
 				}
 			]
@@ -294,7 +292,6 @@
 			"labels": ["language syntax", "scala"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -457,7 +454,6 @@
 			"labels": ["testing", "scala"],
 			"releases": [
 				{
-					"sublime_text": ">=3083",
 					"tags": true
 				}
 			]
@@ -645,7 +641,6 @@
 			"labels": ["imports", "scala"],
 			"releases": [
 				{
-					"sublime_text": ">=3083",
 					"tags": true
 				}
 			]
@@ -660,7 +655,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3103",
 					"tags": "st3-"
 				}
 			]
@@ -748,7 +742,6 @@
 			"details": "https://github.com/JoshCheek/sublime-text-2-and-3-seeing-is-believing",
 			"releases": [
 				{
-					"sublime_text": ">=2000",
 					"tags": true
 				}
 			]
@@ -855,7 +848,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1098,7 +1090,6 @@
 			"details": "https://github.com/halfmoonvic/SettingSwitcher",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1395,7 +1386,6 @@
 			"details": "https://github.com/jk4837/ShowDefinitionEx",
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -1447,7 +1437,6 @@
 			"details": "https://github.com/akrabat/SideBarHider",
 			"releases": [
 				{
-					"sublime_text": ">=3098",
 					"tags": true
 				}
 			]
@@ -1458,7 +1447,6 @@
 			"labels": ["sidebar", "utilities"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -1470,7 +1458,6 @@
 			"labels": ["sidebar", "clipboard", "utilities", "folder", "directory", "file"],
 			"releases": [
 				{
-					"sublime_text": ">=3100",
 					"tags": true
 				}
 			]
@@ -1491,11 +1478,11 @@
 			"labels": ["sidebar", "utilities", "folder", "directory", "file"],
 			"releases": [
 				{
-					"sublime_text": "3100 - 3999",
+					"sublime_text": "<4000",
 					"tags": "st3-"
 				},
 				{
-					"sublime_text": ">4000",
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -1586,10 +1573,11 @@
 			"author": "Adelyte Company (Taylor Zane Glaeser)",
 			"details": "https://github.com/adelyte/simpl-plus-syntax-highlight",
 			"labels": ["language syntax", "crestron", "simpl", "simpl plus", "splus"],
-			"releases": [{
-				"sublime_text": "*",
-				"tags": true
-			}]
+			"releases": [
+				{
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "Simplates",
@@ -1656,7 +1644,6 @@
 			"labels": ["javascript", "jsx", "react", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3106",
 					"tags": true
 				}
 			]
@@ -1888,7 +1875,6 @@
 			"labels": ["vim", "vi", "vintage", "vintageous", "emulation", "emulator", "editor emulation"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -2120,7 +2106,6 @@
 			"labels": ["build system", "css", "less"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"platforms": ["windows"],
 					"tags": true
 				}
@@ -2570,7 +2555,7 @@
 			"labels": ["sort", "sorting"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 3999",
+					"sublime_text": "<4000",
 					"tags": "st3-"
 				},
 				{
@@ -2953,7 +2938,6 @@
 			"author": "Marcelo Fonseca Tambalo (Zokis)",
 			"releases": [
 				{
-					"sublime_text": ">2999",
 					"platforms": ["linux"],
 					"tags": true
 				}
@@ -2987,7 +2971,7 @@
 			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "3092 - 4074",
+					"sublime_text": "<4075",
 					"tags": "st3-"
 				},
 				{
@@ -3079,7 +3063,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3065",
 					"tags": true
 				}
 			]
@@ -3165,7 +3148,7 @@
 			"labels": ["completions", "language syntax", "snippets", "ssh"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 3155",
+					"sublime_text": "<=3155",
 					"tags": "st3.0-"
 				},
 				{
@@ -3479,7 +3462,6 @@
 			"labels": ["gitlab", "project", "management"],
 			"releases": [
 				{
-					"sublime_text": ">=3118",
 					"tags": true
 				}
 			]
@@ -3527,7 +3509,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -3556,7 +3537,6 @@
 			"details": "https://github.com/nicholastay/Sublime-StreamerMode",
 			"releases": [
 				{
-					"sublime_text": ">=3116",
 					"tags": true
 				}
 			]
@@ -3595,7 +3575,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -3761,7 +3740,6 @@
 			"details": "https://github.com/thecotne/subl-protocol",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"platforms": ["windows", "linux"],
 					"tags": true
 				}
@@ -3880,7 +3858,6 @@
 					"tags": "osx-"
 				},
 				{
-					"sublime_text": ">=3065",
 					"platforms": "windows",
 					"tags": "win-"
 				},
@@ -4092,7 +4069,6 @@
 			"details": "https://github.com/alexkuz/SublimeLinter-inline-errors",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -4103,7 +4079,6 @@
 			"labels": ["linting"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -4139,11 +4114,6 @@
 			"details" : "https://github.com/apophys/SublimeManpage",
 			"releases" : [
 				{
-					"sublime_text" : "<3000",
-					"tags": true
-				},
-				{
-					"sublime_text" : ">=3000",
 					"branch": "Sublime-Text-3"
 				}
 			]
@@ -4310,7 +4280,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": ">=3100",
 					"tags": true
 				}
 			]
@@ -4429,7 +4398,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -4439,7 +4407,6 @@
 			"details": "https://github.com/corvisa/SummitLinter",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -4460,7 +4427,6 @@
 			"labels": ["sunset", "sunrise", "location"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -4541,7 +4507,6 @@
 			"labels": ["auto-complete", "code navigation", "linting"],
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true,
 					"platforms": ["osx", "linux"]
 				}
@@ -4713,7 +4678,6 @@
 			"labels": ["svg", "preview"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -4764,7 +4728,6 @@
 			"labels": ["language syntax", "auto-complete", "swan", "miniapp", "smartprogramer"],
 			"releases": [
 				{
-					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]

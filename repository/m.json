@@ -51,7 +51,6 @@
 			"labels": ["mac", "dictionary"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"platforms": ["osx"],
 					"tags": true
 				}
@@ -355,7 +354,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -385,7 +383,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -405,7 +402,6 @@
 			"labels": ["language syntax", "markdeep"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -495,7 +491,6 @@
 			"labels": ["formatting", "text manipulation", "markdown"],
 			"releases": [
 				{
-					"sublime_text": ">=3121",
 					"tags": true
 				}
 			]
@@ -515,7 +510,6 @@
 			"labels": ["snippets", "markdown"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -632,7 +626,6 @@
 			"labels": ["markdown", "html", "converting"],
 			"releases": [
 				{
-					"sublime_text": ">=3118",
 					"platforms": ["windows"],
 					"tags": true
 				}
@@ -816,7 +809,6 @@
 			"labels": ["theme", "color scheme", "material"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -1826,7 +1818,6 @@
 			"labels": ["completions", "language syntax", "snippets", "mohaa", "scr", "morpheus script"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -2514,7 +2505,6 @@
 			"author": "kylebebak",
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]

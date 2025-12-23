@@ -279,7 +279,6 @@
 			"details": "https://github.com/axel22/sublime-javap",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"branch": "st3"
 				}
 			]
@@ -339,7 +338,6 @@
 			"labels": ["auto-complete", "completions", "ide", "linting", "project management", "flow", "flow-typed", "javascript"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -420,7 +418,6 @@
 			"labels": ["language syntax", "snippets", "javascript"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -431,7 +428,6 @@
 			"labels": ["javascript", "javascript refactor", "javascript extract", "javascript tools"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -532,7 +528,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]

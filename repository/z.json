@@ -84,7 +84,6 @@
 			"labels": ["text manipulation", "japanese"],
 			"releases": [
 				{
-					"sublime_text": ">2999",
 					"tags": true
 				}
 			]
@@ -185,7 +184,6 @@
 			"labels": ["zmpl", "zig", "jetzig", "language syntax", "html", "markdown"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

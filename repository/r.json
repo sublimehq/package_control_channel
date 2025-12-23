@@ -76,7 +76,6 @@
 			"labels": ["rails", "ruby on rails", "ruby", "migrations"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -359,7 +358,6 @@
 			"labels": ["language syntax", "ruby", "rbs"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -499,7 +497,6 @@
 			"labels": ["snippets", "react", "native", "react-native", "jsx", "css"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -879,7 +876,6 @@
 			"details": "https://github.com/evandrocoan/RememberCommandPaletteInput",
 			"releases": [
 				{
-					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]
@@ -898,7 +894,6 @@
 			"details": "https://github.com/TeamRemote/remote-sublime",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -945,7 +940,6 @@
 			"details": "https://github.com/paza/RemotePHPUnit-for-Sublime-Text",
 			"releases": [
 				{
-					"sublime_text": ">2999",
 					"tags": true
 				}
 			]
@@ -1166,7 +1160,6 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3120",
 					"tags": "st3-"
 				}
 			]
@@ -1177,7 +1170,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3118",
 					"tags": true
 				}
 			]
@@ -1387,8 +1379,7 @@
 			"previous_names": ["Ribosome Syntax"],
 			"releases": [
 				{
-					"asset": "*.sublime-package",
-					"sublime_text": ">=3092"
+					"asset": "*.sublime-package"
 				}
 			]
 		},
@@ -1398,7 +1389,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3099",
 					"tags": true
 				}
 			]
@@ -1409,7 +1399,6 @@
 			"labels": ["lf", "lingua franka", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -1511,7 +1500,6 @@
 			"labels": ["bookmark", "navigation"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1522,7 +1510,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -1542,7 +1529,6 @@
 			"details": "https://github.com/unclecheese/sublime-robotype",
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -1583,7 +1569,6 @@
 			"labels": ["rockstar", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -1819,7 +1804,6 @@
 			"details": "https://github.com/doobleweb/RTL-Mirror",
 			"releases": [
 				{
-					"sublime_text": ">=3080",
 					"tags": true
 				}
 			]
@@ -1829,7 +1813,6 @@
 			"details": "https://github.com/mohammad6006/RTLtoDialog",
 			"releases": [
 				{
-					"sublime_text": ">=3080",
 					"tags": true
 				}
 			]
@@ -2135,7 +2118,6 @@
 			"labels": ["snippets", "rust"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -2147,7 +2129,6 @@
 			"labels": ["formatting", "rust"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]

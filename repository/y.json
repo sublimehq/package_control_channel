@@ -77,7 +77,6 @@
 			"labels": ["language syntax", "snippets", "yara"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]

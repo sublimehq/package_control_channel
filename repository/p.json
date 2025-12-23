@@ -59,7 +59,6 @@
 			"donate": "https://packagecontrol.io/say_thanks",
 			"releases": [
 				{
-					"sublime_text": ">=3143",
 					"tags": true
 				}
 			]
@@ -217,7 +216,6 @@
 					"branch": "1.x"
 				},
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -281,7 +279,6 @@
 			"details": "https://github.com/jpellerin/Panezr",
 			"releases": [
 				{
-					"sublime_text": ">=3033",
 					"tags": true
 				}
 			]
@@ -1017,7 +1014,6 @@
 			"labels": ["auto-complete", "code generation", "formatting", "snippets", "text manipulation", "php"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1422,7 +1418,6 @@
 			"author": ["jvantuyl", "evandrocoan"],
 			"releases": [
 				{
-					"sublime_text": ">=3114",
 					"tags": true
 				}
 			]
@@ -1899,7 +1894,6 @@
 			"labels": ["sync", "preferences"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -2355,7 +2349,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -2486,7 +2479,6 @@
 			"labels": ["auto-complete"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -2507,7 +2499,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3092",
 					"tags": true
 				}
 			]
@@ -2538,7 +2529,6 @@
 			"labels": ["pushbullet"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -2548,7 +2538,6 @@
 			"details": "https://github.com/tbremer/px-rem-tooltip-sublime",
 			"releases": [
 				{
-					"sublime_text": ">3070",
 					"tags": true
 				}
 			]
@@ -2633,7 +2622,6 @@
 			"labels": ["build system", "language syntax", "nsis", "python"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -2645,7 +2633,6 @@
 			"labels": ["python", "package", "pypi", "requirements.txt", "pyproject.toml", "poetry", "pipfile", "pipenv"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
@@ -2981,7 +2968,6 @@
 			"labels":["voice coding","accessibility","syntax tree","python","grammar","high level"],
 			"releases":[
 				{
-					"sublime_text":"*",
 					"tags":true
 				}
 			]

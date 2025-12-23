@@ -485,7 +485,6 @@
 			"details": "https://github.com/vicke4/open_in_browser",
 			"releases": [
 				{
-					"sublime_text": ">=3118",
 					"tags": true
 				}
 			]
@@ -711,7 +710,6 @@
 			"labels": ["file navigation", "file open", "sidebar"],
 			"releases": [
 				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -860,7 +858,6 @@
 			"labels": ["build system", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]

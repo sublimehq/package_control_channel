@@ -377,8 +377,7 @@
 			"releases": [
 				{
 					"sublime_text": ">4000",
-					"tags": true,
-					"platforms": "*"
+					"tags": true
 				}
 			]
 		},
@@ -3018,7 +3017,6 @@
 			"labels": ["color scheme", "tron", "legacy", "dark", "blue"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -3030,8 +3028,7 @@
 			"author": ["FichteFoll", "guillermooo"],
 			"releases": [
 				{
-					"tags": true,
-					"platforms": "*"
+					"tags": true
 				}
 			]
 		},

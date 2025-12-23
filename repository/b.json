@@ -503,7 +503,6 @@
 			"labels": ["bookmark", "save", "layer"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -644,7 +643,6 @@
 			"labels": ["diff", "difference", "diff/merge", "file comparison"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -798,7 +796,6 @@
 			"labels": ["bitbucket", "git", "mercurial"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -1150,7 +1147,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=3010",
-					"platforms": "*",
 					"tags": true
 				}
 			]

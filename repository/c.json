@@ -1089,7 +1089,6 @@
 			"author": "Alexander K.",
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -1825,7 +1824,6 @@
 			"author": "shankhs",
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -2038,7 +2036,6 @@
 			"labels": ["time tracker"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -3708,8 +3705,7 @@
 			"details": "https://github.com/purefan/crollow",
 			"releases": [
 				{
-					"tags": true,
-					"platforms": "*"
+					"tags": true
 				}
 			]
 		},

@@ -1032,7 +1032,6 @@
 			"labels": ["ansible", "vault", "encryption"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -2309,7 +2308,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"platforms": "*",
 					"branch": "master"
 				}
 			]

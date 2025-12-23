@@ -275,7 +275,6 @@
 			"labels": ["make", "makefile", "target", "build system"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -785,7 +784,6 @@
 			"author": "Arindam Pradhan",
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

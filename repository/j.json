@@ -1035,7 +1035,6 @@
 			"details": "https://github.com/alex18881/JsonL18nResourcesEditor",
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]

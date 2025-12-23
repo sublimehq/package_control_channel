@@ -359,7 +359,6 @@
 			"details": "https://github.com/Galooshi/sublime-import-js",
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -570,7 +569,6 @@
 			"author": "QSqiu",
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -581,7 +579,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -1207,7 +1204,6 @@
 			"details": "https://github.com/jabyrd3/sublime-ixio",
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

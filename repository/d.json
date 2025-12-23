@@ -409,7 +409,6 @@
 			"details": "https://github.com/deckardai/sublime-deckard",
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -1064,7 +1063,6 @@
 			"labels": ["text manipulation", "django", "rest"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -1075,7 +1073,6 @@
 			"labels": ["snippets", "text manipulation", "django", "rest"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

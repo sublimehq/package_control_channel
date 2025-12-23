@@ -1176,7 +1176,6 @@
 			"labels": ["go", "guru"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -1211,7 +1210,6 @@
 			"labels": ["build system", "go"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -1394,7 +1392,6 @@
 			"labels": ["go", "gorename"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -1850,7 +1847,6 @@
 			"labels": ["grep", "search", "bookmark"],
 			"releases": [
 				{
-					"platforms": ["*"],
 					"tags": true
 				}
 			]

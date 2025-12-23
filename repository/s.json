@@ -1517,7 +1517,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -2966,7 +2965,6 @@
 			"labels": ["spotify", "music"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -3266,7 +3264,6 @@
 			"labels": ["formatting", "javascript"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -3550,7 +3547,6 @@
 			"labels" : ["snippets", "boilerplate", "markdown", "strapdownjs"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

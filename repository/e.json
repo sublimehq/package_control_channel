@@ -115,7 +115,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=3070",
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -1435,7 +1434,6 @@
 			"labels": ["expand selection", "text selection"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

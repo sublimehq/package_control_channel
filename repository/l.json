@@ -128,7 +128,6 @@
 			"labels": ["spell check", "brasil", "brazil", "brazilian", "dicionário", "dictionnary", "português", "portuguese", "portugal"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -1723,7 +1722,6 @@
 			"details": "https://github.com/iamfredng/LuaSimpleComplete",
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

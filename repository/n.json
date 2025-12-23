@@ -110,7 +110,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -827,7 +826,6 @@
 			"author": ["tanepiper", "varp"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]
@@ -1005,7 +1003,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"platforms": "*",
 					"tags": true
 				}
 			]

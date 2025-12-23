@@ -1153,7 +1153,6 @@
 			"labels": ["formatting", "language syntax", "php"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

@@ -77,7 +77,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"platforms": ["*"],
 					"tags": true
 				}
 			]
@@ -1799,7 +1798,6 @@
 			"labels": ["sync"],
 			"releases": [
 				{
-					"platforms": "*",
 					"tags": true
 				}
 			]

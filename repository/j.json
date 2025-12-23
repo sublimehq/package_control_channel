@@ -126,7 +126,7 @@
 			"details": "https://github.com/kik0220/sublimetext_japanize",
 			"releases": [
 				{
-					"sublime_text": "3000 - 3999",
+					"sublime_text": "<4000",
 					"branch": "3000"
 				},
 				{

@@ -217,7 +217,7 @@
 			"previous_names": ["XSLT Snippets"],
 			"releases": [
 				{
-					"sublime_text": "3083 - 4106",
+					"sublime_text": "<=4106",
 					"tags": "st3-"
 				},
 				{

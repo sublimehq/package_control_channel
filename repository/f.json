@@ -916,7 +916,7 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 3999",
+					"sublime_text": "<4000",
 					"tags": "st3-"
 				},
 				{
@@ -1305,7 +1305,7 @@
 			"previous_names": ["FolderAlias Rename Tool"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 3999",
+					"sublime_text": "<4000",
 					"tags": "st3-"
 				},
 				{

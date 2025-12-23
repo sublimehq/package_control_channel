@@ -913,7 +913,7 @@
 			"labels": ["language syntax", "completions", "snippets", ".net", "c#", "cshtml", "webforms", "razor"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 3152",
+					"sublime_text": "<=3152",
 					"tags": "version/st3000/"
 				},
 				{

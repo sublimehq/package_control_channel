@@ -540,7 +540,7 @@
 			"labels": ["language syntax", "markdown", "github markdown", "gfm", "multimarkdown", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "2000 - 3175",
+					"sublime_text": "<=3175",
 					"tags": "st2-"
 				},
 				{
@@ -1212,7 +1212,7 @@
 			"labels": ["build system", "language syntax", "graph"],
 			"releases": [
 				{
-					"sublime_text": "3092 - 4049",
+					"sublime_text": "<4050",
 					"tags": "st3-v"
 				},
 				{

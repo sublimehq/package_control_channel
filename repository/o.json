@@ -603,7 +603,7 @@
 			"labels": ["open paths", "open files", "shortcut", "power user", "web search", "url"],
 			"releases": [
 				{
-					"sublime_text": "3000 - 4049",
+					"sublime_text": "<4050",
 					"tags": "st3-"
 				},
 				{

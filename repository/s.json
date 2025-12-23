@@ -651,10 +651,6 @@
 			"labels": ["language syntax", "auto-complete"],
 			"releases": [
 				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
-				{
 					"tags": "st3-"
 				}
 			]

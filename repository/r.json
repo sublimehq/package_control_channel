@@ -220,11 +220,6 @@
 			"labels": ["language syntax", "rainmeter"],
 			"releases": [
 				{
-					"sublime_text": "<3092",
-					"platforms": ["windows"],
-					"tags": "st3092-"
-				},
-				{
 					"platforms": ["windows"],
 					"tags": true
 				}
@@ -1155,10 +1150,6 @@
 			"name": "requirementstxt",
 			"details": "https://github.com/wuub/requirementstxt",
 			"releases": [
-				{
-					"sublime_text": "<3120",
-					"tags": "st2-"
-				},
 				{
 					"tags": "st3-"
 				}

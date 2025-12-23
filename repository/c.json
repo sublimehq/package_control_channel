@@ -3985,11 +3985,7 @@
 			"labels": ["color scheme editing"],
 			"releases": [
 				{
-					"tags": "v"
-				},
-				{
-					"sublime_text": "<3000",
-					"tags": "st2-v"
+					"tags": true
 				}
 			]
 		},

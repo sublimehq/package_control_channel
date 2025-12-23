@@ -1084,10 +1084,6 @@
 			"labels": ["language syntax", "nsis", "build system"],
 			"releases": [
 				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
-				{
 					"tags": "st3-"
 				}
 			]
@@ -1108,10 +1104,6 @@
 			"labels": ["language syntax", "nsis"],
 			"releases": [
 				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
-				{
 					"tags": "st3-"
 				}
 			]
@@ -1131,10 +1123,6 @@
 			"details": "https://github.com/idleberg/sublime-nsl-assembler",
 			"labels": ["auto-complete", "build system", "language syntax", "snippets", "nsis"],
 			"releases": [
-				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
 				{
 					"tags": "st3-"
 				}

@@ -675,10 +675,6 @@
 			"labels": ["language syntax", "build system", "inno setup", "innosetup"],
 			"releases": [
 				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
-				{
 					"tags": "st3-"
 				}
 			]

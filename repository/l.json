@@ -216,11 +216,7 @@
 			"previous_names": ["Laravel Blade Highlighter"],
 			"releases": [
 				{
-					"sublime_text": "<3092",
-					"tags": "st2-"
-				},
-				{
-					"sublime_text": "3092 - 4142",
+					"sublime_text": "<4143",
 					"tags": "st3-"
 				},
 				{

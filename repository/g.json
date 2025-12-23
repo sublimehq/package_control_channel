@@ -138,10 +138,6 @@
 			"labels": ["auto-complete", "color scheme", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "<3084",
-					"tags": "st2-"
-				},
-				{
 					"tags": true
 				}
 			]
@@ -246,10 +242,6 @@
 			"details": "https://github.com/skozlovf/Sublime-GenericConfig",
 			"labels": ["language syntax"],
 			"releases": [
-				{
-					"sublime_text": "<3084",
-					"tags": "st2-"
-				},
 				{
 					"tags": true
 				}
@@ -1741,11 +1733,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"tags": true
-				},
-				{
-					"sublime_text": "<3092",
-					"base": "https://github.com/dncrews/GraphQL-SublimeText2",
 					"tags": true
 				}
 			]

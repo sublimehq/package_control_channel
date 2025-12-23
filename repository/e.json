@@ -467,12 +467,7 @@
 			"previous_names": ["EJS 2"],
 			"releases": [
 				{
-					"base": "https://github.com/samholmes/EJS.tmLanguage",
-					"sublime_text": "<=3097",
-					"branch": "master"
-				},
-				{
-					"sublime_text": "3098 - 4106",
+					"sublime_text": "<=4106",
 					"tags": "st3-"
 				},
 				{

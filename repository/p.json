@@ -212,10 +212,6 @@
 			],
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"branch": "1.x"
-				},
-				{
 					"tags": true
 				}
 			]
@@ -1699,11 +1695,7 @@
 			"previous_names": ["Syntax Highlighting for PostCSS"],
 			"releases": [
 				{
-					"sublime_text": "<=3091",
-					"tags": "st2-"
-				},
-				{
-					"sublime_text": "3092 - 4151",
+					"sublime_text": "<=4151",
 					"tags": "st3-"
 				},
 				{

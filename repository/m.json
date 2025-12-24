@@ -743,6 +743,18 @@
 			]
 		},
 		{
+			"description": "Push/pop cursor (caret) position in View with single keystroke; saves state between sessions.",
+			"details": "https://github.com/vwheeler63/MarkerStack",
+			"readme": "https://github.com/vwheeler63/MarkerStack/blob/master/README.rst",
+			"labels": ["marker stack", "cursor position stack", "bookmark stack"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marking Changed Rows",
 			"details": "https://github.com/Harurow/sublime_markingchangedrows",
 			"releases": [

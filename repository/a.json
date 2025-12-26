@@ -482,6 +482,17 @@
 			]
 		},
 		{
+			"name": "Agentic",
+			"details": "https://github.com/alecGraves/Agentic",
+			"labels": ["ai", "llm", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AgentRansack",
 			"details": "https://github.com/Starli0n/SublimeAgentRansack",
 			"releases": [

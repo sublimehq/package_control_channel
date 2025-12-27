@@ -747,6 +747,7 @@
 			"details": "https://github.com/vwheeler63/MarkerStack",
 			"readme": "https://github.com/vwheeler63/MarkerStack/blob/master/README.rst",
 			"labels": ["marker stack", "cursor position stack"],
+			"donate": "https://buymeacoffee.com/vwheeler63",
 			"releases": [
 				{
 					"sublime_text": ">=3000",

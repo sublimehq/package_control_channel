@@ -6175,6 +6175,17 @@
 					"tags": "st3-"
 				}
 			]
+		},
+		{
+		    "name": "sublime-run-command",
+		    "details": "https://github.com/randolph555/sublime-run-command",
+		    "labels": ["shell", "terminal", "command", "execute", "run"],
+		    "releases": [
+		        {
+		            "sublime_text": ">=4000",
+		            "platforms": ["osx", "linux"]
+		        }
+		    ]
 		}
 	]
 }

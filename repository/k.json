@@ -1,5 +1,6 @@
 {
-	"schema_version": "3.0.0",
+	"$schema": "sublime://packagecontrol.io/schemas/repository",
+	"schema_version": "4.0.0",
 	"packages": [
 		{
 			"name": "K Framework",
@@ -7,7 +8,6 @@
 			"labels": ["language syntax", "kframework"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -18,7 +18,6 @@
 			"labels": ["kabems", "bem", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -30,7 +29,6 @@
 			"author": "gguilbon",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -41,7 +39,6 @@
 			"labels": ["japanese", "text manipulation"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -52,7 +49,6 @@
 			"labels": ["karma", "jasmine"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -62,7 +58,6 @@
 			"details": "https://github.com/matys18/sublime_kattis",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -73,7 +68,6 @@
 			"labels": ["kconfig", "language syntax", "kernel config"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -84,7 +78,6 @@
 			"labels": ["kcps", "color scheme", "theme"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -117,7 +110,6 @@
 			"labels": ["text manipulation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -127,7 +119,6 @@
 			"details": "https://github.com/vprimachenko/Sublime2KeepOpen",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -137,7 +128,6 @@
 			"details": "https://github.com/evandrocoan/KeepPastedTextSelected",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -148,7 +138,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -159,7 +148,6 @@
 			"author": "Martin Thoma",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -170,7 +158,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -180,11 +167,6 @@
 			"details": "https://github.com/r-stein/sublime-text-keybinding-helper",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
-					"sublime_text": ">=3000",
 					"tags": "st3-"
 				}
 			]
@@ -194,7 +176,6 @@
 			"details": "https://github.com/robertcollier4/KeyboardNavigation",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -205,7 +186,6 @@
 			"labels": ["spell check", "vintage", "vi", "google"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -217,16 +197,6 @@
 			"labels": ["sublime-enhanced", "keymap"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
-			"details": "https://github.com/welefen/KeymapManager",
-			"releases": [
-				{
-					"sublime_text": "<3000",
 					"branch": "master"
 				}
 			]
@@ -237,7 +207,6 @@
 			"labels": ["keymap", "cheat sheet"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -248,7 +217,6 @@
 			"labels": ["utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -259,7 +227,6 @@
 			"labels": ["build system", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -270,7 +237,6 @@
 			"labels": ["completions", "html", "css", "sass", "js", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -281,7 +247,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -292,7 +257,6 @@
 			"labels": ["completions", "snippets", "php"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -303,7 +267,6 @@
 			"labels": ["tab"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -314,7 +277,6 @@
 			"labels": ["auto-complete", "documentation", "snippets", "python"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -326,7 +288,6 @@
 			"author": "ivlevdenis",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -337,7 +298,6 @@
 			"labels": ["build system", "language syntax", "snippets", "kix"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -348,7 +308,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -359,7 +318,6 @@
 			"labels": ["language syntax", "knitr", "latex", "r", "markdown"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -369,7 +327,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -378,7 +335,6 @@
 			"details": "https://github.com/SublimeText/KnowledgeBase",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -388,7 +344,6 @@
 			"details": "https://github.com/magneto538/Koala",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -398,7 +353,6 @@
 			"details": "https://github.com/magneto538/Koala-snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -408,7 +362,6 @@
 			"details": "https://github.com/tgvashworth/sublime.kodery",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -421,7 +374,6 @@
 			"labels": ["auto-complete", "completions", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -432,7 +384,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -442,7 +393,6 @@
 			"details": "https://bitbucket.org/temperedvision/sublime-kohana3",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -453,7 +403,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -464,7 +413,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -475,7 +423,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -486,7 +433,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -497,7 +443,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -507,7 +452,6 @@
 			"details": "https://github.com/trevordixon/sublime-krl-validator",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"branch": "master"
 				}
 			]
@@ -517,7 +461,6 @@
 			"details": "https://github.com/zhangkaiyulw/kroman-sublime",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -528,7 +471,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -539,7 +481,6 @@
 			"labels": ["language syntax", "ksql", "sql"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -550,7 +491,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -560,7 +500,6 @@
 			"details": "https://github.com/xr1337/sublime-kubernetes-autocomplete",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -570,7 +509,6 @@
 			"details": "https://github.com/OmniSharp/Kulture",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"branch": "release"
 				}
 			]
@@ -580,7 +518,6 @@
 			"details": "https://github.com/argyleink/Kung-Fury-Theme",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -591,7 +528,6 @@
 			"labels": ["language syntax", "kusto", "azure"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -602,7 +538,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -613,7 +548,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]

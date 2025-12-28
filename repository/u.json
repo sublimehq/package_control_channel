@@ -1,22 +1,13 @@
 {
-	"schema_version": "3.0.0",
+	"$schema": "sublime://packagecontrol.io/schemas/repository",
+	"schema_version": "4.0.0",
 	"packages": [
-		{
-			"details": "https://github.com/SublimeText/UberSelection",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
 		{
 			"name": "Ublime Color Schemes",
 			"details": "https://github.com/imagentleman/ublime",
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -25,11 +16,6 @@
 			"details": "https://github.com/3v1n0/UbuntuPaste",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -40,7 +26,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -51,17 +36,7 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
-				}
-			]
-		},
-		{
-			"details": "https://github.com/dave-f/udp-trace",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},
@@ -71,7 +46,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -105,7 +79,6 @@
 			"labels": ["dark", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -116,7 +89,6 @@
 			"labels": ["dark", "theme", "color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -127,7 +99,6 @@
 			"labels": ["auto-complete", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -138,7 +109,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -159,7 +129,6 @@
 			"labels": ["snippets", "javascript"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -170,7 +139,6 @@
 			"labels": ["formatting", "c", "c++", "java"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -181,7 +149,6 @@
 			"labels": ["editor", "text selection", "testing", "utilities", "whitespace"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -192,7 +159,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -204,7 +170,6 @@
 			"labels": ["auto-complete", "snippets", "javascript", "underscorejs", "underscore.js"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -216,7 +181,6 @@
 			"labels": ["undo","tab"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -226,7 +190,6 @@
 			"details": "https://github.com/possan/sublime_unicode_nbsp",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -236,7 +199,6 @@
 			"details": "https://github.com/Sorbing/sublime-unicode-character-insert",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -247,7 +209,6 @@
 			"labels": ["escape", "unescape", "utf8"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -256,7 +217,6 @@
 			"details": "https://github.com/mvoidex/UnicodeMath",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -268,7 +228,6 @@
 			"labels": ["text manipulation", "unicode", "utf8"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -290,7 +249,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -299,7 +257,6 @@
 			"details": "https://github.com/rchl/UnindentPreprocessor",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -309,7 +266,6 @@
 			"details": "https://github.com/Julow/Sublime-UniqueWindow",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -319,7 +275,6 @@
 			"details": "https://github.com/mjj2000/SublimeUnitTestFileToggler",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -330,7 +285,6 @@
 			"labels": ["auto-complete", "snippets", "testing", "javascript", "nodejs"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -340,7 +294,6 @@
 			"details": "https://github.com/martinsam/sublime-unittest",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -350,11 +303,6 @@
 			"details": "https://github.com/SublimeText/UnitTesting",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -365,7 +313,6 @@
 			"labels": ["auto-complete", "unity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -376,7 +323,6 @@
 			"labels": ["auto-complete", "unity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -387,7 +333,6 @@
 			"labels": ["auto-complete", "language syntax", "shader", "unity"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -398,7 +343,6 @@
 			"labels": ["auto-complete", "snippets", "testing", "unity"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -408,7 +352,6 @@
 			"labels": ["language syntax", "unity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -419,7 +362,6 @@
 			"labels": ["build system", "unity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -430,7 +372,6 @@
 			"labels": ["snippets", "unity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -441,19 +382,7 @@
 			"labels": ["search", "unity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Unity3D Script Reference Search",
-			"details": "https://github.com/UnicornForest/Unity3DScriptReference",
-			"labels": ["unity"],
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},
@@ -463,7 +392,6 @@
 			"labels": ["language syntax", "snippets", "unity"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -474,7 +402,6 @@
 			"labels": ["snippets", "unity"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -485,7 +412,6 @@
 			"labels": ["auto-complete", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -495,7 +421,6 @@
 			"details": "https://github.com/mradamh/sublime-unquote",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -506,7 +431,6 @@
 			"labels": ["shader", "language syntax", "file navigation", "unreal", "ue4"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -517,7 +441,6 @@
 			"labels": ["snippets", "unreal", "ue4"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -527,7 +450,6 @@
 			"labels": ["auto-complete", "build system", "code navigation", "debugger", "language syntax", "snippets", "udk", "unreal"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -537,7 +459,6 @@
 			"details": "https://github.com/urre/Unsplash",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -548,7 +469,6 @@
 			"labels": ["css", "search"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -561,7 +481,6 @@
 			"author": "xecreators",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -571,7 +490,6 @@
 			"details": "https://github.com/ulasozguler/sublime-url-utils",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": "st3-"
 				}
 			]
@@ -583,7 +501,6 @@
 			"labels": ["url", "link", "html", "markdown", "restructuredtext"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -592,7 +509,6 @@
 			"details": "https://github.com/mastahyeti/URLEncode",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -603,7 +519,6 @@
 			"labels": ["formatting", "sql"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -614,7 +529,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -625,7 +539,6 @@
 			"labels": ["javascript"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -636,7 +549,6 @@
 			"labels": ["language syntax", "bible"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": "version/st3092/"
 				}
 			]
@@ -647,7 +559,6 @@
 			"labels": ["language syntax", "usfos"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -658,7 +569,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -670,7 +580,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -680,7 +589,6 @@
 			"details": "https://github.com/recurrying/uxcore-plugin-for-sublime",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

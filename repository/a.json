@@ -71,8 +71,8 @@
 		},
 		{
 			"name": "ABNF-sublime-syntax",
-			"details": "https://github.com/ZxxLang/ABNF-sublime-syntax",
-			"labels": ["abnf", "language syntax"],
+			"details": "https://gitlab.com/zxxlang/ABNF-sublime-syntax",
+			"labels": ["language syntax", "abnf", "bnf"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

@@ -2,6 +2,18 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"details": "https://github.com/kaessajidi/ekl-sublim-text",
+			"name": "Dassault Systemes EKL Syntax",
+			"author": "Kamal Essa",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/glyph/E-Max",
 			"releases": [
 				{

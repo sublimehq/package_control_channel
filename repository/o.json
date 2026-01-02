@@ -851,7 +851,6 @@
 		{
 			"name": "OpenInBrowser",
 			"details": "https://bitbucket.org/bteryek/openinbrowser",
-			"homepage": "http://idevelopsolutions.com/OpenInBrowser",
 			"labels": [
 				"browser",
 				"open in browser",

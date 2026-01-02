@@ -420,6 +420,17 @@
 			]
 		},
 		{
+			"name": "Task List",
+			"details": "https://github.com/noahcoad/SublimeTaskList",
+			"labels": ["todo", "gtd", "tasks"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Task Timer",
 			"details": "https://github.com/jcowgar/sublime-task-timer",
 			"releases": [

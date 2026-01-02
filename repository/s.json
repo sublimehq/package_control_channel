@@ -969,6 +969,15 @@
 			]
 		},
 		{
+			"details": "https://github.com/dtoader/SelectionsToFiles",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SelectionTools",
 			"details": "https://github.com/simonrad/sublime-selection-tools",
 			"releases": [

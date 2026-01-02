@@ -331,7 +331,7 @@
 		},
 		{
 			"name": "Zxx",
-			"details": "https://github.com/ZxxLang/ZxxSublime",
+			"details": "https://gitlab.com/zxxlang/ZxxSublime",
 			"labels": ["language syntax", "zxx"],
 			"releases": [
 				{

@@ -564,6 +564,17 @@
 			]
 		},
 		{
+			"name": "Markdown Table of Contents",
+			"details": "https://github.com/codeleventh/mdtoc",
+			"labels": ["markdown", "table of contents", "text navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Markdown to Clipboard",
 			"details": "https://github.com/zhimiaoli/Sublime.Markdown2Clipboard",
 			"releases": [

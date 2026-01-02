@@ -1056,6 +1056,17 @@
 			]
 		},
 		{
+			"name": "Ollama AI",
+			"details": "https://github.com/KalimeroMK/ollama-sublime",
+			"author": "Zoran Shefot Bogoevski",
+			"releases": [
+				{
+					"sublime_text": ">=4100",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "OrigamiEmacs",
 			"details": "https://github.com/kevincobain2000/Origami-Emacs",
 			"releases": [

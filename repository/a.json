@@ -2265,6 +2265,17 @@
 			]
 		},
 		{
+			"name": "Auto Open Notes",
+			"details": "https://github.com/noahcoad/SublimeAutoOpenNotes",
+			"labels": ["notes.txt", "readme.txt", "readme.md", "readme"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Auto Refresh",
 			"details": "https://github.com/Wouterdek/AutoRefresh",
 			"releases": [

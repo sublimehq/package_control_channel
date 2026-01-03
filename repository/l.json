@@ -1403,6 +1403,16 @@
 			]
 		},
 		{
+			"name": "LiveScript",
+			"details": "https://github.com/SublimeText/LiveScript",
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": "4107-"
+				}
+			]
+		},
+		{
 			"name": "LiveServer",
 			"details": "https://github.com/molnarmark/sublime-live-server",
 			"releases": [

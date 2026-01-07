@@ -859,6 +859,8 @@
 		{
 			"name": "GitLink",
 			"details": "https://github.com/rscherf/GitLink",
+			"author": ["rscherf", "michaelblyons"],
+			"labels": ["git", "share", "github", "gitlab", "bitbucket"],
 			"releases": [
 				{
 					"sublime_text": "*",

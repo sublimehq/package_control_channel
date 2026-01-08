@@ -1902,11 +1902,15 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/AsciiDoc",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "snippets", "asciidoc"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": ">=4174",
+					"tags": "version/st4174/"
+				},
+				{
+					"sublime_text": "<4174",
+					"tags": "version/st3000/"
 				}
 			]
 		},

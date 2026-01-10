@@ -2755,7 +2755,6 @@
 		{
 			"name": "Prolog",
 			"details": "https://github.com/alnkpa/sublimeprolog",
-			"donate": "https://flattr.com/profile/alnkpa",
 			"labels": ["build system", "language syntax"],
 			"releases": [
 				{

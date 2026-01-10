@@ -695,7 +695,7 @@
 		{
 			"name": "Terminal In Packages",
 			"details": "https://github.com/mxdevmanuel/sublime-terminal-in-packages",
-			"releases":[
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true

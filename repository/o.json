@@ -763,7 +763,7 @@
 		},
 		{
 			"name": "OpenDSS",
-			"details":"https://github.com/dparrini/sublime_opendss",
+			"details": "https://github.com/dparrini/sublime_opendss",
 			"labels": ["auto-complete", "build system", "language syntax"],
 			"releases": [
 				{

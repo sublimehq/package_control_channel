@@ -1306,7 +1306,7 @@
 		{
 			"name": "esoftplay",
 			"details": "https://github.com/esoftplay/sublimetext-snippets",
-			"labels":["snippets", "language syntax"],
+			"labels": ["snippets", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1338,7 +1338,7 @@
 		{
 			"name": "ESpec",
 			"details": "https://github.com/retgoat/ESpec",
-			"labels":["build system", "language syntax", "snippets"],
+			"labels": ["build system", "language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "*",

@@ -2709,7 +2709,7 @@
 			"name": "AVM2 Pcode Syntax Highlighting",
 			"details": "https://github.com/calculuswhiz/pcode-syntax-definition",
 			"labels": ["language syntax"],
-			"releases":[
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true

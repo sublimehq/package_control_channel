@@ -1663,7 +1663,7 @@
 		},
 		{
 			"name": "CloseTabsLeft",
-			"details":"https://github.com/deXterbed/CloseTabsLeft",
+			"details": "https://github.com/deXterbed/CloseTabsLeft",
 			"releases": [
 				{
 					"sublime_text": "<3000",
@@ -2282,7 +2282,7 @@
 		{
 			"name": "CodePresenter",
 			"details": "https://github.com/fwph/codepresenter",
-			"labels":["presentation"],
+			"labels": ["presentation"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

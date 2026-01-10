@@ -1562,10 +1562,10 @@
 		{
 			"name": "Browser Sync",
 			"details": "https://github.com/iamdjones/sublime-text-browser-sync",
-			"releases":[
+			"releases": [
 				{
 					"sublime_text":">=3000",
-					"tags":true
+					"tags": true
 				}
 			]
 		},

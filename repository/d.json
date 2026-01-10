@@ -537,7 +537,6 @@
 		{
 			"name": "DelayedSaveAll",
 			"details": "https://github.com/shagabutdinov/sublime-delayed-save-all",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced"],
 			"releases": [
 				{
@@ -722,7 +721,6 @@
 		{
 			"name": "DevastateMini",
 			"details": "https://github.com/shagabutdinov/sublime-devastate-mini",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "theme", "color scheme"],
 			"releases": [
 				{

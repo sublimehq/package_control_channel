@@ -728,7 +728,6 @@
 		{
 			"name": "TerminalProjectFolder",
 			"details": "https://github.com/shagabutdinov/sublime-terminal-project-folder",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "terminal"],
 			"releases": [
 				{
@@ -2964,7 +2963,6 @@
 		{
 			"name": "ToggleWrap",
 			"details": "https://github.com/shagabutdinov/sublime-toggle-wrap",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{

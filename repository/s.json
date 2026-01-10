@@ -567,7 +567,6 @@
 		{
 			"name": "ScopeContext",
 			"details": "https://github.com/shagabutdinov/sublime-scope-context",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -695,7 +694,6 @@
 		{
 			"name": "ScrollAlternative",
 			"details": "https://github.com/shagabutdinov/sublime-scroll-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -888,7 +886,6 @@
 		{
 			"name": "SearchPanelEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-search-panel-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -1071,7 +1068,6 @@
 		{
 			"name": "Semicolon",
 			"details": "https://github.com/shagabutdinov/sublime-semicolon",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -1495,7 +1491,6 @@
 		{
 			"name": "ShellStatus",
 			"details": "https://github.com/shagabutdinov/sublime-shell-status",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "theme"],
 			"releases": [
 				{
@@ -2740,7 +2735,6 @@
 		{
 			"name": "SnippetCaller",
 			"details": "https://github.com/shagabutdinov/sublime-snippet-caller",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["snippets", "sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -2775,7 +2769,6 @@
 		{
 			"name": "SnippetManager",
 			"details": "https://github.com/shagabutdinov/sublime-snippet-manager",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["snippets", "sublime-enhanced"],
 			"releases": [
 				{
@@ -3212,7 +3205,6 @@
 		{
 			"name": "SpaceSnippets",
 			"details": "https://github.com/shagabutdinov/sublime-space-snippets",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -3919,7 +3911,6 @@
 		{
 			"name": "Statement",
 			"details": "https://github.com/shagabutdinov/sublime-statement",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation", "utilities"],
 			"releases": [
 				{
@@ -4005,7 +3996,6 @@
 		{
 			"name": "StatusMessage",
 			"details": "https://github.com/shagabutdinov/sublime-status-message",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "theme"],
 			"releases": [
 				{
@@ -4725,7 +4715,6 @@
 		{
 			"name": "SublimeEnhancedUtilitiesSet",
 			"details": "https://github.com/shagabutdinov/sublime-utilities",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{

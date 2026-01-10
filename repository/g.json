@@ -1750,7 +1750,6 @@
 		{
 			"name": "GotoCharacter",
 			"details": "https://github.com/shagabutdinov/sublime-goto-character",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -1834,7 +1833,6 @@
 		{
 			"name": "GotoLastEditEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-goto-last-edit-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -1846,7 +1844,6 @@
 		{
 			"name": "GotoLineEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-goto-line-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{

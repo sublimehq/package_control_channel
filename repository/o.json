@@ -879,7 +879,6 @@
 		{
 			"name": "OpenPath",
 			"details": "https://github.com/shagabutdinov/sublime-open-path",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{

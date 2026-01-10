@@ -1031,7 +1031,6 @@
 		{
 			"name": "WrapStatement",
 			"details": "https://github.com/shagabutdinov/sublime-wrap-statement",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{

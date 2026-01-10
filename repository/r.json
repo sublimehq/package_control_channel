@@ -1237,7 +1237,6 @@
 		{
 			"name": "RemoveSelection",
 			"details": "https://github.com/shagabutdinov/sublime-remove-selection",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "cursors manipulation"],
 			"releases": [
 				{
@@ -1322,7 +1321,6 @@
 		{
 			"name": "RepeatCommand",
 			"details": "https://github.com/shagabutdinov/sublime-repeat-command",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced"],
 			"releases": [
 				{

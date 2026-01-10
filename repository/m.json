@@ -754,6 +754,17 @@
 			]
 		},
 		{
+			"details": "https://github.com/vwheeler63/MarkerStack",
+			"labels": ["marker stack", "cursor position stack"],
+			"donate": "https://buymeacoffee.com/vwheeler63",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marking Changed Rows",
 			"details": "https://github.com/Harurow/sublime_markingchangedrows",
 			"releases": [

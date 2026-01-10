@@ -773,7 +773,7 @@
 			"releases": [
 				{
 					"base": "https://github.com/sublimelsp/lsp_utils",
-					"python_versions": ["3.3", "3.8", "3.13"],
+					"python_versions": ["3.3", "3.8"],
 					"sublime_text": "3154 - 4069",
 					"tags": "st3-v"
 				},
@@ -1787,7 +1787,7 @@
 			"releases": [
 				{
 					"base": "https://github.com/packagecontrol/requests",
-					"python_versions": ["3.3", "3.8", "3.13"],
+					"python_versions": ["3.3"],
 					"tags": true
 				},
 				{
@@ -2044,8 +2044,14 @@
 			"releases": [
 				{
 					"base": "https://github.com/SublimeText/sublime_lib",
-					"python_versions": ["3.3", "3.8", "3.13"],
-					"tags": true
+					"asset": "sublime_lib-*-py3-none-any.whl",
+					"python_versions": ["3.3"],
+					"tags": "st3-v"
+				},
+				{
+					"base": "https://github.com/SublimeText/sublime_lib",
+					"asset": "sublime_lib-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13"]
 				}
 			]
 		},

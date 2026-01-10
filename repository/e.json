@@ -1348,6 +1348,17 @@
 			]
 		},
 		{
+			"name": "ESPHome",
+			"details": "https://github.com/SublimeText/ESPHome",
+			"labels":["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "4143-"
+				}
+			]
+		},
+		{
 			"name": "Estomato",
 			"details": "https://github.com/rakibulhaq/Estomato",
 			"labels": ["text manipulation", "text selection", "aggregation"],

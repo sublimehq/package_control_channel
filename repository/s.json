@@ -5947,7 +5947,6 @@
 			"name": "Syncrow",
 			"description": "Create and Sync Snippets.",
 			"details": "https://github.com/Afzal7/syncrow",
-			"homepage": "https://syncrow.herokuapp.com",
 			"author": "Afzal7",
 			"labels": ["snippets", "create", "syncrow", "synchronize"],
 			"releases": [

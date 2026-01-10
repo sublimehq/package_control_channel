@@ -1354,7 +1354,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4143",
-					"tags": true
+					"tags": "4143-"
 				}
 			]
 		},

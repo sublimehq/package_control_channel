@@ -743,9 +743,7 @@
 			]
 		},
 		{
-			"description": "Push/pop cursor (caret) position in View with single keystroke; saves state between sessions.",
 			"details": "https://github.com/vwheeler63/MarkerStack",
-			"readme": "https://github.com/vwheeler63/MarkerStack/blob/master/README.rst",
 			"labels": ["marker stack", "cursor position stack"],
 			"donate": "https://buymeacoffee.com/vwheeler63",
 			"releases": [

@@ -1350,7 +1350,7 @@
 		{
 			"name": "ESPHome",
 			"details": "https://github.com/SublimeText/ESPHome",
-			"labels":["language syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=4143",

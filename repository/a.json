@@ -66,8 +66,8 @@
 		},
 		{
 			"name": "ABNF-sublime-syntax",
-			"details": "https://github.com/ZxxLang/ABNF-sublime-syntax",
-			"labels": ["abnf", "language syntax"],
+			"details": "https://gitlab.com/zxxlang/ABNF-sublime-syntax",
+			"labels": ["language syntax", "abnf", "bnf"],
 			"releases": [
 				{
 					"tags": true
@@ -425,6 +425,17 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Agentic",
+			"details": "https://github.com/alecGraves/Agentic",
+			"labels": ["ai", "llm", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1597,10 +1608,15 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/AsciiDoc",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "snippets", "asciidoc"],
 			"releases": [
 				{
-					"branch": "master"
+					"sublime_text": ">=4174",
+					"tags": "version/st4174/"
+				},
+				{
+					"sublime_text": "<4174",
+					"tags": "version/st3000/"
 				}
 			]
 		},
@@ -2272,7 +2288,7 @@
 			"name": "AVM2 Pcode Syntax Highlighting",
 			"details": "https://github.com/calculuswhiz/pcode-syntax-definition",
 			"labels": ["language syntax"],
-			"releases":[
+			"releases": [
 				{
 					"tags": true
 				}

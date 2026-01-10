@@ -246,7 +246,7 @@
 			"author": "robinchenyu",
 			"releases": [
 				{
-					"platforms":["windows", "linux"],
+					"platforms": ["windows", "linux"],
 					"tags": true
 				}
 			]
@@ -796,7 +796,7 @@
 			"name": "Intellekt",
 			"details": "https://github.com/tushortz/intellekt",
 			"labels": ["auto-complete", "completions", "help", "hint", "java", "python"],
-			"author":"Taiwo Kareem",
+			"author": "Taiwo Kareem",
 			"releases": [
 				{
 					"tags": true
@@ -964,8 +964,8 @@
 		{
 			"name": "Ionic Framework Extended Autocomplete",
 			"details": "https://github.com/matheuscas/SublimeIonic",
-			"labels":["auto-complete", "completions", "ionic framework"],
-			"author":"Matheus Cardoso",
+			"labels": ["auto-complete", "completions", "ionic framework"],
+			"author": "Matheus Cardoso",
 			"releases": [
 				{
 					"tags": true

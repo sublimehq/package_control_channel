@@ -266,20 +266,20 @@
 			]
 		},
 		{
-			"name":"Gengojs",
-			"details":"https://github.com/gengojs/sublime-snippets",
-			"labels":["snippets", "i18n", "l10n"],
-			"releases":[
+			"name": "Gengojs",
+			"details": "https://github.com/gengojs/sublime-snippets",
+			"labels": ["snippets", "i18n", "l10n"],
+			"releases": [
 				{
 					"tags": true
 				}
 			]
 		},
 		{
-			"name":"Georgify",
-			"details":"https://github.com/shividhar/Georgify",
-			"labels":["language syntax", "correctness proofs", "uwaterloo"],
-			"releases":[
+			"name": "Georgify",
+			"details": "https://github.com/shividhar/Georgify",
+			"labels": ["language syntax", "correctness proofs", "uwaterloo"],
+			"releases": [
 				{
 					"tags": true
 				}
@@ -743,6 +743,8 @@
 		{
 			"name": "GitLink",
 			"details": "https://github.com/rscherf/GitLink",
+			"author": ["rscherf", "michaelblyons"],
+			"labels": ["git", "share", "github", "gitlab", "bitbucket"],
 			"releases": [
 				{
 					"tags": true

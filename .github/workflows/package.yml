@@ -5,24 +5,14 @@ on:
   issue_comment:
     types: [created]  # run when comment added with "📦"
 
-env:
-  GITHUB_TOKEN: ${{ github.token }}
-
-permissions:
-  contents: read
-  pull-requests: write
-
 jobs:
   # run package test on pull request event (but not on drafts)
   package:
     if: ${{ github.event_name == 'pull_request' && !github.event.pull_request.draft }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@7dd94a9f77ab03d7a7a412ae88132076c66cf5ff
+        uses: kaste/st_package_reviewer/gh_action@463ce04e289b5b4158230802c5c867d8719daefa
         with:
           pr: ${{ github.event.pull_request.html_url }}
           file: repository.json
@@ -32,11 +22,8 @@ jobs:
     if: ${{ github.event_name == 'issue_comment' && github.event.issue.pull_request != null && contains(github.event.comment.body, '📦') }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@7dd94a9f77ab03d7a7a412ae88132076c66cf5ff
+        uses: kaste/st_package_reviewer/gh_action@463ce04e289b5b4158230802c5c867d8719daefa
         with:
           pr: ${{ github.event.issue.pull_request.html_url }}
           file: repository.json

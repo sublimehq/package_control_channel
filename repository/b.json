@@ -756,7 +756,7 @@
 		{
 			"name": "bioSyntax",
 			"details": "https://github.com/bioSyntax/bioSyntax-sublime",
-			"homepage": "http://bioSyntax.org",
+			"homepage": "https://bioSyntax.org",
 			"readme": "https://raw.githubusercontent.com/bioSyntax/bioSyntax/master/README.md",
 			"issues": "https://github.com/bioSyntax/bioSyntax/issues",
 			"labels": [ "science", "bioinformatics", "biology", "language syntax" ],
@@ -1314,9 +1314,9 @@
 		{
 			"name": "Browser Sync",
 			"details": "https://github.com/iamdjones/sublime-text-browser-sync",
-			"releases":[
+			"releases": [
 				{
-					"tags":true
+					"tags": true
 				}
 			]
 		},

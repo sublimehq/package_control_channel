@@ -305,7 +305,7 @@
 		{
 			"name": "Date Formatter",
 			"details": "https://github.com/pjdietz/sublime-date-formatter",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"tags": true
@@ -1171,7 +1171,6 @@
 		{
 			"name": "DocBlockr",
 			"details": "https://github.com/spadgos/sublime-jsdocs",
-			"donate": "http://pledgie.com/campaigns/16316",
 			"labels": ["documentation", "comments"],
 			"releases": [
 				{
@@ -1222,20 +1221,20 @@
 		{
 			"name": "DocPHPManualer",
 			"details": "https://github.com/garveen/docphp",
-			"labels":["document","php","manual"],
+			"labels": ["document","php","manual"],
 			"releases": [
 				{
-					"tags":true
+					"tags": true
 				}
 			]
 		},
 		{
 			"name": "DocPy",
 			"details": "https://github.com/RicherMans/Sublime3-pydoc",
-			"labels":["auto-complete", "formatting", "snippets"],
+			"labels": ["auto-complete", "formatting", "snippets"],
 			"releases": [
 				{
-					"tags":true
+					"tags": true
 				}
 			]
 		},

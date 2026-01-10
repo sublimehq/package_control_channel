@@ -496,6 +496,17 @@
 			]
 		},
 		{
+			"name": "Markdown Table of Contents",
+			"details": "https://github.com/codeleventh/mdtoc",
+			"labels": ["markdown", "table of contents", "text navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Markdown to Clipboard",
 			"details": "https://github.com/zhimiaoli/Sublime.Markdown2Clipboard",
 			"releases": [
@@ -707,7 +718,7 @@
 			"details": "https://github.com/42iscool42/MCC",
 			"releases": [
 				{
-					"tags":true
+					"tags": true
 				}
 			]
 		},
@@ -1170,7 +1181,7 @@
 		{
 			"name": "Merge Variables",
 			"details": "https://github.com/pjdietz/sublime-merge-variables",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"tags": true
@@ -1181,7 +1192,7 @@
 			"name": "Merge Windows",
 			"details": "https://github.com/chinchin96/SublimeText-Merge-Windows",
 			"author": "Chinedu Ezeamuzie",
-			"donate": "http://paypal.me/chinchin96",
+			"donate": "https://paypal.me/chinchin96",
 			"labels": [
 				"merge windows",
 				"merge tabs",
@@ -1369,7 +1380,7 @@
 			"labels": ["language syntax", "query", "excel", "powerbi", "microsoft", "ms"],
 			"releases": [
 				{
-					"tags":true
+					"tags": true
 				}
 			]
 		},

@@ -531,7 +531,7 @@
 		{
 			"name": "Path Tools",
 			"details": "https://github.com/pjdietz/sublime-path-tools",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"tags": true
@@ -1104,7 +1104,6 @@
 		{
 			"name": "PhpCodeGen",
 			"details": "https://bitbucket.org/bteryek/phpcodegen",
-			"homepage": "http://idevelopsolutions.com/PhpCodeGen",
 			"labels": ["code generation", "formatting", "snippets", "text manipulation", "php", "docblock"],
 			"releases": [
 				{
@@ -1288,7 +1287,7 @@
 			"details": "https://github.com/pieces-app/plugin_sublime/",
 			"homepage": "https://pieces.app/",
 			"labels": ["snippets", "ai", "pieces"],
-			"author":"Pieces for Developers",
+			"author": "Pieces for Developers",
 			"releases": [
 				{
 					"sublime_text": ">=4000",
@@ -1788,7 +1787,7 @@
 		},
 		{
 			"name": "Power System Tools Syntax",
-			"details":"https://github.com/dparrini/sublime_powersystems",
+			"details": "https://github.com/dparrini/sublime_powersystems",
 			"labels": ["auto-complete", "language syntax"],
 			"releases": [
 				{
@@ -2956,11 +2955,11 @@
 		},
 		{
 			"name": "PythonVoiceCodingPlugin",
-			"details":"https://github.com/mpourmpoulis/PythonVoiceCodingPlugin",
-			"labels":["voice coding","accessibility","syntax tree","python","grammar","high level"],
-			"releases":[
+			"details": "https://github.com/mpourmpoulis/PythonVoiceCodingPlugin",
+			"labels": ["voice coding","accessibility","syntax tree","python","grammar","high level"],
+			"releases": [
 				{
-					"tags":true
+					"tags": true
 				}
 			]
 		},

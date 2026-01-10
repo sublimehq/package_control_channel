@@ -268,6 +268,16 @@
 			]
 		},
 		{
+			"name": "Save All New Tabs to One File",
+			"details": "https://github.com/Thamulabs/SaveAllNewTabsInOneDocument",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Save Copy As",
 			"details": "https://github.com/NickHatBoecker/SaveCopyAs",
 			"releases": [
@@ -1864,10 +1874,7 @@
 			"name": "Six",
 			"description": "Advanced Vim emulation.",
 			"author": "Guillermo López-Anglada",
-			"homepage": "http://www.sublimesix.com",
-			"buy": "http://www.sublimesix.com/buy.html",
 			"details": "https://github.com/guillermooo/six",
-			"readme": "https://raw.githubusercontent.com/guillermooo/Six/master/README.md",
 			"labels": ["vim", "vi", "vintage", "vintageous", "emulation", "emulator", "editor emulation"],
 			"releases": [
 				{
@@ -3922,7 +3929,6 @@
 		{
 			"name": "SublimeAnarchy",
 			"details": "https://github.com/AnarchyTools/SublimeAnarchy",
-			"homepage": "http://anarchytools.org",
 			"author": ["drewcrawford", "dunkelstern"],
 			"labels": ["auto-complete", "build system", "language syntax"],
 			"releases": [
@@ -3935,7 +3941,6 @@
 		{
 			"name": "SublimeAnarchyDebug",
 			"details": "https://github.com/AnarchyTools/SublimeAnarchyDebug",
-			"homepage": "http://anarchytools.org",
 			"author": "dunkelstern",
 			"labels": ["debugger"],
 			"releases": [
@@ -5147,7 +5152,7 @@
 			"name": "SystemVerilog",
 			"description": "Syntax Highlighting, smart snippets, autocompletion, code navigation and more for Verilog and SystemVerilog",
 			"details": "https://github.com/TheClams/SystemVerilog",
-			"homepage": "http://sv-doc.readthedocs.org/en/latest",
+			"homepage": "https://sv-doc.readthedocs.org/en/latest",
 			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{

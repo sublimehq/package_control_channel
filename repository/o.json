@@ -696,7 +696,7 @@
 		},
 		{
 			"name": "OpenDSS",
-			"details":"https://github.com/dparrini/sublime_opendss",
+			"details": "https://github.com/dparrini/sublime_opendss",
 			"labels": ["auto-complete", "build system", "language syntax"],
 			"releases": [
 				{
@@ -769,7 +769,6 @@
 		{
 			"name": "OpenInBrowser",
 			"details": "https://bitbucket.org/bteryek/openinbrowser",
-			"homepage": "http://idevelopsolutions.com/OpenInBrowser",
 			"labels": [
 				"browser",
 				"open in browser",

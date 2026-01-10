@@ -1241,6 +1241,17 @@
 			]
 		},
 		{
+			"name": "LiveScript",
+			"details": "https://github.com/SublimeText/LiveScript",
+			"labels": ["language syntax", "build system", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": "4107-"
+				}
+			]
+		},
+		{
 			"name": "LiveServer",
 			"details": "https://github.com/molnarmark/sublime-live-server",
 			"releases": [

@@ -880,12 +880,12 @@
 			]
 		},
 		{
-			"name":"Firebase Rules Syntax",
-			"details":"https://github.com/jingyuexing/Sublime-Firebase-Syntax",
-			"labels":["language syntax"],
-			"releases":[
+			"name": "Firebase Rules Syntax",
+			"details": "https://github.com/jingyuexing/Sublime-Firebase-Syntax",
+			"labels": ["language syntax"],
+			"releases": [
 				{
-					"tags":true
+					"tags": true
 				}
 			]
 		},

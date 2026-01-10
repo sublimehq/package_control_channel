@@ -114,6 +114,16 @@
 			]
 		},
 		{
+			"name": "Umbral",
+			"details": "https://github.com/hersac/umbral-sublime",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "UMD snippets",
 			"details": "https://github.com/garrettn/sublime-umd-snippets",
 			"labels": ["snippets", "javascript"],
@@ -466,7 +476,6 @@
 		{
 			"name": "Unyson Snippets",
 			"details": "https://github.com/XeCreators/Unyson-Snippets-Sublime",
-			"homepage": "http://unyson.io/",
 			"labels": ["snippets"],
 			"author": "xecreators",
 			"releases": [

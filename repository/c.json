@@ -1039,12 +1039,13 @@
 			]
 		},
 		{
-			"name": "Cisco Syntax Highlighter",
-			"details": "https://github.com/tunnelsup/sublime-cisco-syntax",
+			"name": "Cisco",
+			"details": "https://github.com/mburknoe/CiscoSyntax-Badwifi-Sublime-syntax",
+			"previous_names": ["Cisco Syntax Highlighter"],
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -1458,7 +1459,8 @@
 					"tags": true
 				}
 			]
-		},{
+		},
+		{
 			"name": "Cloudup",
 			"details": "https://github.com/justinshreve/SublimeCloudup",
 			"releases": [
@@ -1816,7 +1818,7 @@
 		{
 			"name": "Codeforces Util",
 			"details": "https://github.com/shankhs/CodeforcesUtil",
-			"homepage": "http://www.shankhs.com",
+			"homepage": "https://www.shankhs.com",
 			"author": "shankhs",
 			"releases": [
 				{
@@ -1887,7 +1889,7 @@
 		{
 			"name": "Codeivate",
 			"details": "https://github.com/codeivate/codeivate-st",
-			"issues": "http://codeivate.userecho.com/",
+			"issues": "https://codeivate.userecho.com/",
 			"labels": ["code sharing", "analytics"],
 			"releases": [
 				{
@@ -1951,7 +1953,7 @@
 		{
 			"name": "CodePresenter",
 			"details": "https://github.com/fwph/codepresenter",
-			"labels":["presentation"],
+			"labels": ["presentation"],
 			"releases": [
 				{
 					"tags": true

@@ -1,0 +1,26 @@
+name: Post Review Comment
+on:
+  workflow_run:
+    workflows: ["Package test"] # must match the phase-1 workflow name
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      run_id:
+        required: true
+        type: string
+
+jobs:
+  post-review:
+    if: ${{ github.event.workflow_run.conclusion != 'skipped' }}
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: write
+      actions: read
+      contents: read
+    steps:
+      - name: Post PR comment from artifact
+        uses: kaste/st_package_reviewer/gh_action@c31b4581d84e7481c38ba0552cf9b7bfb4178b87
+        with:
+          phase: report
+          run_id: ${{ github.event.workflow_run.id }}

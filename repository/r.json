@@ -1239,7 +1239,7 @@
 		{
 			"name": "RESTer HTTP Client",
 			"details": "https://github.com/pjdietz/rester-sublime-http-client",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"labels": ["language syntax"],
 			"releases": [
 				{

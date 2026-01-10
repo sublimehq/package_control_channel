@@ -1353,7 +1353,7 @@
 			"labels":["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=4143",
 					"tags": "4143-"
 				}
 			]

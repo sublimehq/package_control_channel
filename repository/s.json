@@ -1511,7 +1511,6 @@
 		{
 			"name": "Shen",
 			"details": "https://github.com/rkoeninger/sublime-shen",
-			"readme": "https://raw.githubusercontent.com/rkoeninger/sublime-shen/master/README.md",
 			"author": "Robert Koeninger",
 			"labels": ["language syntax", "snippets"],
 			"releases": [
@@ -3095,7 +3094,6 @@
 			"name": "SourcePawn Completions",
 			"details": "https://github.com/ppalex7/SourcePawnCompletions",
 			"description": "SourcePawn auto-completion and build-system",
-			"readme": "https://raw.githubusercontent.com/ppalex7/SourcePawnCompletions/master/README.md",
 			"labels": ["auto-complete", "build system"],
 			"releases": [
 				{

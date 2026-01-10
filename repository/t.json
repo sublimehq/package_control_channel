@@ -876,7 +876,6 @@
 		{
 			"name": "TestCafe Test Runner",
 			"details": "https://github.com/churkin/testcafe-sublimetext",
-			"readme": "https://github.com/churkin/testcafe-sublimetext/blob/master/README.md",
 			"labels": ["testing", "testcafe", "auto-testing", "test"],
 			"releases": [
 				{
@@ -3277,7 +3276,6 @@
 		{
 			"name": "TracRPC",
 			"details": "https://github.com/lyrixderaven/TracRPC",
-			"readme": "https://raw.githubusercontent.com/lyrixderaven/TracRPC/master/README.md",
 			"author": "Florian Cech",
 			"labels": ["trac", "project management", "tickets"],
 			"releases": [
@@ -3329,7 +3327,6 @@
 			"name": "Trainz Config",
 			"details": "https://github.com/Dangoo/trainz_config",
 			"homepage": "https://trainz-sachsen.com",
-			"readme": "https://raw.githubusercontent.com/Dangoo/trainz_config/master/README.md",
 			"author": "Daniel Gooß",
 			"labels": ["language syntax"],
 			"releases": [

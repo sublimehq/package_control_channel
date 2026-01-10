@@ -1846,7 +1846,6 @@
 		{
 			"name": "Rocks",
 			"details": "https://github.com/jonesambrosi/rocks",
-			"readme": "https://raw.githubusercontent.com/jonesambrosi/rocks/master/README.md",
 			"labels": ["testing", "continuous integration", "python", "auto-testing", "coverage"],
 			"releases": [
 				{
@@ -1858,7 +1857,6 @@
 		{
 			"name": "Rockstar Syntax Highlighter",
 			"details": "https://github.com/brownian-motion/sublime-rockstar-syntax",
-			"readme": "https://raw.githubusercontent.com/paxromana96/sublime-rockstar-syntax/master/README.md",
 			"labels": ["rockstar", "language syntax"],
 			"releases": [
 				{
@@ -1870,7 +1868,6 @@
 		{
 			"name": "Rohingya Dark color scheme",
 			"details": "https://github.com/rybtech/Rohingya-dark-sublime-text-3-color-scheme",
-			"readme": "https://github.com/rybtech/Rohingya-dark-sublime-text-3-color-scheme/blob/master/README.md",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -2007,7 +2004,6 @@
 		{
 			"name": "RSBIDE",
 			"details": "https://github.com/mom1/RSBIDE",
-			"readme": "https://raw.githubusercontent.com/mom1/RSBIDE/master/readme.md",
 			"labels": ["auto-complete", "build system", "code navigation", "language syntax", "snippets", "ide", "r-style", "rsl", "rs-balance"],
 			"author": "MOM",
 			"releases": [

@@ -2541,7 +2541,6 @@
 			"name": "AutoPEP8",
 			"details": "https://github.com/wistful/SublimeAutoPEP8",
 			"labels": ["formatting", "linting"],
-			"readme": "https://raw.githubusercontent.com/wistful/SublimeAutoPEP8/master/Readme.md",
 			"releases": [
 				{
 					"sublime_text": ">=3000",

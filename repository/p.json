@@ -505,7 +505,6 @@
 		{
 			"name": "Paste Plus",
 			"details": "https://github.com/ggets/Sublime_PastePlus",
-			"readme": "https://raw.githubusercontent.com/ggets/Sublime_PastePlus/main/README.md",
 			"labels": ["text manipulation", "clipboard", "paste"],
 			"author": "GGets",
 			"releases": [
@@ -550,7 +549,6 @@
 		{
 			"name": "PasteAsString",
 			"details": "https://github.com/mom1/PasteAsString",
-			"readme": "https://raw.githubusercontent.com/mom1/PasteAsString/master/README.md",
 			"labels": ["text manipulation"],
 			"author": "MOM",
 			"releases": [

@@ -69,7 +69,6 @@
 		{
 			"name": "Factor",
 			"details": "https://github.com/rkoeninger/sublime-factor",
-			"readme": "https://raw.githubusercontent.com/rkoeninger/sublime-factor/master/README.md",
 			"author": "Robert Koeninger",
 			"labels": ["factor", "language syntax"],
 			"releases": [
@@ -82,7 +81,6 @@
 		{
 			"name": "FactoryBot",
 			"details": "https://github.com/tinogomes/Sublime-FactoryBot-Snippets",
-			"readme": "https://raw.githubusercontent.com/tinogomes/Sublime-FactoryBot-Snippets/master/README.md",
 			"author": "Celestino Gomes (tinogomes)",
 			"labels": ["snippets", "ruby", "test", "rspec", "factory"],
 			"releases": [

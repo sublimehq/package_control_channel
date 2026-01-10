@@ -4347,7 +4347,6 @@
 			"details": "https://github.com/cslint/sublime-cslint",
 			"labels": ["code style", "formatting", "linting"],
 			"author": "molee1905",
-			"readme": "https://raw.githubusercontent.com/cslint/sublime-cslint/master/README.md",
 			"releases": [
 				{
 					"sublime_text": ">=3124",

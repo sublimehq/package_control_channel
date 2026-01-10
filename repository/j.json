@@ -802,7 +802,6 @@
 		{
 			"name": "Jq",
 			"details": "https://gitlab.com/jiehong/sublime_jq",
-			"readme": "https://gitlab.com/jiehong/sublime_jq/-/raw/master/README.md",
 			"labels": ["interactive", "jq", "json"],
 			"releases": [
 				{

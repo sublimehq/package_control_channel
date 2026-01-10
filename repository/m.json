@@ -1000,7 +1000,6 @@
 		{
 			"name": "MaterialUi React Component Snippet Autocomplete",
 			"details": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete",
-			"readme": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete/blob/master/README.md",
 			"author": "Pushpam Kumar",
 			"labels": ["auto-complete", "snippets", "component", "material", "react"],
 			"releases": [

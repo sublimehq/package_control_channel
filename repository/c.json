@@ -1571,7 +1571,6 @@
 		{
 			"name": "CloneFile",
 			"details": "https://github.com/shagabutdinov/sublime-clone-file",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced"],
 			"releases": [
 				{
@@ -3484,7 +3483,6 @@
 		{
 			"name": "Confluence",
 			"details": "https://github.com/mlf4aiur/SublimeConfluence",
-			"homepage": "https://github.com/mlf4aiur/SublimeConfluence",
 			"author": "Kevin Li",
 			"releases": [
 				{
@@ -3563,7 +3561,6 @@
 		{
 			"name": "Context",
 			"details": "https://github.com/shagabutdinov/sublime-context",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -4350,7 +4347,6 @@
 			"details": "https://github.com/cslint/sublime-cslint",
 			"labels": ["code style", "formatting", "linting"],
 			"author": "molee1905",
-			"readme": "https://raw.githubusercontent.com/cslint/sublime-cslint/master/README.md",
 			"releases": [
 				{
 					"sublime_text": ">=3124",

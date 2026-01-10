@@ -36,7 +36,6 @@
 		{
 			"name": "NamedMark",
 			"details": "https://github.com/shagabutdinov/sublime-named-mark",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -395,7 +394,6 @@
 		{
 			"name": "NestedSnippet",
 			"details": "https://github.com/shagabutdinov/sublime-nested-snippet",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["snippets", "sublime-enhanced"],
 			"releases": [
 				{
@@ -418,7 +416,6 @@
 		{
 			"name": "NestingSnippet",
 			"details": "https://github.com/shagabutdinov/sublime-nesting-snippet",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["snippets", "sublime-enhanced"],
 			"releases": [
 				{

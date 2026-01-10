@@ -1544,7 +1544,6 @@
 		{
 			"name": "LocalVariable",
 			"details": "https://github.com/shagabutdinov/sublime-local-variable",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities", "text selection", "text manipulation"],
 			"releases": [
 				{

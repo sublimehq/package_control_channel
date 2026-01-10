@@ -1219,7 +1219,6 @@
 		{
 			"name": "Serpent Syntax",
 			"details": "https://github.com/beaugunderson/serpent-syntax",
-			"homepage": "https://github.com/beaugunderson/serpent-syntax",
 			"author": ["beaugunderson"],
 			"labels": ["serpent", "language syntax"],
 			"releases": [
@@ -1308,7 +1307,6 @@
 		{
 			"name": "SetWindowTitle",
 			"details": "https://github.com/gwenzek/SublimeSetWindowTitle",
-			"homepage": "https://github.com/gwenzek/SublimeSetWindowTitle",
 			"author": "gwenzek",
 			"releases": [
 				{
@@ -1332,7 +1330,6 @@
 		{
 			"name": "SexySnippets",
 			"details": "https://github.com/felquis/SexySnippets",
-			"homepage": "https://github.com/felquis/SexySnippets",
 			"author": "felquis",
 			"labels": ["snippets", "css", "html", "javascript"],
 			"releases": [

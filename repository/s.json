@@ -272,7 +272,6 @@
 			"details": "https://github.com/Thamulabs/SaveAllNewTabsInOneDocument",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

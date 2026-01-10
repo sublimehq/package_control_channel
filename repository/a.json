@@ -435,7 +435,6 @@
 			"labels": ["ai", "llm", "chat"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

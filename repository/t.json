@@ -3069,7 +3069,7 @@
 			"labels": ["language syntax", "toml"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<4198",
 					"tags": true
 				}
 			]

@@ -784,7 +784,6 @@
 		{
 			"name": "Deviot (Arduino IDE)",
 			"details": "https://github.com/gepd/Deviot",
-			"donate": "https://gratipay.com/~gepd/",
 			"labels": ["build system", "ide", "arduino", "iot", "platformio"],
 			"releases": [
 				{

@@ -4694,8 +4694,6 @@
 			"author": "Kronuz",
 			"description": "Full-featured code intelligence and smart autocomplete engine",
 			"details": "https://github.com/SublimeCodeIntel/SublimeCodeIntel",
-			"homepage": "https://sublimecodeintel.github.io/",
-			"donate": "https://sublimecodeintel.github.io/donate.html",
 			"labels": ["auto-complete", "code navigation", "snippets"],
 			"releases": [
 				{

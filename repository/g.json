@@ -225,6 +225,17 @@
 			]
 		},
 		{
+			"name": "GeminiCLI",
+			"details": "https://github.com/flashmodel/gemini-st",
+			"labels": ["agent", "ai", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Gemma",
 			"details": "https://github.com/parachute-io/gemma",
 			"labels": ["ruby", "rubygems", "gemfile", "bundler"],

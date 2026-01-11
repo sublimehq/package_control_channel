@@ -867,7 +867,6 @@
 		{
 			"name": "MaterialUi React Component Snippet Autocomplete",
 			"details": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete",
-			"readme": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete/blob/master/README.md",
 			"author": "Pushpam Kumar",
 			"labels": ["auto-complete", "snippets", "component", "material", "react"],
 			"releases": [
@@ -1336,7 +1335,6 @@
 		{
 			"name": "Method",
 			"details": "https://github.com/shagabutdinov/sublime-method",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation", "text selection", "text manipulation"],
 			"releases": [
 				{

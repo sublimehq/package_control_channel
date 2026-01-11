@@ -1326,7 +1326,6 @@
 		{
 			"name": "AppendSelection",
 			"details": "https://github.com/shagabutdinov/sublime-append-selection",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "cursors manipulation"],
 			"releases": [
 				{
@@ -2006,7 +2005,6 @@
 		{
 			"name": "AutocompletionFuzzy",
 			"details": "https://github.com/shagabutdinov/sublime-autocompletion",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["auto-complete", "sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -2077,7 +2075,6 @@
 		{
 			"name": "AutoImport",
 			"details": "https://github.com/shagabutdinov/sublime-keyword",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -2154,7 +2151,6 @@
 			"name": "AutoPEP8",
 			"details": "https://github.com/wistful/SublimeAutoPEP8",
 			"labels": ["formatting", "linting"],
-			"readme": "https://raw.githubusercontent.com/wistful/SublimeAutoPEP8/master/Readme.md",
 			"releases": [
 				{
 					"tags": true

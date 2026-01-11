@@ -378,7 +378,6 @@
 		{
 			"name": "One Half Color Schemes",
 			"details": "https://github.com/sonph/onehalf-tmtheme",
-			"readme": "https://raw.githubusercontent.com/sonph/onehalf/master/README.md",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -795,7 +794,6 @@
 		{
 			"name": "OpenPath",
 			"details": "https://github.com/shagabutdinov/sublime-open-path",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -1044,7 +1042,6 @@
 		{
 			"name": "Oz",
 			"details": "https://github.com/mozart/sublime-oz",
-			"readme": "https://raw.githubusercontent.com/mozart/sublime-oz/master/README.md",
 			"author": "Robert Koeninger",
 			"labels": ["build system", "language syntax", "snippets"],
 			"releases": [

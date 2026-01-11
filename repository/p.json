@@ -137,9 +137,6 @@
 		{
 			"name": "Packed",
 			"details": "https://github.com/duraki/sublime-packed",
-			"homepage": "https://github.io/packed",
-			"readme": "https://raw.githubusercontent.com/duraki/sublime-packed/master/README.md",
-			"issues": "https://github.com/duraki/sublime-packed/issues",
 			"author": "duraki",
 			"releases": [
 				{
@@ -437,7 +434,6 @@
 		{
 			"name": "Paste Plus",
 			"details": "https://github.com/ggets/Sublime_PastePlus",
-			"readme": "https://raw.githubusercontent.com/ggets/Sublime_PastePlus/main/README.md",
 			"labels": ["text manipulation", "clipboard", "paste"],
 			"author": "GGets",
 			"releases": [
@@ -460,7 +456,6 @@
 		{
 			"name": "PasteAsString",
 			"details": "https://github.com/mom1/PasteAsString",
-			"readme": "https://raw.githubusercontent.com/mom1/PasteAsString/master/README.md",
 			"labels": ["text manipulation"],
 			"author": "MOM",
 			"releases": [
@@ -2263,7 +2258,6 @@
 		{
 			"name": "ProjectFiles",
 			"details": "https://github.com/shagabutdinov/sublime-project-files",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -2306,7 +2300,6 @@
 		{
 			"name": "Prolog",
 			"details": "https://github.com/alnkpa/sublimeprolog",
-			"donate": "https://flattr.com/profile/alnkpa",
 			"labels": ["build system", "language syntax"],
 			"releases": [
 				{

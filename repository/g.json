@@ -14,7 +14,6 @@
 		{
 			"name": "Galen v2+",
 			"details": "https://github.com/davidrv87/syntax-sublime-galen2",
-			"readme": "https://raw.githubusercontent.com/davidrv87/syntax-sublime-galen2/master/README.md",
 			"labels": ["language syntax"],
 			"releases": [
 				{
@@ -457,7 +456,6 @@
 				"commit"
 			],
 			"author": "adambullmer",
-			"readme": "https://raw.githubusercontent.com/adambullmer/sublime_git_commit_syntax/master/README.md",
 			"releases": [
 				{
 					"tags": true
@@ -1490,7 +1488,6 @@
 		{
 			"name": "GotoCharacter",
 			"details": "https://github.com/shagabutdinov/sublime-goto-character",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -1548,7 +1545,6 @@
 		{
 			"name": "GotoLastEditEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-goto-last-edit-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -1559,7 +1555,6 @@
 		{
 			"name": "GotoLineEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-goto-line-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -1703,7 +1698,6 @@
 		{
 			"name": "Grammalecte",
 			"details": "https://github.com/procsynth/GrammalecteST3",
-			"readme": "https://raw.githubusercontent.com/procsynth/GrammalecteST3/master/README.md",
 			"labels": ["gramma", "french", "spelling", "text"],
 			"releases": [
 				{

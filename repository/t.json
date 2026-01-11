@@ -607,7 +607,6 @@
 		{
 			"name": "TerminalProjectFolder",
 			"details": "https://github.com/shagabutdinov/sublime-terminal-project-folder",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "terminal"],
 			"releases": [
 				{
@@ -744,7 +743,6 @@
 		{
 			"name": "TestCafe Test Runner",
 			"details": "https://github.com/churkin/testcafe-sublimetext",
-			"readme": "https://github.com/churkin/testcafe-sublimetext/blob/master/README.md",
 			"labels": ["testing", "testcafe", "auto-testing", "test"],
 			"releases": [
 				{
@@ -2531,7 +2529,6 @@
 		{
 			"name": "ToggleWrap",
 			"details": "https://github.com/shagabutdinov/sublime-toggle-wrap",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -2797,7 +2794,6 @@
 		{
 			"name": "TracRPC",
 			"details": "https://github.com/lyrixderaven/TracRPC",
-			"readme": "https://raw.githubusercontent.com/lyrixderaven/TracRPC/master/README.md",
 			"author": "Florian Cech",
 			"labels": ["trac", "project management", "tickets"],
 			"releases": [
@@ -2846,7 +2842,6 @@
 			"name": "Trainz Config",
 			"details": "https://github.com/Dangoo/trainz_config",
 			"homepage": "https://trainz-sachsen.com",
-			"readme": "https://raw.githubusercontent.com/Dangoo/trainz_config/master/README.md",
 			"author": "Daniel Gooß",
 			"labels": ["language syntax"],
 			"releases": [
@@ -2947,8 +2942,6 @@
 		{
 			"name": "Travis-CI",
 			"details": "https://github.com/Section214/ST3-Travis-CI",
-			"homepage": "https://section214.com/product/st3-travis-ci/",
-			"donate": "https://section214.com/donate/",
 			"author": "Dan Griffiths",
 			"labels": ["travis", "travis-ci", "continuous integration", "status bar"],
 			"releases": [

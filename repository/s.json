@@ -479,7 +479,6 @@
 		{
 			"name": "ScopeContext",
 			"details": "https://github.com/shagabutdinov/sublime-scope-context",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -580,7 +579,6 @@
 		{
 			"name": "ScrollAlternative",
 			"details": "https://github.com/shagabutdinov/sublime-scroll-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -725,7 +723,6 @@
 		{
 			"name": "SearchPanelEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-search-panel-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -891,7 +888,6 @@
 		{
 			"name": "Semicolon",
 			"details": "https://github.com/shagabutdinov/sublime-semicolon",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -1021,7 +1017,6 @@
 		{
 			"name": "Serpent Syntax",
 			"details": "https://github.com/beaugunderson/serpent-syntax",
-			"homepage": "https://github.com/beaugunderson/serpent-syntax",
 			"author": ["beaugunderson"],
 			"labels": ["serpent", "language syntax"],
 			"releases": [
@@ -1102,7 +1097,6 @@
 		{
 			"name": "SetWindowTitle",
 			"details": "https://github.com/gwenzek/SublimeSetWindowTitle",
-			"homepage": "https://github.com/gwenzek/SublimeSetWindowTitle",
 			"author": "gwenzek",
 			"releases": [
 				{
@@ -1124,7 +1118,6 @@
 		{
 			"name": "SexySnippets",
 			"details": "https://github.com/felquis/SexySnippets",
-			"homepage": "https://github.com/felquis/SexySnippets",
 			"author": "felquis",
 			"labels": ["snippets", "css", "html", "javascript"],
 			"releases": [
@@ -1256,7 +1249,6 @@
 		{
 			"name": "ShellStatus",
 			"details": "https://github.com/shagabutdinov/sublime-shell-status",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "theme"],
 			"releases": [
 				{
@@ -1278,7 +1270,6 @@
 		{
 			"name": "Shen",
 			"details": "https://github.com/rkoeninger/sublime-shen",
-			"readme": "https://raw.githubusercontent.com/rkoeninger/sublime-shen/master/README.md",
 			"author": "Robert Koeninger",
 			"labels": ["language syntax", "snippets"],
 			"releases": [
@@ -2332,7 +2323,6 @@
 		{
 			"name": "SnippetCaller",
 			"details": "https://github.com/shagabutdinov/sublime-snippet-caller",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["snippets", "sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -2364,7 +2354,6 @@
 		{
 			"name": "SnippetManager",
 			"details": "https://github.com/shagabutdinov/sublime-snippet-manager",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["snippets", "sublime-enhanced"],
 			"releases": [
 				{
@@ -2636,7 +2625,6 @@
 			"name": "SourcePawn Completions",
 			"details": "https://github.com/ppalex7/SourcePawnCompletions",
 			"description": "SourcePawn auto-completion and build-system",
-			"readme": "https://raw.githubusercontent.com/ppalex7/SourcePawnCompletions/master/README.md",
 			"labels": ["auto-complete", "build system"],
 			"releases": [
 				{
@@ -2724,7 +2712,6 @@
 		{
 			"name": "SpaceSnippets",
 			"details": "https://github.com/shagabutdinov/sublime-space-snippets",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -3351,7 +3338,6 @@
 		{
 			"name": "Statement",
 			"details": "https://github.com/shagabutdinov/sublime-statement",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation", "utilities"],
 			"releases": [
 				{
@@ -3430,7 +3416,6 @@
 		{
 			"name": "StatusMessage",
 			"details": "https://github.com/shagabutdinov/sublime-status-message",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "theme"],
 			"releases": [
 				{
@@ -3976,8 +3961,6 @@
 			"author": "Kronuz",
 			"description": "Full-featured code intelligence and smart autocomplete engine",
 			"details": "https://github.com/SublimeCodeIntel/SublimeCodeIntel",
-			"homepage": "https://sublimecodeintel.github.io/",
-			"donate": "https://sublimecodeintel.github.io/donate.html",
 			"labels": ["auto-complete", "code navigation", "snippets"],
 			"releases": [
 				{
@@ -3991,7 +3974,6 @@
 		{
 			"name": "SublimeEnhancedUtilitiesSet",
 			"details": "https://github.com/shagabutdinov/sublime-utilities",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -5000,7 +4982,6 @@
 			"name": "Syncrow",
 			"description": "Create and Sync Snippets.",
 			"details": "https://github.com/Afzal7/syncrow",
-			"homepage": "https://syncrow.herokuapp.com",
 			"author": "Afzal7",
 			"labels": ["snippets", "create", "syncrow", "synchronize"],
 			"releases": [

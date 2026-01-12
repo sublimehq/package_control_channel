@@ -1,7 +1,6 @@
 {
 	"$schema": "sublime://packagecontrol.io/schemas/repository",
 	"schema_version": "4.0.0",
-	"packages": [],
 	"libraries": [
 		{
 			"name": "annotated-types",

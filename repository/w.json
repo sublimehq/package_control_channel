@@ -891,16 +891,6 @@
 			]
 		},
 		{
-			"name": "WorkspaceMirroring",
-			"details": "https://github.com/nickname13/WorkspaceMirroring",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "World of Warcraft Macro Syntax",
 			"details": "https://github.com/kigiri/wow-macro-syntax",
 			"labels": ["language syntax"],

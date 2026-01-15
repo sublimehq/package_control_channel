@@ -2092,11 +2092,12 @@
 			]
 		},
 		{
-			"details": "https://github.com/hydralien/SimpleSync",
+			"name": "SimpleSync",
+			"details": "https://github.com/nickname13/SimpleSync",
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

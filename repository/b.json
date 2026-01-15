@@ -335,6 +335,17 @@
 			]
 		},
 		{
+		    "name": "BeancountAutocomplete",
+		    "details": "https://github.com/rhydlewis/BeancountAutocomplete",
+		    "labels": ["autocomplete", "beancount", "finance"],
+		    "releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+		    ]
+	    },
+		{
 			"name": "Beanstalk Tools",
 			"details": "https://github.com/temochka/sublime-text-2-beanstalk",
 			"releases": [

@@ -1601,6 +1601,17 @@
 			]
 		},
 		{
+			"name": "EXIF Syntax",
+			"details": "https://github.com/alberti42/EXIF-Syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Expand and Edit",
 			"details": "https://github.com/aafulei/sublime-expand-and-edit",
 			"author": "Aaron Fu Lei",

@@ -1755,7 +1755,7 @@
 			"name": "Theme - Monokai+",
 			"details": "https://github.com/wilon/Theme-MonokaiPlus",
 			"author": "Weilong Wang",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2014,7 +2014,7 @@
 		{
 			"name": "Theme - Seti Monokai",
 			"details": "https://github.com/poucotm/Theme-SetiMonokai",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": ">3000",

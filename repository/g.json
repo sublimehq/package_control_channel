@@ -672,6 +672,7 @@
 		{
 			"name": "Github Color Theme",
 			"details": "https://github.com/AlexanderEkdahl/github-sublime-theme",
+			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": "*",

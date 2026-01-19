@@ -748,7 +748,7 @@
 		{
 			"name": "GitHub Theme",
 			"details": "https://github.com/mauroreisvieira/github-sublime-theme",
-			"labels": ["theme", "scheme", "light", "dark", "github"],
+			"labels": ["theme", "color scheme", "light", "dark", "github"],
 			"releases": [
 				{
 					"sublime_text": "3179 - 4069",

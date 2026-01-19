@@ -1295,7 +1295,7 @@
 		{
 			"name": "Meetio Theme",
 			"details": "https://github.com/meetio-theme/sublime-meetio-theme",
-			"labels": ["theme", "scheme", "light", "dark"],
+			"labels": ["theme", "color scheme", "light", "dark"],
 			"releases": [
 				{
 					"sublime_text": "3179 - 4069",

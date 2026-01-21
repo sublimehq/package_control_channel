@@ -560,19 +560,6 @@
 			]
 		},
 		{
-			"name": "emojitations",
-			"description": "A library for using Unicode emoji annotations - https://github.com/kcsaff/emojitations",
-			"author": "idleberg",
-			"issues": "https://github.com/idleberg/sublime-emojitations/issues",
-			"releases": [
-				{
-					"base": "https://github.com/idleberg/sublime-emojitations",
-					"python_versions": ["3.3", "3.8", "3.13"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "enum",
 			"description": "Python enum module",
 			"author": "FichteFoll",

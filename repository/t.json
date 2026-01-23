@@ -749,6 +749,18 @@
 			]
 		},
 		{
+			"name": "Terminus Persistence",
+			"details": "https://github.com/gabriel-lody/terminus-persistence",
+			"description": "Automatic state persistence for Sublime Text Terminus plugin",
+			"author": "gabriel-lody",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "termX",
 			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",

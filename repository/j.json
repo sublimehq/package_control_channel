@@ -1356,6 +1356,16 @@
 			]
 		},
 		{
+			"name": "Jujutsu",
+			"details": "https://github.com/urschrei/jujutsu-sublime-plugin",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Julia",
 			"details": "https://github.com/JuliaEditorSupport/Julia-sublime",
 			"labels": ["language syntax"],

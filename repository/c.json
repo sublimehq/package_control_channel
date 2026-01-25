@@ -2522,6 +2522,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/SublimeText/Coi",
+			"labels": ["completions", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4180",
+					"tags": "4180-"
+				}
+			]
+		},
+		{
 			"name": "ColdBox Platform",
 			"details": "https://github.com/ColdBox/coldbox-sublime",
 			"labels": ["snippets", "coldbox", "cachebox", "logbox", "testbox", "wirebox", "boxlang"],

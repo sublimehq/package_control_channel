@@ -988,6 +988,17 @@
 			]
 		},
 		{
+			"name": "Text Decode + JSON Format",
+			"details": "https://github.com/callzhang/Text-Decode-JSON-Format",
+			"labels": ["decode", "json", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Text Highlighter",
 			"labels": ["highlight", "highlighter", "text"],
 			"details": "https://github.com/kdnk/sublime_text_highlighter",

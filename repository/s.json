@@ -5120,16 +5120,6 @@
 			]
 		},
 		{
-			"name": "SublUndoTree",
-			"details": "https://github.com/huyhoang8398/SublUndoTree",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/facelessuser/SubNotify",
 			"releases": [
 				{

@@ -222,6 +222,17 @@
 			]
 		},
 		{
+			"name": "UndoTree",
+			"details": "https://github.com/huyhoang8398/UndoTree",
+			"labels": ["Undo", "undo", "utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Unicode Character Highlighter",
 			"details": "https://github.com/possan/sublime_unicode_nbsp",
 			"releases": [

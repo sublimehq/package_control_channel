@@ -4053,6 +4053,17 @@
 			]
 		},
 		{
+			"name": "StickyLines",
+			"details": "https://github.com/klmp200/StickyLines",
+			"labels": ["workflow", "code navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4132",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "StickySearch",
 			"details": "https://github.com/vim-zz/StickySearch",
 			"releases": [

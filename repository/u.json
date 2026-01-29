@@ -224,7 +224,7 @@
 		{
 			"name": "UndoTree",
 			"details": "https://github.com/huyhoang8398/UndoTree",
-			"labels": ["Undo", "undo", "utilities"],
+			"labels": ["undo", "utilities"],
 			"releases": [
 				{
 					"sublime_text": "*",

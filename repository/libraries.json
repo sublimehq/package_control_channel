@@ -493,20 +493,6 @@
 			]
 		},
 		{
-			"name": "dateutil",
-			"description": "The dateutil module provides powerful extensions to the datetime module available in the Python standard library",
-			"author": "Paul Ganssle",
-			"issues": "https://github.com/dateutil/dateutil/issues",
-			"releases": [
-				{
-					"base": "https://pypi.org/project/python-dateutil",
-					"asset": "python_dateutil-*-py2.py3-none-any.whl",
-					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "debugtools",
 			"description": "Alternate simplified logging support and general utilities functions",
 			"author": "evandrocoan",
@@ -1547,6 +1533,20 @@
 					"base": "https://pypi.org/project/pyte",
 					"asset": "pyte-*-py3-none-any.whl",
 					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "python-dateutil",
+			"description": "The dateutil module provides powerful extensions to the datetime module available in the Python standard library",
+			"author": "Paul Ganssle",
+			"issues": "https://github.com/dateutil/dateutil/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/python-dateutil",
+					"asset": "python_dateutil-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
 				}
 			]
 		},

@@ -653,6 +653,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/vwheeler63/MarkerStack",
+			"labels": ["bookmark", "navigation", "marker"],
+			"donate": "https://buymeacoffee.com/vwheeler63",
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marking Changed Rows",
 			"details": "https://github.com/Harurow/sublime_markingchangedrows",
 			"releases": [
@@ -1108,7 +1118,7 @@
 		{
 			"name": "Meetio Theme",
 			"details": "https://github.com/meetio-theme/sublime-meetio-theme",
-			"labels": ["theme", "scheme", "light", "dark"],
+			"labels": ["theme", "color scheme", "light", "dark"],
 			"releases": [
 				{
 					"sublime_text": "3179 - 4069",
@@ -1980,6 +1990,7 @@
 		{
 			"name": "Monokai Extended",
 			"details": "https://github.com/jonschlinkert/sublime-monokai-extended",
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"branch": "master"
@@ -1989,7 +2000,7 @@
 		{
 			"name": "Monokai Gray",
 			"details": "https://github.com/IanWold/MonokaiGray",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"branch": "master"
@@ -2020,7 +2031,7 @@
 			"name": "Monokai Soft",
 			"details": "https://github.com/ThePythonGuy3/Monokai-Soft",
 			"description": "Light coloured dark Monokai color scheme",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": ">=3149",

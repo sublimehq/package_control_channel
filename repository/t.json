@@ -1509,7 +1509,7 @@
 			"name": "Theme - Monokai+",
 			"details": "https://github.com/wilon/Theme-MonokaiPlus",
 			"author": "Weilong Wang",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"tags": true
@@ -1707,7 +1707,7 @@
 		{
 			"name": "Theme - Seti Monokai",
 			"details": "https://github.com/poucotm/Theme-SetiMonokai",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"tags": true

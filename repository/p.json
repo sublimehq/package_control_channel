@@ -1857,7 +1857,7 @@
 		{
 			"name": "Predawn Monokai",
 			"details": "https://github.com/varemenos/sublime-predawn-monokai",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"branch": "master"

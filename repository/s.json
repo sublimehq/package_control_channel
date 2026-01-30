@@ -1764,10 +1764,11 @@
 			]
 		},
 		{
-			"details": "https://github.com/hydralien/SimpleSync",
+			"name": "SimpleSync",
+			"details": "https://github.com/nickname13/SimpleSync",
 			"releases": [
 				{
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

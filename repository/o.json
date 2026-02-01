@@ -377,7 +377,6 @@
 		{
 			"name": "One Half Color Schemes",
 			"details": "https://github.com/sonph/onehalf-tmtheme",
-			"readme": "https://raw.githubusercontent.com/sonph/onehalf/master/README.md",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -763,7 +762,7 @@
 		},
 		{
 			"name": "OpenDSS",
-			"details":"https://github.com/dparrini/sublime_opendss",
+			"details": "https://github.com/dparrini/sublime_opendss",
 			"labels": ["auto-complete", "build system", "language syntax"],
 			"releases": [
 				{
@@ -851,7 +850,6 @@
 		{
 			"name": "OpenInBrowser",
 			"details": "https://bitbucket.org/bteryek/openinbrowser",
-			"homepage": "http://idevelopsolutions.com/OpenInBrowser",
 			"labels": [
 				"browser",
 				"open in browser",
@@ -880,7 +878,6 @@
 		{
 			"name": "OpenPath",
 			"details": "https://github.com/shagabutdinov/sublime-open-path",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -1142,7 +1139,6 @@
 		{
 			"name": "Oz",
 			"details": "https://github.com/mozart/sublime-oz",
-			"readme": "https://raw.githubusercontent.com/mozart/sublime-oz/master/README.md",
 			"author": "Robert Koeninger",
 			"labels": ["build system", "language syntax", "snippets"],
 			"releases": [

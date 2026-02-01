@@ -69,7 +69,6 @@
 		{
 			"name": "Factor",
 			"details": "https://github.com/rkoeninger/sublime-factor",
-			"readme": "https://raw.githubusercontent.com/rkoeninger/sublime-factor/master/README.md",
 			"author": "Robert Koeninger",
 			"labels": ["factor", "language syntax"],
 			"releases": [
@@ -82,7 +81,6 @@
 		{
 			"name": "FactoryBot",
 			"details": "https://github.com/tinogomes/Sublime-FactoryBot-Snippets",
-			"readme": "https://raw.githubusercontent.com/tinogomes/Sublime-FactoryBot-Snippets/master/README.md",
 			"author": "Celestino Gomes (tinogomes)",
 			"labels": ["snippets", "ruby", "test", "rspec", "factory"],
 			"releases": [
@@ -628,7 +626,6 @@
 		{
 			"name": "FileDialog",
 			"details": "https://github.com/shagabutdinov/sublime-file-dialog",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation", "utilities"],
 			"releases": [
 				{
@@ -687,7 +684,6 @@
 		{
 			"name": "FileList",
 			"details": "https://github.com/shagabutdinov/sublime-file-list",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation", "file manipulation", "utilities"],
 			"releases": [
 				{
@@ -1006,13 +1002,13 @@
 			]
 		},
 		{
-			"name":"Firebase Rules Syntax",
-			"details":"https://github.com/jingyuexing/Sublime-Firebase-Syntax",
-			"labels":["language syntax"],
-			"releases":[
+			"name": "Firebase Rules Syntax",
+			"details": "https://github.com/jingyuexing/Sublime-Firebase-Syntax",
+			"labels": ["language syntax"],
+			"releases": [
 				{
-					"sublime_text":"*",
-					"tags":true
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -1516,7 +1512,6 @@
 		{
 			"name": "FolderFiles",
 			"details": "https://github.com/shagabutdinov/sublime-folder-files",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -1915,7 +1910,6 @@
 		{
 			"name": "FullUndo",
 			"details": "https://github.com/shagabutdinov/sublime-full-undo",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced"],
 			"releases": [
 				{

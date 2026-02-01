@@ -71,8 +71,8 @@
 		},
 		{
 			"name": "ABNF-sublime-syntax",
-			"details": "https://github.com/ZxxLang/ABNF-sublime-syntax",
-			"labels": ["abnf", "language syntax"],
+			"details": "https://gitlab.com/zxxlang/ABNF-sublime-syntax",
+			"labels": ["language syntax", "abnf", "bnf"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -477,6 +477,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Agentic",
+			"details": "https://github.com/alecGraves/Agentic",
+			"labels": ["ai", "llm", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1563,7 +1574,6 @@
 		{
 			"name": "AppendSelection",
 			"details": "https://github.com/shagabutdinov/sublime-append-selection",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "cursors manipulation"],
 			"releases": [
 				{
@@ -1891,11 +1901,15 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/AsciiDoc",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "snippets", "asciidoc"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": ">=4174",
+					"tags": "version/st4174/"
+				},
+				{
+					"sublime_text": "<4174",
+					"tags": "version/st3000/"
 				}
 			]
 		},
@@ -2351,7 +2365,6 @@
 		{
 			"name": "AutocompletionFuzzy",
 			"details": "https://github.com/shagabutdinov/sublime-autocompletion",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["auto-complete", "sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -2442,7 +2455,6 @@
 		{
 			"name": "AutoImport",
 			"details": "https://github.com/shagabutdinov/sublime-keyword",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -2529,7 +2541,6 @@
 			"name": "AutoPEP8",
 			"details": "https://github.com/wistful/SublimeAutoPEP8",
 			"labels": ["formatting", "linting"],
-			"readme": "https://raw.githubusercontent.com/wistful/SublimeAutoPEP8/master/Readme.md",
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -2698,7 +2709,7 @@
 			"name": "AVM2 Pcode Syntax Highlighting",
 			"details": "https://github.com/calculuswhiz/pcode-syntax-definition",
 			"labels": ["language syntax"],
-			"releases":[
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true

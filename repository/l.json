@@ -1403,6 +1403,17 @@
 			]
 		},
 		{
+			"name": "LiveScript",
+			"details": "https://github.com/SublimeText/LiveScript",
+			"labels": ["language syntax", "build system", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": "4107-"
+				}
+			]
+		},
+		{
 			"name": "LiveServer",
 			"details": "https://github.com/molnarmark/sublime-live-server",
 			"releases": [
@@ -1533,7 +1544,6 @@
 		{
 			"name": "LocalVariable",
 			"details": "https://github.com/shagabutdinov/sublime-local-variable",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities", "text selection", "text manipulation"],
 			"releases": [
 				{

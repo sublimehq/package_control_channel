@@ -160,9 +160,6 @@
 		{
 			"name": "Packed",
 			"details": "https://github.com/duraki/sublime-packed",
-			"homepage": "https://github.io/packed",
-			"readme": "https://raw.githubusercontent.com/duraki/sublime-packed/master/README.md",
-			"issues": "https://github.com/duraki/sublime-packed/issues",
 			"author": "duraki",
 			"releases": [
 				{
@@ -508,7 +505,6 @@
 		{
 			"name": "Paste Plus",
 			"details": "https://github.com/ggets/Sublime_PastePlus",
-			"readme": "https://raw.githubusercontent.com/ggets/Sublime_PastePlus/main/README.md",
 			"labels": ["text manipulation", "clipboard", "paste"],
 			"author": "GGets",
 			"releases": [
@@ -553,7 +549,6 @@
 		{
 			"name": "PasteAsString",
 			"details": "https://github.com/mom1/PasteAsString",
-			"readme": "https://raw.githubusercontent.com/mom1/PasteAsString/master/README.md",
 			"labels": ["text manipulation"],
 			"author": "MOM",
 			"releases": [
@@ -641,7 +636,7 @@
 		{
 			"name": "Path Tools",
 			"details": "https://github.com/pjdietz/sublime-path-tools",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1315,7 +1310,6 @@
 		{
 			"name": "PhpCodeGen",
 			"details": "https://bitbucket.org/bteryek/phpcodegen",
-			"homepage": "http://idevelopsolutions.com/PhpCodeGen",
 			"labels": ["code generation", "formatting", "snippets", "text manipulation", "php", "docblock"],
 			"releases": [
 				{
@@ -1558,7 +1552,7 @@
 			"details": "https://github.com/pieces-app/plugin_sublime/",
 			"homepage": "https://pieces.app/",
 			"labels": ["snippets", "ai", "pieces"],
-			"author":"Pieces for Developers",
+			"author": "Pieces for Developers",
 			"releases": [
 				{
 					"sublime_text": ">=4000",
@@ -2138,7 +2132,7 @@
 		},
 		{
 			"name": "Power System Tools Syntax",
-			"details":"https://github.com/dparrini/sublime_powersystems",
+			"details": "https://github.com/dparrini/sublime_powersystems",
 			"labels": ["auto-complete", "language syntax"],
 			"releases": [
 				{
@@ -2249,7 +2243,7 @@
 		{
 			"name": "Predawn Monokai",
 			"details": "https://github.com/varemenos/sublime-predawn-monokai",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2711,7 +2705,6 @@
 		{
 			"name": "ProjectFiles",
 			"details": "https://github.com/shagabutdinov/sublime-project-files",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -2757,7 +2750,6 @@
 		{
 			"name": "Prolog",
 			"details": "https://github.com/alnkpa/sublimeprolog",
-			"donate": "https://flattr.com/profile/alnkpa",
 			"labels": ["build system", "language syntax"],
 			"releases": [
 				{
@@ -3570,12 +3562,12 @@
 		},
 		{
 			"name": "PythonVoiceCodingPlugin",
-			"details":"https://github.com/mpourmpoulis/PythonVoiceCodingPlugin",
-			"labels":["voice coding","accessibility","syntax tree","python","grammar","high level"],
-			"releases":[
+			"details": "https://github.com/mpourmpoulis/PythonVoiceCodingPlugin",
+			"labels": ["voice coding","accessibility","syntax tree","python","grammar","high level"],
+			"releases": [
 				{
-					"sublime_text":">=3000",
-					"tags":true
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},

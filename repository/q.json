@@ -351,7 +351,6 @@
 		{
 			"name": "QuickSearchEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-quick-search-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{

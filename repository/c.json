@@ -1183,13 +1183,14 @@
 			]
 		},
 		{
-			"name": "Cisco Syntax Highlighter",
-			"details": "https://github.com/tunnelsup/sublime-cisco-syntax",
+			"name": "Cisco",
+			"details": "https://github.com/mburknoe/CiscoSyntax-Badwifi-Sublime-syntax",
+			"previous_names": ["Cisco Syntax Highlighter"],
 			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -1570,7 +1571,6 @@
 		{
 			"name": "CloneFile",
 			"details": "https://github.com/shagabutdinov/sublime-clone-file",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced"],
 			"releases": [
 				{
@@ -1662,7 +1662,7 @@
 		},
 		{
 			"name": "CloseTabsLeft",
-			"details":"https://github.com/deXterbed/CloseTabsLeft",
+			"details": "https://github.com/deXterbed/CloseTabsLeft",
 			"releases": [
 				{
 					"sublime_text": "<3000",
@@ -2129,7 +2129,7 @@
 		{
 			"name": "Codeforces Util",
 			"details": "https://github.com/shankhs/CodeforcesUtil",
-			"homepage": "http://www.shankhs.com",
+			"homepage": "https://www.shankhs.com",
 			"author": "shankhs",
 			"releases": [
 				{
@@ -2222,7 +2222,7 @@
 		{
 			"name": "Codeivate",
 			"details": "https://github.com/codeivate/codeivate-st",
-			"issues": "http://codeivate.userecho.com/",
+			"issues": "https://codeivate.userecho.com/",
 			"labels": ["code sharing", "analytics"],
 			"releases": [
 				{
@@ -2294,7 +2294,7 @@
 		{
 			"name": "CodePresenter",
 			"details": "https://github.com/fwph/codepresenter",
-			"labels":["presentation"],
+			"labels": ["presentation"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -2531,6 +2531,16 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/Coi",
+			"labels": ["completions", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4180",
+					"tags": "4180-"
 				}
 			]
 		},
@@ -3496,7 +3506,6 @@
 		{
 			"name": "Confluence",
 			"details": "https://github.com/mlf4aiur/SublimeConfluence",
-			"homepage": "https://github.com/mlf4aiur/SublimeConfluence",
 			"author": "Kevin Li",
 			"releases": [
 				{
@@ -3575,7 +3584,6 @@
 		{
 			"name": "Context",
 			"details": "https://github.com/shagabutdinov/sublime-context",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "utilities"],
 			"releases": [
 				{
@@ -4362,7 +4370,6 @@
 			"details": "https://github.com/cslint/sublime-cslint",
 			"labels": ["code style", "formatting", "linting"],
 			"author": "molee1905",
-			"readme": "https://raw.githubusercontent.com/cslint/sublime-cslint/master/README.md",
 			"releases": [
 				{
 					"sublime_text": ">=3124",

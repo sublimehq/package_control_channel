@@ -24,7 +24,6 @@
 		{
 			"name": "Earthbound Themes",
 			"details": "https://github.com/benbusby/sublime-earthbound-themes",
-			"readme": "https://raw.githubusercontent.com/benbusby/earthbound-themes/main/README.md",
 			"author": "Ben Busby",
 			"labels": ["theme", "color scheme"],
 			"releases": [
@@ -394,7 +393,6 @@
 			"name": "EdgeOS",
 			"description": "Syntax highlighting for EdgeMax EdgeOS.",
 			"details": "https://github.com/lojoja/sublime-syntax-edgeos",
-			"readme": "https://raw.githubusercontent.com/lojoja/sublime-syntax-edgeos/master/README.md",
 			"author": "lojoja",
 			"labels": ["language syntax"],
 			"releases": [
@@ -885,7 +883,6 @@
 			"labels": ["language syntax", "eml", "email", "mail", "mime", "e-mail", "rfc2045", "rfc2046", "rfc2047", "rfc4288", "rfc4289", "rfc2049"],
 			"details": "https://github.com/mariozaizar/eml-tmLanguage",
 			"author": "Mario Zaizar",
-			"donate": "https://gratipay.com/mariozaizar/",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1306,7 +1303,7 @@
 		{
 			"name": "esoftplay",
 			"details": "https://github.com/esoftplay/sublimetext-snippets",
-			"labels":["snippets", "language syntax"],
+			"labels": ["snippets", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1338,12 +1335,23 @@
 		{
 			"name": "ESpec",
 			"details": "https://github.com/retgoat/ESpec",
-			"labels":["build system", "language syntax", "snippets"],
+			"labels": ["build system", "language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ESPHome",
+			"details": "https://github.com/SublimeText/ESPHome",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4143",
+					"tags": "4143-"
 				}
 			]
 		},
@@ -1604,6 +1612,17 @@
 			]
 		},
 		{
+			"name": "EXIF Syntax",
+			"details": "https://github.com/alberti42/EXIF-Syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Expand and Edit",
 			"details": "https://github.com/aafulei/sublime-expand-and-edit",
 			"author": "Aaron Fu Lei",
@@ -1806,7 +1825,6 @@
 		{
 			"name": "Expression",
 			"details": "https://github.com/shagabutdinov/sublime-expression",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation", "utilities"],
 			"releases": [
 				{

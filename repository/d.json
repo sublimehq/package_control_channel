@@ -345,7 +345,7 @@
 		{
 			"name": "Date Formatter",
 			"details": "https://github.com/pjdietz/sublime-date-formatter",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -537,7 +537,6 @@
 		{
 			"name": "DelayedSaveAll",
 			"details": "https://github.com/shagabutdinov/sublime-delayed-save-all",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced"],
 			"releases": [
 				{
@@ -722,7 +721,6 @@
 		{
 			"name": "DevastateMini",
 			"details": "https://github.com/shagabutdinov/sublime-devastate-mini",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "theme", "color scheme"],
 			"releases": [
 				{
@@ -786,7 +784,6 @@
 		{
 			"name": "Deviot (Arduino IDE)",
 			"details": "https://github.com/gepd/Deviot",
-			"donate": "https://gratipay.com/~gepd/",
 			"labels": ["build system", "ide", "arduino", "iot", "platformio"],
 			"releases": [
 				{
@@ -1338,7 +1335,6 @@
 		{
 			"name": "DocBlockr",
 			"details": "https://github.com/spadgos/sublime-jsdocs",
-			"donate": "http://pledgie.com/campaigns/16316",
 			"labels": ["documentation", "comments"],
 			"releases": [
 				{
@@ -1392,22 +1388,22 @@
 		{
 			"name": "DocPHPManualer",
 			"details": "https://github.com/garveen/docphp",
-			"labels":["document","php","manual"],
+			"labels": ["document","php","manual"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"tags":true
+					"tags": true
 				}
 			]
 		},
 		{
 			"name": "DocPy",
 			"details": "https://github.com/RicherMans/Sublime3-pydoc",
-			"labels":["auto-complete", "formatting", "snippets"],
+			"labels": ["auto-complete", "formatting", "snippets"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"tags":true
+					"tags": true
 				}
 			]
 		},

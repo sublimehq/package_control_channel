@@ -695,7 +695,7 @@
 		{
 			"name": "Terminal In Packages",
 			"details": "https://github.com/mxdevmanuel/sublime-terminal-in-packages",
-			"releases":[
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true
@@ -728,7 +728,6 @@
 		{
 			"name": "TerminalProjectFolder",
 			"details": "https://github.com/shagabutdinov/sublime-terminal-project-folder",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "terminal"],
 			"releases": [
 				{
@@ -751,7 +750,7 @@
 		},
 		{
 			"name": "termX",
-			"homepage": "http://malinowski.be/termX",
+			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",
 			"labels": ["terminal"],
 			"releases" : [
@@ -877,7 +876,6 @@
 		{
 			"name": "TestCafe Test Runner",
 			"details": "https://github.com/churkin/testcafe-sublimetext",
-			"readme": "https://github.com/churkin/testcafe-sublimetext/blob/master/README.md",
 			"labels": ["testing", "testcafe", "auto-testing", "test"],
 			"releases": [
 				{
@@ -1276,7 +1274,7 @@
 		{
 			"name": "Theme - City Lights",
 			"details": "https://github.com/Yummygum/city-lights-sublime",
-			"homepage": "http://citylights.xyz/",
+			"homepage": "https://citylights.xyz/",
 			"labels": ["theme", "color scheme", "city lights"],
 			"author": "Yummygum",
 			"releases": [
@@ -1757,7 +1755,7 @@
 			"name": "Theme - Monokai+",
 			"details": "https://github.com/wilon/Theme-MonokaiPlus",
 			"author": "Weilong Wang",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2016,7 +2014,7 @@
 		{
 			"name": "Theme - Seti Monokai",
 			"details": "https://github.com/poucotm/Theme-SetiMonokai",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": ">3000",
@@ -2964,7 +2962,6 @@
 		{
 			"name": "ToggleWrap",
 			"details": "https://github.com/shagabutdinov/sublime-toggle-wrap",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -3069,7 +3066,7 @@
 			"labels": ["language syntax", "toml"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<4198",
 					"tags": true
 				}
 			]
@@ -3279,7 +3276,6 @@
 		{
 			"name": "TracRPC",
 			"details": "https://github.com/lyrixderaven/TracRPC",
-			"readme": "https://raw.githubusercontent.com/lyrixderaven/TracRPC/master/README.md",
 			"author": "Florian Cech",
 			"labels": ["trac", "project management", "tickets"],
 			"releases": [
@@ -3330,8 +3326,7 @@
 		{
 			"name": "Trainz Config",
 			"details": "https://github.com/Dangoo/trainz_config",
-			"homepage": "http://trainz-sachsen.com",
-			"readme": "https://raw.githubusercontent.com/Dangoo/trainz_config/master/README.md",
+			"homepage": "https://trainz-sachsen.com",
 			"author": "Daniel Gooß",
 			"labels": ["language syntax"],
 			"releases": [
@@ -3461,8 +3456,6 @@
 		{
 			"name": "Travis-CI",
 			"details": "https://github.com/Section214/ST3-Travis-CI",
-			"homepage": "https://section214.com/product/st3-travis-ci/",
-			"donate": "https://section214.com/donate/",
 			"author": "Dan Griffiths",
 			"labels": ["travis", "travis-ci", "continuous integration", "status bar"],
 			"releases": [
@@ -3855,7 +3848,7 @@
 		{
 			"name": "TypeScript",
 			"details": "https://github.com/Microsoft/TypeScript-Sublime-Plugin",
-			"homepage": "http://typescriptlang.org",
+			"homepage": "https://typescriptlang.org",
 			"donate": null,
 			"labels": ["auto-complete", "code navigation", "formatting", "language syntax", "snippets", "typescript", "javascript"],
 			"releases": [

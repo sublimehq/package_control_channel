@@ -222,6 +222,17 @@
 			]
 		},
 		{
+			"name": "UndoTree",
+			"details": "https://github.com/huyhoang8398/UndoTree",
+			"labels": ["undo", "utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Unicode Character Highlighter",
 			"details": "https://github.com/possan/sublime_unicode_nbsp",
 			"releases": [
@@ -556,7 +567,6 @@
 		{
 			"name": "Unyson Snippets",
 			"details": "https://github.com/XeCreators/Unyson-Snippets-Sublime",
-			"homepage": "http://unyson.io/",
 			"labels": ["snippets"],
 			"author": "xecreators",
 			"releases": [

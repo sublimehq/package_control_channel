@@ -282,7 +282,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"platforms":["windows", "linux"],
+					"platforms": ["windows", "linux"],
 					"tags": true
 				}
 			]
@@ -602,7 +602,6 @@
 		{
 			"name": "IndentationNavigation",
 			"details": "https://github.com/shagabutdinov/sublime-indentation-navigation",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -899,7 +898,7 @@
 			"name": "Intellekt",
 			"details": "https://github.com/tushortz/intellekt",
 			"labels": ["auto-complete", "completions", "help", "hint", "java", "python"],
-			"author":"Taiwo Kareem",
+			"author": "Taiwo Kareem",
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -1083,8 +1082,8 @@
 		{
 			"name": "Ionic Framework Extended Autocomplete",
 			"details": "https://github.com/matheuscas/SublimeIonic",
-			"labels":["auto-complete", "completions", "ionic framework"],
-			"author":"Matheus Cardoso",
+			"labels": ["auto-complete", "completions", "ionic framework"],
+			"author": "Matheus Cardoso",
 			"releases": [
 				{
 					"sublime_text": "*",

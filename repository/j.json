@@ -736,7 +736,6 @@
 		{
 			"name": "JoinAssignment",
 			"details": "https://github.com/shagabutdinov/sublime-join-assignment",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -748,7 +747,6 @@
 		{
 			"name": "JoinChainCall",
 			"details": "https://github.com/shagabutdinov/sublime-join-chain-call",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -760,7 +758,6 @@
 		{
 			"name": "JoinLinesEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-join-lines-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -772,7 +769,6 @@
 		{
 			"name": "JoinStatement",
 			"details": "https://github.com/shagabutdinov/sublime-join-statement",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text manipulation"],
 			"releases": [
 				{
@@ -806,7 +802,6 @@
 		{
 			"name": "Jq",
 			"details": "https://gitlab.com/jiehong/sublime_jq",
-			"readme": "https://gitlab.com/jiehong/sublime_jq/-/raw/master/README.md",
 			"labels": ["interactive", "jq", "json"],
 			"releases": [
 				{

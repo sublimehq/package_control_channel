@@ -14,7 +14,6 @@
 		{
 			"name": "Galen v2+",
 			"details": "https://github.com/davidrv87/syntax-sublime-galen2",
-			"readme": "https://raw.githubusercontent.com/davidrv87/syntax-sublime-galen2/master/README.md",
 			"labels": ["language syntax"],
 			"releases": [
 				{
@@ -311,10 +310,10 @@
 			]
 		},
 		{
-			"name":"Gengojs",
-			"details":"https://github.com/gengojs/sublime-snippets",
-			"labels":["snippets", "i18n", "l10n"],
-			"releases":[
+			"name": "Gengojs",
+			"details": "https://github.com/gengojs/sublime-snippets",
+			"labels": ["snippets", "i18n", "l10n"],
+			"releases": [
 				{
 					"sublime_text":"*",
 					"tags": true
@@ -322,10 +321,10 @@
 			]
 		},
 		{
-			"name":"Georgify",
-			"details":"https://github.com/shividhar/Georgify",
-			"labels":["language syntax", "correctness proofs", "uwaterloo"],
-			"releases":[
+			"name": "Georgify",
+			"details": "https://github.com/shividhar/Georgify",
+			"labels": ["language syntax", "correctness proofs", "uwaterloo"],
+			"releases": [
 				{
 					"sublime_text":"*",
 					"tags": true
@@ -538,7 +537,6 @@
 				"commit"
 			],
 			"author": "adambullmer",
-			"readme": "https://raw.githubusercontent.com/adambullmer/sublime_git_commit_syntax/master/README.md",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -674,6 +672,7 @@
 		{
 			"name": "Github Color Theme",
 			"details": "https://github.com/AlexanderEkdahl/github-sublime-theme",
+			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -750,7 +749,7 @@
 		{
 			"name": "GitHub Theme",
 			"details": "https://github.com/mauroreisvieira/github-sublime-theme",
-			"labels": ["theme", "scheme", "light", "dark", "github"],
+			"labels": ["theme", "color scheme", "light", "dark", "github"],
 			"releases": [
 				{
 					"sublime_text": "3179 - 4069",
@@ -859,6 +858,8 @@
 		{
 			"name": "GitLink",
 			"details": "https://github.com/rscherf/GitLink",
+			"author": ["rscherf", "michaelblyons"],
+			"labels": ["git", "share", "github", "gitlab", "bitbucket"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1748,7 +1749,6 @@
 		{
 			"name": "GotoCharacter",
 			"details": "https://github.com/shagabutdinov/sublime-goto-character",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -1832,7 +1832,6 @@
 		{
 			"name": "GotoLastEditEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-goto-last-edit-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -1844,7 +1843,6 @@
 		{
 			"name": "GotoLineEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-goto-line-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "file navigation"],
 			"releases": [
 				{
@@ -2022,7 +2020,6 @@
 		{
 			"name": "Grammalecte",
 			"details": "https://github.com/procsynth/GrammalecteST3",
-			"readme": "https://raw.githubusercontent.com/procsynth/GrammalecteST3/master/README.md",
 			"labels": ["gramma", "french", "spelling", "text"],
 			"releases": [
 				{

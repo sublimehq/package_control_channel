@@ -270,7 +270,6 @@
 		{
 			"name": "BazelSyntax",
 			"details": "https://github.com/niosus/BazelSyntax",
-			"readme": "https://raw.githubusercontent.com/niosus/BazelSyntax/master/README.md",
 			"donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2QLY7J4Q944HS",
 			"labels": ["language syntax", "snippets", "bazel"],
 			"releases": [
@@ -866,9 +865,7 @@
 		{
 			"name": "bioSyntax",
 			"details": "https://github.com/bioSyntax/bioSyntax-sublime",
-			"homepage": "http://bioSyntax.org",
-			"readme": "https://raw.githubusercontent.com/bioSyntax/bioSyntax/master/README.md",
-			"issues": "https://github.com/bioSyntax/bioSyntax/issues",
+			"homepage": "https://bioSyntax.org",
 			"labels": [ "science", "bioinformatics", "biology", "language syntax" ],
 			"releases": [
 				{
@@ -1562,10 +1559,10 @@
 		{
 			"name": "Browser Sync",
 			"details": "https://github.com/iamdjones/sublime-text-browser-sync",
-			"releases":[
+			"releases": [
 				{
 					"sublime_text":">=3000",
-					"tags":true
+					"tags": true
 				}
 			]
 		},

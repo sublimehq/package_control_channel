@@ -564,6 +564,17 @@
 			]
 		},
 		{
+			"name": "Markdown Table of Contents",
+			"details": "https://github.com/codeleventh/mdtoc",
+			"labels": ["markdown", "table of contents", "text navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Markdown to Clipboard",
 			"details": "https://github.com/zhimiaoli/Sublime.Markdown2Clipboard",
 			"releases": [
@@ -743,6 +754,17 @@
 			]
 		},
 		{
+			"details": "https://github.com/vwheeler63/MarkerStack",
+			"labels": ["bookmark", "navigation", "marker"],
+			"donate": "https://buymeacoffee.com/vwheeler63",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marking Changed Rows",
 			"details": "https://github.com/Harurow/sublime_markingchangedrows",
 			"releases": [
@@ -825,7 +847,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags":true
+					"tags": true
 				}
 			]
 		},
@@ -989,7 +1011,6 @@
 		{
 			"name": "MaterialUi React Component Snippet Autocomplete",
 			"details": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete",
-			"readme": "https://github.com/Pushpamk/materialui-react-component-snippet-autocomplete/blob/master/README.md",
 			"author": "Pushpam Kumar",
 			"labels": ["auto-complete", "snippets", "component", "material", "react"],
 			"releases": [
@@ -1274,7 +1295,7 @@
 		{
 			"name": "Meetio Theme",
 			"details": "https://github.com/meetio-theme/sublime-meetio-theme",
-			"labels": ["theme", "scheme", "light", "dark"],
+			"labels": ["theme", "color scheme", "light", "dark"],
 			"releases": [
 				{
 					"sublime_text": "3179 - 4069",
@@ -1356,7 +1377,7 @@
 		{
 			"name": "Merge Variables",
 			"details": "https://github.com/pjdietz/sublime-merge-variables",
-			"donate": "http://pjdietz.com/say-thanks/",
+			"donate": "https://pjdietz.com/say-thanks/",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1368,7 +1389,7 @@
 			"name": "Merge Windows",
 			"details": "https://github.com/chinchin96/SublimeText-Merge-Windows",
 			"author": "Chinedu Ezeamuzie",
-			"donate": "http://paypal.me/chinchin96",
+			"donate": "https://paypal.me/chinchin96",
 			"labels": [
 				"merge windows",
 				"merge tabs",
@@ -1523,7 +1544,6 @@
 		{
 			"name": "Method",
 			"details": "https://github.com/shagabutdinov/sublime-method",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation", "text selection", "text manipulation"],
 			"releases": [
 				{
@@ -1572,7 +1592,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=3092",
-					"tags":true
+					"tags": true
 				}
 			]
 		},
@@ -2297,6 +2317,7 @@
 		{
 			"name": "Monokai Extended",
 			"details": "https://github.com/jonschlinkert/sublime-monokai-extended",
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2307,7 +2328,7 @@
 		{
 			"name": "Monokai Gray",
 			"details": "https://github.com/IanWold/MonokaiGray",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2341,7 +2362,7 @@
 			"name": "Monokai Soft",
 			"details": "https://github.com/ThePythonGuy3/Monokai-Soft",
 			"description": "Light coloured dark Monokai color scheme",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": ">=3149",

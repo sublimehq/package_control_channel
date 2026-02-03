@@ -737,9 +737,9 @@
 				},
 				{
 					"base": "https://github.com/sublimelsp/lsp_utils",
+					"asset": "lsp_utils-*-py3-none-any.whl",
 					"python_versions": ["3.8", "3.13", "3.14"],
-					"sublime_text": ">=4070",
-					"tags": true
+					"sublime_text": ">=4070"
 				}
 			]
 		},

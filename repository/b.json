@@ -1194,6 +1194,17 @@
 			]
 		},
 		{
+			"name": "BookLeaf",
+			"details": "https://github.com/JoeFerrucci/BookLeaf-SublimeText",
+			"labels": ["scratch", "notes", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4074",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Bootstrap 3 Autocomplete",
 			"details": "https://github.com/webchun/bootstrap-3-sublime-autocomplete",
 			"author": "Webchun",

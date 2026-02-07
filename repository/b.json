@@ -1686,6 +1686,17 @@
 			]
 		},
 		{
+			"name": "Buildifier",
+			"details": "https://github.com/mfilippov/sublime-buildifier",
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"python_versions": ["3.8"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/misotomlam/BuildParts",
 			"releases": [
 				{

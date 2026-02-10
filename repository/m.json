@@ -1735,7 +1735,9 @@
 					"sublime_text": ">=3149",
 					"tags": true
 				}
-			]
+			],
+			"homepage": "https://renzojohnson.com",
+			"donate": "https://renzojohnson.com/support"
 		},
 		{
 			"name": "Merge Variables",

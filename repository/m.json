@@ -1375,6 +1375,19 @@
 			]
 		},
 		{
+			"name": "Mercurial Color Scheme",
+			"details": "https://github.com/renzojohnson/mercurial-color-scheme",
+			"homepage": "https://github.com/renzojohnson/mercurial-color-scheme",
+			"donate": "https://github.com/sponsors/renzojohnson",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3149",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Merge Variables",
 			"details": "https://github.com/pjdietz/sublime-merge-variables",
 			"donate": "https://pjdietz.com/say-thanks/",

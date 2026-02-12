@@ -1218,7 +1218,7 @@
 					"base": "https://github.com/SublimeText/sublime_lib",
 					"platforms": ["*"],
 					"sublime_text": ">=3000",
-					"tags": true
+					"tags": "st3-"
 				}
 			]
 		},

@@ -2084,12 +2084,7 @@
 		{
 			"name": "CodeContinue",
 			"details": "https://github.com/kXborg/codeContinue",
-			"labels": [
-				"auto-complete",
-				"ai",
-				"llm",
-				"code completion"
-			],
+			"labels": ["auto-complete", "ai", "llm", "code completion"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",

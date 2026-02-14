@@ -2082,6 +2082,16 @@
 			]
 		},
 		{
+			"name": "Codechef",
+			"details": "https://github.com/prongs/SublimeCodechef",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "CodeContinue",
 			"details": "https://github.com/kXborg/codeContinue",
 			"labels": ["auto-complete", "ai", "llm", "code completion"],
@@ -2089,16 +2099,6 @@
 				{
 					"sublime_text": ">=4000",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Codechef",
-			"details": "https://github.com/prongs/SublimeCodechef",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},

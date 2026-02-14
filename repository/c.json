@@ -2092,6 +2092,17 @@
 			]
 		},
 		{
+			"name": "CodeContinue",
+			"details": "https://github.com/kXborg/codeContinue",
+			"labels": ["auto-complete", "ai", "llm", "code completion"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CodeDrafts",
 			"details": "https://github.com/subeeshb/codedrafts_sublime_plugin",
 			"labels": ["code sharing", "snippets", "utilities"],

@@ -360,6 +360,16 @@
 			]
 		},
 		{
+			"name": "WhereAmI",
+			"details": "https://github.com/huyhoang8398/WhereAmI",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Whiley",
 			"details": "https://github.com/Whiley/WhileySyntaxBundle",
 			"labels": ["language syntax"],

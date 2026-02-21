@@ -207,6 +207,18 @@
 			]
 		},
 		{
+			"name": "RailsClassToPath",
+			"details": "https://github.com/Zlatov/RailsClassToPath",
+			"labels": ["rails", "ruby", "navigation"],
+			"author": "Zlatov",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RailsGoToSass",
 			"details": "https://github.com/xijo/sublime_rails_go_to_sass",
 			"releases": [

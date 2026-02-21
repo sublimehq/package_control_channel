@@ -1506,6 +1506,18 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "json-with-comments",
+			"details" : "https://github.com/naget/sublime-json-with-comment",
+			"labels": ["formatting", "json", "comments", "jsonc"],
+    		"description": "Format JSON files with comments (//) support",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		}
 	]
 }

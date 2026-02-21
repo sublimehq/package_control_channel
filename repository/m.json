@@ -2660,6 +2660,19 @@
 			]
 		},
 		{
+			"name": "mpytool",
+			"description": "Upload and run MicroPython code on microcontrollers directly from Sublime Text",
+			"author": "Pavel Revak",
+			"details": "https://github.com/pavelrevak/mpytool-sublime",
+			"labels": ["micropython", "mpytool", "embedded", "iot", "esp32", "esp8266", "rp2"],
+			"releases": [
+				{
+					"sublime_text": ">=4065",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Mreq Color Scheme",
 			"details": "https://github.com/mreq/mreq-theme",
 			"labels": ["color scheme"],

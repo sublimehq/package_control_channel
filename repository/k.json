@@ -413,6 +413,19 @@
 			]
 		},
 		{
+			"name": "Kodi Log Highlighter",
+			"details": "https://github.com/bossanova808/kodi-log-highlighter",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			],
+			"labels": ["language syntax", "logs"],
+			"readme": "https://raw.githubusercontent.com/bossanova808/kodi-log-highlighter/main/README.md",
+			"issues": "https://github.com/bossanova808/kodi-log-highlighter/issues"
+		},
+		{
 			"name": "KodiDevKit",
 			"details": "https://github.com/phil65/kodidevkit",
 			"author": "phil65",
@@ -616,19 +629,6 @@
 					"branch": "master"
 				}
 			]
-		},
-		{
-			"name": "Kodi Log Highlighter",
-			"details": "https://github.com/bossanova808/kodi-log-highlighter",
-			"releases": [
-				{
-					"sublime_text": ">=4000",
-					"tags": true
-				}
-			],
-			"labels": ["language syntax", "logs"],
-			"readme": "https://raw.githubusercontent.com/bossanova808/kodi-log-highlighter/main/README.md",
-			"issues": "https://github.com/bossanova808/kodi-log-highlighter/issues"
-		}		
+		}
 	]
 }

@@ -5125,6 +5125,20 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "ConvCalculate",
+			"details": "https://github.com/convictss/ConvSublimeCalculate",
+			"description": "A simple calculator with high accuracy.",
+			"author": "Convict Yellow (Kailian.Huang)",
+			"labels": ["calculator"],
+			"releases": [
+				{
+				  "sublime_text": ">=3000",
+				  "tags": true,
+				  "branch": "master"
+				}
+			]
 		}
 	]
 }

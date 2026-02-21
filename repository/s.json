@@ -4463,6 +4463,16 @@
 			]
 		},
 		{
+			"name": "SublimeJJ",
+			"details": "https://github.com/urschrei/SublimeJJ",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Sublime JS",
 			"details": "https://github.com/75team/SublimeJS",
 			"releases": [

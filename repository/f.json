@@ -1378,6 +1378,18 @@
 			]
 		},
 		{
+			"name": "Force Close All Files",
+			"previous_names": ["Close All without Confirmation"],
+			"details": "https://github.com/ddbln/CloseAllNoConfirm",
+			"author": "Dirk Dassow",
+			"labels": ["force close", "close files", "close all", "discard", "commands", "productivity", "utilities"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ForceMoveToGroup",
 			"details": "https://github.com/tkotosz/SublimeForceMoveToGroup",
 			"releases": [

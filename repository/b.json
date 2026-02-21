@@ -310,6 +310,16 @@
 			]
 		},
 		{
+			"name": "BeancountAutocomplete",
+			"details": "https://github.com/rhydlewis/BeancountAutocomplete",
+			"labels": ["autocomplete", "beancount", "finance"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Beanstalk Tools",
 			"details": "https://github.com/temochka/sublime-text-2-beanstalk",
 			"releases": [
@@ -992,6 +1002,17 @@
 			"details": "https://github.com/sergiopvilar/bonsucesso",
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "BookLeaf",
+			"details": "https://github.com/JoeFerrucci/BookLeaf-SublimeText",
+			"labels": ["scratch", "notes", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4074",
 					"tags": true
 				}
 			]

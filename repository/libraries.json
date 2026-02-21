@@ -1363,39 +1363,39 @@
 			"issues": "https://github.com/pydantic/pydantic-core/issues",
 			"releases": [
 				{
-					"platforms": ["windows-x32"],
 					"base": "https://pypi.org/project/pydantic-core",
 					"asset": "pydantic_core-*-cp${py_version}-*-win32.whl",
+					"platforms": ["windows-x32"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["windows-x64"],
 					"base": "https://pypi.org/project/pydantic-core",
 					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-x64"],
 					"base": "https://pypi.org/project/pydantic-core",
 					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-arm64"],
 					"base": "https://pypi.org/project/pydantic-core",
 					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-x64"],
 					"base": "https://pypi.org/project/pydantic-core",
 					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-arm64"],
 					"base": "https://pypi.org/project/pydantic-core",
 					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]
@@ -1825,39 +1825,39 @@
 			"issues": "https://sourceforge.net/p/ruamel-yaml-clib/tickets",
 			"releases": [
 				{
-					"platforms": ["windows-x32"],
 					"base": "https://pypi.org/project/ruamel.yaml.clib",
 					"asset": "ruamel.yaml.clib-*-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["windows-x64"],
 					"base": "https://pypi.org/project/ruamel.yaml.clib",
 					"asset": "ruamel.yaml.clib-*-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-x64"],
 					"base": "https://pypi.org/project/ruamel.yaml.clib",
 					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-arm64"],
 					"base": "https://pypi.org/project/ruamel.yaml.clib",
 					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-x64"],
 					"base": "https://pypi.org/project/ruamel.yaml.clib",
 					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-arm64"],
 					"base": "https://pypi.org/project/ruamel.yaml.clib",
 					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]
@@ -2346,39 +2346,39 @@
 					"tags": true
 				},
 				{
-					"platforms": ["windows-x32"],
 					"base": "https://pypi.org/project/watchdog",
 					"asset": "watchdog-*-py3-none-win32.whl",
+					"platforms": ["windows-x32"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["windows-x64"],
 					"base": "https://pypi.org/project/watchdog",
 					"asset": "watchdog-*-py3-none-win_amd64.whl",
+					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-x64"],
 					"base": "https://pypi.org/project/watchdog",
 					"asset": "watchdog-*-py3-none-manylinux2014_x86_64.whl",
+					"platforms": ["linux-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-arm64"],
 					"base": "https://pypi.org/project/watchdog",
 					"asset": "watchdog-*-py3-none-manylinux2014_aarch64.whl",
+					"platforms": ["linux-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-x64"],
 					"base": "https://pypi.org/project/watchdog",
 					"asset": "watchdog-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-arm64"],
 					"base": "https://pypi.org/project/watchdog",
 					"asset": "watchdog-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]
@@ -2439,33 +2439,33 @@
 			"issues": "https://github.com/python-websockets/websockets/issues",
 			"releases": [
 				{
-					"platforms": ["windows-x64"],
 					"base": "https://pypi.org/project/websockets",
 					"asset": "websockets-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-x64"],
 					"base": "https://pypi.org/project/websockets",
 					"asset": "websockets-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["linux-arm64"],
 					"base": "https://pypi.org/project/websockets",
 					"asset": "websockets-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-x64"],
 					"base": "https://pypi.org/project/websockets",
 					"asset": "websockets-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
-					"platforms": ["osx-arm64"],
 					"base": "https://pypi.org/project/websockets",
 					"asset": "websockets-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]

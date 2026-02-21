@@ -200,6 +200,18 @@
 			]
 		},
 		{
+			"name": "Pain",
+			"details": "https://github.com/ilyaZar/Pain",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"python_versions": ["3.8"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PaletteFile",
 			"details": "https://github.com/vshotarov/PaletteFile",
 			"labels": ["file creation", "file navigation", "directory creation", "directory navigation"],

@@ -1383,7 +1383,7 @@
 		},
 		{
 			"name": "Jumper",
-			"details": "https://github.com/Mister7F/sublime-jumper",
+			"details": "https://github.com/Mr7F/sublime-jumper",
 			"releases": [
 				{
 					"sublime_text": "*",

@@ -596,6 +596,18 @@
 			]
 		},
 		{
+			"name": "Markdown2Dir",
+			"details": "https://github.com/JohhannasReyn/Markdown2Dir",
+			"author": "Johhannas Reyn",
+			"labels": ["productivity", "developer-tools", "markdown", "scaffolding", "file-folder-creation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MarkdownAssistant",
 			"details": "https://github.com/code-reaper08/MarkdownAssistant",
 			"labels": ["snippets", "markdown"],

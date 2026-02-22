@@ -1229,16 +1229,6 @@
 			]
 		},
 		{
-			"name": "HTML To Elm",
-			"details": "https://github.com/michaelniepel/html-to-elm",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "HTML To Scss",
 			"details": "https://bitbucket.org/hxss/html2scss",
 			"releases": [

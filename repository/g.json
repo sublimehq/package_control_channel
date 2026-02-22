@@ -2355,16 +2355,6 @@
 			]
 		},
 		{
-			"name": "Guard",
-			"details": "https://github.com/drewdeponte/sublime_guard",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "GuardHelpers",
 			"details": "https://github.com/kassi/sublime-text-2-guard-helpers",
 			"releases": [

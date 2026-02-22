@@ -1574,17 +1574,6 @@
 			]
 		},
 		{
-			"name": "Theme - Haft Lang",
-			"details": "https://github.com/amirrustam/haft-lang",
-			"labels": ["theme", "color scheme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Theme - Hero",
 			"details": "https://github.com/nickbalestra/hero",
 			"labels": ["theme", "color scheme"],
@@ -3046,16 +3035,6 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
-			"name": "TomDoc+",
-			"details": "https://github.com/shell/sublime-tomdoc",
-			"releases": [
-				{
-					"sublime_text": "<3000",
 					"branch": "master"
 				}
 			]

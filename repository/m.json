@@ -1376,7 +1376,7 @@
 		},
 		{
 			"name": "Mercurial Color Scheme",
-			"homepage": "https://github.com/renzojohnson/mercurial-color-scheme",
+			"details": "https://github.com/renzojohnson/mercurial-color-scheme",
 			"donate": "https://github.com/sponsors/renzojohnson",
 			"labels": ["color scheme"],
 			"releases": [

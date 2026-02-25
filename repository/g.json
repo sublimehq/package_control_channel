@@ -1980,15 +1980,6 @@
 			]
 		},
 		{
-			"name": "Guard",
-			"details": "https://github.com/drewdeponte/sublime_guard",
-			"releases": [
-				{
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "Gulp",
 			"details": "https://github.com/NicoSantangelo/sublime-gulp",
 			"releases": [

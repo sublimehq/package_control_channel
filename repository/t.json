@@ -1344,16 +1344,6 @@
 			]
 		},
 		{
-			"name": "Theme - Haft Lang",
-			"details": "https://github.com/amirrustam/haft-lang",
-			"labels": ["theme", "color scheme"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Theme - Hero",
 			"details": "https://github.com/nickbalestra/hero",
 			"labels": ["theme", "color scheme"],

@@ -1144,6 +1144,20 @@
 			]
 		},
 		{
+			"name": "Django Snippets",
+			"details": "https://github.com/mattseymour/sublime-django",
+			"labels": ["snippets", "django"],
+			"previous_names": [
+				"Django"
+			],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Django Starter",
 			"details": "https://github.com/geekpradd/Sublime-Django-Starter",
 			"releases": [
@@ -1203,20 +1217,6 @@
 				{
 					"sublime_text": "*",
 					"platforms": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Django Snippets",
-			"details": "https://github.com/mattseymour/sublime-django",
-			"labels": ["snippets", "django"],
-			"previous_names": [
-				"Django"
-			],
-			"releases": [
-				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

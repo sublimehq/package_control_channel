@@ -3610,16 +3610,6 @@
 			]
 		},
 		{
-			"name": "ConvertChineseCharacters",
-			"details": "https://github.com/leibnizli/ConvertChineseCharacters",
-			"releases": [
-				{
-					"sublime_text": ">3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "ConvCalculate",
 			"details": "https://github.com/convictss/ConvSublimeCalculate",
 			"description": "A simple calculator with high accuracy.",
@@ -3630,6 +3620,16 @@
 				  "sublime_text": ">=3000",
 				  "tags": true,
 				  "branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ConvertChineseCharacters",
+			"details": "https://github.com/leibnizli/ConvertChineseCharacters",
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"tags": true
 				}
 			]
 		},

@@ -1862,6 +1862,17 @@
 			]
 		},
 		{
+			"name": "Mise",
+			"details": "https://github.com/guille/sublime-mise",
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			],
+			"labels": ["build system"]
+		},
+		{
 			"name": "Missing Palette Commands",
 			"details": "https://github.com/fjl/Sublime-Missing-Palette-Commands",
 			"releases": [

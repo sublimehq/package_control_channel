@@ -859,7 +859,7 @@
 		},
 		{
 			"name": "HostSettings",
-			"details": "https://worktree.ca/taffer/HostSettings",
+			"details": "https://github.com/Taffer/HostSettings",
 			"labels": ["utilities"],
 			"releases": [
 				{

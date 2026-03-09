@@ -858,17 +858,6 @@
 			]
 		},
 		{
-			"name": "HostSettings",
-			"details": "https://github.com/Taffer/HostSettings",
-			"labels": ["utilities"],
-			"releases": [
-				{
-					"sublime_text": ">=4050",
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/samueljohn/Homebrew-formula-syntax",
 			"labels": ["language syntax"],
 			"releases": [
@@ -985,6 +974,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "HostSettings",
+			"details": "https://github.com/Taffer/HostSettings",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
 					"tags": true
 				}
 			]

@@ -20,7 +20,7 @@ jobs:
       contents: read
     steps:
       - name: Post PR comment from artifact
-        uses: kaste/st_package_reviewer/gh_action@c31b4581d84e7481c38ba0552cf9b7bfb4178b87
+        uses: kaste/st_package_reviewer/gh_action@9e6455798b06b34ab846c5b1d2e3d4468814d57c
         with:
           phase: report
           run_id: ${{ github.event.workflow_run.id }}

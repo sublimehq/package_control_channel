@@ -795,6 +795,7 @@
 		{
 			"name": "GitHubTools",
 			"details": "https://github.com/braver/GitHubTools",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -969,6 +970,7 @@
 		{
 			"name": "GitUp",
 			"details": "https://github.com/braver/SublimeGitUp",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["git"],
 			"releases": [
 				{

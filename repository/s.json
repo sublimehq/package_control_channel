@@ -3243,6 +3243,18 @@
 			]
 		},
 		{
+			"name": "Spartan Color Scheme",
+			"details": "https://github.com/renzojohnson/spartan-color-scheme",
+			"homepage": "https://github.com/renzojohnson/spartan-color-scheme",
+			"labels": ["color scheme", "theme", "dark", "sublime-text"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Spec Finder",
 			"details": "https://github.com/rogeriochaves/sublime-spec-finder",
 			"releases": [

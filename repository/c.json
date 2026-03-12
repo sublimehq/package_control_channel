@@ -2129,7 +2129,7 @@
 		{
 			"name": "CodeFormatter",
 			"details": "https://github.com/akalongman/sublimetext-codeformatter",
-			"labels": ["formatting", "utilities", "php", "css", "javascript", "html", "python", "automation", "indent"],
+			"labels": ["formatting", "utilities", "php", "css", "javascript", "html", "python", "automation", "indentation"],
 			"author": "Avtandil Kikabidze aka LONGMAN",
 			"releases": [
 				{

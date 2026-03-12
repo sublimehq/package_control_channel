@@ -1929,7 +1929,7 @@
 			"name": "Simple Indent",
 			"details": "https://github.com/zharkomi/SimpleIndent",
 			"author": "zharkomi",
-			"labels": ["indent", "bracket"],
+			"labels": ["indentation", "bracket"],
 			"releases": [
 				{
 					"sublime_text": "*",

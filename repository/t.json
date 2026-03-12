@@ -233,7 +233,7 @@
 		{
 			"name": "TabToSpaceConverter",
 			"details": "https://github.com/maliayas/SublimeText_TabToSpaceConverter",
-			"labels": ["tab", "indentation", "indent"],
+			"labels": ["tab", "indentation"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

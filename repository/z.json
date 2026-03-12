@@ -149,7 +149,7 @@
 		},
 		{
 			"name": "Zig Language",
-			"details": "https://github.com/ziglang/sublime-zig-language",
+			"details": "https://codeberg.org/ziglang/sublime-zig-language",
 			"labels": ["language syntax", "zig"],
 			"releases": [
 				{

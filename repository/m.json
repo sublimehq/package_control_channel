@@ -2090,6 +2090,10 @@
 				{
 					"sublime_text": "<3000",
 					"tags": "st2/"
+				},
+				{
+					"sublime_text": ">=4135",
+					"tags": "st4135/"
 				}
 			]
 		},

@@ -548,7 +548,7 @@
 			"name": "Indent Respectful Sort",
 			"author": "Mustafa Nural",
 			"details": "https://github.com/mvnural/sublime-indent-respectful-sort",
-			"labels": ["sort"],
+			"labels": ["sort", "indentation"],
 			"releases": [
 				{
 					"sublime_text": "*",

@@ -1217,6 +1217,18 @@
 			]
 		},
 		{
+			"name": "MCPServer",
+			"description": "Expose unsaved Sublime Text buffers over MCP so AI tools can read and manage scratch tabs.",
+			"details": "https://github.com/benyue1978/sublime-mcp",
+			"labels": ["mcp", "ai", "productivity"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MCS_Syntax",
 			"details": "https://github.com/bmpenuelas/MCS_Syntax",
 			"labels": ["language syntax", "mcs", "xilinx", "fpga"],

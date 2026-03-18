@@ -1,0 +1,18 @@
+{
+  "schema_version": "4.0.0",
+  "packages": [
+    {
+      "name": "MarkdownJiraConverter",
+      "details": "https://github.com/crqcastro/markdown_to_jira",
+      "description": "Convert Markdown to Jira format and Jira format back to Markdown directly in Sublime Text.",
+      "author": "crqcastro",
+      "labels": ["markdown", "jira", "converter", "formatting", "productivity"],
+      "releases": [
+        {
+          "sublime_text": ">=4000",
+          "tags": true
+        }
+      ]
+    }
+  ]
+}

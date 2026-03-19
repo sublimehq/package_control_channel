@@ -2085,10 +2085,11 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/Modelines",
+			"labels": ["formatting", "syntax", "indention", "modeline"],
 			"releases": [
 				{
 					"sublime_text": "<3000",
-					"branch": "master"
+					"tags": "st2/"
 				}
 			]
 		},

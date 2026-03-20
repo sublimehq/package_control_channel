@@ -3245,7 +3245,7 @@
 		{
 			"name": "Spartan Color Scheme",
 			"details": "https://github.com/renzojohnson/spartan-color-scheme",
-			"labels": ["color scheme", "theme", "dark"],
+			"labels": ["color scheme", "dark"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

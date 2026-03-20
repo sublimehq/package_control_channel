@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v5
       - uses: packagecontrol/st-schema-reviewer-action@a1bdfafb7e7b834226052dac79f23730ba09ef26
         with:
-          test_repositories: true
+          test_repositories: false

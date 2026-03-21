@@ -717,7 +717,6 @@
 		{
 			"name": "WooCommerce",
 			"details": "https://github.com/renzojohnson/woocommerce",
-			"homepage": "https://github.com/renzojohnson/woocommerce",
 			"labels": ["snippets", "completions", "woocommerce", "wordpress", "php"],
 			"releases": [
 				{

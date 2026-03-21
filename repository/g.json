@@ -224,6 +224,23 @@
 			]
 		},
 		{
+            "name": "Gemini Assistant",
+            "description": "Google Gemini AI assistant integrated into Sublime Text. Interactive console, file attachments, code generation, write tools, and conversation history.",
+            "homepage": "https://github.com/radda-ui/GeminiAssistant",
+            "author": "radda-ui",
+            "labels": ["ai", "gemini", "assistant", "code", "chat"],
+            "donate": null,
+            "readme": "https://raw.githubusercontent.com/radda-ui/GeminiAssistant/main/README.md",
+            "issues": "https://github.com/radda-ui/GeminiAssistant/issues",
+            "releases": [
+                {
+                    "sublime_text": ">=4000",
+                    "tags": true,
+                    "tag_prefix": "v"
+                }
+            ]
+        },
+		{
 			"name": "Gemma",
 			"details": "https://github.com/parachute-io/gemma",
 			"labels": ["ruby", "rubygems", "gemfile", "bundler"],

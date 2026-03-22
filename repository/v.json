@@ -216,8 +216,8 @@
 			]
 		},
 		{
-			"name": "Vercel",
-			"details": "https://github.com/renzojohnson/Vercel",
+			"name": "Vercel Snippets",
+			"details": "https://github.com/renzojohnson/Vercel-Snippets",
 			"labels": ["snippets", "vercel", "nextjs", "serverless", "edge"],
 			"releases": [
 				{

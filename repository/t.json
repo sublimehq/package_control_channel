@@ -749,7 +749,7 @@
 			]
 		},
 		{
-			"name": "Terminus Persistence",
+			"name": "terminus-persistence",
 			"details": "https://github.com/gabriel-lody/terminus-persistence",
 			"releases": [
 				{

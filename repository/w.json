@@ -715,6 +715,17 @@
 			]
 		},
 		{
+			"name": "WooCommerce",
+			"details": "https://github.com/renzojohnson/woocommerce",
+			"labels": ["snippets", "woocommerce", "wordpress", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "WooCommerce Autocomplete",
 			"details": "https://github.com/kloon/WooCommerce-Sublime-Text-2-Auto-Completion",
 			"releases": [

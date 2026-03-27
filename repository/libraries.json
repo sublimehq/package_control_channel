@@ -1,0 +1,2514 @@
+{
+	"$schema": "sublime://packagecontrol.io/schemas/repository",
+	"schema_version": "4.0.0",
+	"libraries": [
+		{
+			"name": "annotated-types",
+			"description": "Reusable constraint types to use with typing.Annotated.",
+			"author": "adriangb",
+			"issues": "https://github.com/annotated-types/annotated-types/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/annotated-types",
+					"asset": "annotated_types-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "anytree",
+			"description": "Python Anytree module",
+			"author": "c0fec0de",
+			"issues": "https://github.com/c0fec0de/anytree/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/anytree",
+					"asset": "anytree-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/anytree",
+					"asset": "anytree-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "arrow",
+			"description": "Arrow is a Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.",
+			"author": "Chris Smith",
+			"issues": "https://github.com/arrow-py/arrow/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/arrow",
+					"asset": "arrow-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/arrow",
+					"asset": "arrow-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "backrefs",
+			"description": "Backrefs regular expression wrapper.",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/backrefs/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-backrefs",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/backrefs",
+					"asset": "backrefs-*-py${py_version}-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "bashlex",
+			"description": "Python parser for bash",
+			"author": "Idan Kamara",
+			"issues": "https://github.com/idank/bashlex/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/bashlex",
+					"asset": "bashlex-*-py2.py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "beautifulsoup4",
+			"description": "Beautiful Soup is a Python library for pulling data out of HTML and XML files - https://www.crummy.com/software/BeautifulSoup",
+			"author": "Leonard Richardson",
+			"issues": "https://bugs.launchpad.net/beautifulsoup",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/beautifulsoup4",
+					"asset": "beautifulsoup4-*-py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/beautifulsoup4",
+					"asset": "beautifulsoup4-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "better_settings",
+			"description": "Easily implement OS, Host and OS/Host-level settings aside the normal user-level settings for any plugin.",
+			"author": "KuttKatrea",
+			"issues": "https://github.com/KuttKatrea/sublime-better-settings/issues",
+			"releases": [
+				{
+					"base": "https://github.com/KuttKatrea/sublime-better-settings",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "boto3",
+			"description": "Python boto3 module for Amazon Web Services",
+			"author": "revmischa",
+			"issues": "https://github.com/revmischa/sublime-boto3/issues",
+			"releases": [
+				{
+					"base": "https://github.com/revmischa/sublime-boto3",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "bracex",
+			"description": "Bracex creates arbitrary strings via brace expansion much like Bash's.",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/bracex/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-bracex",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/bracex",
+					"asset": "bracex-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "bson",
+			"description": "Independent BSON codec for Python that doesn’t depend on MongoDB - https://github.com/py-bson/bson",
+			"author": "idleberg",
+			"issues": "https://github.com/idleberg/sublime-bson/issues",
+			"releases": [
+				{
+					"base": "https://github.com/idleberg/sublime-bson",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "bz2",
+			"description": "Python bz2 module",
+			"author": "wbond",
+			"issues": "https://github.com/codexns/sublime-bz2/issues",
+			"releases": [
+				{
+					"base": "https://github.com/codexns/sublime-bz2",
+					"platforms": ["osx-x64", "linux-x32", "linux-x64", "windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "cffi",
+			"description": "Foreign Function Interface for Python calling C code.",
+			"author": "python-cffi",
+			"issues": "https://github.com/python-cffi/cffi/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/cffi",
+					"asset": "cffi-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/cffi",
+					"asset": "cffi-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/cffi",
+					"asset": "cffi-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/cffi",
+					"asset": "cffi-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/cffi",
+					"asset": "cffi-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "channelmanager",
+			"description": "Manages packages installed as git submodules",
+			"author": "evandrocoan",
+			"issues": "https://github.com/evandrocoan/channelmanager/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandrocoan/channelmanager",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "chardet",
+			"description": "The Universal Character Encoding Detector",
+			"author": "chardet",
+			"issues": "https://github.com/chardet/chardet/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/chardet",
+					"asset": "chardet-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/chardet",
+					"asset": "chardet-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "charset-normalizer",
+			"description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+			"author": "Ahmed TAHRI",
+			"issues": "https://github.com/jawah/charset_normalizer/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/charset-normalizer",
+					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/charset-normalizer",
+					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/charset-normalizer",
+					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/charset-normalizer",
+					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/charset-normalizer",
+					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/charset-normalizer",
+					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "ckdl",
+			"description": "KDL reading and writing using a C backend",
+			"author": "Thomas Jollans",
+			"issues": "https://github.com/tjol/ckdl/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/ckdl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"platforms": ["windows-x64"],
+					"asset": "ckdl-*-cp${py_version}-cp${py_version}-win_amd64.whl"
+				},
+				{
+					"base": "https://pypi.org/project/ckdl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"platforms": ["windows-x32"],
+					"asset": "ckdl-*-cp${py_version}-cp${py_version}-win32.whl"
+				},
+				{
+					"base": "https://pypi.org/project/ckdl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"platforms": ["osx-x64"],
+					"asset": "ckdl-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl"
+				},
+				{
+					"base": "https://pypi.org/project/ckdl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"platforms": ["osx-arm64"],
+					"asset": "ckdl-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl"
+				},
+				{
+					"base": "https://pypi.org/project/ckdl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"platforms": ["linux-x64"],
+					"asset": "ckdl-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl"
+				},
+				{
+					"base": "https://pypi.org/project/ckdl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"platforms": ["linux-x32"],
+					"asset": "ckdl-*-cp${py_version}-cp${py_version}-manylinux_*_i686.whl"
+				}
+			]
+		},
+		{
+			"name": "codemp",
+			"description": "codemp - collaborative editing library",
+			"author": ["alemi", "cschen", "fraaz", "frelodev"],
+			"issues": "https://github.com/hexedtech/codemp/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/codemp",
+					"asset": "codemp-*-cp${py_version}-none-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/codemp",
+					"asset": "codemp-*-cp${py_version}-abi3-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/codemp",
+					"asset": "codemp-*-cp${py_version}-abi3-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "coloraide",
+			"description": "A color library.",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/coloraide/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-coloraide",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/coloraide",
+					"asset": "coloraide-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "concurrentloghandler",
+			"description": "An additional concurrent file log handler for Python's standard logging package",
+			"author": "evandrocoan",
+			"issues": "https://github.com/evandroforks/concurrentloghandler/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandroforks/concurrentloghandler",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "coverage",
+			"description": "Code coverage testing for Python",
+			"author": "Ned Batchelder and 96 others",
+			"issues": "https://github.com/codexns/sublime-coverage/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp${py_version}-cp${py_version}-manylinux_*_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp33-cp33m-manylinux1_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp33-cp33m-manylinux1_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp33-cp33m-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp33-cp33m-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/coverage",
+					"asset": "coverage-*-cp33-cp33m-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.3"]
+				}
+			]
+		},
+		{
+			"name": "crypt",
+			"description": "Python crypt module",
+			"author": "adnanyaqoobvirk",
+			"issues": "https://github.com/adnanyaqoobvirk/sublime-crypt/issues",
+			"releases": [
+				{
+					"base": "https://github.com/adnanyaqoobvirk/sublime-crypt",
+					"platforms": ["linux-x32", "linux-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "cson",
+			"description": "A Coffescript Object Notation (CSON) parser for Python - https://github.com/avakar/pycson",
+			"author": "idleberg",
+			"issues": "https://github.com/idleberg/sublime-cson/issues",
+			"releases": [
+				{
+					"base": "https://github.com/idleberg/sublime-cson",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "debugtools",
+			"description": "Alternate simplified logging support and general utilities functions",
+			"author": "evandrocoan",
+			"issues": "https://github.com/evandrocoan/debugtools/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandrocoan/debugtools",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "dicttoxml",
+			"description": "Converts a Python dictionary or other native data type into a valid XML string - https://github.com/idleberg/sublime-dicttoxml",
+			"author": "idleberg",
+			"issues": "https://github.com/idleberg/sublime-dicttoxml/issues",
+			"releases": [
+				{
+					"base": "https://github.com/idleberg/sublime-dicttoxml",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "diffmatchpatch",
+			"description": "Autored by Neil Fraser and others, Diff Match Patch is a high-performance library in multiple languages that manipulates plain text",
+			"author": "evandrocoan",
+			"issues": "https://github.com/evandroforks/diffmatchpatch/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandroforks/diffmatchpatch",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "enum",
+			"description": "Python enum module",
+			"author": "FichteFoll",
+			"issues": "https://github.com/packagecontrol/enum/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/enum",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "eval-type-backport",
+			"description": "Like `typing._eval_type`, but lets older Python versions use newer typing features.",
+			"author": "alexmojaki",
+			"issues": "https://github.com/alexmojaki/eval_type_backport/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/eval-type-backport",
+					"asset": "eval_type_backport-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "gateone-terminal",
+			"description": "GateOne terminal",
+			"author": "randy3k",
+			"issues": "https://github.com/packagecontrol/gateone-terminal/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/gateone-terminal",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "gntp",
+			"description": "Growl Notification Transport Protocol library.",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/sublime-gntp/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-gntp",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "golangconfig",
+			"description": "A library for Go environment configuration",
+			"author": "Go Authors",
+			"issues": "https://github.com/golang/sublime-config/issues",
+			"releases": [
+				{
+					"base": "https://github.com/golang/sublime-config",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "idna",
+			"description": "Internationalized Domain Names in Applications (IDNA)",
+			"author": "Kim Davies",
+			"issues": "https://github.com/kjd/idna/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/idna",
+					"asset": "idna-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "jedi",
+			"description": "Jedi is a static analysis tool for Python that is typically used in IDEs/editors plugins",
+			"author": "David Halter",
+			"issues": "https://github.com/davidhalter/jedi/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/jedi",
+					"asset": "jedi-*-py2.py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "jieba",
+			"description": "A Chinese text segementation lib.",
+			"issues": "https://github.com/packagecontrol/jieba/issues",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/jieba",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Jinja2",
+			"description": "Python Jinja2 module",
+			"author": "FichteFoll",
+			"issues": "https://github.com/packagecontrol/jinja2/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/jinja2",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/Jinja2",
+					"asset": "Jinja2-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "jmespath",
+			"description": "JSON Matching Expressions",
+			"author": "jamesls",
+			"issues": "https://github.com/jmespath/jmespath.py/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/jmespath",
+					"asset": "jmespath-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "jsonschema",
+			"description": "An(other) implementation of JSON Schema for Python",
+			"author": "kylebebak",
+			"issues": "https://github.com/kylebebak/sublime-jsonschema/issues",
+			"releases": [
+				{
+					"base": "https://github.com/kylebebak/sublime-jsonschema",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "llm_runner",
+			"description": "Sublime LLM Communication Core",
+			"author": "Yaroslav Ya",
+			"issues": "https://github.com/yaroslavyaroslav/llm_runner/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/llm-runner",
+					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/llm-runner",
+					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/llm-runner",
+					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-manylinux*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/llm-runner",
+					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/llm-runner",
+					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/llm-runner",
+					"asset": "llm_runner-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "lsp_utils",
+			"author": "rchl",
+			"description": "Module with LSP-related utilities",
+			"issues": "https://github.com/sublimelsp/lsp_utils/issues",
+			"releases": [
+				{
+					"base": "https://github.com/sublimelsp/lsp_utils",
+					"python_versions": ["3.3", "3.8"],
+					"sublime_text": "3154 - 4069",
+					"tags": "st3-v"
+				},
+				{
+					"base": "https://github.com/sublimelsp/lsp_utils",
+					"asset": "lsp_utils-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"sublime_text": ">=4070"
+				}
+			]
+		},
+		{
+			"name": "lxml",
+			"description": "lxml",
+			"author": "lxml dev team",
+			"issues": "https://bugs.launchpad.net/lxml",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp33-cp33m-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp33-cp33m-manylinux1_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp33-cp33m-manylinux1_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp33-cp33m-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp33-cp33m-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp${py_version}-cp${py_version}-manylinux_*_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/lxml",
+					"asset": "lxml-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "Markdown",
+			"description": "Python Markdown module",
+			"author": "waylan",
+			"issues": "https://github.com/Python-Markdown/markdown/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-markdown",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/Markdown/3.2.2",
+					"asset": "Markdown-*-py3-none-any.whl",
+					"python_versions": ["3.8"]
+				},
+				{
+					"base": "https://pypi.org/project/Markdown",
+					"asset": "markdown-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "MarkupSafe",
+			"description": "MarkupSafe implements a text object that escapes characters so it is safe to use in HTML and XML.",
+			"author": "Pallets",
+			"issues": "https://github.com/pallets/markupsafe/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/MarkupSafe",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/MarkupSafe",
+					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/MarkupSafe",
+					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/MarkupSafe",
+					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/MarkupSafe",
+					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/MarkupSafe",
+					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "mdpopups",
+			"description": "Markdown Popups for Sublime",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/sublime-markdown-popups/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-markdown-popups",
+					"asset": "mdpopups-*-py3-none-any.whl",
+					"python_versions": ["3.3", "3.8"],
+					"tags": "st3-"
+				},
+				{
+					"base": "https://github.com/facelessuser/sublime-markdown-popups",
+					"asset": "mdpopups-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "more-itertools",
+			"description": "More routines for operating on iterables, beyond itertools",
+			"author": "Erik Rose",
+			"issues": "https://github.com/more-itertools/more-itertools/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/more-itertools",
+					"asset": "more_itertools-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "natsort",
+			"description": "Simple yet flexible natural sorting in Python.",
+			"author": "SethMMorton",
+			"issues": "https://github.com/SethMMorton/natsort/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/natsort",
+					"asset": "natsort-*-*py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/natsort",
+					"asset": "natsort-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "newterm",
+			"description": "Open a terminal to a specific folder and optionally set environment variables",
+			"author": "wbond",
+			"issues": "https://github.com/codexns/newterm/issues",
+			"releases": [
+				{
+					"base": "https://github.com/codexns/newterm",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "numpy",
+			"description": "NumPy is the fundamental package for scientific computing with Python.",
+			"author": "Numpy",
+			"issues": "https://github.com/numpy/numpy/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp33-cp33m-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp33-cp33m-macosx*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp33-cp33m-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp${py_version}-cp${py_version}-manylinux*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp${py_version}-cp${py_version}-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp${py_version}-cp${py_version}-macosx*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp${py_version}-cp${py_version}-macosx*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/numpy",
+					"asset": "numpy-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "oauthlib",
+			"description": "Python oauthlib module",
+			"author": "csch0",
+			"issues": "https://github.com/packagecontrol/oauthlib/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/oauthlib",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "orjson",
+			"description": "orjson is a fast, correct JSON library for Python.",
+			"author": "ijl",
+			"issues": "https://github.com/ijl/orjson/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/orjson",
+					"asset": "orjson-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/orjson",
+					"asset": "orjson-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/orjson",
+					"asset": "orjson-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64", "osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/orjson",
+					"asset": "orjson-*-cp${py_version}-*-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/orjson",
+					"asset": "orjson-*-cp${py_version}-*-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "package_events",
+			"description": "Allows Sublime Text packages to emit and listen for events",
+			"author": "wbond",
+			"issues": "https://github.com/codexns/package_events/issues",
+			"releases": [
+				{
+					"base": "https://github.com/codexns/package_events",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "package_setting_context",
+			"description": "Allow final user to disable key bindings with very few changes needed from the dev",
+			"author": "math2001",
+			"issues": "https://github.com/math2001/package_setting_context/issues",
+			"releases": [
+				{
+					"base": "https://github.com/math2001/package_setting_context",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "paramiko",
+			"description": "Python implementation of the SSHv2 protocol - http://paramiko-www.readthedocs.org/en/latest/index.html",
+			"author": "jlegewie",
+			"issues": "https://github.com/jlegewie/sublime-paramiko/issues",
+			"releases": [
+				{
+					"base": "https://github.com/jlegewie/sublime-paramiko",
+					"platforms": ["osx"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "parso",
+			"description": "Parso is a Python parser that supports error recovery and round-trip parsing for different Python versions (in multiple Python versions).",
+			"author": "David Halter",
+			"issues": "https://github.com/davidhalter/parso/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/parso",
+					"asset": "parso-*-py2.py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pathlib",
+			"description": "Python pathlib module",
+			"author": "antoine",
+			"issues": "https://github.com/jazzband/pathlib2",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pathlib",
+					"asset": "pathlib-*-py3-none-any.whl",
+					"python_versions": ["3.3"]
+				}
+			]
+		},
+		{
+			"name": "pathtools",
+			"description": "Path utilities for Python https://pypi.python.org/pypi/pathtools",
+			"author": "vovkkk",
+			"issues": "https://github.com/vovkkk/sublime-pathtools/issues",
+			"releases": [
+				{
+					"base": "https://github.com/vovkkk/sublime-pathtools",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pexpect",
+			"description": "Python pexpect module",
+			"author": "varp",
+			"issues": "https://github.com/varp/sublime-pexpect/issues",
+			"releases": [
+				{
+					"base": "https://github.com/varp/sublime-pexpect",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pillow",
+			"description": "Pillow is the friendly PIL fork by Jeffrey A. Clark and contributors. PIL is the Python Imaging Library by Fredrik Lundh and contributors.",
+			"author": " Jeffrey A. Clark",
+			"issues": "https://github.com/python-pillow/Pillow/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pillow",
+					"asset": "pillow-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pillow",
+					"asset": "pillow-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pillow",
+					"asset": "pillow-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pillow",
+					"asset": "pillow-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pillow",
+					"asset": "pillow-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pillow",
+					"asset": "pillow-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "plantumlconnection",
+			"description": "Python interface to a plantuml web service instead of having to run Java locally",
+			"author": "evandrocoan",
+			"issues": "https://github.com/evandrocoan/plantumlconnection/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandrocoan/plantumlconnection",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "portalockerfile",
+			"description": "An extended version of portalocker to lock files in Python using the with statement",
+			"author": "evandrocoan",
+			"issues": "https://github.com/evandroforks/portalockerfile/issues",
+			"releases": [
+				{
+					"base": "https://github.com/evandroforks/portalockerfile",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "psutil",
+			"description": "Python psutil module",
+			"author": "randy3k",
+			"issues": "https://github.com/packagecontrol/psutil/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/psutil",
+					"platforms": ["osx-x64","windows","linux"],
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp${py_version}-*-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp${py_version}-*-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp${py_version}-*-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp${py_version}-*-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp${py_version}-*-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "ptyprocess",
+			"description": "Launch a subprocess in a pseudo terminal (pty), and interact with both the process and its pty.",
+			"author": ["luyer", "Red_M", "takowl"],
+			"issues": "https://github.com/pexpect/ptyprocess/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/ptyprocess",
+					"asset": "ptyprocess-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pycparser",
+			"description": "Complete C99 parser in pure Python",
+			"author": "Eli Bendersky",
+			"issues": "https://github.com/eliben/pycparser/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pycparser",
+					"asset": "pycparser-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyCrypto",
+			"description": "Python Cryptography Toolkit - https://www.dlitz.net/software/pycrypto",
+			"author": "jlegewie",
+			"issues": "https://github.com/jlegewie/sublime-PyCrypto/issues",
+			"releases": [
+				{
+					"base": "https://github.com/jlegewie/sublime-PyCrypto",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pycryptodome",
+			"description": "PyCryptodome is a self-contained Python package of low-level cryptographic primitives.",
+			"author": "Legrandin",
+			"issues": "https://github.com/Legrandin/pycryptodome/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pycryptodome",
+					"asset": "pycryptodome-*-cp37-abi3-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pydantic",
+			"description": "Data validation using Python type hints.",
+			"author": "samuelcolvin",
+			"issues": "https://github.com/pydantic/pydantic/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pydantic",
+					"asset": "pydantic-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pydantic-core",
+			"description": "Core functionality for Pydantic validation and serialization.",
+			"author": "samuelcolvin",
+			"issues": "https://github.com/pydantic/pydantic-core/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pydantic-core",
+					"asset": "pydantic_core-*-cp${py_version}-*-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pydantic-core",
+					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pydantic-core",
+					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pydantic-core",
+					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pydantic-core",
+					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pydantic-core",
+					"asset": "pydantic_core-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pyfispip",
+			"description": " Python FIS MTM/PIP SQL/RPC Interface",
+			"author": "fopina",
+			"issues": "https://github.com/fopina/sublime-pyfispip/issues",
+			"releases": [
+				{
+					"base": "https://github.com/fopina/sublime-pyfispip",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pygments",
+			"description": "Python pygments module",
+			"author": "AndreasBackx",
+			"issues": "https://github.com/packagecontrol/pygments/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pygments",
+					"asset": "Pygments-*-py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/pygments",
+					"asset": "pygments-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pymdown-extensions",
+			"description": "PyMdown Extensions for Python Markdown",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/pymdown-extensions/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-pymdownx",
+					"python_versions": ["3.3", "3.8"],
+					"tags": "st3-"
+				},
+				{
+					"base": "https://pypi.org/project/pymdown-extensions",
+					"asset": "pymdown_extensions-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pymdownx",
+			"description": "PyMdown Extensions for Python Markdown",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/pymdown-extensions/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-pymdownx",
+					"python_versions": ["3.3", "3.8"],
+					"tags": "st3-"
+				},
+				{
+					"base": "https://pypi.org/project/pymdown-extensions",
+					"asset": "pymdown_extensions-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pyserial",
+			"description": "Python serial port access library",
+			"author": "pyserial",
+			"issues": "https://github.com/bisguzar/sublime-serial/issues",
+			"releases": [
+				{
+					"base": "https://github.com/bisguzar/sublime-serial",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pysimdjson",
+			"description": "Python bindings for the simdjson project, a SIMD-accelerated JSON parser.",
+			"author": "Tyler Kennedy",
+			"issues": "https://github.com/TkTech/pysimdjson/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pysimdjson",
+					"asset": "pysimdjson-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pysimdjson",
+					"asset": "pysimdjson-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pysimdjson",
+					"asset": "pysimdjson-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pysimdjson",
+					"asset": "pysimdjson-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pysimdjson",
+					"asset": "pysimdjson-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pyte",
+			"description": "An in memory VTXXX-compatible terminal emulator",
+			"author": "Sergei.Lebedev",
+			"issues": "https://github.com/selectel/pyte/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pyte",
+					"asset": "pyte-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/pyte",
+					"asset": "pyte-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "python-dateutil",
+			"description": "The dateutil module provides powerful extensions to the datetime module available in the Python standard library",
+			"author": "Paul Ganssle",
+			"issues": "https://github.com/dateutil/dateutil/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/python-dateutil",
+					"asset": "python_dateutil-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "python-docx",
+			"description": "Create, read, and update Microsoft Word .docx files.",
+			"author": "Python OpenXML Team",
+			"issues": "https://github.com/python-openxml/python-docx/issues",
+			"releases": [
+				{
+					"base": "https://github.com/writeml/sublime-docx",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/python-docx",
+					"asset": "python_docx-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pytz",
+			"description": "Python pytz module",
+			"author": "FichteFoll",
+			"issues": "https://github.com/packagecontrol/pytz/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pytz",
+					"asset": "pytz-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pywin32",
+			"description": "Pywin32 module",
+			"author": "randy3k",
+			"issues": "https://github.com/packagecontrol/pywin32/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/pywin32",
+					"platforms": ["windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/pywin32",
+					"asset": "pywin32-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pywinpty",
+			"description": "Python winpty module",
+			"author": "randy3k",
+			"issues": "https://github.com/packagecontrol/pywinpty/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/pywinpty",
+					"platforms": ["windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/pywinpty",
+					"asset": "pywinpty-0.5.7-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8"]
+				},
+				{
+					"base": "https://pypi.org/project/pywinpty",
+					"asset": "pywinpty-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "pyyaml",
+			"description": "Python PyYAML module",
+			"author": "FichteFoll",
+			"issues": "https://github.com/packagecontrol/pyyaml/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/pyyaml",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "pyzmq",
+			"description": "Python ZMQ module",
+			"author": "randy3k",
+			"issues": "https://github.com/packagecontrol/pyzmq/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/pyzmq",
+					"platforms": ["osx-x64", "linux-x32", "linux-x64", "windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-manylinux_*_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "regex",
+			"description": "Alternative regular expression module, to replace re.",
+			"author": "Matthew Barnett",
+			"issues": "https://github.com/mrabarnett/mrab-regex/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-regex",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/regex",
+					"asset": "regex-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/regex",
+					"asset": "regex-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/regex",
+					"asset": "regex-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/regex",
+					"asset": "regex-*-cp${py_version}-cp${py_version}-manylinux_*_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/regex",
+					"asset": "regex-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/regex",
+					"asset": "regex-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/regex",
+					"asset": "regex-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "requests",
+			"description": "Python HTTP for Humans.",
+			"author": "Kenneth Reitz",
+			"issues": "https://github.com/psf/requests/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/requests",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/requests",
+					"asset": "requests-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "requests-oauthlib",
+			"description": "OAuthlib authentication support for Requests.",
+			"author": "Kenneth Reitz",
+			"issues": "https://github.com/requests/requests-oauthlib/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/requests-oauthlib",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/requests-oauthlib",
+					"asset": "requests_oauthlib-*-py2.py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "resumeback",
+			"description": "Python resumeback module",
+			"author": "FichteFoll",
+			"issues": "https://github.com/packagecontrol/resumeback/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/resumeback",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ruamel.yaml",
+			"description": "Python ruamel.yaml module",
+			"author": "Thomas Smith",
+			"issues": "https://github.com/Thom1729/sublime-ruamel/issues",
+			"releases": [
+				{
+					"base": "https://github.com/Thom1729/sublime-ruamel",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/ruamel.yaml",
+					"asset": "ruamel.yaml-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "ruamel.yaml.clib",
+			"description": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml",
+			"author": "Anthon van der Neut",
+			"issues": "https://sourceforge.net/p/ruamel-yaml-clib/tickets",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/ruamel.yaml.clib",
+					"asset": "ruamel.yaml.clib-*-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/ruamel.yaml.clib",
+					"asset": "ruamel.yaml.clib-*-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/ruamel.yaml.clib",
+					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/ruamel.yaml.clib",
+					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/ruamel.yaml.clib",
+					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/ruamel.yaml.clib",
+					"asset": "ruamel.yaml.clib-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "rx",
+			"description": "Reactive extensions for Python",
+			"author": "guillermooo",
+			"issues": "https://github.com/guillermooo/rxpyst/issues",
+			"releases": [
+				{
+					"base": "https://github.com/guillermooo/rxpyst",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "sassc",
+			"description": "Sassc binaries",
+			"author": "blitzrk",
+			"issues": "https://github.com/blitzrk/sublime_sassc/issues",
+			"releases": [
+				{
+					"base": "https://github.com/blitzrk/sublime_sassc",
+					"platforms": ["osx-x64", "linux-x32", "linux-x64", "windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "screeninfo",
+			"description": "Fetch location and size of physical screens - https://github.com/rr-/screeninfo",
+			"author": "ggets",
+			"issues": "https://github.com/ggets/sublime-screeninfo/issues",
+			"releases": [
+				{
+					"base": "https://github.com/ggets/sublime-screeninfo",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "select-windows",
+			"description": "Python select module for Sublime Text 2 on Windows",
+			"author": "wbond",
+			"issues": "https://github.com/codexns/sublime-select-windows/issues",
+			"releases": [
+				{
+					"base": "https://github.com/codexns/sublime-select-windows",
+					"platforms": ["windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "shellenv",
+			"description": "Access a user's environmental variables as defined in their shell",
+			"author": "wbond",
+			"issues": "https://github.com/codexns/shellenv/issues",
+			"releases": [
+				{
+					"base": "https://github.com/codexns/shellenv",
+					"python_versions": ["3.3","3.8"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "six",
+			"description": "Six is a Python 2 and 3 compatibility library.",
+			"author": "Benjamin Peterson",
+			"issues": "https://github.com/benjaminp/six/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/six",
+					"asset": "six-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "soupsieve",
+			"description": "A modern CSS selector implementation for Beautiful Soup. - https://github.com/facelessuser/soupsieve",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/soupsieve/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/soupsieve",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"asset": "soupsieve-*-py3-none-any.whl"
+				}
+			]
+		},
+		{
+			"name": "speg",
+			"description": "A PEG-based parser interpreter with memoization - https://github.com/avakar/speg",
+			"author": "idleberg",
+			"issues": "https://github.com/idleberg/sublime-speg/issues",
+			"releases": [
+				{
+					"base": "https://github.com/idleberg/sublime-speg",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "sqlite3",
+			"description": "Python _sqlite3 module",
+			"author": "wbond",
+			"issues": "https://github.com/codexns/sublime-sqlite3/issues",
+			"releases": [
+				{
+					"base": "https://github.com/codexns/sublime-sqlite3",
+					"platforms": ["osx-x64", "linux-x32", "linux-x64", "windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "StyledPopup",
+			"description": "Pyton module for Sublime Text to automatically style popups based on active color scheme.",
+			"author": "huot25",
+			"issues": "https://github.com/huot25/StyledPopup/issues",
+			"releases": [
+				{
+					"base": "https://github.com/huot25/StyledPopup",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "sublime_aio",
+			"description": "AsyncIO for Sublime Text",
+			"author": "DeathAxe",
+			"issues": "https://github.com/packagecontrol/sublime_aio/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/sublime_aio",
+					"asset": "sublime_aio-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "sublime_lib",
+			"description": "Utility library for frequently used functionality in Sublime Text library and convenience functions or classes",
+			"author": "Thomas Smith",
+			"issues": "https://github.com/SublimeText/sublime_lib/issues",
+			"releases": [
+				{
+					"base": "https://github.com/SublimeText/sublime_lib",
+					"asset": "sublime_lib-*-py3-none-any.whl",
+					"python_versions": ["3.3"],
+					"tags": "st3-v"
+				},
+				{
+					"base": "https://github.com/SublimeText/sublime_lib",
+					"asset": "sublime_lib-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "SublimeP4Python",
+			"description": "Python module for the Perforce API, extracted from https://pypi.python.org/pypi/P4Python.",
+			"author": "mrelusive",
+			"issues": "https://github.com/claytonlemons/SublimeP4Python/issues",
+			"releases": [
+				{
+					"base": "https://github.com/claytonlemons/SublimeP4Python",
+					"platforms": ["windows-x32", "windows-x64"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "tabulate",
+			"description": "Python tabulate module",
+			"author": "Sergey",
+			"issues": "https://github.com/astanin/python-tabulate/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/tabulate",
+					"asset": "tabulate-*-py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "tiktoken",
+			"description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
+			"author": "OpenAI",
+			"issues": "https://github.com/openai/tiktoken/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/tiktoken",
+					"asset": "tiktoken-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tiktoken",
+					"asset": "tiktoken-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tiktoken",
+					"asset": "tiktoken-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tiktoken",
+					"asset": "tiktoken-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tiktoken",
+					"asset": "tiktoken-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "TM1py",
+			"description": "Python module for interfacing with IBM TM1 Planning Analytics",
+			"author": "MariusWirtz",
+			"issues": "https://github.com/ajmyers/TM1py/issues",
+			"releases": [
+				{
+					"base": "https://github.com/ajmyers/TM1py",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "toml",
+			"description": "Python lib for TOML",
+			"author": "Jimmy Girardet",
+			"issues": "https://github.com/jgirardet/sublime-toml/issues",
+			"releases": [
+				{
+					"base": "https://github.com/jgirardet/sublime-toml",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "toolz",
+			"description": "A functional standard library for Python.",
+			"author": "Matthew Rocklin",
+			"issues": "https://github.com/pytoolz/toolz/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/toolz",
+					"asset": "toolz-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "tornado",
+			"description": "Tornado is a Python web framework and asynchronous networking library.",
+			"author": "FriendFeed",
+			"issues": "https://github.com/tornadoweb/tornado/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp${py_version}-*-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp${py_version}-*-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp${py_version}-*-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp${py_version}-*-manylinux_*_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp${py_version}-*-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp${py_version}-*-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp${py_version}-*-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "tree-sitter",
+			"description": "Python bindings to the Tree-sitter parsing library",
+			"author": "tree-sitter",
+			"issues": "https://github.com/tree-sitter/py-tree-sitter/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/tree_sitter",
+					"asset": "tree_sitter-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter",
+					"asset": "tree_sitter-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter",
+					"asset": "tree_sitter-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter",
+					"asset": "tree_sitter-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter",
+					"asset": "tree_sitter-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter",
+					"asset": "tree_sitter-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "tree-sitter-languages",
+			"description": "Binary Python wheels for all tree sitter languages.",
+			"author": "grantjenks",
+			"issues": "https://github.com/grantjenks/py-tree-sitter-languages/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/tree_sitter_languages",
+					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_languages",
+					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_languages",
+					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_languages",
+					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_languages",
+					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_languages",
+					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "typing",
+			"description": "Python typing module",
+			"author": "FichteFoll",
+			"issues": "https://github.com/packagecontrol/typing/issues",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/typing",
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "typing-extensions",
+			"description": "Backported and Experimental Type Hints for Python 3.8+",
+			"author": "python",
+			"issues": "https://github.com/python/typing_extensions/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/typing-extensions",
+					"asset": "typing_extensions-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "typing-inspection",
+			"description": "Provides tools to inspect type annotations at runtime.",
+			"author": "pydantic",
+			"issues": "https://github.com/pydantic/typing-inspection",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/typing-inspection",
+					"asset": "typing_inspection-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "urllib3",
+			"description": "HTTP library with thread-safe connection pooling, file post, and more.",
+			"author": "Andrey Petrov",
+			"issues": "https://github.com/urllib3/urllib3/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/urllib3",
+					"asset": "urllib3-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "vision",
+			"description": "Vision is a minihtml generation library for Sublime Text that enforces minihtml restrictions for tags, styles and attrivutes",
+			"author": "terminalfi",
+			"issues": "https://github.com/terminalfi/vision/issues",
+			"releases": [
+				{
+					"base": "https://github.com/terminalfi/vision",
+					"python_versions": ["3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "watchdog",
+			"description": "Python library and shell utilities to monitor filesystem events.",
+			"author": "gorakhargosh",
+			"issues": "https://github.com/gorakhargosh/watchdog/issues",
+			"releases": [
+				{
+					"base": "https://github.com/vovkkk/sublime-watchdog",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/watchdog",
+					"asset": "watchdog-*-py3-none-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/watchdog",
+					"asset": "watchdog-*-py3-none-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/watchdog",
+					"asset": "watchdog-*-py3-none-manylinux2014_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/watchdog",
+					"asset": "watchdog-*-py3-none-manylinux2014_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/watchdog",
+					"asset": "watchdog-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/watchdog",
+					"asset": "watchdog-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "wcmatch",
+			"description": "Python wcmatch module which provides enhanced file globbing and matching",
+			"author": "facelessuser",
+			"issues": "https://github.com/facelessuser/wcmatch/issues",
+			"releases": [
+				{
+					"base": "https://github.com/facelessuser/sublime-wcmatch",
+					"python_versions": ["3.3"],
+					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/wcmatch",
+					"asset": "wcmatch-*-py3-none-any",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "wcwidth",
+			"description": "Python wcwidth module",
+			"author": "randy3k",
+			"issues": "https://github.com/packagecontrol/wcwidth/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/wcwidth",
+					"asset": "wcwidth-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "websocket-client",
+			"description": "WebSocket client for Python with low level API options",
+			"author": "liris",
+			"issues": "https://github.com/websocket-client/websocket-client/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/websocket-client",
+					"asset": "websocket_client-*-py2.py3-none-any.whl",
+					"python_versions": ["3.3"]
+				},
+				{
+					"base": "https://pypi.org/project/websocket-client",
+					"asset": "websocket_client-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "websockets",
+			"description": "websockets is a library for building WebSocket servers and clients in Python with a focus on correctness, simplicity, robustness, and performance.",
+			"author": "aaugustin",
+			"issues": "https://github.com/python-websockets/websockets/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/websockets",
+					"asset": "websockets-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/websockets",
+					"asset": "websockets-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/websockets",
+					"asset": "websockets-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/websockets",
+					"asset": "websockets-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/websockets",
+					"asset": "websockets-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "xdotool",
+			"description": "Automation tool on Linux",
+			"author": "randy3k",
+			"issues": "https://github.com/randy3k/sublime-xdotool/issues",
+			"releases": [
+				{
+					"base": "https://github.com/randy3k/sublime-xdotool",
+					"platforms": ["linux"],
+					"python_versions": ["3.3"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "xmltodict",
+			"description": "Makes working with XML feel like you are working with JSON - https://github.com/martinblech/xmltodict",
+			"author": "idleberg",
+			"issues": "https://github.com/idleberg/sublime-xmltodict/issues",
+			"releases": [
+				{
+					"base": "https://github.com/idleberg/sublime-xmltodict",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "yaml_macros_engine",
+			"description": "Engine for YAML Macros",
+			"author": "Thomas Smith",
+			"issues": "https://github.com/Thom1729/yaml-macros-engine/issues",
+			"releases": [
+				{
+					"base": "https://github.com/Thom1729/yaml-macros-engine",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"tags": true
+				}
+			]
+		}
+	]
+}

@@ -413,7 +413,11 @@
 			"releases": [
 				{
 					"sublime_text": ">=3092",
-					"tags": true
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4000",
+					"tags": "st4-"
 				}
 			]
 		},

@@ -1092,7 +1092,7 @@
 			"labels": ["language syntax", "nsis", "build system"],
 			"releases": [
 				{
-					"tags": "st3-"
+					"tags": true
 				}
 			]
 		},

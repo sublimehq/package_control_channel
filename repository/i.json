@@ -483,7 +483,7 @@
 			"description": "Indent selection and wrap it in braces.",
 			"author": "Epskampie",
 			"details": "https://github.com/Epskampie/sublime_indent_and_braces",
-			"labels": ["text manipulation"],
+			"labels": ["text manipulation", "indentation"],
 			"releases": [
 				{
 					"tags": true
@@ -494,7 +494,7 @@
 			"name": "Indent Respectful Sort",
 			"author": "Mustafa Nural",
 			"details": "https://github.com/mvnural/sublime-indent-respectful-sort",
-			"labels": ["sort", "indent"],
+			"labels": ["sort", "indentation"],
 			"releases": [
 				{
 					"tags": true
@@ -504,7 +504,7 @@
 		{
 			"name": "Indent Size",
 			"details": "https://github.com/socsieng/sublime-indent-size",
-			"labels": ["indent", "tab", "size"],
+			"labels": ["indentation", "tab", "size"],
 			"releases": [
 				{
 					"tags": true
@@ -514,7 +514,7 @@
 		{
 			"name": "Indent To Parenthesis",
 			"details": "https://github.com/rchl/IndentToParenthesis",
-			"labels": ["indent", "align", "parenthesis", "bracket"],
+			"labels": ["indentation", "align", "parenthesis", "bracket"],
 			"releases": [
 				{
 					"tags": true
@@ -524,6 +524,7 @@
 		{
 			"name": "Indent XML",
 			"details": "https://github.com/alek-sys/sublimetext_indentxml",
+			"labels": ["indentation", "xml"],
 			"releases": [
 				{
 					"branch": "master"
@@ -533,7 +534,7 @@
 		{
 			"name": "Indentation Size Setting",
 			"details": "https://github.com/Kronuz/IndentSize",
-			"labels": ["indent", "tab", "size", "settings"],
+			"labels": ["indentation", "tab", "size", "settings"],
 			"releases": [
 				{
 					"tags": true
@@ -553,7 +554,7 @@
 		{
 			"name": "Indentor",
 			"details": "https://github.com/omkarjc27/sublime_indentor",
-			"labels": ["convert", "converting", "formatting", "indent", "language syntax", "scope"],
+			"labels": ["convert", "converting", "formatting", "indentation", "scope"],
 			"releases": [
 				{
 					"tags": true
@@ -573,7 +574,7 @@
 		{
 			"name": "IndentToAllBrackets",
 			"details": "https://github.com/BadStreff/IndentToAllBrackets",
-			"labels": ["language syntax"],
+			"labels": ["indentation"],
 			"releases": [
 				{
 					"tags": true
@@ -583,7 +584,7 @@
 		{
 			"name": "IndentX",
 			"details": "https://github.com/socsieng/IndentX",
-			"labels": ["convert", "converting", "formatting", "indent", "json", "xml", "yaml"],
+			"labels": ["convert", "converting", "formatting", "indentation", "json", "xml", "yaml"],
 			"releases": [
 				{
 					"tags": true
@@ -664,6 +665,18 @@
 			"releases": [
 				{
 					"sublime_text": ">=4132",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "InlineShell",
+			"details": "https://github.com/randolph555/sublime-run-command",
+			"labels": ["shell", "terminal", "command", "execute", "run"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"platforms": ["osx", "linux"],
 					"tags": true
 				}
 			]

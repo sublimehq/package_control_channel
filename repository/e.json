@@ -1467,7 +1467,7 @@
 		{
 			"name": "Expand Tabs on Save",
 			"details": "https://github.com/bubenkoff/ExpandTabsOnSave-SublimeText",
-			"labels": ["text indentation", "whitespace", "tabs"],
+			"labels": ["indentation", "whitespace", "tabs"],
 			"releases": [
 				{
 					"tags": true

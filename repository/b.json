@@ -1438,6 +1438,17 @@
 			]
 		},
 		{
+			"name": "Buildifier",
+			"details": "https://github.com/mfilippov/sublime-buildifier",
+			"labels": ["build system", "bazel"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BuildSock",
 			"details": "https://github.com/iccir/BuildSock",
 			"releases": [

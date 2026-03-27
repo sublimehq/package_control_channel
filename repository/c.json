@@ -1829,7 +1829,7 @@
 		{
 			"name": "CodeFormatter",
 			"details": "https://github.com/akalongman/sublimetext-codeformatter",
-			"labels": ["formatting", "utilities", "php", "css", "javascript", "html", "python", "automation", "indent"],
+			"labels": ["formatting", "utilities", "php", "css", "javascript", "html", "python", "automation", "indentation"],
 			"author": "Avtandil Kikabidze aka LONGMAN",
 			"releases": [
 				{
@@ -2473,7 +2473,7 @@
 		},
 		{
 			"details": "https://github.com/braver/ColorConverter",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["css", "colors", "utilities"],
 			"previous_names": [
 				"Color Convert",
@@ -2524,7 +2524,7 @@
 		},
 		{
 			"details": "https://github.com/braver/ColorHints",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["css", "colors", "utilities"],
 			"releases": [
 				{

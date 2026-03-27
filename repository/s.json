@@ -846,7 +846,7 @@
 		{
 			"name": "Selenized Color Scheme",
 			"details": "https://github.com/braver/Selenized",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -1471,6 +1471,7 @@
 		{
 			"name": "SideBarTools",
 			"details": "https://github.com/braver/SideBarTools",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["sidebar", "utilities", "folder", "directory", "file"],
 			"releases": [
 				{
@@ -1627,7 +1628,7 @@
 			"name": "Simple Indent",
 			"details": "https://github.com/zharkomi/SimpleIndent",
 			"author": "zharkomi",
-			"labels": ["indent", "bracket"],
+			"labels": ["indentation", "bracket"],
 			"releases": [
 				{
 					"tags": true
@@ -2438,7 +2439,7 @@
 		{
 			"name": "Solarized Color Scheme",
 			"details": "https://github.com/braver/Solarized",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -2743,6 +2744,16 @@
 		{
 			"name": "SPARQL Runner",
 			"details": "https://github.com/hevp/sublime-sparql-runner",
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Spartan Color Scheme",
+			"details": "https://github.com/renzojohnson/spartan-color-scheme",
+			"labels": ["color scheme", "dark"],
 			"releases": [
 				{
 					"tags": true

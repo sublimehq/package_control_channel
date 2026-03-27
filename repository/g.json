@@ -191,6 +191,17 @@
 			]
 		},
 		{
+			"name": "GeminiCLI",
+			"details": "https://github.com/flashmodel/gemini-st",
+			"labels": ["agent", "ai", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Gemma",
 			"details": "https://github.com/parachute-io/gemma",
 			"labels": ["ruby", "rubygems", "gemfile", "bundler"],
@@ -685,6 +696,7 @@
 		{
 			"name": "GitHubTools",
 			"details": "https://github.com/braver/GitHubTools",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"releases": [
 				{
 					"tags": true
@@ -845,6 +857,7 @@
 		{
 			"name": "GitUp",
 			"details": "https://github.com/braver/SublimeGitUp",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["git"],
 			"releases": [
 				{

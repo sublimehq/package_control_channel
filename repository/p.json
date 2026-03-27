@@ -2749,6 +2749,17 @@
 			]
 		},
 		{
+			"name": "ProjectThis",
+			"details": "https://github.com/Tomescape/project-this",
+			"labels": ["project"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ProjectTreeTemplater",
 			"details": "https://github.com/julianxhokaxhiu/sublime-projecttreetemplater",
 			"releases": [

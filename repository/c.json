@@ -805,6 +805,19 @@
 			]
 		},
 		{
+			"name": "Checklist+",
+			"author": "bluejack",
+			"description": "Syntax, color, and extended functionality for checklists, todo-lists, note-taking, time-management, task-logging, and wiki-like behavior. When you like what Obsidian does, but not how it looks, and you'd rather be in Sublime.",
+			"labels": ["syntax highlighting", "note-taking", "todo", "checklist", "productivity", "wiki", "markdown", "time-management", "work log"],
+			"details": "https://github.com/bluejack/ChecklistPlus",
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/vaisaghvt/CheckTypos",
 			"releases": [
 				{

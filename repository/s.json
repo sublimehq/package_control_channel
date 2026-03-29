@@ -4821,6 +4821,16 @@
 			]
 		},
 		{
+			"name": "SublimeJJ",
+			"details": "https://github.com/urschrei/jujutsu-sublime-plugin",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/lunixbochs/sublimelint",
 			"labels": ["linting"],
 			"releases": [

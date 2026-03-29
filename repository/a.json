@@ -1261,6 +1261,17 @@
 			]
 		},
 		{
+			"name": "ANSIRenderer",
+			"details": "https://github.com/bebeal/ANSIRenderer",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Ant",
 			"details": "https://github.com/xeno-by/sublime-ant",
 			"labels": ["language syntax"],

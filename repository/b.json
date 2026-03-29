@@ -908,6 +908,17 @@
 			]
 		},
 		{
+			"name": "BitBake Syntax Highlighting",
+			"details": "https://github.com/huyhoang8398/BitBake-Syntax",
+			"labels": ["bitbake", "yocto", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Bitbucket",
 			"details": "https://github.com/dtao/SublimeBucket",
 			"labels": ["bitbucket", "git", "mercurial"],

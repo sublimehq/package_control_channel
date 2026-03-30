@@ -1862,6 +1862,17 @@
 			]
 		},
 		{
+			"name": "Mise",
+			"details": "https://github.com/guille/sublime-mise",
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			],
+			"labels": ["build system"]
+		},
+		{
 			"name": "Missing Palette Commands",
 			"details": "https://github.com/fjl/Sublime-Missing-Palette-Commands",
 			"releases": [
@@ -2074,10 +2085,11 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/Modelines",
+			"labels": ["formatting", "syntax", "indention", "modeline"],
 			"releases": [
 				{
 					"sublime_text": "<3000",
-					"branch": "master"
+					"tags": "st2/"
 				}
 			]
 		},
@@ -2668,6 +2680,18 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "MpyTool",
+			"author": "Pavel Revak",
+			"details": "https://github.com/pavelrevak/mpytool-sublime",
+			"labels": ["micropython", "mpytool", "embedded", "iot", "esp32", "esp8266", "rp2"],
+			"releases": [
+				{
+					"sublime_text": ">=4081",
+					"tags": true
 				}
 			]
 		},

@@ -979,6 +979,17 @@
 			]
 		},
 		{
+			"name": "HostSettings",
+			"details": "https://github.com/Taffer/HostSettings",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Hot Dog Stand",
 			"details": "https://github.com/SomeKittens/ST-Hot-Dog-Stand",
 			"releases": [

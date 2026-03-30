@@ -1239,12 +1239,8 @@
 			"labels": ["language syntax", "nsis", "build system"],
 			"releases": [
 				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": ">=3103",
-					"tags": "st3-"
+					"tags": true
 				}
 			]
 		},

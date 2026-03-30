@@ -659,7 +659,7 @@
 		{
 			"name": "FileIcons",
 			"details": "https://github.com/braver/FileIcons",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["file", "icons"],
 			"releases": [
 				{
@@ -672,7 +672,7 @@
 			"name": "FileIcons Mono",
 			"details": "https://github.com/braver/FileIcons",
 			"readme": "https://raw.githubusercontent.com/braver/FileIcons/mono/README.md",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["file", "icons"],
 			"releases": [
 				{

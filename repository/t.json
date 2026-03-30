@@ -759,6 +759,17 @@
 			]
 		},
 		{
+			"name": "TermMate",
+			"details": "https://github.com/flashmodel/termmate",
+			"labels": ["agent", "chat", "codex", "claude", "skills"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "termX",
 			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",

@@ -5456,6 +5456,17 @@
 			]
 		},
 		{
+			"name": "Sublime-Breadcrumb",
+			"details": "https://github.com/huyhoang8398/sublime-breadcrumb",
+			"labels": ["file", "utilities", "tooltips"],
+			"releases": [
+				{
+					"sublime_text": ">3084",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Suricate",
 			"details": "https://github.com/nsubiron/SublimeSuricate",
 			"labels": [

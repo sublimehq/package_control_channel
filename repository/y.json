@@ -111,7 +111,7 @@
 		{
 			"name": "yasi-indenter",
 			"details": "https://github.com/nkmathew/sublime-yasi",
-			"labels": ["formatting", "indent", "lisp"],
+			"labels": ["formatting", "indentation", "lisp"],
 			"releases": [
 				{
 					"sublime_text": "*",

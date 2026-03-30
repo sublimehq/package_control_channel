@@ -224,6 +224,17 @@
 			]
 		},
 		{
+			"name": "GeminiCLI",
+			"details": "https://github.com/flashmodel/gemini-st",
+			"labels": ["agent", "ai", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Gemma",
 			"details": "https://github.com/parachute-io/gemma",
 			"labels": ["ruby", "rubygems", "gemfile", "bundler"],
@@ -672,6 +683,7 @@
 		{
 			"name": "Github Color Theme",
 			"details": "https://github.com/AlexanderEkdahl/github-sublime-theme",
+			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -748,7 +760,7 @@
 		{
 			"name": "GitHub Theme",
 			"details": "https://github.com/mauroreisvieira/github-sublime-theme",
-			"labels": ["theme", "scheme", "light", "dark", "github"],
+			"labels": ["theme", "color scheme", "light", "dark", "github"],
 			"releases": [
 				{
 					"sublime_text": "3179 - 4069",
@@ -794,6 +806,7 @@
 		{
 			"name": "GitHubTools",
 			"details": "https://github.com/braver/GitHubTools",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -968,6 +981,7 @@
 		{
 			"name": "GitUp",
 			"details": "https://github.com/braver/SublimeGitUp",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["git"],
 			"releases": [
 				{
@@ -2349,16 +2363,6 @@
 				{
 					"sublime_text": "*",
 					"platforms": "linux",
-					"branch": "master"
-				}
-			]
-		},
-		{
-			"name": "Guard",
-			"details": "https://github.com/drewdeponte/sublime_guard",
-			"releases": [
-				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]

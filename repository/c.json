@@ -1590,17 +1590,6 @@
 			]
 		},
 		{
-			"name": "Close All without Confirmation",
-			"details": "https://github.com/ddbln/CloseAllNoConfirm",
-			"labels": ["file navigation", "files", "close files", "file close", "commands", "productivity", "utilities", "refactoring"],
-			"releases": [
-				{
-					"sublime_text": ">=3092",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Close Oldest File",
 			"details": "https://github.com/jturcotte/SublimeCloseOldestFile",
 			"releases": [
@@ -2092,6 +2081,17 @@
 			]
 		},
 		{
+			"name": "CodeContinue",
+			"details": "https://github.com/kXborg/codeContinue",
+			"labels": ["auto-complete", "ai", "llm", "code completion"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CodeDrafts",
 			"details": "https://github.com/subeeshb/codedrafts_sublime_plugin",
 			"labels": ["code sharing", "snippets", "utilities"],
@@ -2129,7 +2129,7 @@
 		{
 			"name": "CodeFormatter",
 			"details": "https://github.com/akalongman/sublimetext-codeformatter",
-			"labels": ["formatting", "utilities", "php", "css", "javascript", "html", "python", "automation", "indent"],
+			"labels": ["formatting", "utilities", "php", "css", "javascript", "html", "python", "automation", "indentation"],
 			"author": "Avtandil Kikabidze aka LONGMAN",
 			"releases": [
 				{
@@ -2522,6 +2522,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/SublimeText/Coi",
+			"labels": ["completions", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4180",
+					"tags": "4180-"
+				}
+			]
+		},
+		{
 			"name": "ColdBox Platform",
 			"details": "https://github.com/ColdBox/coldbox-sublime",
 			"labels": ["snippets", "coldbox", "cachebox", "logbox", "testbox", "wirebox", "boxlang"],
@@ -2866,7 +2876,7 @@
 		},
 		{
 			"details": "https://github.com/braver/ColorConverter",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["css", "colors", "utilities"],
 			"previous_names": [
 				"Color Convert",
@@ -2917,7 +2927,7 @@
 		},
 		{
 			"details": "https://github.com/braver/ColorHints",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["css", "colors", "utilities"],
 			"releases": [
 				{

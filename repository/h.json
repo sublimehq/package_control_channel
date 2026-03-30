@@ -979,6 +979,17 @@
 			]
 		},
 		{
+			"name": "HostSettings",
+			"details": "https://github.com/Taffer/HostSettings",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Hot Dog Stand",
 			"details": "https://github.com/SomeKittens/ST-Hot-Dog-Stand",
 			"releases": [
@@ -1224,16 +1235,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=3170",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "HTML To Elm",
-			"details": "https://github.com/michaelniepel/html-to-elm",
-			"releases": [
-				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

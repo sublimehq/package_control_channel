@@ -1345,6 +1345,17 @@
 			]
 		},
 		{
+			"name": "ESPHome",
+			"details": "https://github.com/SublimeText/ESPHome",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4143",
+					"tags": "4143-"
+				}
+			]
+		},
+		{
 			"name": "Estomato",
 			"details": "https://github.com/rakibulhaq/Estomato",
 			"labels": ["text manipulation", "text selection", "aggregation"],
@@ -1601,6 +1612,17 @@
 			]
 		},
 		{
+			"name": "EXIF Syntax",
+			"details": "https://github.com/alberti42/EXIF-Syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Expand and Edit",
 			"details": "https://github.com/aafulei/sublime-expand-and-edit",
 			"author": "Aaron Fu Lei",
@@ -1690,7 +1712,7 @@
 		{
 			"name": "Expand Tabs on Save",
 			"details": "https://github.com/bubenkoff/ExpandTabsOnSave-SublimeText",
-			"labels": ["text indentation", "whitespace", "tabs"],
+			"labels": ["indentation", "whitespace", "tabs"],
 			"releases": [
 				{
 					"sublime_text": "*",

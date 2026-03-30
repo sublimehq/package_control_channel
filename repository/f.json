@@ -659,7 +659,7 @@
 		{
 			"name": "FileIcons",
 			"details": "https://github.com/braver/FileIcons",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["file", "icons"],
 			"releases": [
 				{
@@ -672,7 +672,7 @@
 			"name": "FileIcons Mono",
 			"details": "https://github.com/braver/FileIcons",
 			"readme": "https://raw.githubusercontent.com/braver/FileIcons/mono/README.md",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["file", "icons"],
 			"releases": [
 				{
@@ -1579,6 +1579,19 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Force Close All Files",
+			"previous_names": ["Close All without Confirmation"],
+			"details": "https://github.com/ddbln/CloseAllNoConfirm",
+			"author": "Dirk Dassow",
+			"labels": ["force close", "close files", "close all", "discard", "commands", "productivity", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

@@ -282,6 +282,17 @@
 			]
 		},
 		{
+			"name": "NeoCodeMap",
+			"details": "https://github.com/klmp200/NeoCodeMap",
+			"labels": ["workflow", "code navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Neon Intrinsics",
 			"details": "https://github.com/ilya-lavrenov/sublime-neon",
 			"author": "Ilya Lavrenov",
@@ -1228,12 +1239,8 @@
 			"labels": ["language syntax", "nsis", "build system"],
 			"releases": [
 				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": ">=3103",
-					"tags": "st3-"
+					"tags": true
 				}
 			]
 		},

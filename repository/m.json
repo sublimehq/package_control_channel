@@ -1295,7 +1295,7 @@
 		{
 			"name": "Meetio Theme",
 			"details": "https://github.com/meetio-theme/sublime-meetio-theme",
-			"labels": ["theme", "scheme", "light", "dark"],
+			"labels": ["theme", "color scheme", "light", "dark"],
 			"releases": [
 				{
 					"sublime_text": "3179 - 4069",
@@ -1371,6 +1371,18 @@
 					"sublime_text": "<3000",
 					"base": "https://github.com/SublimeText/SublimeHg",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Mercurial Color Scheme",
+			"details": "https://github.com/renzojohnson/mercurial-color-scheme",
+			"donate": "https://github.com/sponsors/renzojohnson",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3149",
+					"tags": true
 				}
 			]
 		},
@@ -1850,6 +1862,17 @@
 			]
 		},
 		{
+			"name": "Mise",
+			"details": "https://github.com/guille/sublime-mise",
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			],
+			"labels": ["build system"]
+		},
+		{
 			"name": "Missing Palette Commands",
 			"details": "https://github.com/fjl/Sublime-Missing-Palette-Commands",
 			"releases": [
@@ -2062,10 +2085,11 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/Modelines",
+			"labels": ["formatting", "syntax", "indention", "modeline"],
 			"releases": [
 				{
 					"sublime_text": "<3000",
-					"branch": "master"
+					"tags": "st2/"
 				}
 			]
 		},
@@ -2317,6 +2341,7 @@
 		{
 			"name": "Monokai Extended",
 			"details": "https://github.com/jonschlinkert/sublime-monokai-extended",
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2327,7 +2352,7 @@
 		{
 			"name": "Monokai Gray",
 			"details": "https://github.com/IanWold/MonokaiGray",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2361,7 +2386,7 @@
 			"name": "Monokai Soft",
 			"details": "https://github.com/ThePythonGuy3/Monokai-Soft",
 			"description": "Light coloured dark Monokai color scheme",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": ">=3149",
@@ -2655,6 +2680,18 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "MpyTool",
+			"author": "Pavel Revak",
+			"details": "https://github.com/pavelrevak/mpytool-sublime",
+			"labels": ["micropython", "mpytool", "embedded", "iot", "esp32", "esp8266", "rp2"],
+			"releases": [
+				{
+					"sublime_text": ">=4081",
+					"tags": true
 				}
 			]
 		},

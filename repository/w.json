@@ -360,6 +360,16 @@
 			]
 		},
 		{
+			"name": "WhereAmI",
+			"details": "https://github.com/huyhoang8398/WhereAmI",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Whiley",
 			"details": "https://github.com/Whiley/WhileySyntaxBundle",
 			"labels": ["language syntax"],
@@ -701,6 +711,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "WooCommerce",
+			"details": "https://github.com/renzojohnson/woocommerce",
+			"labels": ["snippets", "woocommerce", "wordpress", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},

@@ -1109,17 +1109,6 @@
 			]
 		},
 		{
-			"name": "Django",
-			"details": "https://github.com/mattseymour/sublime-django",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Django Click",
 			"details": "https://github.com/mxdevmanuel/sublime-django-click",
 			"releases": [
@@ -1151,6 +1140,20 @@
 				{
 					"sublime_text": ">=3000",
 					"tags": "st3-"
+				}
+			]
+		},
+		{
+			"name": "Django Snippets",
+			"details": "https://github.com/mattseymour/sublime-django",
+			"labels": ["snippets", "django"],
+			"previous_names": [
+				"Django"
+			],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},

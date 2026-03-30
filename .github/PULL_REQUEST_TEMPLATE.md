@@ -4,7 +4,7 @@ To help us do so, please provide some information about your package:
 -->
 
 - [ ] I'm the package's author and/or maintainer.
-- [ ] I have have read [the docs][1].
+- [ ] I have read [the docs][1].
 - [ ] I have tagged a release with a [semver][2] version number.
 - [ ] My package repo has a description and a README describing what it's for and how to use it.
 - [ ] My package doesn't add context menu entries. *

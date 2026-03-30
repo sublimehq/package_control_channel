@@ -233,7 +233,7 @@
 		{
 			"name": "TabToSpaceConverter",
 			"details": "https://github.com/maliayas/SublimeText_TabToSpaceConverter",
-			"labels": ["tab", "indentation", "indent"],
+			"labels": ["tab", "indentation"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -558,7 +558,7 @@
 		},
 		{
 			"name": "Telescope",
-			"details": "https://github.com/Mister7F/sublime-telescope",
+			"details": "https://github.com/Mr7F/sublime-telescope",
 			"labels": [
 				"code navigation"
 			],
@@ -744,6 +744,16 @@
 				{
 					"platforms": ["osx", "linux"],
 					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "terminus-persistence",
+			"details": "https://github.com/gabriel-lody/terminus-persistence",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -1574,17 +1584,6 @@
 			]
 		},
 		{
-			"name": "Theme - Haft Lang",
-			"details": "https://github.com/amirrustam/haft-lang",
-			"labels": ["theme", "color scheme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Theme - Hero",
 			"details": "https://github.com/nickbalestra/hero",
 			"labels": ["theme", "color scheme"],
@@ -1755,7 +1754,7 @@
 			"name": "Theme - Monokai+",
 			"details": "https://github.com/wilon/Theme-MonokaiPlus",
 			"author": "Weilong Wang",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2014,7 +2013,7 @@
 		{
 			"name": "Theme - Seti Monokai",
 			"details": "https://github.com/poucotm/Theme-SetiMonokai",
-			"labels": ["theme"],
+			"labels": ["theme", "color scheme", "monokai"],
 			"releases": [
 				{
 					"sublime_text": ">3000",
@@ -3051,22 +3050,12 @@
 			]
 		},
 		{
-			"name": "TomDoc+",
-			"details": "https://github.com/shell/sublime-tomdoc",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "TOML",
 			"details": "https://github.com/jasonwilliams/sublime_toml_highlighting",
 			"labels": ["language syntax", "toml"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<4198",
 					"tags": true
 				}
 			]

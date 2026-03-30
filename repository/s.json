@@ -1022,7 +1022,7 @@
 		{
 			"name": "Selenized Color Scheme",
 			"details": "https://github.com/braver/Selenized",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -1751,6 +1751,7 @@
 		{
 			"name": "SideBarTools",
 			"details": "https://github.com/braver/SideBarTools",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["sidebar", "utilities", "folder", "directory", "file"],
 			"releases": [
 				{
@@ -1928,7 +1929,7 @@
 			"name": "Simple Indent",
 			"details": "https://github.com/zharkomi/SimpleIndent",
 			"author": "zharkomi",
-			"labels": ["indent", "bracket"],
+			"labels": ["indentation", "bracket"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2092,11 +2093,12 @@
 			]
 		},
 		{
-			"details": "https://github.com/hydralien/SimpleSync",
+			"name": "SimpleSync",
+			"details": "https://github.com/nickname13/SimpleSync",
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -2875,7 +2877,7 @@
 		{
 			"name": "Solarized Color Scheme",
 			"details": "https://github.com/braver/Solarized",
-			"donate": "https://paypal.me/koenlageveen",
+			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -3236,6 +3238,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Spartan Color Scheme",
+			"details": "https://github.com/renzojohnson/spartan-color-scheme",
+			"labels": ["color scheme", "dark"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -4047,6 +4060,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "StickyLines",
+			"details": "https://github.com/klmp200/StickyLines",
+			"labels": ["workflow", "code navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4132",
 					"tags": true
 				}
 			]

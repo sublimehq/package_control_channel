@@ -3616,8 +3616,8 @@
 			"labels": ["calculator"],
 			"releases": [
 				{
-				  "sublime_text": ">=3000",
-				  "tags": true
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},

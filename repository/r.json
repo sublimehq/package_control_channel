@@ -1968,6 +1968,16 @@
 			]
 		},
 		{
+			"name": "RPG Syntax Highlighting",
+			"details": "https://github.com/tegansnyder/Sublime-Text-3-RPG-Syntax-Highlighting",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RPGMaker MV Add-On Snippets",
 			"details": "https://github.com/jomarcenter-mjm/RMMVSublimeSnippet",
 			"labels": ["snippets", "rpgmaker mv", "javascript", "rpg maker", "rpgmaker", "rpg"],

@@ -813,6 +813,17 @@
 			]
 		},
 		{
+			"name": "Search All Windows",
+			"details": "https://github.com/nathanshipley/SublimeSearchAllWindows",
+			"labels": ["search"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Search Anywhere",
 			"details": "https://github.com/ericmartel/Sublime-Text-2-Search-Anywhere-Plugin",
 			"releases": [

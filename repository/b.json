@@ -1085,7 +1085,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "Block Cursor Everywhere",
 			"details": "https://github.com/karlhorky/BlockCursorEverywhere",
@@ -1753,6 +1753,19 @@
 			"releases": [
 				{
 					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Bulk Renamer",
+			"details": "https://github.com/guille/sublime-bulk-renamer",
+			"labels": [
+				"utilities"
+			],
+			"releases": [
+				{
+					"sublime_text": "*",
 					"tags": true
 				}
 			]

@@ -532,15 +532,15 @@
 			]
 		},
 		{
-			"name": "enum",
+			"name": "enum34",
 			"description": "Python enum module",
-			"author": "FichteFoll",
-			"issues": "https://github.com/packagecontrol/enum/issues",
+			"author": " ethanf",
+			"issues": "https://bitbucket.org/stoneleaf/enum34/issues",
 			"releases": [
 				{
-					"base": "https://github.com/packagecontrol/enum",
-					"python_versions": ["3.3"],
-					"tags": true
+					"base": "https://pypi.org/project/enum34",
+					"asset": "enum34-*-py3-none-any.whl",
+					"python_versions": ["3.3"]
 				}
 			]
 		},
@@ -859,31 +859,31 @@
 				},
 				{
 					"base": "https://pypi.org/project/MarkupSafe",
-					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"asset": "?arkup?afe-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
 					"platforms": ["linux-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
 					"base": "https://pypi.org/project/MarkupSafe",
-					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"asset": "?arkup?afe-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
 					"platforms": ["linux-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
 					"base": "https://pypi.org/project/MarkupSafe",
-					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"asset": "?arkup?afe-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
 					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
 					"base": "https://pypi.org/project/MarkupSafe",
-					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"asset": "?arkup?afe-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
 					"platforms": ["osx-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
 					"base": "https://pypi.org/project/MarkupSafe",
-					"asset": "MarkupSafe-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"asset": "?arkup?afe-*-cp${py_version}-cp${py_version}-win_amd64.whl",
 					"platforms": ["windows-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				}
@@ -1414,6 +1414,44 @@
 			]
 		},
 		{
+			"name": "pygit2",
+			"description": "Python bindings for libgit2.",
+			"author": "J. David Ibáñez et al.",
+			"issues": "https://github.com/libgit2/pygit2/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/pygit2",
+					"asset": "pygit2-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pygit2",
+					"asset": "pygit2-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pygit2",
+					"asset": "pygit2-*-cp${py_version}-cp${py_version}-manylinux_*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pygit2",
+					"asset": "pygit2-*-cp${py_version}-cp${py_version}-manylinux_*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pygit2",
+					"asset": "pygit2-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.14"]
+				}
+			]
+		},
+		{
 			"name": "pygments",
 			"description": "Python pygments module",
 			"author": "AndreasBackx",
@@ -1433,24 +1471,6 @@
 		},
 		{
 			"name": "pymdown-extensions",
-			"description": "PyMdown Extensions for Python Markdown",
-			"author": "facelessuser",
-			"issues": "https://github.com/facelessuser/pymdown-extensions/issues",
-			"releases": [
-				{
-					"base": "https://github.com/facelessuser/sublime-pymdownx",
-					"python_versions": ["3.3", "3.8"],
-					"tags": "st3-"
-				},
-				{
-					"base": "https://pypi.org/project/pymdown-extensions",
-					"asset": "pymdown_extensions-*-py3-none-any.whl",
-					"python_versions": ["3.13", "3.14"]
-				}
-			]
-		},
-		{
-			"name": "pymdownx",
 			"description": "PyMdown Extensions for Python Markdown",
 			"author": "facelessuser",
 			"issues": "https://github.com/facelessuser/pymdown-extensions/issues",

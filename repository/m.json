@@ -1798,6 +1798,17 @@
 			]
 		},
 		{
+			"name": "Modelines",
+			"details": "https://github.com/SublimeText/Modelines",
+			"labels": ["formatting", "syntax", "indention", "modeline"],
+			"releases": [
+				{
+					"sublime_text": ">=4135",
+					"tags": "st4135/"
+				}
+			]
+		},
+		{
 			"name": "ModernFortran",
 			"details": "https://github.com/eirik-kjonstad/modern-fortran-syntax",
 			"labels": ["language syntax", "fortran"],

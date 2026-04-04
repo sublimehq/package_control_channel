@@ -3138,6 +3138,17 @@
 			]
 		},
 		{
+			"name": "ConvCalculate",
+			"details": "https://github.com/convictss/ConvSublimeCalculate",
+			"author": "Convict Yellow (Kailian.Huang)",
+			"labels": ["calculator"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ConvertChineseCharacters",
 			"details": "https://github.com/leibnizli/ConvertChineseCharacters",
 			"releases": [

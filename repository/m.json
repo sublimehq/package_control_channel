@@ -1217,6 +1217,17 @@
 			]
 		},
 		{
+			"name": "MDEE (Markdown) & MDSVX (Svelte + Markdown)",
+			"details": "https://github.com/autr/MDEE-MDSV",
+			"labels": ["language syntax", "markdown", "svelte", "mdsv", "mdsv", "mdsvx"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "main"
+				}
+			]
+		},
+		{
 			"name": "MDL Language",
 			"details": "https://github.com/ardenpm/sublime-mdl-language",
 			"labels" : ["language syntax"],

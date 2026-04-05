@@ -1377,8 +1377,10 @@
 		{
 			"name": "Mercurial Color Scheme",
 			"details": "https://github.com/renzojohnson/mercurial-color-scheme",
-			"donate": "https://github.com/sponsors/renzojohnson",
-			"labels": ["color scheme"],
+			"homepage": "https://renzojohnson.com",
+			"issues": "https://renzojohnson.com/contact",
+			"donate": "https://www.paypal.com/paypalme/renzojohnson",
+			"labels": ["color scheme", "theme", "dark", "light"],
 			"releases": [
 				{
 					"sublime_text": ">=3149",

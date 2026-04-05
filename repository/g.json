@@ -224,6 +224,17 @@
 			]
 		},
 		{
+			"name": "Gemini Assistant",
+			"details": "https://github.com/radda-ui/geminiassistant",
+			"labels": ["ai", "gemini", "assistant", "code", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "GeminiCLI",
 			"details": "https://github.com/flashmodel/gemini-st",
 			"labels": ["agent", "ai", "chat"],

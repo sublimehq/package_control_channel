@@ -434,6 +434,17 @@
 			]
 		},
 		{
+			"name": "Mar Developer Tools",
+			"details": "https://github.com/marlanghq/mar-sublime",
+			"labels": ["language syntax", "completions"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marc Mentat Proc Highlighting",
 			"details": "https://github.com/WesleyPeijnenburg/Marc_Syntax_Support",
 			"labels": ["language syntax"],

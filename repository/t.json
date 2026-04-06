@@ -383,7 +383,7 @@
 			]
 		},
 		{
-			"name": "Talon Syntax",
+			"name": "Talon",
  			"description": "Syntax highlighting and comment support for Talon voice command files",
   			"details": "https://github.com/roycetech/sublime-text-4-talon-syntax",
 			"labels": ["talon voice", "language syntax"],

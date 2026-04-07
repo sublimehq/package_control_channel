@@ -583,6 +583,17 @@
 			]
 		},
 		{
+			"name": "AL",
+			"details": "https://github.com/SShadowS/sublime-al",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Alabaster Color Scheme",
 			"details": "https://github.com/tonsky/sublime-scheme-alabaster",
 			"donate": "https://www.patreon.com/tonsky",

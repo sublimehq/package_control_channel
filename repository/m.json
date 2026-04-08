@@ -759,7 +759,7 @@
 			"donate": "https://buymeacoffee.com/vwheeler63",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": ">=4050",
 					"tags": true
 				}
 			]

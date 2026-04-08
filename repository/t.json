@@ -384,7 +384,7 @@
 		},
 		{
 			"name": "Talon",
-  			"details": "https://github.com/roycetech/sublime-text-4-talon-syntax",
+			"details": "https://github.com/roycetech/sublime-text-4-talon-syntax",
 			"labels": ["talon voice", "language syntax"],
 			"author": "Royce Remulla",
 			"releases": [

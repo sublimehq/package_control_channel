@@ -1381,6 +1381,17 @@
 			]
 		},
 		{
+			"details": "https://github.com/vwheeler63/BoxDrawing",
+			"labels": ["box", "draw", "drawing", "line", "box drawing", "line drawing"],
+			"donate": "https://buymeacoffee.com/vwheeler63",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BracketFlasher",
 			"details": "https://github.com/jaytiar/SublimeBracketFlasher",
 			"labels": ["brackets"],

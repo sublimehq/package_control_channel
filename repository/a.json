@@ -2130,6 +2130,17 @@
 			]
 		},
 		{
+			"name": "Atari800 Color Scheme",
+			"details": "https://github.com/thinkyhead/Atari800",
+			"labels": ["color scheme", "atari", "basic"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ATG(CocoR C#) Syntax",
 			"details": "https://github.com/nolanar/ATG-Syntax-Sublime",
 			"labels": ["language syntax"],

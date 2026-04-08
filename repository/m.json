@@ -434,7 +434,7 @@
 			]
 		},
 		{
-			"name": "Mar Developer Tools",
+			"name": "Mar",
 			"details": "https://github.com/marlanghq/mar-sublime",
 			"labels": ["language syntax", "completions"],
 			"releases": [

@@ -230,6 +230,17 @@
 			]
 		},
 		{
+			"name": "Base64AutoCharset",
+			"details": "https://github.com/emotion/base64-decode-autocharset",
+			"labels": ["base64", "encoding", "charset", "gb18030", "decode", "cjk"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "main"
+				}
+			]
+		},
+		{
 			"name": "Bash Build System",
 			"details": "https://github.com/macite/sublimebashbuildsystem",
 			"labels": ["build system"],

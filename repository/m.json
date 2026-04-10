@@ -531,6 +531,17 @@
 			]
 		},
 		{
+			"name": "MarkdownImagePaste",
+			"details": "https://github.com/ricetim/MarkdownImagePaste",
+			"labels": ["markdown", "image", "clipboard", "paste"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Markdown Numbered Headers",
 			"details": "https://github.com/weituotian/md_numbered_headers",
 			"labels": ["markdown", "headers", "numbered headers"],

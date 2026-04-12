@@ -580,7 +580,7 @@
 			"labels": ["markdown", "table of contents", "text navigation"],
 			"releases": [
 				{
-					"sublime_text": ">=4000",
+					"sublime_text": ">=4171",
 					"tags": true
 				}
 			]
@@ -1209,6 +1209,17 @@
 			"author": "David Donohue",
 			"details": "https://github.com/sdirishguy/MCPHelperSublimePlugin",
 			"labels": ["mcp", "ai", "code-generation", "sublime-text"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "MCPServer",
+			"details": "https://github.com/benyue1978/sublime-mcp",
+			"labels": ["mcp", "ai", "productivity"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",

@@ -1856,6 +1856,17 @@
 			]
 		},
 		{
+			"name": "LSP-Path-Scoping",
+			"details": "https://github.com/skovsboll/Sublime-LSP-Path-Scoping",
+			"labels": ["lsp"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Lua Dev",
 			"details": "https://github.com/rorydriscoll/LuaSublime",
 			"labels": ["language syntax", "lua"],

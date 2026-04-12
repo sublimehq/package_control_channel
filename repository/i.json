@@ -1305,6 +1305,17 @@
 			]
 		},
 		{
+			"name": "ISF",
+			"details": "https://github.com/newrosesystems/isf-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ISML",
 			"details": "https://github.com/aearly/isml-tmlanguage",
 			"labels": ["language syntax"],

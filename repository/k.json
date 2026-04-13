@@ -36,6 +36,17 @@
 			]
 		},
 		{
+			"name": "Kamailio Config",
+			"details": "https://github.com/igorolhovskiy/kamailio-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "KanaKana",
 			"details": "https://github.com/mitsu-ksgr/KanaKana",
 			"labels": ["japanese", "text manipulation"],

@@ -417,7 +417,7 @@
 				},
 				{
 					"sublime_text": ">=4000",
-					"tags": "st4-"
+					"tags": true
 				}
 			]
 		},

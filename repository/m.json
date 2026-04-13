@@ -580,7 +580,7 @@
 			"labels": ["markdown", "table of contents", "text navigation"],
 			"releases": [
 				{
-					"sublime_text": ">=4171",
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -1222,7 +1222,7 @@
 			"labels": ["mcp", "ai", "productivity"],
 			"releases": [
 				{
-					"sublime_text": ">=4000",
+					"sublime_text": ">=4171",
 					"tags": true
 				}
 			]

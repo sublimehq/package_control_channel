@@ -744,7 +744,7 @@
 		},
  		{
 			"name": "VS Code 2026 Dark",
-			"details": "https://github.com/vector-foundry-dev/sublime-vscode-2026-dark",
+			"details": "https://github.com/vector-foundry-dev/sublime-vscode-2026-dark-color-scheme",
 			"labels": ["color scheme"],
 			"releases": [
 				{

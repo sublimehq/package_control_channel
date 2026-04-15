@@ -1217,6 +1217,17 @@
 			]
 		},
 		{
+			"name": "MCPServer",
+			"details": "https://github.com/benyue1978/sublime-mcp",
+			"labels": ["mcp", "ai", "productivity"],
+			"releases": [
+				{
+					"sublime_text": ">=4171",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MCS_Syntax",
 			"details": "https://github.com/bmpenuelas/MCS_Syntax",
 			"labels": ["language syntax", "mcs", "xilinx", "fpga"],

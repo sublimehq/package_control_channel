@@ -1642,7 +1642,7 @@
 			"name": "Formatter",
 			"details": "https://github.com/bitst0rm-pub/Formatter",
 			"author": "bitst0rm",
-			"labels": ["formatting", "minify", "prettify", "css", "scss", "sass", "less", "html", "xml", "javascript", "json", "markdown", "perl", "php", "python", "ruby", "bash", "c", "c++", "c#", "d", "objc", "java"],
+			"labels": ["formatting", "minify", "prettify"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

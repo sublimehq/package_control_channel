@@ -2188,11 +2188,15 @@
 			"labels": ["language syntax", "build system", "snippets", "powershell"],
 			"releases": [
 				{
-					"sublime_text": "<4000",
+					"sublime_text": "<4107",
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=4000",
+					"sublime_text": "4107 - 4203",
+					"tags": "st4107-"
+				},
+				{
+					"sublime_text": ">=4204",
 					"tags": true
 				}
 			]

@@ -1230,7 +1230,7 @@
 		{
 			"name": "MDL Language",
 			"details": "https://github.com/ardenpm/sublime-mdl-language",
-			"labels" : ["language syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1413,15 +1413,7 @@
 			"details": "https://github.com/chinchin96/SublimeText-Merge-Windows",
 			"author": "Chinedu Ezeamuzie",
 			"donate": "https://paypal.me/chinchin96",
-			"labels": [
-				"merge windows",
-				"merge tabs",
-				"group tabs",
-				"join windows",
-				"consolidate windows",
-				"tab management",
-				"manage tabs"
-			],
+			"labels": ["merge windows", "merge tabs", "group tabs", "join windows", "consolidate windows", "tab management", "manage tabs"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -1659,7 +1651,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags" : true
+					"tags": true
 				}
 			]
 		},
@@ -3018,13 +3010,7 @@
 		{
 			"name": "MypyReveal",
 			"details": "https://github.com/fortana-co/sublime-mypy-reveal",
-			"labels": [
-				"linting",
-				"mypy",
-				"check",
-				"python",
-				"type"
-			],
+			"labels": ["linting", "mypy", "check", "python", "type"],
 			"author": "kylebebak",
 			"releases": [
 				{

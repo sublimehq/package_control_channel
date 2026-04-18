@@ -159,7 +159,7 @@
 		{
 			"name": "WebAssembly Text Syntax",
 			"details": "https://github.com/bathos/wast-sublime-syntax",
-			"labels": [ "wasm", "wast", "wat", "web assembly", "language syntax" ],
+			"labels": ["wasm", "wast", "wat", "web assembly", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3084",
@@ -1126,7 +1126,7 @@
 		{
 			"name": "WslBuild",
 			"details": "https://github.com/SublimeText/WslBuild",
-			"author": ["existentialmutt" , "DeathAxe"],
+			"author": ["existentialmutt", "DeathAxe"],
 			"labels": ["build system"],
 			"releases": [
 				{

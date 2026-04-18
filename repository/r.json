@@ -886,7 +886,7 @@
 		{
 			"name": "Refactor",
 			"details": "https://github.com/Delermando/Refactor",
-			"labels": ["refactor", "code review", "code formatting","php"],
+			"labels": ["refactor", "code review", "code formatting", "php"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -1354,13 +1354,7 @@
 		{
 			"name": "Requester",
 			"details": "https://github.com/kylebebak/Requester",
-			"labels": [
-				"language syntax",
-				"http",
-				"api",
-				"rest",
-				"debug"
-			],
+			"labels": ["language syntax", "http", "api", "rest", "debug"],
 			"author": "kylebebak",
 			"releases": [
 				{

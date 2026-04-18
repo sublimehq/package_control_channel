@@ -47,7 +47,7 @@
 		{
 			"name": "Easy CP",
 			"details": "https://github.com/RohitMazumder/EasyCP",
-			"labels" : ["competitive-programming","test","cp","web-scrapping","java","python","c++"],
+			"labels": ["competitive-programming", "test", "cp", "web-scrapping", "java", "python", "c++"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -117,17 +117,7 @@
 			"details": "https://github.com/niosus/EasyClangComplete",
 			"homepage": "https://niosus.github.io/EasyClangComplete",
 			"donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2QLY7J4Q944HS",
-			"labels": [
-				"auto-complete",
-				"completions",
-				"language syntax",
-				"linting",
-				"ide",
-				"clang",
-				"cmake",
-				"c",
-				"c++"
-			],
+			"labels": ["auto-complete", "completions", "language syntax", "linting", "ide", "clang", "cmake", "c", "c++"],
 			"releases": [
 				{
 					"sublime_text": ">=3070",
@@ -146,7 +136,7 @@
 					"tags": true
 				}
 			]
-		},	
+		},
 		{
 			"details": "https://github.com/facelessuser/EasyDiff",
 			"releases": [
@@ -293,7 +283,7 @@
 		{
 			"name": "Ecmascript Syntax",
 			"details": "https://github.com/bathos/Ecmascript-Sublime",
-			"labels": [ "javascript", "es6", "es2015", "language syntax" ],
+			"labels": ["javascript", "es6", "es2015", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3084",
@@ -458,7 +448,7 @@
 		{
 			"name": "Editmode",
 			"author": "Tony Ennis",
-			"description" : "Send text to the editmode API & insert a snippet in its place.",
+			"description": "Send text to the editmode API & insert a snippet in its place.",
 			"details": "https://github.com/tonyennis145/editmode-sublime",
 			"labels": ["snippets", "utilities"],
 			"releases": [
@@ -735,7 +725,7 @@
 		{
 			"name": "Eloquence",
 			"details": "https://github.com/macMikey/eloquence-sublime-text-syntax",
-			"labels": ["eloquence","language syntax"],
+			"labels": ["eloquence", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1735,7 +1725,7 @@
 		{
 			"name": "ExpandRegion",
 			"details": "https://github.com/aronwoost/sublime-expand-region",
-			"labels": [ "snippets", "code navigation", "expand selection", "text selection"],
+			"labels": ["snippets", "code navigation", "expand selection", "text selection"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

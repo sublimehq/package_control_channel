@@ -95,35 +95,7 @@
 			"name": "Tabnine",
 			"details": "https://github.com/codota/tabnine-sublime",
 			"author": "Tabnine",
-			"labels": [
-				"auto-complete",
-				"snippets",
-				"ai",
-				"bash",
-				"c",
-				"c#",
-				"c++",
-				"css",
-				"go",
-				"golang",
-				"haskell",
-				"html",
-				"java",
-				"javascript",
-				"julia",
-				"kotlin",
-				"lua",
-				"objective-c",
-				"ocaml",
-				"perl",
-				"php",
-				"python",
-				"react",
-				"ruby",
-				"rust",
-				"swift",
-				"typescript"
-			],
+			"labels": ["auto-complete", "snippets", "ai", "bash", "c", "c#", "c++", "css", "go", "golang", "haskell", "html", "java", "javascript", "julia", "kotlin", "lua", "objective-c", "ocaml", "perl", "php", "python", "react", "ruby", "rust", "swift", "typescript"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -571,9 +543,7 @@
 		{
 			"name": "Telescope",
 			"details": "https://github.com/Mr7F/sublime-telescope",
-			"labels": [
-				"code navigation"
-			],
+			"labels": ["code navigation"],
 			"releases": [
 				{
 					"sublime_text": ">=4198",
@@ -775,7 +745,7 @@
 			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",
 			"labels": ["terminal"],
-			"releases" : [
+			"releases": [
 				{
 					"sublime_text": "*",
 					"platforms": ["osx", "osx-x64"],
@@ -873,11 +843,11 @@
 			]
 		},
 		{
-			"name" : "Test Runner",
+			"name": "Test Runner",
 			"author": "André Cerqueira",
-			"details" : "https://github.com/accerqueira/sublime-test-runner",
-			"labels" : ["testing"],
-			"releases" : [
+			"details": "https://github.com/accerqueira/sublime-test-runner",
+			"labels": ["testing"],
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true
@@ -953,12 +923,7 @@
 			"name": "TestManager",
 			"details": "https://github.com/cschreib/sublime-TestManager",
 			"author": "cshreib (Corentin Schreiber)",
-			"labels": [
-				"testing",
-				"c++",
-				"python",
-				"rust"
-			],
+			"labels": ["testing", "c++", "python", "rust"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2362,7 +2327,7 @@
 		{
 			"name": "Themosis Framework Snippets",
 			"details": "https://github.com/wmarquardt/themosis-framework-snippets",
-			"author" : "William Marquardt",
+			"author": "William Marquardt",
 			"labels": ["snippets"],
 			"releases": [
 				{
@@ -2513,11 +2478,7 @@
 		{
 			"name": "Timestamp converter",
 			"details": "https://github.com/Zlitus/sublime-text-timestamp",
-			"labels": [
-				"utilities",
-				"productivity",
-				"text manipulation"
-			],
+			"labels": ["utilities", "productivity", "text manipulation"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -2550,15 +2511,7 @@
 			"name": "Tint Terminal",
 			"details": "https://github.com/joshgoebel/sublime-tint-terminal",
 			"author": "Josh Goebel",
-			"labels": [
-				"terminal",
-				"shell",
-				"bash",
-				"zsh",
-				"utilities",
-				"console",
-				"command line"
-			],
+			"labels": ["terminal", "shell", "bash", "zsh", "utilities", "console", "command line"],
 			"releases": [
 				{
 					"platforms": ["osx", "linux"],
@@ -3120,10 +3073,12 @@
 			"name": "ToolRunner",
 			"details": "https://github.com/KuttKatrea/sublime-toolrunner",
 			"author": "Kutt Katrea",
-			"releases": [{
-				"sublime_text": ">=3000",
-				"tags": true
-			}]
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "ToolTip-Helper",
@@ -3469,13 +3424,7 @@
 		{
 			"name": "TreeSitter",
 			"details": "https://github.com/sublime-treesitter/TreeSitter",
-			"labels": [
-				"tree-sitter",
-				"navigation",
-				"selection",
-				"symbols",
-				"parsers"
-			],
+			"labels": ["tree-sitter", "navigation", "selection", "symbols", "parsers"],
 			"author": "kylebebak",
 			"releases": [
 				{
@@ -3761,7 +3710,7 @@
 			"name": "TwilightBright",
 			"details": "https://github.com/sepisoad/sublime-twilight-bright-color",
 			"author": "Sepehr Aryani",
-			"labels": [ "color scheme", "light", "twilight"],
+			"labels": ["color scheme", "light", "twilight"],
 			"releases": [
 				{
 					"sublime_text": "*",

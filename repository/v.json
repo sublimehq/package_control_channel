@@ -432,7 +432,7 @@
 		{
 			"name": "Vintage Relative Lines",
 			"details": "https://github.com/bicarlsen/vintage_relnums",
-			"labels": [ "vintage", "line numbers" ],
+			"labels": ["vintage", "line numbers"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

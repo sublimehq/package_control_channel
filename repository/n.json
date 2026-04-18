@@ -4,7 +4,7 @@
 		{
 			"name": "Nabla Theme",
 			"details": "https://github.com/aelmoghit/Nabla-Theme",
-			"labels": ["theme","color scheme"],
+			"labels": ["theme", "color scheme"],
 			"releases": [
 				{
 					"sublime_text": ">=4143",
@@ -503,7 +503,7 @@
 		{
 			"name": "NetYCE syntax highlighting",
 			"details": "https://github.com/bartdorlandt/netyce_sublime_syntax",
-			"labels": [ "color scheme", "language syntax", "netyce"],
+			"labels": ["color scheme", "language syntax", "netyce"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -850,9 +850,9 @@
 		},
 		{
 			"name": "Nirum",
-			"details" : "https://github.com/nirum-lang/sublime-nirum",
+			"details": "https://github.com/nirum-lang/sublime-nirum",
 			"labels": ["language syntax", "nirum"],
-			"releases" : [
+			"releases": [
 				{
 					"sublime_text": ">=3084",
 					"tags": true
@@ -861,9 +861,9 @@
 		},
 		{
 			"name": "NitSyntaxHighliter",
-			"details" : "https://github.com/itsWill/NitSyntaxHighlighter",
+			"details": "https://github.com/itsWill/NitSyntaxHighlighter",
 			"labels": ["language syntax"],
-			"releases" : [
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true
@@ -1326,7 +1326,7 @@
 			"name": "NukeToolsST",
 			"details": "https://github.com/sisoe24/Nuke-Tools-ST",
 			"author": "virgilsisoe",
-			"labels": ["nuke", "thefoundry", "blink", "blinkscript", "python" ],
+			"labels": ["nuke", "thefoundry", "blink", "blinkscript", "python"],
 			"releases": [
 				{
 					"sublime_text": "*",

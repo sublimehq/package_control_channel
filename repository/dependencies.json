@@ -431,7 +431,7 @@
 			"releases": [
 				{
 					"base": "https://github.com/eerohele/sublime-lxml",
-					"platforms": ["osx-x64","linux","windows"],
+					"platforms": ["osx-x64", "linux", "windows"],
 					"sublime_text": ">=3000",
 					"tags": true
 				}
@@ -698,7 +698,7 @@
 			"releases": [
 				{
 					"base": "https://github.com/packagecontrol/psutil",
-					"platforms": ["osx-x64","windows","linux"],
+					"platforms": ["osx-x64", "windows", "linux"],
 					"sublime_text": ">=3000",
 					"tags": true
 				}
@@ -1148,7 +1148,7 @@
 			"releases": [
 				{
 					"base": "https://github.com/codexns/sublime-sqlite3",
-					"platforms": ["windows","linux"],
+					"platforms": ["windows", "linux"],
 					"sublime_text": "*",
 					"tags": true
 				},

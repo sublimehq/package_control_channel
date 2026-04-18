@@ -110,7 +110,7 @@
 		},
 		{
 			"name": "SAMB",
-			"description" : "SAMB (server assembly framework) syntax and snippets",
+			"description": "SAMB (server assembly framework) syntax and snippets",
 			"details": "https://github.com/cheikhshift/samb-sublime",
 			"labels": ["language syntax", "snippets"],
 			"releases": [
@@ -184,7 +184,7 @@
 		},
 		{
 			"name": "SAS Syntax and Theme",
-			"description": "A Sublime Text 3 package for SAS syntax highlighting and the corresponding SAS Theme" ,
+			"description": "A Sublime Text 3 package for SAS syntax highlighting and the corresponding SAS Theme",
 			"details": "https://github.com/77QingLiu/SAS-Syntax-and-Theme",
 			"author": ["Qing"],
 			"labels": ["build system", "color scheme", "language syntax", "snippets"],
@@ -282,7 +282,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"platforms": ["windows","osx"],
+					"platforms": ["windows", "osx"],
 					"tags": true
 				}
 			]
@@ -1330,7 +1330,7 @@
 		{
 			"name": "SEWL",
 			"details": "https://github.com/SpotonNet/sublime-sewl",
-			"labels" : ["language syntax", "snippets"],
+			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -1869,10 +1869,12 @@
 			"author": "Adelyte Company (Taylor Zane Glaeser)",
 			"details": "https://github.com/adelyte/simpl-plus-syntax-highlight",
 			"labels": ["language syntax", "crestron", "simpl", "simpl plus", "splus"],
-			"releases": [{
-				"sublime_text": ">=3092",
-				"tags": true
-			}]
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "Simplates",
@@ -2832,7 +2834,7 @@
 			"description": "A collection of 90+ LaTeX snippets",
 			"details": "https://github.com/CharbelAD/SnipTeX",
 			"labels": ["snippets", "latex"],
-			"releases" :[
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true
@@ -3871,8 +3873,7 @@
 			"name": "Startup Files",
 			"details": "https://github.com/voltavidTony/Startup-Files",
 			"labels": ["file", "open", "startup"],
-			"releases":
-			[
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true
@@ -4141,7 +4142,7 @@
 		{
 			"name": "StrapdownJS Boilerplate",
 			"details": "https://github.com/sonokamome/StrapdownJS-Boilerplate",
-			"labels" : ["snippets", "boilerplate", "markdown", "strapdownjs"],
+			"labels": ["snippets", "boilerplate", "markdown", "strapdownjs"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -5469,20 +5470,7 @@
 		{
 			"name": "Suricate",
 			"details": "https://github.com/nsubiron/SublimeSuricate",
-			"labels": [
-				"commands",
-				"diff",
-				"duckduckgo",
-				"file navigation",
-				"git",
-				"google",
-				"search",
-				"surround scm",
-				"svn",
-				"tooltips",
-				"utilities",
-				"vcs"
-			],
+			"labels": ["commands", "diff", "duckduckgo", "file navigation", "git", "google", "search", "surround scm", "svn", "tooltips", "utilities", "vcs"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

@@ -93,8 +93,7 @@
 			"name": "Hadar Theme",
 			"author": "Cristian Vásquez",
 			"details": "https://github.com/cristianvasquezc/hadar-sublime-text",
-			"labels": ["theme", "color scheme", "dark", "hadar", "hadar theme"
-			],
+			"labels": ["theme", "color scheme", "dark", "hadar", "hadar theme"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -815,10 +814,10 @@
 			]
 		},
 		{
-			"name" : "Hog",
-			"details" : "https://github.com/Hog-CERN/HogSublime",
+			"name": "Hog",
+			"details": "https://github.com/Hog-CERN/HogSublime",
 			"labels": ["language syntax"],
-			"releases" : [
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true
@@ -1499,7 +1498,7 @@
 		{
 			"name": "Hungry Backspace",
 			"details": "https://github.com/xdrop/Hungry-Backspace",
-			"labels" : ["hungry","backspace","indentation","spacing","delete","line"],
+			"labels": ["hungry", "backspace", "indentation", "spacing", "delete", "line"],
 			"releases": [
 				{
 					"sublime_text": ">3000",

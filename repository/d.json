@@ -1151,9 +1151,7 @@
 			"name": "Django Snippets",
 			"details": "https://github.com/mattseymour/sublime-django",
 			"labels": ["snippets", "django"],
-			"previous_names": [
-				"Django"
-			],
+			"previous_names": ["Django"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1359,15 +1357,7 @@
 					"tags": true
 				}
 			],
-			"labels": [
-				"auto-complete",
-				"formatting",
-				"snippets",
-				"python",
-				"automatic",
-				"docstring",
-				"generator"
-			]
+			"labels": ["auto-complete", "formatting", "snippets", "python", "automatic", "docstring", "generator"]
 		},
 		{
 			"name": "Docker Based Build Systems",
@@ -1395,7 +1385,7 @@
 		{
 			"name": "DocPHPManualer",
 			"details": "https://github.com/garveen/docphp",
-			"labels": ["document","php","manual"],
+			"labels": ["document", "php", "manual"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

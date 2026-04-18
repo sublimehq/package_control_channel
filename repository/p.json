@@ -452,7 +452,7 @@
 		},
 		{
 			"name": "Parva Syntax",
-			"details" : "https://github.com/muskatel/Parva_Syntax",
+			"details": "https://github.com/muskatel/Parva_Syntax",
 			"labels": ["language syntax"],
 			"releases": [
 				{
@@ -1919,7 +1919,7 @@
 			"name": "Polar",
 			"author": "Eric Daniels",
 			"details": "https://github.com/edaniels/sublime-polar",
-			"labels": [ "polar", "oso", "language syntax" ],
+			"labels": ["polar", "oso", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",
@@ -1932,7 +1932,7 @@
 			"author": "Tristano Ajmone",
 			"details": "https://github.com/tajmone/sublime-polygen",
 			"issues": "https://github.com/tajmone/sublime-polygen/issues",
-			"labels": [ "polygen", "language syntax" ],
+			"labels": ["polygen", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3149",
@@ -2727,9 +2727,7 @@
 		{
 			"name": "Projectionist",
 			"details": "https://github.com/timfjord/Projectionist",
-			"labels": [
-				"project"
-			],
+			"labels": ["project"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -3585,7 +3583,7 @@
 		{
 			"name": "PythonVoiceCodingPlugin",
 			"details": "https://github.com/mpourmpoulis/PythonVoiceCodingPlugin",
-			"labels": ["voice coding","accessibility","syntax tree","python","grammar","high level"],
+			"labels": ["voice coding", "accessibility", "syntax tree", "python", "grammar", "high level"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

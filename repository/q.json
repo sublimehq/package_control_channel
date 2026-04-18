@@ -27,7 +27,7 @@
 		{
 			"name": "QColor",
 			"details": "https://github.com/raphaelquintao/QColor",
-			"labels": ["color", "highlight", "highlighter", "converter", "picker", "hex", "rgb","rgba", "hsla", "hsl"],
+			"labels": ["color", "highlight", "highlighter", "converter", "picker", "hex", "rgb", "rgba", "hsla", "hsl"],
 			"author": "Raphael Quintao",
 			"releases": [
 				{

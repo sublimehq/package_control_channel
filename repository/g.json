@@ -326,7 +326,7 @@
 			"labels": ["snippets", "i18n", "l10n"],
 			"releases": [
 				{
-					"sublime_text":"*",
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -337,7 +337,7 @@
 			"labels": ["language syntax", "correctness proofs", "uwaterloo"],
 			"releases": [
 				{
-					"sublime_text":"*",
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -433,9 +433,7 @@
 			"issues": "https://github.com/fregante/GhostText/issues",
 			"donate": "https://github.com/sponsors/fregante",
 			"homepage": "https://ghosttext.fregante.com",
-			"labels": [
-				"browser integration"
-			],
+			"labels": ["browser integration"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -540,13 +538,7 @@
 		{
 			"name": "Git Commit Message Syntax",
 			"details": "https://github.com/adambullmer/sublime_git_commit_syntax",
-			"labels": [
-				"git",
-				"language",
-				"syntax",
-				"language syntax",
-				"commit"
-			],
+			"labels": ["git", "language", "syntax", "language syntax", "commit"],
 			"author": "adambullmer",
 			"releases": [
 				{
@@ -951,15 +943,7 @@
 		{
 			"name": "GitSyntaxes",
 			"details": "https://github.com/vovkkk/sublime_git_syntaxes",
-			"labels": [
-				"git",
-				"language",
-				"syntax",
-				"language syntax",
-				"commit",
-				"rebase",
-				"command line"
-			],
+			"labels": ["git", "language", "syntax", "language syntax", "commit", "rebase", "command line"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1655,7 +1639,7 @@
 		{
 			"name": "GoTests",
 			"details": "https://github.com/cweill/GoTests-Sublime",
-			"labels": ["go","testing"],
+			"labels": ["go", "testing"],
 			"releases": [
 				{
 					"sublime_text": "*",

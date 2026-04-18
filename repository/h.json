@@ -1106,8 +1106,12 @@
 					"tags": "version/st4157/"
 				},
 				{
-					"sublime_text": ">=4201",
+					"sublime_text": "4201 - 4203",
 					"tags": "version/st4201/"
+				},
+				{
+					"sublime_text": ">=4204",
+					"tags": "version/st4204/"
 				}
 			]
 		},

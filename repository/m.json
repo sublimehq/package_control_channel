@@ -732,6 +732,17 @@
 			]
 		},
 		{
+			"name": "MarkdownPrettyPreview",
+			"details": "https://github.com/neverbot/MarkdownPrettyPreview",
+			"labels": ["markdown", "preview"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/naokazuterada/MarkdownTOC",
 			"labels": ["markdown", "toc", "table of contents"],
 			"releases": [

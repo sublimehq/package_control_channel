@@ -2012,6 +2012,17 @@
 			]
 		},
 		{
+			"name": "MILR",
+			"details": "https://github.com/MinuteSphinxE/sublime-mlir-syntax",
+			"labels": ["language syntax", "MLIR", "LLVM"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Moai Debugger",
 			"details": "https://github.com/DJHoltkamp/Sublime-Moai-Debugger",
 			"releases": [

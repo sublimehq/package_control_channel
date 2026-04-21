@@ -146,6 +146,7 @@
 		{
 			"name": "Umbral",
 			"details": "https://github.com/hersac/umbral-sublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",

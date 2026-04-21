@@ -2014,7 +2014,7 @@
 		{
 			"name": "MILR",
 			"details": "https://github.com/MinuteSphinxE/sublime-mlir-syntax",
-			"labels": ["language syntax", "MLIR", "LLVM"],
+			"labels": ["language syntax", "LLVM", "MLIR"],
 			"releases": [
 				{
 					"sublime_text": "*",

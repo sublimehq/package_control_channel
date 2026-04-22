@@ -5,7 +5,6 @@
 			"name": "C Family Rewrite (C23 and C++23)",
 			"details": "https://github.com/camila314/C-Family-Rewrite",
 			"labels": ["language syntax", "c", "c++", "objc", "objc++", "objective-c"],
-			"author": "camila314",
 			"description": "Complete modern rewrite of C/C++/ObjC/ObjC++ syntax",
 			"releases": [
 				{

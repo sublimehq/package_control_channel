@@ -6,7 +6,7 @@
 			"details": "https://github.com/camila314/C-Family-Rewrite",
 			"labels": ["language syntax", "c", "c++", "objc", "objc++", "objective-c"],
 			"author": "camila314",
-			"description": "Complete modern rewrite of C/C++/Objc/ObjC++ syntax",
+			"description": "Complete modern rewrite of C/C++/ObjC/ObjC++ syntax",
 			"releases": [
 				{
 					"sublime_text": ">=4199",

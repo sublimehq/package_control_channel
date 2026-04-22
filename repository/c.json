@@ -2,7 +2,7 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "C Family Rewrite (C23/C++23)",
+			"name": "C Family Rewrite (C23 and C++23)",
 			"details": "https://github.com/camila314/C-Family-Rewrite",
 			"labels": ["language syntax", "c", "c++", "objc", "objc++", "objective-c"],
 			"author": "camila314",

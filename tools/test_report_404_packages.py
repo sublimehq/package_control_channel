@@ -383,8 +383,8 @@ def test_render_human_report_and_machine_report():
     assert script.render_human_report([]) == "<nothing to report>\n"
 
     assert script.render_machine_report(packages) == (
-        "KarmaRunner\x002026-03-21T00:00:00Z\n"
-        "LazyTimeTracker\x002026-03-28T00:00:00Z"
+        "KarmaRunner\x00https://github.com/knee-cola/KarmaRunner\x002026-03-21T00:00:00Z\n"
+        "LazyTimeTracker\x00https://github.com/Bwata/LazyTimeTracker\x002026-03-28T00:00:00Z"
     )
     assert script.render_machine_report([]) == ""
 

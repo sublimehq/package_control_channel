@@ -100,7 +100,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         action="store_true",
         help=(
             "Machine-readable output as newline-delimited records with "
-            "NUL-separated fields: <name>\\0<failing_since_utc>"
+            "NUL-separated fields: <name>\\0<url>\\0<failing_since_utc>"
         ),
     )
     parser.add_argument(
@@ -521,7 +521,7 @@ def render_machine_report(packages: list[UnreachablePackage]) -> str:
         return ""
 
     return "\n".join(
-        f"{package.name}\0{format_timestamp(package.failing_since)}"
+        f"{package.name}\0{package.details or ''}\0{format_timestamp(package.failing_since)}"
         for package in packages
     )
 

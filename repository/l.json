@@ -145,6 +145,17 @@
 			]
 		},
 		{
+			"name": "Laravel 12 Ultimate Suite",
+			"details": "https://github.com/jocelinkisenga/Laravel-12-Ultimate-Suite",
+			"labels": ["laravel", "php", "snippets", "autocomplete", "ai", "filament", "livewire"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Laravel 4 Artisan",
 			"details": "https://github.com/evgeny-golubev/Laravel-4-Artisan",
 			"donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4RCBDUG2TQEJY",

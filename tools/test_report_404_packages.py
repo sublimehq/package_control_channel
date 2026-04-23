@@ -73,6 +73,88 @@ def test_collect_unreachable_packages_filters_by_source_reason_and_age():
     assert result[1].age_days == 33
 
 
+def test_collect_unreachable_packages_ignores_by_name_or_details():
+    now = datetime(2026, 4, 22, tzinfo=UTC)
+    workspace = {
+        "packages": {
+            "Alpha": {
+                "name": "Alpha",
+                "details": "https://github.com/example/Alpha",
+                "source": "https://raw.githubusercontent.com/wbond/package_control_channel/refs/heads/master/repository.json",
+                "fail_reason": "fatal: 404 not found",
+                "failing_since": "2026-03-10T00:00:00Z",
+            },
+            "Beta": {
+                "name": "Beta",
+                "details": "https://github.com/example/Beta",
+                "source": "https://raw.githubusercontent.com/wbond/package_control_channel/refs/heads/master/repository.json",
+                "fail_reason": "fatal: 404 not found",
+                "failing_since": "2026-03-11T00:00:00Z",
+            },
+            "Gamma": {
+                "name": "Gamma",
+                "details": "https://github.com/example/Gamma",
+                "source": "https://raw.githubusercontent.com/wbond/package_control_channel/refs/heads/master/repository.json",
+                "fail_reason": "fatal: 404 not found",
+                "failing_since": "2026-03-12T00:00:00Z",
+            },
+        }
+    }
+
+    result = script.collect_unreachable_packages(
+        workspace,
+        allowed_sources=[
+            "https://raw.githubusercontent.com/wbond/package_control_channel/",
+        ],
+        min_age_days=21,
+        ignored_identifiers={
+            "Alpha",
+            "https://github.com/example/Beta",
+        },
+        now=now,
+    )
+
+    assert [item.name for item in result] == ["Gamma"]
+
+
+def test_resolve_ignored_identifiers_merges_cli_and_file(tmp_path):
+    ignore_file = tmp_path / "ignore.txt"
+    ignore_file.write_text(
+        "\n".join(
+            [
+                "# ignore known packages",
+                "https://github.com/example/Alpha",
+                "Gamma, Delta",
+                "",
+            ]
+        ),
+        encoding="utf-8",
+    )
+
+    result = script.resolve_ignored_identifiers(
+        ignore_values=["Alpha, Beta"],
+        ignore_files=[str(ignore_file)],
+    )
+
+    assert result == {
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta",
+        "https://github.com/example/Alpha",
+    }
+
+
+def test_resolve_ignored_identifiers_fails_for_missing_file(tmp_path):
+    missing = tmp_path / "missing-ignore.txt"
+
+    with pytest.raises(SystemExit, match="Ignore file not found"):
+        script.resolve_ignored_identifiers(
+            ignore_values=None,
+            ignore_files=[str(missing)],
+        )
+
+
 @pytest.mark.parametrize(
     ("origin_url", "expected"),
     [

@@ -4,6 +4,7 @@ import argparse
 import json
 import subprocess
 import sys
+from collections.abc import Container
 from dataclasses import dataclass
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
@@ -34,10 +35,15 @@ def main(argv: list[str] | None = None) -> int:
     print_workspace_age_note_if_needed(workspace_path, workspace=workspace, now=now)
 
     allowed_sources = resolve_allowed_sources(args.allowed_source)
+    ignored_identifiers = resolve_ignored_identifiers(
+        ignore_values=args.ignore,
+        ignore_files=args.ignore_file,
+    )
     unreachable_packages = collect_unreachable_packages(
         workspace,
         allowed_sources=allowed_sources,
         min_age_days=args.min_age,
+        ignored_identifiers=ignored_identifiers,
         now=now,
     )
 
@@ -124,6 +130,26 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
             "than 1 hour."
         ),
     )
+    parser.add_argument(
+        "--ignore",
+        action="append",
+        default=None,
+        help=(
+            "Ignore package identifiers (name or details URL). Can be passed "
+            "multiple times and supports comma-separated values."
+        ),
+    )
+    parser.add_argument(
+        "--ignore-file",
+        action="append",
+        default=None,
+        metavar="PATH",
+        help=(
+            "Read ignored package identifiers (name or details URL) from file. "
+            "One value per line, with optional comma-separated values. "
+            "Blank lines and lines starting with # are ignored."
+        ),
+    )
     return parser.parse_args(argv)
 
 
@@ -202,6 +228,39 @@ def resolve_allowed_sources(override_sources: list[str] | None) -> list[str]:
     return compute_allowed_sources_from_origin()
 
 
+def resolve_ignored_identifiers(
+    *,
+    ignore_values: list[str] | None,
+    ignore_files: list[str] | None,
+) -> set[str]:
+    identifiers: set[str] = set()
+
+    for ignore_value in ignore_values or []:
+        identifiers.update(split_ignored_values(ignore_value))
+
+    for ignore_file in ignore_files or []:
+        identifiers.update(load_ignored_values_file(Path(ignore_file)))
+
+    return identifiers
+
+
+def split_ignored_values(raw_value: str) -> set[str]:
+    return {item.strip() for item in raw_value.split(",") if item.strip()}
+
+
+def load_ignored_values_file(path: Path) -> set[str]:
+    if not path.exists():
+        raise SystemExit(f"Ignore file not found: {path}")
+
+    return {
+        value
+        for raw_line in path.read_text(encoding="utf-8").splitlines()
+        if (line := raw_line.strip())
+        if not line.startswith("#")
+        for value in split_ignored_values(line)
+    }
+
+
 def compute_allowed_sources_from_origin() -> list[str]:
     origin_url = run_output(["git", "config", "--get", "remote.origin.url"]).strip()
     if not origin_url:
@@ -255,31 +314,31 @@ def collect_unreachable_packages(
     *,
     allowed_sources: list[str],
     min_age_days: int,
+    ignored_identifiers: Container[str] = (),
     now: datetime,
 ) -> list[UnreachablePackage]:
-    packages = workspace.get("packages")
-    if not isinstance(packages, dict):
-        return []
-
     unreachable: list[UnreachablePackage] = []
-    for package in packages.values():
-        if not isinstance(package, dict):
-            continue
-
+    for package in workspace.get("packages").values():
         source = package.get("source")
         if not isinstance(source, str):
             continue
         if not any(source.startswith(allowed_source) for allowed_source in allowed_sources):
             continue
 
-        fail_reason = package.get("fail_reason")
-        if not isinstance(fail_reason, str):
+        name = package["name"]
+        if name in ignored_identifiers:
             continue
+
+        details = package.get("details")
+        if details and details in ignored_identifiers:
+            continue
+
+        fail_reason = package.get("fail_reason", "")
         if "fatal: 404" not in fail_reason.lower():
             continue
 
         raw_failing_since = package.get("failing_since")
-        if not isinstance(raw_failing_since, str):
+        if not raw_failing_since:
             continue
 
         failing_since = parse_timestamp(raw_failing_since)
@@ -292,8 +351,8 @@ def collect_unreachable_packages(
 
         unreachable.append(
             UnreachablePackage(
-                name=package["name"],
-                details=package.get("details"),
+                name=name,
+                details=details,
                 failing_since=failing_since,
                 age_days=age_days,
                 source=source,

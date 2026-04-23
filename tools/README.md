@@ -35,6 +35,9 @@ If you don't specify a --workspace, it will download one for you from
 The default sources are derived from `git origin`; use `--allowed-source`
 to override.
 
+Use `--ignore` (name or details URL) and/or `--ignore-file` to skip already
+known packages so recurring scheduled runs don't re-report them.
+
 ### Usage
 
 Report only (`-z` for machine friendly output):
@@ -48,6 +51,20 @@ Use a specific workspace file:
 
 ```bash
 uv run -m tools.report_404_packages --workspace ./workspace.json
+```
+
+Ignore specific package details URLs (or names):
+
+```bash
+uv run -m tools.report_404_packages \
+  --ignore "https://github.com/axsuul/sublime-0x0" \
+  --ignore "SublimeLinter,AnotherPackage"
+```
+
+Ignore via file:
+
+```bash
+uv run -m tools.report_404_packages --ignore-file ./tools/known-404s.txt
 ```
 
 Apply removals and commit:

@@ -73,6 +73,13 @@ Apply removals and commit:
 uv run -m tools.report_404_packages --commit
 ```
 
+Build PR message files (`pr_title.txt`, `pr_body.md`) from the report. This
+is for the CI.
+
+```bash
+uv run -m tools.report_404_packages --build-pr-message
+```
+
 ### Tests
 
 ```bash

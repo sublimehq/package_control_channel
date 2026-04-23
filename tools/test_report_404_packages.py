@@ -389,6 +389,89 @@ def test_render_human_report_and_machine_report():
     assert script.render_machine_report([]) == ""
 
 
+def test_render_pr_title_and_body_support_singular_and_plural():
+    single = [
+        script.UnreachablePackage(
+            name="testify",
+            details="https://github.com/example/testify",
+            failing_since=datetime(2026, 2, 28, tzinfo=UTC),
+            age_days=49,
+            source="https://raw.githubusercontent.com/wbond/package_control_channel/",
+        )
+    ]
+    plural = [
+        *single,
+        script.UnreachablePackage(
+            name="KarmaRunner",
+            details="https://github.com/example/KarmaRunner",
+            failing_since=datetime(2026, 3, 21, tzinfo=UTC),
+            age_days=31,
+            source="https://raw.githubusercontent.com/wbond/package_control_channel/",
+        ),
+    ]
+
+    assert script.render_pr_title(single) == "Remove unreachable testify"
+    assert script.render_pr_title(plural) == "Remove unreachable packages"
+
+    assert script.render_pr_body(single) == dedent(
+        """\
+        Hi, thecrawl bot here! 👋
+
+        The following package responds with a 404:
+
+        - **testify** [since 2026-02-28; 7 weeks]
+
+        You can check the current [status](https://packages.sublimetext.io/status).
+
+        This PR removes the package from the registry.
+        """
+    )
+
+    assert script.render_pr_body(plural) == dedent(
+        """\
+        Hi, thecrawl bot here! 👋
+
+        The following packages respond with 404s:
+
+        - **testify** [since 2026-02-28; 7 weeks]
+        - **KarmaRunner** [since 2026-03-21; 4 weeks]
+
+        You can check their current [status](https://packages.sublimetext.io/status).
+
+        This PR removes the packages from the registry.
+        """
+    )
+
+
+def test_write_pr_message_files_writes_expected_files(tmp_path):
+    packages = [
+        script.UnreachablePackage(
+            name="testify",
+            details="https://github.com/example/testify",
+            failing_since=datetime(2026, 2, 28, tzinfo=UTC),
+            age_days=49,
+            source="https://raw.githubusercontent.com/wbond/package_control_channel/",
+        )
+    ]
+
+    script.write_pr_message_files(packages, root=tmp_path)
+
+    assert (tmp_path / "pr_title.txt").read_text(encoding="utf-8") == "Remove unreachable testify\n"
+    assert (tmp_path / "pr_body.md").read_text(encoding="utf-8") == dedent(
+        """\
+        Hi, thecrawl bot here! 👋
+
+        The following package responds with a 404:
+
+        - **testify** [since 2026-02-28; 7 weeks]
+
+        You can check the current [status](https://packages.sublimetext.io/status).
+
+        This PR removes the package from the registry.
+        """
+    )
+
+
 def test_remove_packages_from_repository_uses_source_and_includes_once(tmp_path):
     repository_root = tmp_path
     (repository_root / "repository").mkdir()

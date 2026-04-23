@@ -58,6 +58,9 @@ def main(argv: list[str] | None = None) -> int:
         if package.name in removed_names
     ]
 
+    if args.build_pr_message and packages_to_report:
+        write_pr_message_files(packages_to_report, root=Path("."))
+
     if args.commit and packages_to_report:
         ensure_paths_are_clean(planned_files)
 
@@ -149,6 +152,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
             "One value per line, with optional comma-separated values. "
             "Blank lines and lines starting with # are ignored."
         ),
+    )
+    parser.add_argument(
+        "--build-pr-message",
+        action="store_true",
+        help="Write pr_title.txt and pr_body.md for the current report.",
     )
     return parser.parse_args(argv)
 
@@ -524,6 +532,50 @@ def render_machine_report(packages: list[UnreachablePackage]) -> str:
         f"{package.name}\0{package.details or ''}\0{format_timestamp(package.failing_since)}"
         for package in packages
     )
+
+
+def write_pr_message_files(
+    packages: list[UnreachablePackage],
+    *,
+    root: Path,
+) -> None:
+    (root / "pr_title.txt").write_text(render_pr_title(packages) + "\n", encoding="utf-8")
+    (root / "pr_body.md").write_text(render_pr_body(packages), encoding="utf-8")
+
+
+def render_pr_title(packages: list[UnreachablePackage]) -> str:
+    if len(packages) == 1:
+        return f"Remove unreachable {packages[0].name}"
+    return "Remove unreachable packages"
+
+
+def render_pr_body(packages: list[UnreachablePackage]) -> str:
+    if len(packages) == 1:
+        subject = "The following package responds with a 404:"
+        status_line = "You can check the current [status](https://packages.sublimetext.io/status)."
+        outro = "This PR removes the package from the registry."
+    else:
+        subject = "The following packages respond with 404s:"
+        status_line = "You can check their current [status](https://packages.sublimetext.io/status)."
+        outro = "This PR removes the packages from the registry."
+
+    bullets = [
+        f"- **{package.name}** [since {format_date(package.failing_since)}; {format_age(package.age_days)}]"
+        for package in packages
+    ]
+
+    return "\n".join([
+        "Hi, thecrawl bot here! 👋",
+        "",
+        subject,
+        "",
+        *bullets,
+        "",
+        status_line,
+        "",
+        outro,
+        "",
+    ])
 
 
 def format_date(value: datetime) -> str:

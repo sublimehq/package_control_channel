@@ -613,7 +613,7 @@
 		{
 			"name": "JetJet Color Scheme",
 			"details": "https://github.com/JetJet13/jetjet_theme_sublime",
-			"labels": [ "color scheme" ],
+			"labels": ["color scheme"],
 			"author": "Johny Georges",
 			"releases": [
 				{
@@ -1050,11 +1050,7 @@
 		{
 			"name": "JSON-Template",
 			"details": "https://github.com/stormwarning/jsont-tmbundle",
-			"labels": [
-				"language syntax",
-				"jsont",
-				"squarespace"
-			],
+			"labels": ["language syntax", "jsont", "squarespace"],
 			"releases": [
 				{
 					"tags": true
@@ -1193,6 +1189,16 @@
 			]
 		},
 		{
+			"name": "Jujutsu",
+			"details": "https://github.com/urschrei/jujutsu-sublime-plugin",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Julia",
 			"details": "https://github.com/JuliaEditorSupport/Julia-sublime",
 			"labels": ["language syntax"],
@@ -1225,10 +1231,7 @@
 					"tags": true
 				}
 			],
-			"labels": [
-				"text manipulation",
-				"code navigation"
-			]
+			"labels": ["text manipulation", "code navigation"]
 		},
 		{
 			"name": "JumpTo",
@@ -1306,7 +1309,7 @@
 		},
 		{
 			"name": "JWT Decode",
-			"details" : "https://github.com/Xiangjiaox/jwt-sublime-text",
+			"details": "https://github.com/Xiangjiaox/jwt-sublime-text",
 			"releases": [
 				{
 					"tags": true

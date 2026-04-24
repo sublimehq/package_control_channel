@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@418eee2d016d896a9302fd514232b8672615e7d2
+        uses: kaste/st_package_reviewer/gh_action@59142ae612226bd4b6fd7beed85abd7330798df6
         with:
           pr: ${{ github.event.pull_request.html_url }}
           file: repository.json
@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@418eee2d016d896a9302fd514232b8672615e7d2
+        uses: kaste/st_package_reviewer/gh_action@59142ae612226bd4b6fd7beed85abd7330798df6
         with:
           pr: ${{ github.event.issue.pull_request.html_url }}
           file: repository.json

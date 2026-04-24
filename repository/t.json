@@ -81,35 +81,7 @@
 			"name": "Tabnine",
 			"details": "https://github.com/codota/tabnine-sublime",
 			"author": "Tabnine",
-			"labels": [
-				"auto-complete",
-				"snippets",
-				"ai",
-				"bash",
-				"c",
-				"c#",
-				"c++",
-				"css",
-				"go",
-				"golang",
-				"haskell",
-				"html",
-				"java",
-				"javascript",
-				"julia",
-				"kotlin",
-				"lua",
-				"objective-c",
-				"ocaml",
-				"perl",
-				"php",
-				"python",
-				"react",
-				"ruby",
-				"rust",
-				"swift",
-				"typescript"
-			],
+			"labels": ["auto-complete", "snippets", "ai", "bash", "c", "c#", "c++", "css", "go", "golang", "haskell", "html", "java", "javascript", "julia", "kotlin", "lua", "objective-c", "ocaml", "perl", "php", "python", "react", "ruby", "rust", "swift", "typescript"],
 			"releases": [
 				{
 					"tags": true
@@ -340,6 +312,18 @@
 			]
 		},
 		{
+			"name": "Talon",
+			"details": "https://github.com/roycetech/sublime-text-4-talon-syntax",
+			"labels": ["talon voice", "language syntax"],
+			"author": "Royce Remulla",
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "TamarinProver",
 			"details": "https://github.com/tamarin-prover/editor-sublime",
 			"labels": ["tamarin prover", "spthy", "language syntax"],
@@ -461,9 +445,7 @@
 		{
 			"name": "Telescope",
 			"details": "https://github.com/Mr7F/sublime-telescope",
-			"labels": [
-				"code navigation"
-			],
+			"labels": ["code navigation"],
 			"releases": [
 				{
 					"sublime_text": ">=4198",
@@ -639,7 +621,7 @@
 			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",
 			"labels": ["terminal"],
-			"releases" : [
+			"releases": [
 				{
 					"platforms": ["osx", "osx-x64"],
 					"tags": true
@@ -729,11 +711,11 @@
 			]
 		},
 		{
-			"name" : "Test Runner",
+			"name": "Test Runner",
 			"author": "André Cerqueira",
-			"details" : "https://github.com/accerqueira/sublime-test-runner",
-			"labels" : ["testing"],
-			"releases" : [
+			"details": "https://github.com/accerqueira/sublime-test-runner",
+			"labels": ["testing"],
+			"releases": [
 				{
 					"tags": true
 				}
@@ -794,12 +776,7 @@
 			"name": "TestManager",
 			"details": "https://github.com/cschreib/sublime-TestManager",
 			"author": "cshreib (Corentin Schreiber)",
-			"labels": [
-				"testing",
-				"c++",
-				"python",
-				"rust"
-			],
+			"labels": ["testing", "c++", "python", "rust"],
 			"releases": [
 				{
 					"tags": true
@@ -2017,7 +1994,7 @@
 		{
 			"name": "Themosis Framework Snippets",
 			"details": "https://github.com/wmarquardt/themosis-framework-snippets",
-			"author" : "William Marquardt",
+			"author": "William Marquardt",
 			"labels": ["snippets"],
 			"releases": [
 				{
@@ -2141,11 +2118,7 @@
 		{
 			"name": "Timestamp converter",
 			"details": "https://github.com/Zlitus/sublime-text-timestamp",
-			"labels": [
-				"utilities",
-				"productivity",
-				"text manipulation"
-			],
+			"labels": ["utilities", "productivity", "text manipulation"],
 			"releases": [
 				{
 					"tags": true
@@ -2176,15 +2149,7 @@
 			"name": "Tint Terminal",
 			"details": "https://github.com/joshgoebel/sublime-tint-terminal",
 			"author": "Josh Goebel",
-			"labels": [
-				"terminal",
-				"shell",
-				"bash",
-				"zsh",
-				"utilities",
-				"console",
-				"command line"
-			],
+			"labels": ["terminal", "shell", "bash", "zsh", "utilities", "console", "command line"],
 			"releases": [
 				{
 					"platforms": ["osx", "linux"],
@@ -2953,13 +2918,7 @@
 		{
 			"name": "TreeSitter",
 			"details": "https://github.com/sublime-treesitter/TreeSitter",
-			"labels": [
-				"tree-sitter",
-				"navigation",
-				"selection",
-				"symbols",
-				"parsers"
-			],
+			"labels": ["tree-sitter", "navigation", "selection", "symbols", "parsers"],
 			"author": "kylebebak",
 			"releases": [
 				{
@@ -3208,7 +3167,7 @@
 			"name": "TwilightBright",
 			"details": "https://github.com/sepisoad/sublime-twilight-bright-color",
 			"author": "Sepehr Aryani",
-			"labels": [ "color scheme", "light", "twilight"],
+			"labels": ["color scheme", "light", "twilight"],
 			"releases": [
 				{
 					"tags": true

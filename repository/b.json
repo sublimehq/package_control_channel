@@ -628,8 +628,7 @@
 			"name": "BetterSwitchHeaderImplementation",
 			"details": "https://github.com/rwols/BetterSwitchHeaderImplementation",
 			"labels": ["utilities", "file open", "code navigation", "c", "c++", "objective-c", "objective-c++"],
-			"releases":
-			[
+			"releases": [
 				{
 					"tags": true
 				}
@@ -766,7 +765,7 @@
 			"name": "bioSyntax",
 			"details": "https://github.com/bioSyntax/bioSyntax-sublime",
 			"homepage": "https://bioSyntax.org",
-			"labels": [ "science", "bioinformatics", "biology", "language syntax" ],
+			"labels": ["science", "bioinformatics", "biology", "language syntax"],
 			"releases": [
 				{
 					"tags": true
@@ -854,7 +853,7 @@
 		{
 			"name": "Blast Dark",
 			"details": "https://github.com/isferhossain/blast-dark",
-			"author": ["isferhossain","HitBlast"],
+			"author": ["isferhossain", "HitBlast"],
 			"labels": ["color scheme"],
 			"releases": [
 				{
@@ -1151,9 +1150,20 @@
 		{
 			"name": "BowerInjector",
 			"details": "https://github.com/ismnoiet/BowerInjector",
-			"labels": ["bower injector","bower","inject","css","js"],
+			"labels": ["bower injector", "bower", "inject", "css", "js"],
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/vwheeler63/BoxDrawing",
+			"labels": ["box", "draw", "drawing", "line", "box drawing", "line drawing"],
+			"donate": "https://buymeacoffee.com/vwheeler63",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -1470,6 +1480,16 @@
 		{
 			"name": "BuildX",
 			"details": "https://github.com/cj1128/sublime-buildx",
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Bulk Renamer",
+			"details": "https://github.com/guille/sublime-bulk-renamer",
+			"labels": ["utilities"],
 			"releases": [
 				{
 					"tags": true

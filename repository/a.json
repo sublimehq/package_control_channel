@@ -270,7 +270,7 @@
 			"name": "Add Folder To Project",
 			"author": "Denny Korsukéwitz",
 			"details": "https://github.com/dennykorsukewitz/Sublime-AddFolderToProject",
-			"labels": ["workflow", "helper", "add", "folder", "project" ],
+			"labels": ["workflow", "helper", "add", "folder", "project"],
 			"releases": [
 				{
 					"tags": true
@@ -328,7 +328,7 @@
 			]
 		},
 		{
-			"name" : "ADOdb library snippets for PHP",
+			"name": "ADOdb library snippets for PHP",
 			"details": "https://github.com/madhs/ADOdb_snippets",
 			"labels": ["snippets", "php", "adodb", "database"],
 			"releases": [
@@ -394,7 +394,8 @@
 				{
 					"sublime_text": ">=4000",
 					"tags": true
-				},{
+				},
+				{
 					"sublime_text": "<4000",
 					"tags": "st3-"
 				}
@@ -493,10 +494,21 @@
 			"description": "Auto code completion using Gemini API",
 			"author": "Chinmay Agarwal",
 			"details": "https://gitlab.com/chinag32/AiComplete",
-			"labels": ["completions", "auto-complete","gemini","ai"],
+			"labels": ["completions", "auto-complete", "gemini", "ai"],
 			"releases": [
 				{
 					"sublime_text": ">=4143",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "AL",
+			"details": "https://github.com/SShadowS/sublime-al",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -1146,9 +1158,7 @@
 		{
 			"name": "AnyTest",
 			"details": "https://github.com/timfjord/AnyTest",
-			"labels": [
-				"behave", "cucumber", "delve", "django", "elixir", "espec", "exunit", "ginkgo", "go", "java", "javascript", "jest", "junit", "m", "mamba", "minitest", "mocha", "nose", "nose2", "pytest", "python", "pyunit", "rails", "rspec", "ruby", "rust", "swift", "test_bench", "testing", "vitest", "xctest", "zig"
-			],
+			"labels": ["behave", "cucumber", "delve", "django", "elixir", "espec", "exunit", "ginkgo", "go", "java", "javascript", "jest", "junit", "m", "mamba", "minitest", "mocha", "nose", "nose2", "pytest", "python", "pyunit", "rails", "rspec", "ruby", "rust", "swift", "test_bench", "testing", "vitest", "xctest", "zig"],
 			"releases": [
 				{
 					"tags": true

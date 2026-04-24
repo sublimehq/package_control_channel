@@ -378,6 +378,16 @@
 			]
 		},
 		{
+			"name": "Mar",
+			"details": "https://github.com/marlanghq/mar-sublime",
+			"labels": ["language syntax", "completions"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marc Mentat Proc Highlighting",
 			"details": "https://github.com/WesleyPeijnenburg/Marc_Syntax_Support",
 			"labels": ["language syntax"],
@@ -658,6 +668,7 @@
 			"donate": "https://buymeacoffee.com/vwheeler63",
 			"releases": [
 				{
+					"sublime_text": ">=4050",
 					"tags": true
 				}
 			]
@@ -1044,6 +1055,17 @@
 			]
 		},
 		{
+			"name": "MCPServer",
+			"details": "https://github.com/benyue1978/sublime-mcp",
+			"labels": ["mcp", "ai", "productivity"],
+			"releases": [
+				{
+					"sublime_text": ">=4171",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MCS_Syntax",
 			"details": "https://github.com/bmpenuelas/MCS_Syntax",
 			"labels": ["language syntax", "mcs", "xilinx", "fpga"],
@@ -1056,7 +1078,7 @@
 		{
 			"name": "MDL Language",
 			"details": "https://github.com/ardenpm/sublime-mdl-language",
-			"labels" : ["language syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"tags": true
@@ -1214,15 +1236,7 @@
 			"details": "https://github.com/chinchin96/SublimeText-Merge-Windows",
 			"author": "Chinedu Ezeamuzie",
 			"donate": "https://paypal.me/chinchin96",
-			"labels": [
-				"merge windows",
-				"merge tabs",
-				"group tabs",
-				"join windows",
-				"consolidate windows",
-				"tab management",
-				"manage tabs"
-			],
+			"labels": ["merge windows", "merge tabs", "group tabs", "join windows", "consolidate windows", "tab management", "manage tabs"],
 			"releases": [
 				{
 					"tags": true
@@ -2561,13 +2575,7 @@
 		{
 			"name": "MypyReveal",
 			"details": "https://github.com/fortana-co/sublime-mypy-reveal",
-			"labels": [
-				"linting",
-				"mypy",
-				"check",
-				"python",
-				"type"
-			],
+			"labels": ["linting", "mypy", "check", "python", "type"],
 			"author": "kylebebak",
 			"releases": [
 				{

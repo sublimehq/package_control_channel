@@ -478,7 +478,7 @@
 		{
 			"name": "File Filter",
 			"details": "https://github.com/vsc-cnst/SublimeTextFileFilter",
-			"labels": [ "search", "logs", "utilities", "code navigation" ],
+			"labels": ["search", "logs", "utilities", "code navigation"],
 			"releases": [
 				{
 					"sublime_text": ">4000",
@@ -1431,7 +1431,7 @@
 			"name": "Formatter",
 			"details": "https://github.com/bitst0rm-pub/Formatter",
 			"author": "bitst0rm",
-			"labels": ["formatting", "minify", "prettify", "css", "scss", "sass", "less", "html", "xml", "javascript", "json", "markdown", "perl", "php", "python", "ruby", "bash", "c", "c++", "c#", "d", "objc", "java"],
+			"labels": ["formatting", "minify", "prettify"],
 			"releases": [
 				{
 					"tags": true

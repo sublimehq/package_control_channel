@@ -116,6 +116,7 @@
 		{
 			"name": "Umbral",
 			"details": "https://github.com/hersac/umbral-sublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",
@@ -178,7 +179,7 @@
 			"name": "Undo Close Tab",
 			"details": "https://github.com/scriptburn/sublimetext-undoclosetabs",
 			"author": "Rajneesh kumar ojha",
-			"labels": ["undo","tab"],
+			"labels": ["undo", "tab"],
 			"releases": [
 				{
 					"tags": true

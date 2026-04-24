@@ -161,14 +161,7 @@
 		{
 			"name": "October Twig Highlighter",
 			"details": "https://github.com/daftspunk/october-twig",
-			"labels": [
-				"php",
-				"octobercms",
-				"october",
-				"cms",
-				"twig",
-				"language syntax"
-			],
+			"labels": ["php", "octobercms", "october", "cms", "twig", "language syntax"],
 			"releases": [
 				{
 					"tags": true
@@ -614,12 +607,7 @@
 		{
 			"name": "Open With",
 			"details": "https://github.com/j-martin/open-with-sublime",
-			"labels": [
-				"file management",
-				"open files",
-				"external editor",
-				"power user"
-			],
+			"labels": ["file management", "open files", "external editor", "power user"],
 			"releases": [
 				{
 					"platforms": ["osx"],
@@ -681,12 +669,7 @@
 		{
 			"name": "OpenContextPath",
 			"details": "https://github.com/mheinzler/OpenContextPath",
-			"labels": [
-				"file navigation",
-				"open files",
-				"open paths",
-				"context menu"
-			],
+			"labels": ["file navigation", "open files", "open paths", "context menu"],
 			"releases": [
 				{
 					"tags": true
@@ -768,13 +751,7 @@
 		{
 			"name": "OpenInBrowser",
 			"details": "https://bitbucket.org/bteryek/openinbrowser",
-			"labels": [
-				"browser",
-				"open in browser",
-				"refresh",
-				"preview",
-				"browser preview"
-			],
+			"labels": ["browser", "open in browser", "refresh", "preview", "browser preview"],
 			"releases": [
 				{
 					"tags": true
@@ -824,15 +801,7 @@
 		{
 			"name": "OpenSees",
 			"details": "https://github.com/bzarco/Sublime-OpenSees",
-			"labels": [
-				"auto-complete",
-				"build system",
-				"language syntax",
-				"structures",
-				"finite element",
-				"earthquake",
-				"engineering"
-			],
+			"labels": ["auto-complete", "build system", "language syntax", "structures", "finite element", "earthquake", "engineering"],
 			"releases": [
 				{
 					"tags": true

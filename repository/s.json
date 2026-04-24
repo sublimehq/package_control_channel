@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "SAMB",
-			"description" : "SAMB (server assembly framework) syntax and snippets",
+			"description": "SAMB (server assembly framework) syntax and snippets",
 			"details": "https://github.com/cheikhshift/samb-sublime",
 			"labels": ["language syntax", "snippets"],
 			"releases": [
@@ -166,7 +166,7 @@
 		},
 		{
 			"name": "SAS Syntax and Theme",
-			"description": "A Sublime Text 3 package for SAS syntax highlighting and the corresponding SAS Theme" ,
+			"description": "A Sublime Text 3 package for SAS syntax highlighting and the corresponding SAS Theme",
 			"details": "https://github.com/77QingLiu/SAS-Syntax-and-Theme",
 			"author": ["Qing"],
 			"labels": ["build system", "color scheme", "language syntax", "snippets"],
@@ -253,7 +253,7 @@
 			"details": "https://github.com/sjiangDA/SasSubmit",
 			"releases": [
 				{
-					"platforms": ["windows","osx"],
+					"platforms": ["windows", "osx"],
 					"tags": true
 				}
 			]
@@ -678,6 +678,17 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Search All Windows",
+			"details": "https://github.com/nathanshipley/SublimeSearchAllWindows",
+			"labels": ["search"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
 					"tags": true
 				}
 			]
@@ -1108,7 +1119,7 @@
 		{
 			"name": "SEWL",
 			"details": "https://github.com/SpotonNet/sublime-sewl",
-			"labels" : ["language syntax", "snippets"],
+			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
 					"tags": true
@@ -1570,6 +1581,16 @@
 			"author": "Adelyte Company (Taylor Zane Glaeser)",
 			"details": "https://github.com/adelyte/simpl-plus-syntax-highlight",
 			"labels": ["language syntax", "crestron", "simpl", "simpl plus", "splus"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Simplates",
+			"details": "https://github.com/AspenWeb/sublime-simplates",
+			"labels": ["language syntax", "aspen", "simplates", "python simplate"],
 			"releases": [
 				{
 					"tags": true
@@ -2388,7 +2409,7 @@
 			"description": "A collection of 90+ LaTeX snippets",
 			"details": "https://github.com/CharbelAD/SnipTeX",
 			"labels": ["snippets", "latex"],
-			"releases" :[
+			"releases": [
 				{
 					"tags": true
 				}
@@ -3296,8 +3317,7 @@
 			"name": "Startup Files",
 			"details": "https://github.com/voltavidTony/Startup-Files",
 			"labels": ["file", "open", "startup"],
-			"releases":
-			[
+			"releases": [
 				{
 					"tags": true
 				}
@@ -3535,7 +3555,7 @@
 		{
 			"name": "StrapdownJS Boilerplate",
 			"details": "https://github.com/sonokamome/StrapdownJS-Boilerplate",
-			"labels" : ["snippets", "boilerplate", "markdown", "strapdownjs"],
+			"labels": ["snippets", "boilerplate", "markdown", "strapdownjs"],
 			"releases": [
 				{
 					"tags": true
@@ -4567,20 +4587,7 @@
 		{
 			"name": "Suricate",
 			"details": "https://github.com/nsubiron/SublimeSuricate",
-			"labels": [
-				"commands",
-				"diff",
-				"duckduckgo",
-				"file navigation",
-				"git",
-				"google",
-				"search",
-				"surround scm",
-				"svn",
-				"tooltips",
-				"utilities",
-				"vcs"
-			],
+			"labels": ["commands", "diff", "duckduckgo", "file navigation", "git", "google", "search", "surround scm", "svn", "tooltips", "utilities", "vcs"],
 			"releases": [
 				{
 					"tags": true

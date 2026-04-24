@@ -130,9 +130,28 @@ jobs:
             --body-file ./pr_body.md
 
       - name: Update reported URL list for cache
-        if: steps.cadence.outputs.run_report == 'true' && steps.report.outputs.has_results == 'true'
+        if: steps.cadence.outputs.run_report == 'true'
         run: |
+          # Append URLs from this run (name\0details\0timestamp records).
           awk -v RS='\n' -v FS='\0' 'NF >= 2 && $2 != "" { print $2 }' \
             ./reported_records.txt >> ./reported_urls.txt
+
+          # Keep only URLs still present in workspace.json.
+          if [ ! -f ./workspace.json ]; then
+            echo "::error::workspace.json missing; cannot prune reported URLs."
+            exit 1
+          fi
+
+          tmp_file="$(mktemp)"
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            if grep -Fq "\"$url\"" ./workspace.json; then
+              echo "$url" >> "$tmp_file"
+            fi
+          done < ./reported_urls.txt
+
+          sort -u "$tmp_file" > ./reported_urls.txt
+          rm -f "$tmp_file"
+
           echo "Reported URLs:"
           cat ./reported_urls.txt

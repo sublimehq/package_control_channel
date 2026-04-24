@@ -480,12 +480,12 @@
 		},
 		{
 			"name": "Kotlin",
-			"details": "https://github.com/vkostyukov/kotlin-sublime-package",
+			"details": "https://github.com/guille/sublime-kotlin",
 			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

@@ -236,7 +236,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"branch": "main"
+					"tags": true
 				}
 			]
 		},

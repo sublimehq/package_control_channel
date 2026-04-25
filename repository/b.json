@@ -625,6 +625,17 @@
 			]
 		},
 		{
+			"name": "Better Go To File",
+			"details": "https://github.com/Suor/GoToFile",
+			"labels": ["file open", "code navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Better JavaScript",
 			"details": "https://github.com/int3h/sublime-better-javascript",
 			"labels": ["language syntax"],

@@ -14,6 +14,7 @@
 		{
 			"name": "YAML Nav",
 			"details": "https://github.com/ddiachkov/sublime-yaml-nav",
+			"labels": ["language syntax", "yaml"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -23,8 +24,8 @@
 		},
 		{
 			"name": "YAMLMacros",
-			"previous_names": ["YAML Macros"],
 			"details": "https://github.com/Thom1729/YAML-Macros",
+			"labels": ["language syntax", "yaml"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -35,7 +36,7 @@
 		{
 			"name": "YamlToJson",
 			"details": "https://github.com/dannysummerlin/YamlToJson",
-			"labels": ["convert","converter","yaml","json"],
+			"labels": ["convert", "converter", "yaml", "json"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -47,7 +48,6 @@
 			"name": "YandexTranslate",
 			"details": "https://github.com/pafnuty/sublime-yandex-translate",
 			"labels": ["translate", "yandex"],
-			"previous_names": ["Yandex Translate"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -80,8 +80,7 @@
 		{
 			"name": "Yara Rule Syntax",
 			"details": "https://github.com/nyx0/YaraSyntax",
-			"labels": ["Yara", "syntax", "snippets"],
-			"previous_names": ["Yara Rule"],
+			"labels": ["language syntax", "snippets", "yara"],
 			"releases": [
 				{
 					"sublime_text": ">=3084",
@@ -112,7 +111,7 @@
 		{
 			"name": "yasi-indenter",
 			"details": "https://github.com/nkmathew/sublime-yasi",
-			"labels": ["lisp", "format", "indent", "formatting"],
+			"labels": ["formatting", "indentation", "lisp"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -123,7 +122,7 @@
 		{
 			"name": "YASMJinja2",
 			"details": "https://github.com/m-messiah/yasm-jinja2",
-			"labels": ["yasm", "jinja2", "yandex", "formatting", "syntax"],
+			"labels": ["formatting", "language syntax", "yasm", "jinja2", "yandex"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -134,6 +133,7 @@
 		{
 			"name": "Yate",
 			"details": "https://github.com/mctep/yate-textmate",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -155,7 +155,7 @@
 		{
 			"name": "Yet Another Launcher",
 			"details": "https://github.com/dahanbn/Yet-Another-Launcher",
-			"labels": ["utilities", "file open", "utils", "productivity"],
+			"labels": ["utilities", "file open", "productivity"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -176,7 +176,6 @@
 		},
 		{
 			"name": "Yii Framework 1.1 Snippets",
-			"previous_names": ["Yii Framework Snippets"],
 			"details": "https://github.com/david-soyez/sublime-yii-snippets",
 			"labels": ["snippets"],
 			"releases": [
@@ -220,23 +219,9 @@
 			]
 		},
 		{
-			"name": "Yollama",
-			"details": "https://gitlab.com/mwwaa/yollama",
-			"labels": ["ai", "assistant"],
-			"author": "mwa",
-			"homepage": "https://maxime.walzberg.fr/articles/yollama",
-			"releases": [
-				{
-					"sublime_text": ">=4107",
-					"platforms": ["osx", "linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Yosys",
 			"details": "https://github.com/YosysHQ/Sublime-Yosys",
-			"labels": ["syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -251,6 +236,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ytt",
+			"details": "https://github.com/Vasfed/sublime_ytt",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

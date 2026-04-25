@@ -2,6 +2,17 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"name": "Nabla Theme",
+			"details": "https://github.com/aelmoghit/Nabla-Theme",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4143",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Nakama Autocomplete",
 			"details": "https://github.com/Superxwolf/Nakama-Sublime",
 			"labels": ["auto-complete"],
@@ -25,7 +36,6 @@
 		{
 			"name": "NamedMark",
 			"details": "https://github.com/shagabutdinov/sublime-named-mark",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -48,7 +58,7 @@
 		{
 			"name": "Nano RC Syntax",
 			"details": "https://github.com/gerph/sublimetext-nanorc-syntax",
-			"labels": ["syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -70,7 +80,7 @@
 		{
 			"name": "Naomi",
 			"details": "https://github.com/borela/naomi",
-			"labels": ["enhanced", "syntax", "highlight"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -81,7 +91,7 @@
 		{
 			"name": "naomi-syntax",
 			"details": "https://github.com/foisonocean/naomi-syntax",
-			"labels": ["syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -92,6 +102,7 @@
 		{
 			"name": "Nasl",
 			"details": "https://github.com/mr6r4y/Nasl",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -102,7 +113,7 @@
 		{
 			"name": "NASM x86 Assembly",
 			"details": "https://github.com/Nessphoro/sublimeassembly",
-			"labels": ["language syntax", "auto-complete"],
+			"labels": ["auto-complete", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -125,7 +136,7 @@
 		{
 			"name": "NativeScript Core XML Syntax",
 			"details": "https://github.com/CatchABus/sublime-nativescript-xml-syntax",
-			"labels": ["nativescript", "syntax", "highlight"],
+			"labels": ["nativescript", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -185,6 +196,7 @@
 		{
 			"name": "NCL",
 			"details": "https://github.com/dongli/sublime-ncl",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -206,7 +218,7 @@
 		{
 			"name": "NegateSentence",
 			"details": "https://github.com/Bajena/SublimeNegateSentence",
-			"labels": ["testing", "natural language tools", "text manipulation"],
+			"labels": ["testing", "text manipulation", "natural language tools"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -217,7 +229,7 @@
 		{
 			"name": "Neka Theme",
 			"details": "https://github.com/dempfi/neka-sublime",
-			"labels": ["theme", "color scheme"],
+			"labels": ["color scheme", "theme"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -228,7 +240,7 @@
 		{
 			"name": "neko nml syntax",
 			"details": "https://github.com/R32/sublime-nekoml",
-			"labels": ["nekoml", "language syntax", "snippets", "completions"],
+			"labels": ["completions", "language syntax", "snippets", "nekoml"],
 			"releases": [
 				{
 					"sublime_text": ">=3103",
@@ -239,7 +251,7 @@
 		{
 			"name": "Nelua",
 			"details": "https://github.com/edubart/nelua-sublime",
-			"labels": ["nelua", "language syntax"],
+			"labels": ["language syntax", "nelua"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -250,6 +262,7 @@
 		{
 			"name": "Nemerle",
 			"details": "https://github.com/xeno-by/sublime-nemerle",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -269,10 +282,21 @@
 			]
 		},
 		{
+			"name": "NeoCodeMap",
+			"details": "https://github.com/klmp200/NeoCodeMap",
+			"labels": ["workflow", "code navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Neon Intrinsics",
 			"details": "https://github.com/ilya-lavrenov/sublime-neon",
 			"author": "Ilya Lavrenov",
-			"labels": ["snippets", "completions"],
+			"labels": ["completions", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -358,7 +382,6 @@
 		},
 		{
 			"name": "NeoVintageousToggle",
-			"previous_names": ["ToggleNeoVintageous"],
 			"details": "https://github.com/NeoVintageous/NeoVintageousToggle",
 			"labels": ["vim", "neovintageous", "vintageous", "vintage"],
 			"releases": [
@@ -371,6 +394,7 @@
 		{
 			"name": "NESASM",
 			"details": "https://github.com/klaussilveira/SublimeNESASM",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -381,8 +405,7 @@
 		{
 			"name": "NestedSnippet",
 			"details": "https://github.com/shagabutdinov/sublime-nested-snippet",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
-			"labels": ["sublime-enhanced", "snippets"],
+			"labels": ["snippets", "sublime-enhanced"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -391,10 +414,20 @@
 			]
 		},
 		{
+			"name": "NestedText",
+			"details": "https://github.com/AndydeCleyre/sublimetext-nestedtext",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "NestingSnippet",
 			"details": "https://github.com/shagabutdinov/sublime-nesting-snippet",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
-			"labels": ["sublime-enhanced", "snippets"],
+			"labels": ["snippets", "sublime-enhanced"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -405,6 +438,7 @@
 		{
 			"name": "NetLinx",
 			"details": "https://github.com/amclain/sublime-netlinx",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -415,6 +449,7 @@
 		{
 			"name": "NetLogo Syntax",
 			"details": "https://github.com/japborst/sublime-netlogo-syntax",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3084",
@@ -435,6 +470,7 @@
 		{
 			"name": "Nette",
 			"details": "https://github.com/Michal-Mikolas/Nette-package-for-Sublime-Text-2",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -445,6 +481,7 @@
 		{
 			"name": "Nette + Latte + Neon",
 			"details": "https://github.com/FilipStryk/Nette-Latte-Neon-for-Sublime-Text-3",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -455,6 +492,7 @@
 		{
 			"name": "Network Tech",
 			"details": "https://github.com/heyglen/network_tech",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -465,7 +503,7 @@
 		{
 			"name": "NetYCE syntax highlighting",
 			"details": "https://github.com/bartdorlandt/netyce_sublime_syntax",
-			"labels": [ "color scheme", "language syntax", "netyce"],
+			"labels": ["color scheme", "language syntax", "netyce"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -476,6 +514,7 @@
 		{
 			"name": "NEURON",
 			"details": "https://github.com/jordan-g/NEURON-for-Sublime-Text",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -497,7 +536,7 @@
 		{
 			"name": "Neverwinter Script syntax and build",
 			"details": "https://github.com/CromFr/STNeverwinterScript",
-			"labels": ["language syntax", "snippets", "completions"],
+			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -541,7 +580,7 @@
 		{
 			"name": "nextflow",
 			"details": "https://github.com/nf-core/sublime",
-			"labels": ["language syntax", "snippets", "completions"],
+			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -552,6 +591,7 @@
 		{
 			"name": "NFO",
 			"details": "https://github.com/liamja/sublime-nfo",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -601,13 +641,12 @@
 			]
 		},
 		{
-			"name": "nginx",
-			"details": "https://github.com/brandonwamboldt/sublime-nginx",
+			"details": "https://github.com/SublimeText/nginx",
 			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -624,16 +663,23 @@
 		},
 		{
 			"name": "Ngx HTML",
-			"previous_names": ["Angular2 HTML Syntax"],
 			"details": "https://github.com/princemaple/ngx-html-syntax",
 			"labels": ["language syntax", "angular"],
 			"releases": [
 				{
-					"sublime_text": "3156 - 4076",
+					"sublime_text": "3156 - 4106",
 					"tags": "st3-"
 				},
 				{
-					"sublime_text": ">=4077",
+					"sublime_text": "4107 - 4151",
+					"tags": "4107-"
+				},
+				{
+					"sublime_text": "4152 - 4179",
+					"tags": "4152-"
+				},
+				{
+					"sublime_text": ">=4180",
 					"tags": true
 				}
 			]
@@ -714,9 +760,20 @@
 			]
 		},
 		{
+			"name": "Nilesoft Shell Script",
+			"details": "https://github.com/abdalmoniem/Nilesoft-Shell-Script",
+			"labels": ["language syntax", "nilesoft shell", "nss"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Nim",
 			"details": "https://github.com/nim-lang/NimLime",
-			"labels": ["nim", "language syntax", "snippets"],
+			"labels": ["language syntax", "snippets", "nim"],
 			"previous_names": ["NimLime", "Nimrod"],
 			"releases": [
 				{
@@ -728,7 +785,7 @@
 		{
 			"name": "NimPlus",
 			"details": "https://github.com/vanyle/NimPlus",
-			"labels": ["nim", "language syntax", "auto-complete", "snippets"],
+			"labels": ["auto-complete", "language syntax", "snippets", "nim"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",
@@ -743,6 +800,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "NinetyFive",
+			"details": "https://github.com/ninetyfive-gg/sublime-plugin",
+			"labels": ["completions", "ai"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -782,9 +850,9 @@
 		},
 		{
 			"name": "Nirum",
-			"details" : "https://github.com/nirum-lang/sublime-nirum",
+			"details": "https://github.com/nirum-lang/sublime-nirum",
 			"labels": ["language syntax", "nirum"],
-			"releases" : [
+			"releases": [
 				{
 					"sublime_text": ">=3084",
 					"tags": true
@@ -793,8 +861,9 @@
 		},
 		{
 			"name": "NitSyntaxHighliter",
-			"details" : "https://github.com/itsWill/NitSyntaxHighlighter",
-			"releases" : [
+			"details": "https://github.com/itsWill/NitSyntaxHighlighter",
+			"labels": ["language syntax"],
+			"releases": [
 				{
 					"sublime_text": "*",
 					"tags": true
@@ -804,6 +873,7 @@
 		{
 			"name": "Nix",
 			"details": "https://github.com/wmertens/sublime-nix",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -825,7 +895,7 @@
 		{
 			"name": "Node Assert Snippets",
 			"details": "https://github.com/jaymorrow/node-assert-snippets",
-			"labels": ["node", "assert", "snippets", "test", "assertions", "unit"],
+			"labels": ["snippets", "testing", "node"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -836,7 +906,7 @@
 		{
 			"name": "Node Completions",
 			"details": "https://github.com/james2doyle/sublime-node-snippets",
-			"labels": ["node", "completions", "snippets"],
+			"labels": ["completions", "snippets", "node"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -857,7 +927,7 @@
 		{
 			"name": "Nodejs",
 			"details": "https://github.com/tanepiper/SublimeText-Nodejs",
-			"labels": ["auto-complete", "snippets", "build system", "npm", "node", "javascript", "commands"],
+			"labels": ["auto-complete", "build system", "snippets", "commands", "javascript", "npm", "node"],
 			"author": ["tanepiper", "varp"],
 			"releases": [
 				{
@@ -1055,10 +1125,21 @@
 			]
 		},
 		{
+			"name": "Notr",
+			"details": "https://github.com/cepthomas/Notr",
+			"labels": ["language syntax", "note", "note taking", "markdown"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"platforms": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Nova Framework Snippets",
 			"details": "https://github.com/nova-framework/Nova-Framework-Snippets",
 			"labels": ["snippets"],
-			"previous_names": ["SMVC-Snippets", "Simple MVC Framework Snippets"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -1069,7 +1150,7 @@
 		{
 			"name": "Nova Template Highlighter",
 			"details": "https://github.com/nova-framework/template-highlighter-sublime-text",
-			"labels": ["nova", "syntax highlighter"],
+			"labels": ["nova", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -1158,20 +1239,15 @@
 			"labels": ["language syntax", "nsis", "build system"],
 			"releases": [
 				{
-					"sublime_text": "<3103",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": ">=3103",
-					"tags": "st3-"
+					"tags": true
 				}
 			]
 		},
 		{
 			"name": "NSIS Completions & Snippets",
 			"details": "https://github.com/idleberg/sublime-nsis",
-			"labels": ["snippets", "auto-complete", "nsis"],
-			"previous_names": ["NSIS Autocomplete and Snippets"],
+			"labels": ["auto-complete", "snippets", "nsis"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1183,7 +1259,6 @@
 			"name": "NSIS for Translators",
 			"details": "https://github.com/idleberg/sublime-nlf",
 			"labels": ["language syntax", "nsis"],
-			"previous_names": ["NSIS Language File Syntax"],
 			"releases": [
 				{
 					"sublime_text": "<3103",
@@ -1199,7 +1274,6 @@
 			"name": "NSIS Plug-in Completions",
 			"details": "https://github.com/idleberg/sublime-nsis-plugins",
 			"labels": ["auto-complete", "nsis"],
-			"previous_names": ["NSIS Autocomplete (Add-ons)"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1210,7 +1284,7 @@
 		{
 			"name": "nsL Assembler",
 			"details": "https://github.com/idleberg/sublime-nsl-assembler",
-			"labels": ["language syntax", "build system", "auto-complete", "snippets", "nsis"],
+			"labels": ["auto-complete", "build system", "language syntax", "snippets", "nsis"],
 			"releases": [
 				{
 					"sublime_text": "<3103",
@@ -1225,7 +1299,7 @@
 		{
 			"name": "NSOA",
 			"details": "https://bitbucket.org/rmorrissey23/sublime-nsoa-user-scripting",
-			"labels": ["language syntax", "snippets", "auto-complete"],
+			"labels": ["auto-complete", "language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1236,7 +1310,7 @@
 		{
 			"name": "NuGet",
 			"details": "https://github.com/idleberg/sublime-nuget",
-			"labels": ["language syntax", "completions", "snippets"],
+			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "<3000",
@@ -1252,7 +1326,7 @@
 			"name": "NukeToolsST",
 			"details": "https://github.com/sisoe24/Nuke-Tools-ST",
 			"author": "virgilsisoe",
-			"labels": ["nuke", "thefoundry", "blink", "blinkscript", "python" ],
+			"labels": ["nuke", "thefoundry", "blink", "blinkscript", "python"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1306,11 +1380,14 @@
 		{
 			"name": "Nunjucks",
 			"details": "https://github.com/alsolovyev/Nunjucks",
-			"labels": ["nunjucks", "language syntax", "snippets"],
-			"previous_names": ["Nunjucks Syntax"],
+			"labels": ["language syntax", "snippets", "nunjucks"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
+					"sublime_text": "<=4180",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4186",
 					"tags": true
 				}
 			]

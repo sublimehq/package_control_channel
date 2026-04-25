@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-# Python 3.4+
+
+"""
+This script can be used to detect redirects in package detail URLs.
+A redirect typically means a package repository has changed hands.
+
+Note that it requires requests: https://pypi.org/project/requests/
+"""
 
 import datetime
 import json

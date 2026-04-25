@@ -59,7 +59,6 @@
 			"name": "3D Tool (Async Burst-Mode)",
 			"details": "https://github.com/leoheck/sublime-3d-tool/",
 			"labels": ["3d-tool", "burst-mode", "async"],
-			"previous_names": ["3D Tool Syntax Hilight"],
 			"releases": [
 				{
 					"sublime_text": "*",

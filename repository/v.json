@@ -25,7 +25,7 @@
 		{
 			"name": "Vala-TMBundle",
 			"details": "https://github.com/technosophos/Vala-TMBundle",
-			"labels": ["language syntax", "Vala"],
+			"labels": ["language syntax", "vala"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -47,7 +47,7 @@
 		{
 			"name": "Valgrind",
 			"details": "https://github.com/oliverseal/sublime-text-valgrind",
-			"labels": ["language syntax", "valgrind", "c", "c++", "cpp"],
+			"labels": ["language syntax", "c", "c++", "valgrind"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -100,7 +100,7 @@
 		{
 			"name": "Varicolor",
 			"details": "https://github.com/evan-erdos/varicolor",
-			"labels": ["highlighting","tmLanguage","sublime-syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3084",
@@ -120,17 +120,6 @@
 			]
 		},
 		{
-			"name": "Varnish VCL",
-			"details": "https://github.com/brandonwamboldt/sublime-varnish",
-			"labels": ["vcl", "varnish", "language", "syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "VarScoper",
 			"details": "https://github.com/rcastagno/sublime_varscoper",
 			"releases": [
@@ -143,6 +132,7 @@
 		{
 			"name": "Vash",
 			"details": "https://github.com/theoperatore/VashSyntaxDefinition",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -163,6 +153,7 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/VBScript",
+			"labels": ["language syntax", "vb", "visual basic"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -193,22 +184,23 @@
 			]
 		},
 		{
-			"name": "VDP Logs",
-			"details": "https://github.com/narendrans/sublime-vdp-logs",
-			"labels": ["syntax","vdp","denodo"],
+			"name": "Veeam Logs Helper",
+			"details": "https://github.com/yandexx/VeeamLogsHelper",
+			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=3124",
 					"tags": true
 				}
 			]
 		},
 		{
-			"name": "Veeam Logs Helper",
-			"details": "https://github.com/yandexx/VeeamLogsHelper",
+			"name": "Vento",
+			"details": "https://github.com/ventojs/sublime-vento",
+			"labels": ["vento", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=3124",
+					"sublime_text": ">=3126",
 					"tags": true
 				}
 			]
@@ -224,8 +216,30 @@
 			]
 		},
 		{
+			"name": "Vercel Snippets",
+			"details": "https://github.com/renzojohnson/Vercel-Snippets",
+			"labels": ["snippets", "vercel", "nextjs", "serverless", "edge"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "VeribleFormatterVerilog",
+			"details": "https://github.com/sxr1223/VeribleFormatterVerilog",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Verilog",
 			"details": "https://github.com/pro711/sublime-verilog",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -278,6 +292,7 @@
 		},
 		{
 			"details": "https://github.com/mhilborn/VGR-Assistant",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -299,7 +314,7 @@
 		{
 			"name": "VHDL Mode",
 			"details": "https://github.com/Remillard/VHDL-Mode",
-			"labels": ["language syntax", "snippets", "VHDL"],
+			"labels": ["language syntax", "snippets", "vhdl"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -308,10 +323,20 @@
 			]
 		},
 		{
+			"name": "VHS",
+			"details": "https://github.com/patopesto/Sublime-Text-VHS-Syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "View Bookmarks",
 			"details": "https://github.com/adam-zethraeus/SublimeViewBookmarks",
 			"labels": ["bookmarks", "file navigation"],
-			"previous_names": ["LsBookmarks"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -363,7 +388,7 @@
 			"name": "VimL",
 			"details": "https://github.com/SalGnt/Sublime-VimL",
 			"author": "Salvatore Gentile",
-			"labels": ["language", "syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -375,7 +400,7 @@
 			"name": "VimModelines",
 			"details": "https://github.com/pestilence669/VimModelines",
 			"author": "Paul Chandler",
-			"labels": ["vim", "indentation", "modeline", "formatting"],
+			"labels": ["formatting", "vim", "indentation", "modeline"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -407,7 +432,7 @@
 		{
 			"name": "Vintage Relative Lines",
 			"details": "https://github.com/bicarlsen/vintage_relnums",
-			"labels": [ "vintage", "line numbers" ],
+			"labels": ["vintage", "line numbers"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -508,7 +533,6 @@
 		{
 			"name": "VintageousOrigami",
 			"details": "https://github.com/rodcloutier/Vintageous-Origami",
-			"previous_names": ["Vintageous Origami"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -541,7 +565,7 @@
 			"name": "Virtual Host Snippet",
 			"details": "https://github.com/unknownuser88/virtualhost",
 			"author": "David Bekoyan",
-			"labels": ["snippets", "auto-complete"],
+			"labels": ["auto-complete", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -612,7 +636,7 @@
 			"name": "Visualforce",
 			"details": "https://github.com/brnrc/sublime-visualforce",
 			"author": "Bruno Cardoso",
-			"labels": ["language syntax", "auto-complete"],
+			"labels": ["auto-complete", "language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -710,6 +734,7 @@
 		{
 			"name": "Vray",
 			"details": "https://github.com/Aloiseau/VraySublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -758,20 +783,26 @@
 			]
 		},
 		{
-			"name": "Vue Syntax Highlight",
-			"details": "https://github.com/vuejs/vue-syntax-highlight",
+			"name": "Vue",
+			"details": "https://github.com/SublimeText/Vue",
+			"previous_names": ["Vue Syntax Highlight"],
+			"labels": ["language syntax", "vue", "javascript"],
 			"releases": [
 				{
 					"sublime_text": "<3153",
 					"tags": "oldsyntax-"
 				},
 				{
-					"sublime_text": "3153 - 3999",
+					"sublime_text": "3153 - 4106",
 					"tags": "newsyntax-"
 				},
 				{
-					"sublime_text": ">4000",
-					"tags": "st4-"
+					"sublime_text": "4107 - 4125",
+					"tags": "4107-"
+				},
+				{
+					"sublime_text": ">=4126",
+					"tags": "4126-"
 				}
 			]
 		},
@@ -789,6 +820,7 @@
 		{
 			"name": "Vuejs Complete Package",
 			"details": "https://github.com/BrainBuzzer/vuejs-sublime-complete",
+			"labels": ["language syntax", "vue", "javascript"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -799,6 +831,7 @@
 		{
 			"name": "Vuejs Snippets",
 			"details": "https://github.com/filipelinhares/vuejs-snippets-sublime",
+			"labels": ["snippets", "vue", "javascript"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -809,6 +842,7 @@
 		{
 			"name": "Vuejs Snippets Airbnb",
 			"details": "https://github.com/kavalcante/vuejs-snippets-airbnb-sublime",
+			"labels": ["snippets", "vue", "javascript"],
 			"releases": [
 				{
 					"sublime_text": "*",

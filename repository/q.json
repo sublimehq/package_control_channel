@@ -4,7 +4,7 @@
 		{
 			"name": "q KDB",
 			"details": "https://github.com/komsit37/sublime-q",
-			"labels": ["repl", "language syntax", "completion", "build system", "docs", "q", "kdb"],
+			"labels": ["build system", "completions", "language syntax", "repl", "q", "kdb"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -27,7 +27,7 @@
 		{
 			"name": "QColor",
 			"details": "https://github.com/raphaelquintao/QColor",
-			"labels": ["color", "highlight", "highlighter", "converter", "picker", "hex", "rgb","rgba", "hsla", "hsl"],
+			"labels": ["color", "highlight", "highlighter", "converter", "picker", "hex", "rgb", "rgba", "hsla", "hsl"],
 			"author": "Raphael Quintao",
 			"releases": [
 				{
@@ -60,6 +60,7 @@
 		{
 			"name": "QMakeProject",
 			"details": "https://github.com/nsubiron/sublime-qmakeproject-syntax",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -103,7 +104,7 @@
 		{
 			"name": "Qt Completions for C++",
 			"details": "https://github.com/tushortz/Qt-Completions-for-Cpp",
-			"labels": ["c++","completions", "auto-complete", "completion", "autocomplete", "snippet", "Completion"],
+			"labels": ["auto-complete", "completions", "snippets", "c++"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -114,7 +115,7 @@
 		{
 			"name": "Quake3 Script",
 			"details": "https://github.com/isRyven/Sublime-Text-Q3Script",
-			"labels": ["quake3", "script", "shader", "language syntax", "snippet", "completion"],
+			"labels": ["completions", "language syntax", "snippets", "quake3", "script", "shader"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -190,7 +191,6 @@
 		{
 			"name": "Quick File Move",
 			"details": "https://github.com/wulftone/sublime-text-quick-file-move",
-			"previous_names": ["Quick File Renamer", "QuickFileMove"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -212,15 +212,19 @@
 			"details": "https://github.com/facelessuser/QuickCal",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": "3000 - 4200",
 					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4201",
+					"tags": "st4-"
 				}
 			]
 		},
 		{
 			"name": "QuickEdit",
 			"details": "https://github.com/gamcoh/QuickEdit",
-			"labels": ["Html", "Css", "php", "Quick", "Edition"],
+			"labels": ["html", "css", "php", "quick edition"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -248,6 +252,18 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "QuickLineNavigator",
+			"author": "ChenZhu-Xie",
+			"details": "https://github.com/ChenZhu-Xie/QuickLineNavigator",
+			"labels": ["search", "grep", "highlight"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -292,18 +308,6 @@
 			]
 		},
 		{
-			"name": "QuickPuTTY",
-			"details": "https://github.com/npanuhin/QuickPuTTY",
-			"labels": ["ssh", "putty"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"platforms": ["windows", "linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/danpe/QuickRails",
 			"previous_names": ["Quick Rails"],
 			"releases": [
@@ -316,7 +320,6 @@
 		{
 			"name": "QuickRef Command Lookup",
 			"details": "https://bitbucket.org/rablador/quickref",
-			"previous_names": ["QuickRef"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -335,9 +338,19 @@
 			]
 		},
 		{
+			"name": "QuickRulers",
+			"description": "Easy access to the \"rulers\" setting",
+			"details": "https://github.com/FichteFoll/QuickRulers",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "v"
+				}
+			]
+		},
+		{
 			"name": "QuickSearchEnhanced",
 			"details": "https://github.com/shagabutdinov/sublime-quick-search-enhanced",
-			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
@@ -376,7 +389,7 @@
 		{
 			"name": "QuickTemplate (Go)",
 			"details": "https://github.com/SharanSharathi/sublime_qtpl",
-			"labels": ["template", "go", "qtpl", "syntax", "auto-complete", "build-system"],
+			"labels": ["auto-complete", "build system", "language syntax", "template", "go", "qtpl"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",

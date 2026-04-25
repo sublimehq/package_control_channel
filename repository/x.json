@@ -14,7 +14,7 @@
 		{
 			"name": "X10Language",
 			"details": "https://github.com/ltronky/sublime-x10",
-			"labels": ["syntax"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -24,7 +24,6 @@
 		},
 		{
 			"name": "x86 and x86_64 Assembly",
-			"previous_names": ["X86 and X86_64 assembly"],
 			"details": "https://github.com/13xforever/x86-assembly-textmate-bundle",
 			"labels": ["language syntax"],
 			"releases": [
@@ -37,6 +36,7 @@
 		{
 			"name": "XAML",
 			"details": "https://github.com/maslbl4/sublime-xaml",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -57,7 +57,6 @@
 		},
 		{
 			"name": "Xcode Configuration Settings",
-			"previous_names": ["Xcode Build Configuration", "Xcode Build Configuration and Project Syntax Definitions", "Xcode Project"],
 			"details": "https://github.com/p4t5h3/xcode-build-configuration-language-for-sublime-text",
 			"labels": ["language syntax"],
 			"releases": [
@@ -100,8 +99,20 @@
 			]
 		},
 		{
+			"name": "Xeto",
+			"details": "https://github.com/mgiannini/sublime-xeto",
+			"labels": ["language syntax", "xeto"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "xit!",
 			"details": "https://github.com/jotaen/xit-sublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -132,6 +143,7 @@
 		{
 			"name": "xmake",
 			"details": "https://github.com/xmake-io/xmake-sublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -171,6 +183,15 @@
 			]
 		},
 		{
+			"details": "https://github.com/haloway13/XmlTransformer",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "XMPFilter",
 			"details": "https://github.com/kassi/sublime-text-2-xmpfilter",
 			"releases": [
@@ -205,14 +226,19 @@
 					"tags": "st2-"
 				},
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": "<4050",
 					"tags": "v"
+				},
+				{
+					"sublime_text": ">=4050",
+					"tags": "ST4-v"
 				}
 			]
 		},
 		{
 			"name": "XPX",
 			"details": "https://github.com/infocosme/sublime_xpx",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
@@ -223,6 +249,7 @@
 		{
 			"name": "XQuery",
 			"details": "https://github.com/PogiNate/XQuery-Sublime",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -232,23 +259,21 @@
 		},
 		{
 			"name": "XSL",
-			"details": "https://github.com/packagecontrol/XSL",
-			"labels": ["language syntax"],
+			"details": "https://github.com/SublimeText/XSL",
+			"labels": ["language syntax", "snippets"],
+			"previous_names": ["XSLT Snippets"],
 			"releases": [
 				{
-					"sublime_text": ">3083",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "XSLT Snippets",
-			"details": "https://github.com/hoest/SublimeXSLT",
-			"labels": ["snippets"],
-			"releases": [
+					"sublime_text": "3083 - 4106",
+					"tags": "st3-"
+				},
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": "4107 - 4125",
+					"tags": "4107-"
+				},
+				{
+					"sublime_text": ">=4126",
+					"tags": "4126-"
 				}
 			]
 		},
@@ -276,7 +301,7 @@
 		{
 			"name": "Xtemplate",
 			"details": "https://github.com/noyobo/sublime-xtemplate",
-			"labels": ["snippets", "language syntax"],
+			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -287,6 +312,7 @@
 		{
 			"name": "Xtend",
 			"details": "https://github.com/staltz/SublimeXtend",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",

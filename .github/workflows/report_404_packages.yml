@@ -104,17 +104,7 @@ jobs:
         if: steps.cadence.outputs.run_report == 'true' && steps.report.outputs.has_results == 'true'
         run: |
           report_hash="$(sha256sum ./reported_records.txt | awk '{print substr($1,1,12)}')"
-          branch_name="bot/report-404-${report_hash}"
-
-          if git show-ref --verify --quiet "refs/heads/${branch_name}"; then
-            echo "::error::Branch already exists locally: ${branch_name}"
-            exit 1
-          fi
-
-          if git ls-remote --exit-code --heads origin "${branch_name}" >/dev/null 2>&1; then
-            echo "::error::Branch already exists on origin: ${branch_name}"
-            exit 1
-          fi
+          branch_name="bot/report-404-${report_hash}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT:-1}"
 
           git switch -c "$branch_name"
           git push --set-upstream origin "$branch_name"

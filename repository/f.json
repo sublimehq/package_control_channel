@@ -1207,6 +1207,17 @@
 			]
 		},
 		{
+			"name": "FlexIDE",
+			"details": "https://github.com/rahulsharmagg/FlexIDE",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Flexbox Snippets",
 			"details": "https://github.com/brenopolanski/css-flexbox-sublime-snippets",
 			"labels": ["snippets", "css", "flexbox"],

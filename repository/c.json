@@ -2,6 +2,18 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"name": "C Family Rewrite (C23 and C++23)",
+			"details": "https://github.com/camila314/C-Family-Rewrite",
+			"labels": ["language syntax", "c", "c++", "objc", "objc++", "objective-c"],
+			"description": "Complete modern rewrite of C/C++/ObjC/ObjC++ syntax",
+			"releases": [
+				{
+					"sublime_text": ">=4199",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "C Improved",
 			"details": "https://github.com/abusalimov/SublimeCImproved",
 			"labels": ["language syntax", "c"],

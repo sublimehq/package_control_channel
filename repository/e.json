@@ -690,17 +690,6 @@
 			]
 		},
 		{
-			"name": "Elm Query",
-			"details": "https://github.com/gacallea/elm-query",
-			"labels": ["search", "elm"],
-			"releases": [
-				{
-					"sublime_text": ">=4083",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Elm Snippets",
 			"details": "https://github.com/rudolfb/elm_snippets",
 			"labels": ["snippets", "elm"],

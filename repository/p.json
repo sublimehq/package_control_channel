@@ -2707,17 +2707,6 @@
 			]
 		},
 		{
-			"name": "ProjectEnvironment",
-			"details": "https://bitbucket.org/daniele-niero/sublimeprojectenvironment",
-			"labels": ["environment", "variables", "project"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "ProjectFiles",
 			"details": "https://github.com/shagabutdinov/sublime-project-files",
 			"labels": ["sublime-enhanced", "file navigation"],

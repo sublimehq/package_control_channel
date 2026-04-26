@@ -644,18 +644,6 @@
 			]
 		},
 		{
-			"name": "LazyTimeTracker",
-			"details": "https://github.com/Bwata/LazyTimeTracker",
-			"labels": ["time", "tracking"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"platforms": ["osx", "linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "LBNF",
 			"details": "https://github.com/Centril/sublime-lbnf-syntax",
 			"labels": ["language syntax", "lbnf", "bnf", "bnfc"],
@@ -2017,16 +2005,6 @@
 				{
 					"sublime_text": "*",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "lufylegendDev",
-			"details": "https://github.com/leitwolf/lufylegendDev",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
 				}
 			]
 		},

@@ -685,17 +685,6 @@
 			]
 		},
 		{
-			"name": "NHP Syntax Highlight",
-			"details": "https://github.com/hdodov/nhp-syntax-highlight",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": ">=3092",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Night Owl",
 			"details": "https://github.com/VonHeikemen/night-owl-sublime-scheme",
 			"labels": ["color scheme"],

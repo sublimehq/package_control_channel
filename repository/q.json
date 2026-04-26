@@ -1,5 +1,6 @@
 {
-	"schema_version": "3.0.0",
+	"$schema": "sublime://packagecontrol.io/schemas/repository",
+	"schema_version": "4.0.0",
 	"packages": [
 		{
 			"name": "q KDB",
@@ -7,7 +8,6 @@
 			"labels": ["build system", "completions", "language syntax", "repl", "q", "kdb"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true,
 					"platforms": ["osx-x64", "windows-x64", "linux-x64"]
 				}
@@ -19,7 +19,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3103",
 					"tags": true
 				}
 			]
@@ -31,7 +30,6 @@
 			"author": "Raphael Quintao",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -41,7 +39,6 @@
 			"details": "https://github.com/blueplanet/sublime-qiita",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -52,7 +49,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3084",
 					"tags": true
 				}
 			]
@@ -63,7 +59,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -85,18 +80,6 @@
 			"labels": ["navigation", "files navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "qooxdoo Tools",
-			"details": "https://github.com/danielwagner/qooxdoo-sublime",
-			"labels": ["auto-complete"],
-			"releases": [
-				{
-					"sublime_text": "<3000",
 					"tags": true
 				}
 			]
@@ -107,7 +90,6 @@
 			"labels": ["auto-complete", "completions", "snippets", "c++"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -118,7 +100,6 @@
 			"labels": ["completions", "language syntax", "snippets", "quake3", "script", "shader"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -129,7 +110,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -140,7 +120,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -151,7 +130,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -162,7 +140,6 @@
 			"labels": ["auto-complete"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -173,7 +150,6 @@
 			"labels": ["docs", "search", "command line"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -183,7 +159,6 @@
 			"details": "https://github.com/noklesta/SublimeQuickFileCreator",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -193,7 +168,6 @@
 			"details": "https://github.com/wulftone/sublime-text-quick-file-move",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -203,7 +177,6 @@
 			"details": "https://github.com/gsingh93/sublime-quick-file-open",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -212,7 +185,7 @@
 			"details": "https://github.com/facelessuser/QuickCal",
 			"releases": [
 				{
-					"sublime_text": "3000 - 4200",
+					"sublime_text": "<=4200",
 					"tags": "st3-"
 				},
 				{
@@ -227,9 +200,7 @@
 			"labels": ["html", "css", "php", "quick edition"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"tags": true,
-					"platforms": "*"
+					"tags": true
 				}
 			]
 		},
@@ -240,7 +211,6 @@
 			"labels": ["navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"tags": true
 				}
@@ -251,7 +221,6 @@
 			"details": "https://github.com/litefeel/Sublime-QuickGotoAnything",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -263,7 +232,6 @@
 			"labels": ["search", "grep", "highlight"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -273,7 +241,6 @@
 			"details": "https://bitbucket.org/sigzegv/quicklinks",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -283,7 +250,6 @@
 			"details": "https://github.com/zsytssk/QuickOpen",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -293,27 +259,7 @@
 			"details": "https://github.com/jaytiar/SublimeQuickPanelEnhanced",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
-				}
-			]
-		},
-		{
-			"details": "https://github.com/agibsonsw/QuickPrint",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
-		{
-			"details": "https://github.com/danpe/QuickRails",
-			"previous_names": ["Quick Rails"],
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},
@@ -322,7 +268,6 @@
 			"details": "https://bitbucket.org/rablador/quickref",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "develop"
 				}
 			]
@@ -332,19 +277,16 @@
 			"details": "https://bitbucket.org/JorisL/quickreplaceatcursor",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
 		},
 		{
 			"name": "QuickRulers",
-			"description": "Easy access to the \"rulers\" setting",
 			"details": "https://github.com/FichteFoll/QuickRulers",
 			"releases": [
 				{
-					"sublime_text": "*",
-					"tags": "v"
+					"tags": true
 				}
 			]
 		},
@@ -354,7 +296,6 @@
 			"labels": ["sublime-enhanced", "text navigation"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -366,7 +307,6 @@
 			"labels": ["preferences", "settings"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -377,11 +317,6 @@
 			"labels": ["simplenote", "todo", "php", "html", "quote"],
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
-					"sublime_text": ">=3000",
 					"tags": "st3-"
 				}
 			]
@@ -392,7 +327,6 @@
 			"labels": ["auto-complete", "build system", "language syntax", "template", "go", "qtpl"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -401,7 +335,6 @@
 			"details": "https://github.com/chrislongo/QuickThemes",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -422,7 +355,6 @@
 			"details": "https://github.com/leitwolf/QuickXDev",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -432,7 +364,6 @@
 			"details": "https://github.com/ArmandoMendoza/sublime-quijotipsum",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -442,7 +373,6 @@
 			"details": "https://github.com/maxhoffmann/qunit-snippets",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -454,7 +384,6 @@
 			"labels": ["quote", "workflow", "codemarker", "marker", "markers", "comment", "commentline", "patch", "patcher", "diff", "compare", "helper"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -465,7 +394,6 @@
 			"labels": ["javascript", "js", "php", "html", "quote"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]

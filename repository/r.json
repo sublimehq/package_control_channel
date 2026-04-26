@@ -2484,17 +2484,6 @@
 			]
 		},
 		{
-			"name": "Rune.js Completions",
-			"details": "https://github.com/mphstudios/rune.js-sublime-completions",
-			"labels": ["completions", "snippets", "javascript", "svg"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "RunMacroFileWithContext",
 			"details": "https://github.com/shagabutdinov/sublime-run-macro-file-with-context",
 			"releases": [

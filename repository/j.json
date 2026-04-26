@@ -831,17 +831,6 @@
 			]
 		},
 		{
-			"name": "jQuery Mobile Demos",
-			"details": "https://github.com/maousan/jQueryMobileDemos",
-			"labels": ["jquery mobile"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "jQuery Mobile Snippets",
 			"details": "https://github.com/devtellect/sublime-jquery-mobile-snippets",
 			"labels": ["snippets"],

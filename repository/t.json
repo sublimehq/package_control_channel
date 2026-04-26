@@ -909,17 +909,6 @@
 			]
 		},
 		{
-			"details": "https://github.com/lucatume/testify",
-			"author": "theAverageDev (Luca Tumedei)",
-			"labels": ["test"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "TestManager",
 			"details": "https://github.com/cschreib/sublime-TestManager",
 			"author": "cshreib (Corentin Schreiber)",

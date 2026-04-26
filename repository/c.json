@@ -1095,16 +1095,6 @@
 			]
 		},
 		{
-			"name": "ChromiumTodoView",
-			"details": "https://github.com/dougt/ChromiumTodoView-sublime",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "ChromiumXRefs",
 			"author": "Josh Karlin",
 			"description": "Shows Chromium code cross-references from cs.chromium.org",
@@ -2041,16 +2031,6 @@
 				{
 					"sublime_text": ">=3000",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Code2Docs Documentation Generator (docco)",
-			"details": "https://github.com/tikot/sublime-code2docs",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},

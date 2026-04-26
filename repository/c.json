@@ -3253,6 +3253,17 @@
 			]
 		},
 		{
+			"name": "Commodore64 Color Scheme",
+			"details": "https://github.com/thinkyhead/Commodore64",
+			"labels": ["color scheme", "commodore 64", "c64", "basic"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/TooBug/CompactExpandCss",
 			"releases": [
 				{

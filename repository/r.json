@@ -1162,6 +1162,16 @@
 			]
 		},
 		{
+			"name": "RemoteSync",
+			"details": "https://github.com/NeloGH/RemoteSync",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RemoteTree",
 			"details": "https://github.com/deNULL/RemoteTree",
 			"releases": [

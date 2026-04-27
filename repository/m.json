@@ -2012,6 +2012,17 @@
 			]
 		},
 		{
+			"name": "MLIR TOC",
+			"details": "https://github.com/hockyy/mlir-toc",
+			"labels": ["mlir", "navigation", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Moai Debugger",
 			"details": "https://github.com/DJHoltkamp/Sublime-Moai-Debugger",
 			"releases": [

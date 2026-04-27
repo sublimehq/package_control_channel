@@ -310,10 +310,10 @@ def test_resolve_source_file_path_maps_github_raw_layouts(
 
 def test_collect_channel_package_files_fails_when_source_url_cannot_be_mapped(tmp_path):
     with pytest.raises(SystemExit, match="Failed to map source URL"):
-        script.collect_channel_package_files(
-            ["https://example.com/not/in/checkout/packages.json"],
+        list(script.iter_channel_package_files(
+            "https://example.com/not/in/checkout/packages.json",
             root=tmp_path,
-        )
+        ))
 
 
 def test_collect_channel_package_files_fails_when_include_is_missing(tmp_path):
@@ -329,13 +329,11 @@ def test_collect_channel_package_files_fails_when_include_is_missing(tmp_path):
     )
 
     with pytest.raises(SystemExit, match="is missing"):
-        script.collect_channel_package_files(
-            [
-                "https://raw.githubusercontent.com/wbond/package_control_channel/"
-                "refs/heads/master/repository.json"
-            ],
+        list(script.iter_channel_package_files(
+            "https://raw.githubusercontent.com/wbond/package_control_channel/"
+            "refs/heads/master/repository.json",
             root=tmp_path,
-        )
+        ))
 
 
 def test_collect_channel_package_files_fails_when_include_escapes_repo_root(tmp_path):
@@ -352,13 +350,11 @@ def test_collect_channel_package_files_fails_when_include_escapes_repo_root(tmp_
     (tmp_path.parent / "evil.json").write_text("{}", encoding="utf-8")
 
     with pytest.raises(SystemExit, match="escapes repository root"):
-        script.collect_channel_package_files(
-            [
-                "https://raw.githubusercontent.com/wbond/package_control_channel/"
-                "refs/heads/master/repository.json"
-            ],
+        list(script.iter_channel_package_files(
+            "https://raw.githubusercontent.com/wbond/package_control_channel/"
+            "refs/heads/master/repository.json",
             root=tmp_path,
-        )
+        ))
 
 
 def test_render_commit_message_supports_singular_and_plural():

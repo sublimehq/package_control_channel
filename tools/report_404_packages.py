@@ -382,10 +382,14 @@ def remove_packages_from_repository(
     changed_files: list[Path] = []
     removed_names: set[str] = set()
     unreachable_names = {package.name for package in unreachable_packages}
+    root = repository_root.resolve()
 
-    source_urls = [package.source for package in unreachable_packages]
-    package_files = collect_channel_package_files(source_urls, root=repository_root)
-
+    source_urls = unique(package.source for package in unreachable_packages)
+    package_files = (
+        package_file
+        for source_url in source_urls
+        for package_file in iter_channel_package_files(source_url, root=root)
+    )
     for json_file in package_files:
         payload = json.loads(json_file.read_text(encoding="utf-8"))
         packages = payload.get("packages", [])
@@ -415,56 +419,44 @@ def remove_packages_from_repository(
     return changed_files, removed_names
 
 
-def collect_channel_package_files(
-    source_urls: list[str],
-    *,
-    root: Path,
-) -> list[Path]:
-    files: set[Path] = set()
-    repository_root_absolute = root.resolve()
+def iter_channel_package_files(
+    source_url: str, *, root: Path
+) -> Iterator[Path]:
+    source_file = resolve_source_file_path(source_url, root=root)
+    main_file = (root / source_file).resolve()
+    yield main_file
 
-    for source_url in sorted(set(source_urls), key=str.casefold):
-        source_file = resolve_source_file_path(source_url, root=root)
-        if source_file is None:
+    payload = json.loads(main_file.read_text(encoding="utf-8"))
+    for include_entry in payload.get("includes", []):
+        channel_file = (main_file.parent / include_entry).resolve()
+
+        try:
+            channel_file.relative_to(root)
+        except ValueError as error:
             raise SystemExit(
-                "Failed to map source URL to local file: "
-                f"{source_url}"
+                "Channel file escapes repository root: "
+                f"{channel_file} (source: {source_url})"
+            ) from error
+
+        if not channel_file.is_file():
+            raise SystemExit(
+                "Channel file listed by source/includes is missing: "
+                f"{channel_file} (source: {source_url})"
             )
 
-        main_file = (root / source_file).resolve()
-        files.add(main_file)
-
-        payload = json.loads(main_file.read_text(encoding="utf-8"))
-        for include_entry in payload.get("includes", []):
-            channel_file = (main_file.parent / include_entry).resolve()
-
-            try:
-                channel_file.relative_to(repository_root_absolute)
-            except ValueError as error:
-                raise SystemExit(
-                    "Channel file escapes repository root: "
-                    f"{channel_file} (source: {source_url})"
-                ) from error
-
-            if not channel_file.is_file():
-                raise SystemExit(
-                    "Channel file listed by source/includes is missing: "
-                    f"{channel_file} (source: {source_url})"
-                )
-
-            files.add(channel_file)
-
-    return sorted(files, key=lambda path: str(path).casefold())
+        yield channel_file
 
 
-def resolve_source_file_path(source_url: str, *, root: Path) -> Path | None:
+def resolve_source_file_path(source_url: str, *, root: Path) -> Path:
     """Map a crawler source URL to a channel file path in this checkout."""
 
     for candidate in unique(candidate_source_file_paths(source_url)):
         if (root / candidate).is_file():
             return candidate
 
-    return None
+    raise SystemExit(
+        f"Failed to map source URL to local file: {source_url}"
+    )
 
 
 def candidate_source_file_paths(source_url: str) -> Iterator[Path]:

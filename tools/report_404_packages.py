@@ -8,7 +8,7 @@ from collections.abc import Container
 from dataclasses import dataclass
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
-from typing import Any, Mapping
+from typing import Any, Iterable, Iterator, Mapping
 from urllib.parse import urlparse
 
 from ._channel_json_format import format_channel_json
@@ -458,17 +458,59 @@ def collect_channel_package_files(
 
 
 def resolve_source_file_path(source_url: str, *, root: Path) -> Path | None:
-    parsed = urlparse(source_url)
-    path_parts = [part for part in parsed.path.strip("/").split("/") if part]
-    if not path_parts:
-        return None
+    """Map a crawler source URL to a channel file path in this checkout."""
 
-    for split_index in range(len(path_parts)):
-        candidate = Path(*path_parts[split_index:])
+    for candidate in unique(candidate_source_file_paths(source_url)):
         if (root / candidate).is_file():
             return candidate
 
     return None
+
+
+def candidate_source_file_paths(source_url: str) -> Iterator[Path]:
+    parsed = urlparse(source_url)
+    path_parts = [part for part in parsed.path.strip("/").split("/") if part]
+    if not path_parts:
+        return []
+
+    # Known GitHub URL layout is translated directly first. If that does not
+    # resolve to an existing file, fall back to trying progressively shorter URL
+    # path suffixes. That fallback keeps custom/self-hosted source URLs working
+    # without having to model every possible URL layout.
+
+    if github_raw_path := resolve_github_source_url(parsed.netloc, path_parts):
+        yield github_raw_path
+
+    yield from (
+        Path(*path_parts[split_index:])
+        for split_index in range(len(path_parts))
+    )
+
+
+def resolve_github_source_url(
+    netloc: str,
+    path_parts: list[str],
+) -> Path | None:
+    if netloc != "raw.githubusercontent.com" or len(path_parts) < 4:
+        return None
+
+    if (
+        len(path_parts) >= 6
+        and path_parts[2] == "refs"
+        and path_parts[3] in {"heads", "tags"}
+    ):
+        return Path(*path_parts[5:])
+
+    return Path(*path_parts[3:])
+
+
+def unique(paths: Iterable[Path]) -> Iterator[Path]:
+    seen: set[Path] = set()
+    for path in paths:
+        if path in seen:
+            continue
+        seen.add(path)
+        yield path
 
 
 def ensure_paths_are_clean(paths: list[Path]) -> None:

@@ -262,6 +262,52 @@ def test_resolve_source_file_path_supports_github_raw_and_custom_hosts(
     assert script.resolve_source_file_path(source_url, root=root) == expected
 
 
+def test_resolve_source_file_path_prefers_github_raw_layout(tmp_path):
+    (tmp_path / "repository.json").write_text("{}", encoding="utf-8")
+    fallback_file = (
+        tmp_path
+        / "wbond"
+        / "package_control_channel"
+        / "refs"
+        / "heads"
+        / "master"
+        / "repository.json"
+    )
+    fallback_file.parent.mkdir(parents=True)
+    fallback_file.write_text("{}", encoding="utf-8")
+
+    result = script.resolve_source_file_path(
+        "https://raw.githubusercontent.com/wbond/package_control_channel/"
+        "refs/heads/master/repository.json",
+        root=tmp_path,
+    )
+
+    assert result == Path("repository.json")
+
+
+@pytest.mark.parametrize(
+    ("source_url", "expected"),
+    [
+        (
+            "https://raw.githubusercontent.com/user/repo/main/packages.json",
+            Path("packages.json"),
+        ),
+        (
+            "https://raw.githubusercontent.com/user/repo/refs/tags/v1.0.0/packages.json",
+            Path("packages.json"),
+        ),
+    ],
+)
+def test_resolve_source_file_path_maps_github_raw_layouts(
+    tmp_path,
+    source_url: str,
+    expected: Path,
+):
+    (tmp_path / expected).write_text("{}", encoding="utf-8")
+
+    assert script.resolve_source_file_path(source_url, root=tmp_path) == expected
+
+
 def test_collect_channel_package_files_fails_when_source_url_cannot_be_mapped(tmp_path):
     with pytest.raises(SystemExit, match="Failed to map source URL"):
         script.collect_channel_package_files(

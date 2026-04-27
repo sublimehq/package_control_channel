@@ -196,6 +196,17 @@
 			]
 		},
 		{
+			"name": "SessionTimeMachine",
+			"description": "Session snapshots, rollback, history search, and optional Git sync.",
+			"details": "https://github.com/JCrun/SessionTimeMachine",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Sass",
 			"details": "https://github.com/SublimeText/Sass",
 			"labels": ["completions", "language syntax", "snippets", "scss", "sass"],

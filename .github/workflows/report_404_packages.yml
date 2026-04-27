@@ -1,0 +1,147 @@
+name: Report unreachable packages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "31 7 * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: report-404-packages
+  cancel-in-progress: false
+
+jobs:
+  report_404_packages:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      # Always roll the cache, GitHub will evict it after 7 days of inactivity.
+      - name: Restore reported URLs cache
+        id: reported_urls_cache
+        uses: actions/cache@v5
+        with:
+          path: ./reported_urls.txt
+          key: reported-urls-cache-${{ github.run_id }}
+          restore-keys: |
+            reported-urls-cache-
+
+      - name: Require cache for scheduled runs
+        run: |
+          # cache-hit semantics:
+          #   true  => exact key match
+          #   false => restore-key match
+          #   ""   => true miss (nothing restored)
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ "${{ steps.reported_urls_cache.outputs.cache-hit }}" = "" ]; then
+            echo "::error::No reported_urls cache found. Run workflow_dispatch once to bootstrap."
+            exit 1
+          fi
+
+      - name: Ensure reported_urls.txt exists
+        run: touch ./reported_urls.txt
+
+      - name: Decide run cadence
+        id: cadence
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run_report=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Daily schedule, but only report on first Saturday of the month.
+          if [ "$(date -u +%u)" -eq 6 ] && [ "$(date -u +%d)" -le 7 ]; then
+            echo "run_report=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_report=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Skipping report run: not the first Saturday of the month."
+          fi
+
+      - name: Set up Python
+        if: steps.cadence.outputs.run_report == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Set up uv
+        if: steps.cadence.outputs.run_report == 'true'
+        uses: astral-sh/setup-uv@v5
+
+      - name: Configure git
+        if: steps.cadence.outputs.run_report == 'true'
+        run: |
+          git config user.name "thecrawl bot"
+          git config user.email "noreply@packagecontrol.io"
+
+      - name: Run 404 package report
+        id: report
+        if: steps.cadence.outputs.run_report == 'true'
+        run: |
+          uv run -m tools.report_404_packages \
+            --commit \
+            --build-pr-message \
+            -z \
+            --ignore-file ./reported_urls.txt > ./reported_records.txt
+
+          if [ -s ./reported_records.txt ]; then
+            echo "has_results=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_results=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: No packages to report
+        if: steps.cadence.outputs.run_report == 'true' && steps.report.outputs.has_results != 'true'
+        run: echo "No unreachable packages to report."
+
+      - name: Prepare branch
+        id: branch
+        if: steps.cadence.outputs.run_report == 'true' && steps.report.outputs.has_results == 'true'
+        run: |
+          report_hash="$(sha256sum ./reported_records.txt | awk '{print substr($1,1,12)}')"
+          branch_name="bot/report-404-${report_hash}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT:-1}"
+
+          git switch -c "$branch_name"
+          git push --set-upstream origin "$branch_name"
+          echo "name=$branch_name" >> "$GITHUB_OUTPUT"
+
+      - name: Open pull request
+        if: steps.cadence.outputs.run_report == 'true' && steps.report.outputs.has_results == 'true'
+        run: |
+          gh pr create \
+            --base "${{ github.ref_name }}" \
+            --head "${{ steps.branch.outputs.name }}" \
+            --title "$(cat ./pr_title.txt)" \
+            --body-file ./pr_body.md
+
+      - name: Update reported URL list for cache
+        if: steps.cadence.outputs.run_report == 'true'
+        run: |
+          # Append URLs from this run (name\0details\0timestamp records).
+          awk -v RS='\n' -v FS='\0' 'NF >= 2 && $2 != "" { print $2 }' \
+            ./reported_records.txt >> ./reported_urls.txt
+
+          # Keep only URLs still present in workspace.json.
+          if [ ! -f ./workspace.json ]; then
+            echo "::error::workspace.json missing; cannot prune reported URLs."
+            exit 1
+          fi
+
+          tmp_file="$(mktemp)"
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            if grep -Fq "\"$url\"" ./workspace.json; then
+              echo "$url" >> "$tmp_file"
+            fi
+          done < ./reported_urls.txt
+
+          sort -u "$tmp_file" > ./reported_urls.txt
+          rm -f "$tmp_file"
+
+          echo "Reported URLs:"
+          cat ./reported_urls.txt

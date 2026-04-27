@@ -1297,6 +1297,17 @@
 			]
 		},
 		{
+			"name": "Godot Dialogue Manager",
+			"details": "https://github.com/hobbesjaap/sublime-dialogue-manager",
+			"labels": ["godot", "dialogue", "syntax highlighting"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "GoEscape",
 			"details": "https://bitbucket.org/shellzen/goescape",
 			"labels": ["go"],

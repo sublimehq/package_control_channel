@@ -2577,6 +2577,17 @@
 					"branch": "master"
 				}
 			]
+		},
+		{
+			"name": "Rux",
+			"details": "https://github.com/rux-lang/SublimeText",
+			"labels": ["language syntax", "rux"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
 		}
 	]
 }

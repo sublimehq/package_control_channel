@@ -2,6 +2,8 @@ name: Package test
 
 on:
   pull_request:
+    paths:
+      - 'repository/**'
   issue_comment:
     types: [created]  # run when comment added with "📦"
 
@@ -12,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@59142ae612226bd4b6fd7beed85abd7330798df6
+        uses: kaste/st_package_reviewer/gh_action@57f1ebb3caaca6885ec51c4cf7c605df2415b93d
         with:
           pr: ${{ github.event.pull_request.html_url }}
           file: repository.json
@@ -23,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Diff and review changed/added packages
-        uses: kaste/st_package_reviewer/gh_action@59142ae612226bd4b6fd7beed85abd7330798df6
+        uses: kaste/st_package_reviewer/gh_action@57f1ebb3caaca6885ec51c4cf7c605df2415b93d
         with:
           pr: ${{ github.event.issue.pull_request.html_url }}
           file: repository.json

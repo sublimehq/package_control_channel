@@ -332,14 +332,6 @@
 			]
 		},
 		{
-			"details": "https://github.com/chrislongo/QuickThemes",
-			"releases": [
-				{
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "QuickView",
 			"details": "https://github.com/jwortmann/quick-view",
 			"labels": ["color", "image", "preview"],
@@ -347,15 +339,6 @@
 				{
 					"sublime_text": ">=3170",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "QuickXDev",
-			"details": "https://github.com/leitwolf/QuickXDev",
-			"releases": [
-				{
-					"branch": "master"
 				}
 			]
 		},

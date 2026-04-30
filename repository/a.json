@@ -1196,16 +1196,6 @@
 			]
 		},
 		{
-			"name": "Apache Pig",
-			"details": "https://github.com/chrislongo/Pig",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "APDL (ANSYS) Syntax Highlighting",
 			"details": "https://github.com/RazerM/APDL-Syntax",
 			"labels": ["language syntax"],

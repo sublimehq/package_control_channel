@@ -959,15 +959,6 @@
 			]
 		},
 		{
-			"name": "ChromiumTodoView",
-			"details": "https://github.com/dougt/ChromiumTodoView-sublime",
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "ChromiumXRefs",
 			"author": "Josh Karlin",
 			"description": "Shows Chromium code cross-references from cs.chromium.org",

@@ -1249,16 +1249,6 @@
 			]
 		},
 		{
-			"name": "Fold ABL",
-			"details": "https://github.com/RudnikovPaul/FoldABL",
-			"releases": [
-				{
-					"platforms": ["windows", "osx"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Fold Comments",
 			"details": "https://github.com/oskarols/foldcomments",
 			"labels": ["formatting"],

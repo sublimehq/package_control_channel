@@ -54,16 +54,6 @@
 			]
 		},
 		{
-			"name": "KarmaRunner",
-			"details": "https://github.com/knee-cola/KarmaRunner",
-			"labels": ["karma", "jasmine"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Kattis",
 			"details": "https://github.com/matys18/sublime_kattis",
 			"releases": [

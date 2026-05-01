@@ -2567,17 +2567,7 @@
 					"tags": true
 				}
 			]
-		},
-		{
-			"name": "RVM",
-			"details": "https://github.com/jinze/sublime-rvm",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
+		},		
 		{
 			"name": "Rux",
 			"details": "https://github.com/rux-lang/SublimeText",
@@ -2586,6 +2576,16 @@
 				{
 					"sublime_text": ">=4000",
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RVM",
+			"details": "https://github.com/jinze/sublime-rvm",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
 				}
 			]
 		}

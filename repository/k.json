@@ -484,7 +484,12 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<4075",
+					"base": "https://github.com/vkostyukov/kotlin-sublime-package",
+					"branch": "master"
+				},
+				{
+					"sublime_text": ">=4075",
 					"tags": true
 				}
 			]

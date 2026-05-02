@@ -561,6 +561,19 @@
 			]
 		},
 		{
+			"name": "Ai Bridge",
+			"description": "An MCP (Model Context Protocol) server, hosted inside Sublime Text as a plugin, that lets an LLM read and edit code through Sublime's own APIs — symbol index, syntax-aware definition extraction and project search. The LLM gets the same 'go to definition' and 'find references' power that Sublime gives you, plus the ability to read and rewrite whole functions.",
+			"author": "Jonathan Heintzeman",
+			"details": "https://github.com/MNU-497/Sublime-AI-Bridge",
+			"labels": ["text manipulation", "mcp", "ai"],
+			"releases": [
+				{
+					"sublime_text": ">=4081",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AiComplete",
 			"description": "Auto code completion using Gemini API",
 			"author": "Chinmay Agarwal",

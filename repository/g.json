@@ -1129,7 +1129,6 @@
 			"labels": ["godot", "dialogue", "syntax highlighting"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

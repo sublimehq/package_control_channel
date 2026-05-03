@@ -193,7 +193,6 @@
 			"labels": ["snippets", "vercel", "nextjs", "serverless", "edge"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

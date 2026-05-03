@@ -217,7 +217,6 @@
 			"labels": ["utilities", "base64", "encoding", "charset", "gb18030", "decode", "cjk"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

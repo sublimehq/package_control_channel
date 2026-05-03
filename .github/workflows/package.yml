@@ -5,7 +5,7 @@ on:
     paths:
       - 'repository/**'
   issue_comment:
-    types: [created]  # run when comment added with "📦"
+    types: [created]  # run when comment added with "📦" or "/review"
 
 jobs:
   # run package test on pull request event (but not on drafts)
@@ -21,7 +21,15 @@ jobs:
 
   # run package test on demand via comment on the pr
   package_comment:
-    if: ${{ github.event_name == 'issue_comment' && github.event.issue.pull_request != null && contains(github.event.comment.body, '📦') }}
+    if: >-
+      ${{
+        github.event_name == 'issue_comment' &&
+        github.event.issue.pull_request != null &&
+        (
+          contains(github.event.comment.body, '📦') ||
+          contains(github.event.comment.body, '/review')
+        )
+      }}
     runs-on: ubuntu-latest
     steps:
       - name: Diff and review changed/added packages

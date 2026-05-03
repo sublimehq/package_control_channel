@@ -3,6 +3,19 @@
 	"schema_version": "4.0.0",
 	"libraries": [
 		{
+			"name": "aiosonic",
+			"description": "A very fast Python asyncio http and websockets client",
+			"author": "sonic182",
+			"issues": "https://github.com/sonic182/aiosonic",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/aiosonic",
+					"asset": "aiosonic-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
 			"name": "annotated-types",
 			"description": "Reusable constraint types to use with typing.Annotated.",
 			"author": "adriangb",
@@ -610,6 +623,45 @@
 			]
 		},
 		{
+			"name": "h2",
+			"description": "A pure-Python implementation of a HTTP/2 protocol stack.",
+			"author": "Cory Benfield",
+			"issues": "https://github.com/python-hyper/h2/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/h2",
+					"asset": "h2-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "hpack",
+			"description": "A pure-Python HTTP/2 header encoding (HPACK) logic for use in Python programs that implement HTTP/2.",
+			"author": "Cory Benfield",
+			"issues": "https://github.com/python-hyper/hpack/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/hpack",
+					"asset": "hpack-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "hyperframe",
+			"description": "A pure-Python codebase that is capable of decoding a binary stream into HTTP/2 frames.",
+			"author": "Cory Benfield",
+			"issues": "https://github.com/python-hyper/hyperframe/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/hyperframe",
+					"asset": "hyperframe-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
 			"name": "idna",
 			"description": "Internationalized Domain Names in Applications (IDNA)",
 			"author": "Kim Davies",
@@ -941,6 +993,44 @@
 			]
 		},
 		{
+			"name": "msgpack",
+			"description": "MessagePack is an efficient binary serialization format.",
+			"author": "Inada Naoki",
+			"issues": "https://github.com/msgpack/msgpack-python/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/msgpack",
+					"asset": "msgpack-*-cp${py_version}-cp${py_version}-manylinux*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/msgpack",
+					"asset": "msgpack-*-cp${py_version}-cp${py_version}-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/msgpack",
+					"asset": "msgpack-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/msgpack",
+					"asset": "msgpack-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/msgpack",
+					"asset": "msgpack-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
 			"name": "natsort",
 			"description": "Simple yet flexible natural sorting in Python.",
 			"author": "SethMMorton",
@@ -1037,6 +1127,19 @@
 					"base": "https://github.com/packagecontrol/oauthlib",
 					"python_versions": ["3.3"],
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "onecache",
+			"description": "Python cache for sync and async code.",
+			"author": "sonic182",
+			"issues": "https://github.com/python-hyper/onecache/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/onecache",
+					"asset": "onecache-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]
 		},

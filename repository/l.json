@@ -1834,6 +1834,17 @@
 			]
 		},
 		{
+			"name": "LSP-addon-breadcrumb",
+			"details": "https://github.com/huyhoang8398/LSP-addon-breadcrumb",
+			"labels": ["file", "utilities", "tooltips", "breadcrumb"],
+			"releases": [
+				{
+					"sublime_text": ">3084",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Lua Dev",
 			"details": "https://github.com/rorydriscoll/LuaSublime",
 			"labels": ["language syntax", "lua"],

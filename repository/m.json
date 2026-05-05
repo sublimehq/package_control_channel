@@ -2117,6 +2117,10 @@
 					"tags": "st2/"
 				},
 				{
+					"sublime_text": "3000 - 4134",
+					"tags": "st3/"
+				},
+				{
 					"sublime_text": ">=4135",
 					"tags": "st4135/"
 				}

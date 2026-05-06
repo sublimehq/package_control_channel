@@ -3741,6 +3741,18 @@
 			]
 		},
 		{
+			"name": "ST4 Word Count",
+			"description": "Live word count in the status bar, with selection count when text is selected",
+			"details": "https://github.com/dgdiddy/st4-wordcount",
+			"labels": ["word count"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ST_AWK",
 			"details": "https://github.com/qiuxiafei/st_awk",
 			"releases": [

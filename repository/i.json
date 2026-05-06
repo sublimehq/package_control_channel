@@ -580,12 +580,12 @@
 		},
 		{
 			"name": "Indent XML",
-			"details": "https://github.com/alek-sys/sublimetext_indentxml",
+			"details": "https://github.com/braver/IndentXML",
 			"labels": ["indentation", "xml"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

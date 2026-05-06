@@ -2501,7 +2501,7 @@
 		},
 		{
 			"name": "Smart Title Case",
-			"details": "https://github.com/mattstevens/sublime-titlecase",
+			"details": "https://github.com/braver/SmartTitleCase",
 			"releases": [
 				{
 					"sublime_text": "*",

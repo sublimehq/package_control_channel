@@ -4240,10 +4240,10 @@
 		  "details": "https://github.com/agehrke/structurizr-syntax",
 		  "labels": ["language syntax"],
 		  "releases": [
-		    {
-		      "sublime_text": ">=4000",
-		      "tags": true
-		    }
+		  		{
+		      		"sublime_text": ">=4000",
+		      		"tags": true
+		    	}
 		  ]
 		},
 		{

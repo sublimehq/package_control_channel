@@ -1959,6 +1959,19 @@
 			]
 		},
 		{
+		    "name": "CodeShot",
+		    "details": "https://github.com/yasinahmed/CodeShot",
+		    "author": "Yasin Jagral",
+		    "labels": ["code", "screenshot", "clipboard", "windows"],
+		    "releases": [
+		        {
+		            "sublime_text": ">=4107",
+		            "platforms": ["windows"],
+		            "tags": true
+		        }
+		    ]
+		},
+		{
 			"name": "Code Cast",
 			"details": "https://github.com/mraiur/CodeCast",
 			"labels": ["code", "cast", "share", "codecast"],

@@ -614,7 +614,7 @@
 			]
 		},
 		{
-			"name": "Better Go To File",
+			"name": "BetterGoToFile",
 			"details": "https://github.com/Suor/GoToFile",
 			"labels": ["file open", "code navigation"],
 			"releases": [

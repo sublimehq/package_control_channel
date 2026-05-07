@@ -2234,6 +2234,7 @@
 			]
 		},
 		{
+			"name": "Praia Syntax Highlighting",
 			"details": "https://github.com/praia-lang/praia-sublime",
 			"labels": ["language syntax"],
 			"releases": [

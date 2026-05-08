@@ -13,6 +13,17 @@
 			]
 		},
 		{
+			"name": "D2",
+			"details": "https://gitlab.com/sotilrac/d2-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3084",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "D3.js Snippets",
 			"details": "https://github.com/fabriciotav/d3-snippets-for-sublime-text-2",
 			"labels": ["snippets"],

@@ -3113,6 +3113,19 @@
 			]
 		},
 		{
+			"name": "ToptalMinifier",
+			"author": "Kader Bouyakoub",
+			"description": "Minify CSS and JavaScript using Toptal's online minifier APIs.",
+			"details": "https://github.com/bkader/ToptalMinifier",
+			"labels": ["css", "javascript", "minifier"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Tornado",
 			"description": "Template syntax for Python's Tornado web framework.",
 			"details": "https://github.com/nickbaum/sublime-tornado/",

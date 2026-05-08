@@ -15,6 +15,6 @@ jobs:
       contents: read
     steps:
       - name: Post PR comment from artifact
-        uses: kaste/st_package_reviewer/gh_action@57f1ebb3caaca6885ec51c4cf7c605df2415b93d
+        uses: kaste/st_package_reviewer/gh_action@81e964270472dae33e904a15a354976b99d7b2f2
         with:
           phase: report

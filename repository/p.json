@@ -2234,6 +2234,17 @@
 			]
 		},
 		{
+			"name": "Praia",
+			"details": "https://github.com/praia-lang/praia-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Pre language syntax highlighting",
 			"details": "https://github.com/jonschlinkert/pre-sublime",
 			"labels": ["language syntax"],

@@ -743,6 +743,17 @@
 			]
 		},
 		{
+			"name": "VS Code 2026 Color Scheme",
+			"details": "https://github.com/vector-foundry-dev/sublime-vscode-2026-color-scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4171",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "VSCMT",
 			"details": "https://github.com/drew-wallace/VSCMT",
 			"releases": [

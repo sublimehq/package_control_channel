@@ -4236,15 +4236,15 @@
 			]
 		},
 		{
-		  "name": "Structurizr Syntax",
-		  "details": "https://github.com/agehrke/structurizr-syntax",
-		  "labels": ["language syntax"],
-		  "releases": [
-		  		{
-		      		"sublime_text": ">=4000",
-		      		"tags": true
-		    	}
-		  ]
+			"name": "Structurizr DSL",
+			"details": "https://github.com/agehrke/structurizr-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "Stupid Indent",

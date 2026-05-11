@@ -561,6 +561,18 @@
 			]
 		},
 		{
+			"name": "AI Bridge",
+			"author": "Jonathan Heintzeman",
+			"details": "https://github.com/MNU-497/Sublime-AI-Bridge",
+			"labels": ["text manipulation", "mcp", "ai"],
+			"releases": [
+				{
+					"sublime_text": ">=4081",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AiComplete",
 			"description": "Auto code completion using Gemini API",
 			"author": "Chinmay Agarwal",

@@ -691,6 +691,17 @@
 			]
 		},
 		{
+			"name": "BetterGoToFile",
+			"details": "https://github.com/Suor/GoToFile",
+			"labels": ["file open", "code navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BetterSave",
 			"details": "https://github.com/adrian-tut/BetterSave",
 			"labels": ["save", "close"],

@@ -1091,6 +1091,17 @@
 			]
 		},
 		{
+			"name": "RememberSyntax",
+			"details": "https://github.com/Suor/RememberSyntax",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Remify",
 			"details": "https://github.com/brousalis/remify",
 			"releases": [

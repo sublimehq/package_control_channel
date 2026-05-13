@@ -1612,7 +1612,6 @@
 			"labels": ["file", "utilities", "tooltips", "breadcrumb"],
 			"releases": [
 				{
-					"sublime_text": ">3084",
 					"tags": true
 				}
 			]

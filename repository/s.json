@@ -1598,16 +1598,6 @@
 			]
 		},
 		{
-			"name": "Simplates",
-			"details": "https://github.com/AspenWeb/sublime-simplates",
-			"labels": ["language syntax", "aspen", "simplates", "python simplate"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Simple FTP Deploy",
 			"details": "https://github.com/HexRx/simple-ftp-deploy",
 			"labels": ["ftp"],

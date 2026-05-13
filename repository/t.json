@@ -617,6 +617,17 @@
 			]
 		},
 		{
+			"name": "TermMate",
+			"details": "https://github.com/flashmodel/termmate",
+			"labels": ["agent", "chat", "ai", "llm"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "termX",
 			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",
@@ -2661,6 +2672,19 @@
 			"details": "https://github.com/gsingh93/sublime-topcoder-helper",
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ToptalMinifier",
+			"author": "Kader Bouyakoub",
+			"description": "Minify CSS and JavaScript using Toptal's online minifier APIs.",
+			"details": "https://github.com/bkader/ToptalMinifier",
+			"labels": ["css", "javascript", "minifier"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

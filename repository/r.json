@@ -876,6 +876,17 @@
 			]
 		},
 		{
+			"name": "RememberSyntax",
+			"details": "https://github.com/Suor/RememberSyntax",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Remify",
 			"details": "https://github.com/brousalis/remify",
 			"releases": [
@@ -2112,6 +2123,17 @@
 			"details": "https://github.com/Rypac/sublime-rust-format",
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},		
+		{
+			"name": "Rux",
+			"details": "https://github.com/rux-lang/SublimeText",
+			"labels": ["language syntax", "rux"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

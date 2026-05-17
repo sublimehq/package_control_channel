@@ -286,6 +286,18 @@
 			]
 		},
 		{
+			"name": "SBNF",
+			"details": "https://github.com/BenjaminSchaaf/sbnf",
+			"author": "Benjamin Schaaf",
+			"releases": [
+				{
+					"asset": "SBNF.sublime-package",
+					"sublime_text": ">4077",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Scala Snippets",
 			"details": "https://github.com/watzon/sublime-scala-snippets",
 			"labels": ["snippets", "scala"],

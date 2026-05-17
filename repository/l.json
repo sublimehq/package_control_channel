@@ -1050,6 +1050,28 @@
 			]
 		},
 		{
+			"name": "LinkedData",
+			"details": "https://github.com/blake-regalia/linked-data.syntaxes",
+			"labels": [
+				"semantic web",
+				"linked data",
+				"rdf",
+				"n-triples",
+				"n-quads",
+				"turtle",
+				"trig",
+				"n3",
+				"notation3",
+				"sparql"
+			],
+			"releases": [
+				{
+					"asset": "LinkedData.sublime-package",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "LinkerScript",
 			"details": "https://github.com/jbw3/SublimeTextLinkerSyntax",
 			"labels": ["language syntax"],

@@ -1,0 +1,335 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "X to Y",
+			"details": "https://github.com/superguigui/xtoy",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "X10Language",
+			"details": "https://github.com/ltronky/sublime-x10",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "x86 and x86_64 Assembly",
+			"details": "https://github.com/13xforever/x86-assembly-textmate-bundle",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "XAML",
+			"details": "https://github.com/maslbl4/sublime-xaml",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Xcode Colors",
+			"details": "https://github.com/braver/XcodeColors",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">3174",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Xcode Configuration Settings",
+			"details": "https://github.com/p4t5h3/xcode-build-configuration-language-for-sublime-text",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "XDC",
+			"details": "https://github.com/LDprg/XDC",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Xdebug",
+			"details": "https://github.com/Kindari/SublimeXdebug",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Xdebug Client",
+			"details": "https://github.com/martomo/SublimeTextXdebug",
+			"labels": ["php", "xdebug"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Xeto",
+			"details": "https://github.com/mgiannini/sublime-xeto",
+			"labels": ["language syntax", "xeto"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "xit!",
+			"details": "https://github.com/jotaen/xit-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Xkcd",
+			"details": "https://github.com/EivindArvesen/xkcd",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "XLI Template Converter",
+			"details": "https://github.com/apex2060/xli-templateize",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "xmake",
+			"details": "https://github.com/xmake-io/xmake-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "xml-guesser",
+			"details": "https://github.com/CrypticTemple/sublime-xml-guesser",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "xml2json",
+			"details": "https://github.com/vontio/sublime-xml2json",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "XmlDocs",
+			"details": "https://github.com/irrationalistic/sublime-xmldocs",
+			"labels": ["documentation", "c-sharp"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/haloway13/XmlTransformer",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "XMPFilter",
+			"details": "https://github.com/kassi/sublime-text-2-xmpfilter",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "xonsh",
+			"details": "https://github.com/eugenesvk/sublime-xonsh",
+			"labels": ["xonsh", "python", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "4075 - 4147",
+					"tags": "4075-4147_"
+				},
+				{
+					"sublime_text": ">=4148",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "xpath",
+			"details": "https://github.com/rosshadden/sublime-xpath",
+			"labels": ["xml", "xpath", "xquery", "clipboard", "preview"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": "<4050",
+					"tags": "v"
+				},
+				{
+					"sublime_text": ">=4050",
+					"tags": "ST4-v"
+				}
+			]
+		},
+		{
+			"name": "XPX",
+			"details": "https://github.com/infocosme/sublime_xpx",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "XQuery",
+			"details": "https://github.com/PogiNate/XQuery-Sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "XSL",
+			"details": "https://github.com/SublimeText/XSL",
+			"labels": ["language syntax", "snippets"],
+			"previous_names": ["XSLT Snippets"],
+			"releases": [
+				{
+					"sublime_text": "3083 - 4106",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": "4107 - 4125",
+					"tags": "4107-"
+				},
+				{
+					"sublime_text": ">=4126",
+					"tags": "4126-"
+				}
+			]
+		},
+		{
+			"name": "XSnippet",
+			"details": "https://github.com/xsnippet/sublime-xsnippet",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "XssEncode",
+			"description": "Converts characters from one encoding to another using a transformation.",
+			"details": "https://github.com/medicean/SublimeXssEncode",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Xtemplate",
+			"details": "https://github.com/noyobo/sublime-xtemplate",
+			"labels": ["language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Xtend",
+			"details": "https://github.com/staltz/SublimeXtend",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "XUL and XBL",
+			"details": "https://github.com/thomcc/sublime-xul-xbl",
+			"labels": ["language syntax", "gecko"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		}
+	]
+}

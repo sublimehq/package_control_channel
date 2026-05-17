@@ -1,0 +1,266 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Yaf Completions",
+			"details": "https://github.com/huaxiaolong/Yaf-Completions",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "YAML Nav",
+			"details": "https://github.com/ddiachkov/sublime-yaml-nav",
+			"labels": ["language syntax", "yaml"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "YAMLMacros",
+			"details": "https://github.com/Thom1729/YAML-Macros",
+			"labels": ["language syntax", "yaml"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "YamlToJson",
+			"details": "https://github.com/dannysummerlin/YamlToJson",
+			"labels": ["convert", "converter", "yaml", "json"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "YandexTranslate",
+			"details": "https://github.com/pafnuty/sublime-yandex-translate",
+			"labels": ["translate", "yandex"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "YandexWiki",
+			"details": "https://github.com/anton-rudeshko/sublime-yandex-wiki",
+			"labels": ["yandex", "wiki", "language syntax", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Yang Syntax Highlighting",
+			"details": "https://github.com/apackeer/sublime-yang-syntax",
+			"labels": ["language syntax", "yang"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Yara Rule Syntax",
+			"details": "https://github.com/nyx0/YaraSyntax",
+			"labels": ["language syntax", "snippets", "yara"],
+			"releases": [
+				{
+					"sublime_text": ">=3084",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "yardgen",
+			"details": "https://bitbucket.org/fappelman/yardgen",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "yardoc",
+			"details": "https://github.com/revathskumar/sublime-yardoc",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "yasi-indenter",
+			"details": "https://github.com/nkmathew/sublime-yasi",
+			"labels": ["formatting", "indentation", "lisp"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "YASMJinja2",
+			"details": "https://github.com/m-messiah/yasm-jinja2",
+			"labels": ["formatting", "language syntax", "yasm", "jinja2", "yandex"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Yate",
+			"details": "https://github.com/mctep/yate-textmate",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "YcmdCompletion",
+			"details": "https://github.com/LuckyGeck/YcmdCompletion",
+			"labels": ["auto-complete", "linting"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Yet Another Launcher",
+			"details": "https://github.com/dahanbn/Yet-Another-Launcher",
+			"labels": ["utilities", "file open", "productivity"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "YetAnotherCodeSearch",
+			"details": "https://github.com/pope/SublimeYetAnotherCodeSearch",
+			"labels": ["search"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Yii Framework 1.1 Snippets",
+			"details": "https://github.com/david-soyez/sublime-yii-snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Yii2 Auto-complete",
+			"details": "https://github.com/udokmeci/sublime-yii2-autocomplete",
+			"labels": ["auto-complete"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Yii2 Snippets",
+			"details": "https://github.com/psy-man/yii2-snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Yin color scheme",
+			"details": "https://github.com/zhuoqyin/yin_colorscheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Yosys",
+			"details": "https://github.com/YosysHQ/Sublime-Yosys",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "YouCompleteMe",
+			"details": "https://github.com/sublime-ycmd/sublime-ycmd",
+			"labels": ["auto-complete", "linting"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ytt",
+			"details": "https://github.com/Vasfed/sublime_ytt",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "yUML",
+			"details": "https://github.com/cluther/sublime-yuml",
+			"labels": ["language syntax", "preview"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}

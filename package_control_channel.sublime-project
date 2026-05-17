@@ -1,0 +1,23 @@
+{
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "ensure_newline_at_eof_on_save": true,
+        "translate_tabs_to_spaces": false,
+        "trim_trailing_white_space_on_save": true
+    },
+    "build_systems":
+    [
+        {
+            "name": "Run Tests",
+            "cmd": ["python", "-m", "unittest"],
+            "file_regex": "^\\s*File \"(.*?)\", line \\d+",
+            "working_dir": "${project_path:${folder}}",
+            "selector": "source.json, source.python"
+        }
+    ]
+}

@@ -1,0 +1,3641 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "P3 Assembly",
+			"details": "https://github.com/rgcv/p3assembly-sublime-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "P4 Syntax Highlighter",
+			"details": "https://github.com/c3m3gyanesh/p4-syntax-highlighter",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "P4Explorer",
+			"details": "https://github.com/ymengesha/P4Explorer",
+			"labels": ["vcs", "file navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true,
+					"platforms": ["windows"]
+				}
+			]
+		},
+		{
+			"name": "P4Gutter",
+			"details": "https://github.com/daumiller/P4Gutter",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Package Bundler",
+			"details": "https://github.com/STPackageBundler/package-bundler",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Package Control",
+			"author": ["Will Bond (wbond)", "DeathAxe"],
+			"details": "https://github.com/sublimehq/package_control",
+			"homepage": "https://packagecontrol.io",
+			"donate": "https://packagecontrol.io/say_thanks",
+			"releases": [
+				{
+					"sublime_text": ">=3143",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Package Coverage",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/codexns/package_coverage",
+			"labels": ["testing"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Package Snippets",
+			"details": "https://github.com/frdmn/package-snippets",
+			"labels": ["snippets", "git", "repository", "package"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PackageDev",
+			"details": "https://github.com/SublimeText/PackageDev",
+			"author": ["FichteFoll"],
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "<3154",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": "<4094",
+					"tags": "st3-v"
+				},
+				{
+					"sublime_text": ">=4094",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PackageResourceViewer",
+			"details": "https://github.com/skuroda/PackageResourceViewer",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": "<3000",
+					"tags": "st2-"
+				}
+			]
+		},
+		{
+			"name": "PackagesUI",
+			"details": "https://github.com/unknownuser88/PackagesUI",
+			"author": "David Bekoyan",
+			"labels": ["package", "utilities", "dashboard", "gui", "inline", "help system"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PackageSync",
+			"details": "https://github.com/utkarsh9891/PackageSync",
+			"labels": ["backup", "restore", "sync", "package"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/PackageTesting",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Packed",
+			"details": "https://github.com/duraki/sublime-packed",
+			"author": "duraki",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/mborgerson/Pad",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Padawan (PHP completion)",
+			"details": "https://github.com/padawan-php/padawan.sublime",
+			"labels": ["auto-complete", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PageLines Snippets",
+			"details": "https://github.com/Tmeister/PageLinesSnippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pain",
+			"details": "https://github.com/ilyaZar/Pain",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PaletteFile",
+			"details": "https://github.com/vshotarov/PaletteFile",
+			"labels": ["file creation", "file navigation", "directory creation", "directory navigation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Panda Syntax Sublime",
+			"details": "https://github.com/siamak/panda-syntax-sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pandoc (Markdown)",
+			"details": "https://github.com/jclement/SublimePandoc",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pandoc Academic",
+			"details": "https://github.com/larlequin/PandocAcademic",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pandoc Converter",
+			"details": "https://github.com/klmp200/Pandoc-Converter",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pandoc Referencer",
+			"details": "https://github.com/scotartt/PandocReferencr",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/phyllisstein/Pandown",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pane Navigation",
+			"details": "https://github.com/borist/SublimePaneNavigation",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pane Resizer",
+			"details": "https://github.com/markalfred/sublime-pane-resizer",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PanePane",
+			"details": "https://github.com/mjsmith1028/panepane",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Panezr",
+			"details": "https://github.com/jpellerin/Panezr",
+			"releases": [
+				{
+					"sublime_text": ">=3033",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "panstamps Snippets",
+			"details": "https://github.com/thespacedoctor/panstamps-Sublime-Snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pants Build",
+			"details": "https://github.com/foursquare/sublime-pantsbuild-plugin",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Papyrus Assembly",
+			"details": "https://github.com/Cipscis/Papyrus_Assembly",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Paradox",
+			"details": "https://github.com/taw/sublime-paradox",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Paraiso Black Color Scheme",
+			"details": "https://github.com/idleberg/ParaisoBlack.tmTheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Paraiso Color Scheme",
+			"details": "https://github.com/idleberg/Paraiso.tmTheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Parallel Builder",
+			"details": "https://github.com/GianlucaGuarini/SublimeText2-Parallel-Builder-Plugin",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/odyssomay/paredit",
+			"labels": ["code navigation", "formatting", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/ilyakam/ParentalControl",
+			"labels": ["formatting", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Parinfer",
+			"details": "https://github.com/oakmac/sublime-text-parinfer",
+			"labels": ["formatting", "text manipulation", "clojure", "clojurescript", "cljs", "lisp"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Parquet",
+			"details": "https://github.com/yuj/sublime-parquet",
+			"labels": ["parquet"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Particle Reverse Polish Language",
+			"details": "https://github.com/KubeRoot/Sublime-PRPL",
+			"labels": ["language syntax", "completions"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Parva Syntax",
+			"details": "https://github.com/muskatel/Parva_Syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pass Manager",
+			"details": "https://github.com/degami/PassManager",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Paste Anywhere",
+			"details": "https://github.com/FMCorz/PasteAnywhere",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Paste As Column",
+			"details": "https://github.com/TheClams/PasteAsColumn",
+			"labels": ["text manipulation", "clipboard", "paste"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Paste as One Line",
+			"details": "https://github.com/joshdavenport/PasteAsOneLine",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Paste PDF Text Block",
+			"details": "https://github.com/compleatang/sublimetext-pastepdf",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Paste Plus",
+			"details": "https://github.com/ggets/Sublime_PastePlus",
+			"labels": ["text manipulation", "clipboard", "paste"],
+			"author": "GGets",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Paste to friendpaste.com",
+			"details": "https://github.com/martinsam/sublime-friendpaste",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Paste to paste.pm",
+			"details": "https://github.com/while1eq1/sublime-pastepm",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PasteAhead",
+			"details": "https://github.com/mattst/PasteAhead",
+			"labels": ["paste"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PasteAsString",
+			"details": "https://github.com/mom1/PasteAsString",
+			"labels": ["text manipulation"],
+			"author": "MOM",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/Paaskehare/pastebin-sublime-plugin",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pastel Paws Color Scheme",
+			"details": "https://github.com/Ociidii-Works/pastel_paws",
+			"author": "XenHat",
+			"description": "Colorful, low-saturation, supports several languages and plugins",
+			"labels": ["color scheme", "colorful", "pastel", "dark"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PasteRepeater",
+			"details": "https://github.com/philsinatra/SublimePasteRepeater",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pastery",
+			"details": "https://github.com/apas/pastery",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PasteWrap",
+			"details": "https://github.com/daguej/sublime-pastewrap",
+			"labels": ["text manipulation", "clipboard"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Patch Apply",
+			"details": "https://github.com/kkujawinski/sublime-text-3-patch-apply",
+			"labels": ["text manipulation", "clipboard", "code sharing"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Path to File",
+			"details": "https://github.com/pahlers/PathToFile",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Path Tools",
+			"details": "https://github.com/pjdietz/sublime-path-tools",
+			"donate": "https://pjdietz.com/say-thanks/",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Path Translator",
+			"details": "https://github.com/hbhakhra/Path-Translator",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PathBox",
+			"details": "https://github.com/budlime/PathBox",
+			"labels": ["auto-complete"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pawn Kit",
+			"details": "https://github.com/punkochel/pawn-openmp-sublime-kit",
+			"labels": ["auto-complete", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pawn syntax",
+			"details": "https://github.com/Southclaws/pawn-sublime-language",
+			"labels": ["auto-complete", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PDB Finder",
+			"details": "https://github.com/aleGpereira/sublime-pdb-finder",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PDML",
+			"details": "https://github.com/tajmone/Sublime-PDML",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pebble",
+			"details": "https://github.com/jbrooksuk/Sublime-Pebble",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PEG.js",
+			"details": "https://github.com/alexstrat/PEGjs.tmbundle",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PEGjs CoffeeScript",
+			"details": "https://github.com/felixhao28/Sublime-PEGcoffee",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PEGjs LiveScript",
+			"details": "https://github.com/tgrospic/sublime-pegjs-livescript",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pelican",
+			"details": "https://github.com/jsliang/sublime-pelican",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				},
+				{
+					"sublime_text": ">=3000",
+					"branch": "st3"
+				}
+			]
+		},
+		{
+			"name": "Penrose",
+			"details": "https://github.com/LexouDuck/SublimeText-Penrose",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PeopleCodeTools",
+			"details": "https://github.com/Jatz/PeopleCodeTools",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pep",
+			"details": "https://github.com/pedrorgirardi/Pep",
+			"releases": [
+				{
+					"sublime_text": ">=4094",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PEPE Assembly",
+			"details": "https://github.com/patriq/Sublime-PEPE-Assembly",
+			"labels": ["language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Perfectionist",
+			"details": "https://github.com/yisibl/sublime-perfectionist",
+			"labels": ["formatting", "prettify", "css"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Perforce",
+			"details": "https://github.com/ericmartel/Sublime-Text-2-Perforce-Plugin",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				},
+				{
+					"sublime_text": ">=3000",
+					"base": "https://github.com/ericmartel/Sublime-Text-3-Perforce-Plugin",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Perl Completions",
+			"details": "https://github.com/tushortz/Perl-Completions",
+			"labels": ["completions", "perl"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "perl-Test-Class",
+			"details": "https://github.com/jonasbn/SublimeText-Perl-Test-Class",
+			"labels": ["auto-complete", "formatting", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "perl-Test-More",
+			"details": "https://github.com/jonasbn/SublimeText-Perl-Test-More",
+			"labels": ["auto-complete", "formatting", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "perldoc",
+			"details": "https://github.com/cockscomb/SublimePerldoc",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PerlSubs",
+			"details": "https://github.com/semuel/Sublime-Text-Perl-Subs",
+			"description": "PerlSubs - Which Perl subroutine I am at now, again?",
+			"labels": ["perl", "text navigation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PerlTidy",
+			"details": "https://github.com/vifo/SublimePerlTidy",
+			"description": "perltidy/Perl::Tidy plugin - A Perl script indenter and reformatter.",
+			"labels": ["formatting", "perl", "tidy"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Persistent Console",
+			"details": "https://github.com/idleberg/sublime-persistent-console",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Persistent Status Bar Line Number",
+			"details": "https://github.com/ryanpcmcquen/sublime_text_persistent_status_bar_line_number",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/skuroda/PersistentRegexHighlight",
+			"releases": [
+				{
+					"sublime_text": ">=3155",
+					"tags": true
+				},
+				{
+					"sublime_text": "<3155",
+					"tags": "st2-"
+				}
+			]
+		},
+		{
+			"name": "Perv - Color Scheme",
+			"details": "https://github.com/projectivetech/Perv-ColorScheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pest PHP Snippets",
+			"details": "https://github.com/geneowak/Pest-PHP-Sublime-Text-Snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pest Syntax",
+			"details": "https://github.com/dten/pest-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PgcliSublime",
+			"details": "https://github.com/darikg/PgcliSublime",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PGN Support",
+			"details": "https://github.com/shreyasminocha/Sublime-PGN",
+			"description": "Portable Game Notation syntax and snippets",
+			"labels": ["language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PgSQL",
+			"details": "https://github.com/jobywalker/PgSQL-Sublime",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Phabricator",
+			"details": "https://github.com/uber/sublime-phabricator",
+			"labels": ["browser integration", "code sharing"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PhalconPHP Completions",
+			"details": "https://github.com/james2doyle/phalconphp-completions",
+			"labels": ["phalcon", "php"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pharko",
+			"details": "https://github.com/marczhermo/Pharko",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Phaser Snippets",
+			"details": "https://github.com/afk-mario/Phaser-Snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Phix Color Scheme",
+			"details": "https://github.com/stuartherbert/sublime-phix-color-scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "phJade",
+			"details": "https://github.com/konstantin24121/phJade",
+			"labels": ["jade-php", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Phoenix Beagle",
+			"details": "https://github.com/noma4i/sublime-phoenix-beagle",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Built-in WebServer",
+			"details": "https://github.com/astronaughts/SublimePHPBuiltinWebServer",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHP CBF",
+			"details": "https://github.com/andremacola/sublime-PHP_CBF",
+			"issues": "https://github.com/andremacola/sublime-PHP_CBF/issues",
+			"labels": ["php", "phpcs", "formatting"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Codebeautifier",
+			"details": "https://github.com/Ennosuke/PHP-Codebeautifier",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Comment Wrap",
+			"details": "https://bitbucket.org/bey0nd_g0dlike/phpcommentwrap",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Companion",
+			"details": "https://github.com/erichard/SublimePHPCompanion",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Completions Kit",
+			"details": "https://github.com/gerardroche/sublime-phpck",
+			"labels": ["auto-complete", "completions", "php"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Constructors",
+			"details": "https://bitbucket.org/jltorresm/sublime-php-constructors",
+			"labels": ["auto-complete", "code generation", "snippets", "text manipulation", "php"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP CS Fixer",
+			"details": "https://github.com/adael/SublimePhpCsFixer",
+			"labels": ["formatting", "php"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Faker Completions",
+			"details": "https://github.com/james2doyle/php-faker-completions",
+			"labels": ["completions", "snippets", "php", "fake", "fzaninotto", "test", "factory"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Form Builder",
+			"details": "https://github.com/migliori/sublime-phpformbuilder",
+			"labels": ["auto-complete", "bootstrap", "form", "php"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Getters and Setters",
+			"author": "Nuno Franco da Costa",
+			"details": "https://github.com/SublimeText/PHPGettersSetters",
+			"labels": ["auto-complete", "code generation", "formatting", "snippets", "text manipulation", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Haml",
+			"details": "https://github.com/xt99/sublimetext-php-haml",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "<4000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHP MySQLi connection",
+			"details": "https://github.com/misalazovic/PHP-MySQLi-connection",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHP Namespace Command",
+			"details": "https://github.com/alexandresalome/sublime-alom",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHP Namespace Monkey",
+			"details": "https://github.com/underground-works/sublime-php-namespace-monkey",
+			"labels": ["php", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Snippets",
+			"details": "https://github.com/Mombuyish/sublime-fast-snippets-with-php",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Source",
+			"details": "https://github.com/mjkaufer/PHP-Source",
+			"labels": ["php", "utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Syntax Checker",
+			"details": "https://github.com/naomichi-y/php_syntax_checker",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHP Zend Framework 2 Helper",
+			"details": "https://github.com/pipe-devnull/ZF2Helper",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Phpactor",
+			"details": "https://github.com/tkotosz/sublime-phpactor-plugin",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PhpArrayConverter",
+			"details": "https://github.com/gh640/SublimePhpArrayConverter",
+			"author": "Goto Hayato",
+			"labels": ["formatting", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/PhpBeautifier",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PhpCodeGen",
+			"details": "https://bitbucket.org/bteryek/phpcodegen",
+			"labels": ["code generation", "formatting", "snippets", "text manipulation", "php", "docblock"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PhpConnector",
+			"details": "https://github.com/chigix/sublime-php-connector",
+			"labels": ["php", "plugin", "develop"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Phpcs",
+			"details": "https://github.com/benmatselby/sublime-phpcs",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/PhpDoc",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "phpDocumentor",
+			"details": "https://github.com/benmatselby/sublime-phpdocumentor",
+			"previous_names": ["DocBlox"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PhpDox",
+			"details": "https://github.com/oct8cat/sublime-phpdox",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "phpfmt",
+			"details": "https://github.com/driade/phpfmt8",
+			"labels": ["formatting", "language syntax", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHPGrammar",
+			"details": "https://github.com/gerardroche/sublime-php-grammar",
+			"labels": ["auto-complete", "completions", "formatting", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHPIntel",
+			"details": "https://github.com/jotson/SublimePHPIntel",
+			"labels": ["auto-complete", "completions", "php"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": ">=3000",
+					"tags": "st3-"
+				}
+			]
+		},
+		{
+			"name": "PhpNamespace",
+			"details": "https://github.com/gl3n/sublime-php-namespace",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				},
+				{
+					"sublime_text": ">=3000",
+					"branch": "ST3"
+				}
+			]
+		},
+		{
+			"name": "PhpNinJaManual",
+			"details": "https://github.com/yangweijie/SublimePHPNinJaManual",
+			"labels": ["php manual"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PhpSimpleRefactor",
+			"details": "https://github.com/lucacri/PhpSimpleRefactor",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHPSnippets",
+			"previous_names": ["php-snippets"],
+			"details": "https://github.com/gerardroche/sublime-php-snippets",
+			"labels": ["snippets", "php"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PhpSpec Snippets",
+			"details": "https://github.com/peterjmit/sublime-phpspec-snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PhpTidy",
+			"details": "https://github.com/welovewordpress/SublimePhpTidy",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHPTools",
+			"details": "https://github.com/Shaked/sublime-phptools",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHPUnit",
+			"details": "https://github.com/stuartherbert/sublime-phpunit",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHPUnit Completions",
+			"details": "https://github.com/tkowalewski/phpunit-sublime-completions",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHPUnit Snippets",
+			"details": "https://github.com/florianeckerstorfer/fe-sublime-phpunit",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PHPUnitKit",
+			"details": "https://github.com/gerardroche/sublime-phpunit",
+			"labels": ["php", "phpunit", "testing"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "picaxe Snippets",
+			"details": "https://github.com/thespacedoctor/picaxe-Sublime-Snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PICO-8",
+			"details": "https://github.com/Neko250/sublime-PICO-8",
+			"labels": ["build system", "color scheme", "editor emulation", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pieces",
+			"details": "https://github.com/pieces-app/plugin_sublime/",
+			"homepage": "https://pieces.app/",
+			"labels": ["snippets", "ai", "pieces"],
+			"author": "Pieces for Developers",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pine",
+			"details": "https://github.com/gerardroche/sublime-pine",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PIO",
+			"details": "https://gitlab.com/patopest/Sublime-Text-PIO-Syntax",
+			"labels": ["language syntax"],
+			"author": "patopesto",
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pipe Dream",
+			"details": "https://github.com/billymoon/Sublime-Pipe-Dream",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PipenvPath",
+			"details": "https://github.com/dhelonious/PipenvPath",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Piranha",
+			"details": "https://github.com/Kostasn2/piranha-syntax-highlighting-package",
+			"labels": ["piranha", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PixarUSD",
+			"details": "https://github.com/davidlatwe/PixarUSD-Sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PKGBUILD",
+			"details": "https://github.com/git-commit/pkgbuild-st3",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": "linux",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pkl (Pickle)",
+			"details": "https://github.com/serjan-nasredin/pkl.tmbundle",
+			"author": "snxx",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PL1 PLI Syntax",
+			"details": "https://github.com/guija/pl1",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Placehold.it Image Tag Generator",
+			"details": "https://github.com/SubZane/Sublime-Placehold.it",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/mrmartineau/Placeholders",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PlainNotes",
+			"details": "https://github.com/aziz/PlainNotes",
+			"labels": ["language syntax", "notes", "note taking", "authoring", "todo", "tasks"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/aziz/PlainTasks",
+			"labels": ["language syntax", "todo", "tasks"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PlantUmlDiagrams",
+			"details": "https://github.com/evandrocoan/PlantUmlDiagrams",
+			"labels": ["language syntax", "uml", "plantuml"],
+			"author": ["jvantuyl", "evandrocoan"],
+			"releases": [
+				{
+					"sublime_text": ">=3114",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PlasticSCM",
+			"details": "https://github.com/ccll/sublime-plasticscm",
+			"labels": ["scm", "vcs"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/quarnster/PlatformSettings",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Play 2.0",
+			"details": "https://github.com/guillaumebort/play2-sublimetext2",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PLI10",
+			"details": "https://github.com/Kostasn2/pli10_eap-syntax-highlighting-package",
+			"labels": ["pli10", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "plist",
+			"details": "https://bitbucket.org/fschwehn/sublime_plist",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Plist Binary",
+			"details": "https://github.com/relikd/plist-binary_sublime",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PloneReload",
+			"details": "https://github.com/maethu/SublimePloneReload",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PlotGraph",
+			"details": "https://github.com/tbrlpld/PlotGraph",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PluginLogger",
+			"details": "https://github.com/kapitanluffy/sublime-plugin-logger",
+			"donate": "https://github.com/sponsors/kapitanluffy",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pluto",
+			"details": "https://github.com/PlutoLang/Syntax-Highlighting",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PM2-Snippets",
+			"details": "https://github.com/riyadhalnur/PM2-Snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pman",
+			"details": "https://github.com/benmatselby/sublime-pman",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pmccabe",
+			"details": "https://github.com/mremallin/sublime-pmccabe",
+			"labels": ["linting", "c", "c++"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "poetry",
+			"details": "https://github.com/jgirardet/sublime-poetry",
+			"author": "jgirardet",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PogodaStatusBar",
+			"details": "https://github.com/bolknote/PogodaStatusBar",
+			"labels": ["status bar", "weather", "info", "utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PogoScript",
+			"details": "https://github.com/featurist/PogoScript.tmbundle",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pointless",
+			"details": "https://github.com/pointless-lang/pointless-sublime/",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PokemonTeamSyntax",
+			"details": "https://github.com/forsureitsme/PokemonTeamSyntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Polar",
+			"author": "Eric Daniels",
+			"details": "https://github.com/edaniels/sublime-polar",
+			"labels": ["polar", "oso", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Polygen",
+			"author": "Tristano Ajmone",
+			"details": "https://github.com/tajmone/sublime-polygen",
+			"issues": "https://github.com/tajmone/sublime-polygen/issues",
+			"labels": ["polygen", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3149",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "polyglot Snippets",
+			"details": "https://github.com/thespacedoctor/polyglot-Sublime-Snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Polymer & Web Component Snippets",
+			"details": "https://github.com/robdodson/PolymerSnippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Polymer Syntax",
+			"details": "https://github.com/jaychsu/sublime-polymer-syntax",
+			"labels": ["language syntax", "polymer", "web component"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pomodoro",
+			"details": "https://github.com/Neway6655/Sublime-Pomodoro",
+			"labels": ["timer"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pony Language",
+			"details": "https://github.com/ponylang/sublime-pony",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Poppins - Color Scheme",
+			"details": "https://github.com/praveenpuglia/color_scheme_poppins",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Portage",
+			"details": "https://github.com/krizalys/sublime-portage",
+			"labels": ["language syntax", "portage", "gentoo", "funtoo", "emerge", "ebuild"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Postap",
+			"details": "https://github.com/LPGhatguy/Postap",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PostCSS",
+			"details": "https://github.com/SublimeText/PostCSS",
+			"labels": ["language syntax"],
+			"previous_names": ["Syntax Highlighting for PostCSS"],
+			"releases": [
+				{
+					"sublime_text": "<=3091",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": "3092 - 4151",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": "4152 - 4179",
+					"tags": "4152-"
+				},
+				{
+					"sublime_text": ">=4180",
+					"tags": "4180-"
+				}
+			]
+		},
+		{
+			"name": "PostCSS Sorting",
+			"details": "https://github.com/hudochenkov/sublime-postcss-sorting",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				},
+				{
+					"sublime_text": "<3000",
+					"tags": "st2-"
+				}
+			]
+		},
+		{
+			"name": "Poster",
+			"details": "https://github.com/ssddanbrown/Poster",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Postfixer",
+			"details": "https://github.com/mbnuqw/sublime-postfixer",
+			"labels": ["auto-complete", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Postgres PL pgSQL",
+			"details": "https://github.com/mulander/postgres.tmbundle",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PostgreSQL Syntax Highlighting",
+			"details": "https://github.com/tkopets/sublime-postgresql-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PostScript",
+			"details": "https://github.com/Briles/sublime-syntax-postscript",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PouchDB Snippets",
+			"details": "https://github.com/brenopolanski/pouchdb-sublime-snippets",
+			"labels": ["snippets", "db", "pouchdb", "couchdb"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PovRay",
+			"details": "https://github.com/leoheck/sublime-povray",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Power System Tools Syntax",
+			"details": "https://github.com/dparrini/sublime_powersystems",
+			"labels": ["auto-complete", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PowerCursors",
+			"details": "https://github.com/MaokaiLin/PowerCursors",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PowerMTML Completions",
+			"details": "https://github.com/bit-part/PowerMTML-ST2",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PowerPaste",
+			"details": "https://github.com/tylerclendenin/Sublime-PowerPaste",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PowerShell",
+			"details": "https://github.com/SublimeText/PowerShell",
+			"labels": ["language syntax", "build system", "snippets", "powershell"],
+			"releases": [
+				{
+					"sublime_text": "<4107",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": "4107 - 4203",
+					"tags": "st4107-"
+				},
+				{
+					"sublime_text": ">=4204",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Powershell Help Generator",
+			"details": "https://github.com/sponte/sublime_powershell_help",
+			"labels": ["documentation", "powershell"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/PowershellUtils",
+			"labels": ["powershell"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PPCL Language Syntax and Editor",
+			"details": "https://github.com/blandfbt/PPCL",
+			"labels": ["ppcl", "language syntax", "siemens", "apogee"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Praia",
+			"details": "https://github.com/praia-lang/praia-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pre language syntax highlighting",
+			"details": "https://github.com/jonschlinkert/pre-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Predawn",
+			"details": "https://github.com/jamiewilson/predawn",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Predawn Monokai",
+			"details": "https://github.com/varemenos/sublime-predawn-monokai",
+			"labels": ["color scheme", "monokai"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Predawn Twilight Theme",
+			"details": "https://github.com/jrnewell/predawn-twilight-theme",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PreferenceSync",
+			"details": "https://github.com/devdinu/PreferenceSync",
+			"labels": ["sync", "preferences"],
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Premake",
+			"details": "https://github.com/tynril/sublime-premake",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Preset Command",
+			"details": "https://github.com/benweier/PresetCommand",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Preside CMS",
+			"details": "https://github.com/pixl8-brayden/preside-sublime-text-3",
+			"readme": "https://raw.githubusercontent.com/pixl8-brayden/preside-sublime-text-3/stable/README.md",
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PreTeXtual",
+			"details": "https://github.com/daverosoff/PreTeXtual",
+			"author": "Dave Rosoff",
+			"labels": ["language syntax", "mbx", "mathbook xml", "pretext", "ptx"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Prettierd Format",
+			"details": "https://github.com/smastrom/sublime-prettierd-format",
+			"author": "Simone Mastromattei",
+			"labels": ["formatting", "prettify"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pretty EDN",
+			"details": "https://github.com/oakmac/sublime-pretty-edn",
+			"author": "Chris Oakman",
+			"labels": ["linting", "minify", "prettify", "validation", "babashka", "clojure", "clojurescript", "clj", "cljs", "edn"],
+			"releases": [
+				{
+					"platforms": ["osx", "linux"],
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pretty JSON",
+			"details": "https://github.com/dzhibas/SublimePrettyJson",
+			"labels": ["linting", "minify", "prettify", "validation", "query", "json", "json2xml"],
+			"releases": [
+				{
+					"sublime_text": "<4000",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pretty Lua",
+			"details": "https://github.com/aerobounce/Sublime-Pretty-Lua",
+			"labels": ["formatting", "prettify", "lua"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pretty Protobuf",
+			"details": "https://github.com/hanfezh/pretty-protobuf",
+			"labels": ["formatting", "prettify", "protobuf", "debug"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pretty Ruby",
+			"details": "https://github.com/gbaptista/sublime-3-pretty-ruby",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pretty Shell",
+			"details": "https://github.com/aerobounce/Sublime-Pretty-Shell",
+			"labels": ["formatting", "minify", "prettify", "bash", "posix", "shell", "sh"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pretty YAML",
+			"details": "https://github.com/aukaost/SublimePrettyYAML",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				},
+				{
+					"sublime_text": "<3000",
+					"tags": "st2-"
+				}
+			]
+		},
+		{
+			"name": "Pretty YAML Node",
+			"details": "https://github.com/Lichtbit/sublime_pretty_yaml_node",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "v"
+				}
+			]
+		},
+		{
+			"name": "Prevent Duplicate Windows",
+			"details": "https://github.com/franciscolourenco/sublime-prevent-duplicate-windows",
+			"labels": ["terminal", "file navigation", "prevent", "duplicate", "windows", "productivity"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Preview",
+			"details": "https://github.com/iafan/SublimeTextPreview",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/Nijikokun/Prevu",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Print to HTML",
+			"details": "https://github.com/grubernaut/sublimetext-print-to-html",
+			"labels": ["tasks", "printing", "utilities", "browser"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"base": "https://github.com/joelpt/sublimetext-print-to-html",
+					"branch": "master"
+				},
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PrintDebugger",
+			"details": "https://github.com/futureprogrammer360/PrintDebugger",
+			"labels": ["debug", "print", "output", "log", "logs", "console"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Prisma",
+			"details": "https://github.com/Sublime-Instincts/PrismaHighlight",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"base": "https://github.com/prisma/sublimeText3",
+					"sublime_text": "<4126",
+					"tags": true
+				},
+				{
+					"sublime_text": ">=4126",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Prismatic Color Scheme",
+			"details": "https://github.com/huijing/Prismatic",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Prismic.io snippets",
+			"details": "https://github.com/prismicio/prismic-snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": "v"
+				}
+			]
+		},
+		{
+			"name": "Procapy",
+			"details": "https://github.com/thomasthorsen/SublimeProcapy",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Processing",
+			"details": "https://github.com/b-g/processing-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ProcessWire Snippets - Advanced",
+			"details": "https://github.com/evanmcd/SublimeProcessWireSnippetsAdvanced",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ProcessWire Snippets - Basic",
+			"details": "https://github.com/evanmcd/SublimeProcessWireSnippetsBasic",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ProductiveSnippetsERB",
+			"details": "https://github.com/janlelis/productive-sublime-snippets-erb",
+			"labels": ["snippets", "erb", "ruby"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ProductiveSnippetsRuby",
+			"details": "https://github.com/janlelis/productive-sublime-snippets-ruby",
+			"labels": ["snippets", "ruby"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Profile Switcher",
+			"details": "https://github.com/tonsky/sublime-profiles",
+			"donate": "https://www.patreon.com/tonsky",
+			"labels": ["preferences"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Programmatic Key Bindings",
+			"details": "https://github.com/VonHeikemen/sublime-pro-key-bindings",
+			"donate": "https://www.buymeacoffee.com/vonheikemen",
+			"labels": ["keymap"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Project And Workspace Management",
+			"details": "https://github.com/tshrpl/ProjectAndWorkspaceManagement",
+			"author": "Tushar Paul",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Project PHP ClassBrowser",
+			"details": "https://github.com/degami/ProjectPHPClassBrowser",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Project Planner",
+			"details": "https://github.com/pedrokost/STProjectPlanner",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Project Port",
+			"details": "https://github.com/mawiseman/Sublime-Project-Port",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Project Runner",
+			"details": "https://github.com/andrew4699/sublime-project-runnner",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Project Specific Syntax Settings",
+			"details": "https://github.com/reywood/sublime-project-specific-syntax",
+			"labels": ["language syntax", "project"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Project Sync",
+			"details": "https://github.com/GentlemanJ/devsync",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ProjectCompletions",
+			"details": "https://github.com/bordaigorl/sublime-project-completions",
+			"labels": ["completions", "snippets", "project"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ProjectFiles",
+			"details": "https://github.com/shagabutdinov/sublime-project-files",
+			"labels": ["sublime-enhanced", "file navigation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Projectionist",
+			"details": "https://github.com/timfjord/Projectionist",
+			"labels": ["project"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ProjectNotes",
+			"details": "https://github.com/budlime/ProjectNotes",
+			"labels": ["project", "notes", "todo"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ProjectThis",
+			"details": "https://github.com/Tomescape/project-this",
+			"labels": ["project"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ProjectTreeTemplater",
+			"details": "https://github.com/julianxhokaxhiu/sublime-projecttreetemplater",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Prolog",
+			"details": "https://github.com/alnkpa/sublimeprolog",
+			"labels": ["build system", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Promela_Spin",
+			"details": "https://github.com/corbanmailloux/sublime-promela-spin",
+			"labels": ["build system", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Propel",
+			"details": "https://github.com/smhg/sublime-propel",
+			"labels": ["php", "orm"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Protobuf Syntax Hightlighting",
+			"details": "https://github.com/VcamX/protobuf-syntax-highlighting",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3103",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ProtoBufCodeFormatter",
+			"details": "https://github.com/DirkBrand/ProtoBufCodeFormatter_Sublime",
+			"labels": ["formatting"],
+			"previous_names": ["ProtoBuf Code Formatter"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Protocol Buffer Syntax",
+			"details": "https://github.com/vihangm/sublime-protobuf-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PRQL",
+			"details": "https://github.com/PRQL/sublime-prql",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pseudo Block Mode",
+			"details": "https://github.com/guija/pseudo_block_mode",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PSLHighlight",
+			"details": "https://github.com/jewelzqiu/PSLHighlight",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PSS",
+			"details": "https://github.com/blutsvente/PSS-DSL-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3187",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pue Syntax Highlight",
+			"details": "https://github.com/QingWei-Li/pue-syntax-highlight",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pug",
+			"details": "https://github.com/davidrios/pug-tmbundle",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pumpkin Color Scheme",
+			"details": "https://github.com/afonsopacifer/pumpkin",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PunchMeInTheFace Color Scheme",
+			"details": "https://github.com/tashrifsanil/PunchMeInTheFace-Color-Scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Puppet",
+			"details": "https://github.com/russCloak/SublimePuppet",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Puppet Syntax checking",
+			"details": "https://github.com/Stubbs/sublime-puppet-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PureBasic",
+			"details": "https://github.com/p4t5h3/purebasic-language-for-sublime-text",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PureCM",
+			"details": "https://github.com/PureCM/Sublime-Text-2-PureCM-Plugin",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PureCSS",
+			"details": "https://github.com/TCattd/PureCSS-sublime",
+			"labels": ["auto-complete"],
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PureScript",
+			"details": "https://github.com/b123400/purescript-ide-sublime",
+			"labels": ["language syntax", "ide"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PureScript Syntax",
+			"details": "https://github.com/tellnobody1/sublime-purescript-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PurpleHaze",
+			"details": "https://github.com/klomontes/purple-haze-color-scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pushb",
+			"details": "https://github.com/geovanisouza92/Pushb",
+			"labels": ["pushbullet"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pushbullet",
+			"details": "https://github.com/xarnze/sublimepushbullet",
+			"labels": ["pushbullet"],
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PxRemTooltip",
+			"details": "https://github.com/tbremer/px-rem-tooltip-sublime",
+			"releases": [
+				{
+					"sublime_text": ">3070",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PxToEm",
+			"details": "https://github.com/ningbit/sublime_pxtoem",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyBuilder",
+			"details": "https://github.com/mriehl/sublime_pybuilder",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyCover",
+			"details": "https://github.com/perimosocordiae/PyCover",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyDOC",
+			"details": "https://github.com/chrissimpkins/PyDOC",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pygame Completions",
+			"details": "https://github.com/tushortz/Pygame-Completions",
+			"labels": ["completions", "python"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/biermeester/Pylinter",
+			"labels": ["linting"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Pymol Language",
+			"details": "https://github.com/bbarad/pymol_syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyNorm",
+			"details": "https://bitbucket.org/JeanMarcosDaRosa/pynorm_subl",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pynsist",
+			"details": "https://github.com/idleberg/sublime-pynsist",
+			"labels": ["build system", "language syntax", "nsis", "python"],
+			"releases": [
+				{
+					"sublime_text": ">=3103",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PypiPackageInfo",
+			"details": "https://github.com/gh640/SublimePypiPackageInfo",
+			"author": "Goto Hayato",
+			"labels": ["python", "package", "pypi", "requirements.txt", "pyproject.toml", "poetry", "pipfile", "pipenv"],
+			"releases": [
+				{
+					"sublime_text": ">=3124",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyQt Search",
+			"details": "https://github.com/achayan/sublimePyQtSearch",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PyQt5 Completions",
+			"details": "https://github.com/tushortz/PyQt5-Completions",
+			"labels": ["auto-complete", "completions", "snippets", "python"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyRefactor",
+			"details": "https://github.com/dnatag/PyRefactor",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PyRock",
+			"details": "https://github.com/abhishek72850/pyrock",
+			"author": "Abhishek Kumar",
+			"labels": ["auto-complete", "imports", "python", "python-import", "python-test", "pytest", "django-test"],
+			"releases": [
+				{
+					"sublime_text": ">4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyroCMS Snippets",
+			"details": "https://github.com/Dixens/sublime-text-pyrocms-snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PyScript",
+			"details": "https://github.com/Sublime-Instincts/PyScript",
+			"labels": ["language syntax", "python", "pyscript"],
+			"releases": [
+				{
+					"sublime_text": ">=4126",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PySide",
+			"details": "https://github.com/DamnWidget/SublimePySide",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PyTags",
+			"details": "https://github.com/qfel/sublime-pytags",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PyTest",
+			"details": "https://github.com/kaste/PyTest",
+			"labels": ["python", "pytest", "testing"],
+			"releases": [
+				{
+					"sublime_text": "<4000",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pytest Snippets",
+			"details": "https://github.com/sloria/sublime-pytest-snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python 3",
+			"details": "https://github.com/petervaro/python",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "python"
+				}
+			]
+		},
+		{
+			"name": "Python Anywhere Editor",
+			"details": "https://github.com/kutu/PythonAnywhereEditor",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Breakpoints",
+			"details": "https://github.com/obormot/PythonBreakpoints",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Checker",
+			"details": "https://github.com/patrys/PythonChecker",
+			"labels": ["linting"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Completions",
+			"details": "https://github.com/eliquious/Python-Auto-Complete",
+			"labels": ["completions", "python"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Computer Vision Snippets",
+			"details": "https://github.com/futureprogrammer360/Python-Computer-Vision-Snippets",
+			"labels": ["auto-complete", "completions", "snippets", "computer vision", "python"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Create Package",
+			"details": "https://github.com/curaloucura/SublimePythonPackage",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Data Science Snippets",
+			"details": "https://github.com/futureprogrammer360/Python-Data-Science-Snippets",
+			"labels": ["auto-complete", "completions", "snippets", "data science", "python"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Debugger",
+			"details": "https://github.com/matiasmorant/SublimeDebugger",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Fix Imports",
+			"details": "https://github.com/gsemet/python-fiximports",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Flake8 Lint",
+			"details": "https://github.com/dreadatour/Flake8Lint",
+			"labels": ["linting"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Import Magic",
+			"details": "https://github.com/alecthomas/SublimePythonImportMagic",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Imports Sorter",
+			"details": "https://github.com/vi4m/sublime_python_imports",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Improved",
+			"details": "https://github.com/MattDMo/PythonImproved",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Nose Testing Snippets",
+			"details": "https://github.com/sloria/sublime-nose-snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Open Module (New)",
+			"details": "https://github.com/Mimino666/SublimeText2-python-open-module-new",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Output Format",
+			"details": "https://github.com/Tenzer/PythonOutputFormat",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Path to Clipboard",
+			"details": "https://github.com/Mimino666/SublimeText2-python-package-to-clipboard",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python PEP8 Indent",
+			"details": "https://github.com/bperriot/python_PEP8_indent",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Pep8 Lint",
+			"details": "https://github.com/dreadatour/Pep8Lint",
+			"labels": ["linting"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Pretty Print",
+			"details": "https://github.com/peterdemin/SublimePPrint",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python Unittest Helper",
+			"details": "https://github.com/dnatag/SublimePyunit",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Python Web Scraping Snippets",
+			"details": "https://github.com/futureprogrammer360/Python-Web-Scraping-Snippets",
+			"labels": ["auto-complete", "completions", "snippets", "python", "web scraping"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "python-black",
+			"details": "https://github.com/thep0y/python-black",
+			"labels": ["formatting"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Python2UnicodeFixer",
+			"details": "https://github.com/allieus/Python2UnicodeFixer",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PythonNiceToHaveFeatures",
+			"details": "https://github.com/monobot/PythonNiceToHaveFeatures",
+			"labels": ["python", "refactor", "relative path", "package path", "path"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/PythonOpenModule",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PythonStautsBarShowSymbol",
+			"details": "https://github.com/scriptkitz/PythonStautsBarShowSymbol",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PythonTest",
+			"details": "https://github.com/jpellerin/PythonTestST3",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PythonTidy",
+			"details": "https://github.com/witsch/SublimePythonTidy",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PythonTraceback",
+			"details": "https://github.com/kedder/sublime-python-traceback",
+			"labels": ["file navigation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PythonVoiceCodingPlugin",
+			"details": "https://github.com/mpourmpoulis/PythonVoiceCodingPlugin",
+			"labels": ["voice coding", "accessibility", "syntax tree", "python", "grammar", "high level"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/Pywin32",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": "windows",
+					"tags": "st3-"
+				}
+			]
+		},
+		{
+			"name": "Pyxl syntax",
+			"details": "https://github.com/yyjhao/sublime-pyxl",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PyYapf Python Formatter",
+			"details": "https://github.com/jason-kane/PyYapf",
+			"labels": ["formatting", "python"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PzFormat",
+			"details": "https://github.com/pandazki/pzformat",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}

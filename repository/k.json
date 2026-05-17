@@ -1,0 +1,620 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "K Framework",
+			"details": "https://github.com/Zhomart/kframework-Sublime-Plugin",
+			"labels": ["language syntax", "kframework"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "KABEMS",
+			"details": "https://github.com/konstantin24121/sublime-kabems",
+			"labels": ["kabems", "bem", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kahlan PHP Snippets",
+			"details": "https://github.com/geryguilbon/sublime_kahlan_snippets",
+			"labels": ["snippets", "kahlan", "tdd", "framework", "php"],
+			"author": "gguilbon",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kamailio Config",
+			"details": "https://github.com/igorolhovskiy/kamailio-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KanaKana",
+			"details": "https://github.com/mitsu-ksgr/KanaKana",
+			"labels": ["japanese", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kattis",
+			"details": "https://github.com/matys18/sublime_kattis",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kconfig Syntax Highlight",
+			"details": "https://github.com/fallrisk/Kconfig-Highlighter",
+			"labels": ["kconfig", "language syntax", "kernel config"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KCPS Theme",
+			"details": "https://github.com/KCPS/st3-theme-kcps",
+			"labels": ["kcps", "color scheme", "theme"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "kdesrc-build",
+			"details": "https://github.com/ratijas/kdesrc-build-sublime",
+			"labels": ["completions", "language syntax", "snippets", "kde"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KDL",
+			"details": "https://github.com/eugenesvk/sublime-KDL",
+			"labels": ["kdl", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Keep Lines With Word",
+			"details": "https://github.com/qianhk/KeepLinesWithWord",
+			"labels": ["text manipulation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Keep Open On Last Tab Close",
+			"details": "https://github.com/vprimachenko/Sublime2KeepOpen",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "KeepPastedTextSelected",
+			"details": "https://github.com/evandrocoan/KeepPastedTextSelected",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kellys Color Scheme",
+			"details": "https://github.com/maxhoffmann/Kellys",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Keras",
+			"details": "https://github.com/MartinThoma/SublimeKeras",
+			"author": "Martin Thoma",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kerbal Space Program Configuration Syntax",
+			"details": "https://github.com/NathanJang/KSP-tmLanguage",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KeybindingHelper",
+			"details": "https://github.com/r-stein/sublime-text-keybinding-helper",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": ">=3000",
+					"tags": "st3-"
+				}
+			]
+		},
+		{
+			"name": "KeyboardNavigation",
+			"details": "https://github.com/robertcollier4/KeyboardNavigation",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KeyboardSpellCheck",
+			"details": "https://github.com/jlknuth/KeyboardSpellCheck",
+			"labels": ["spell check", "vintage", "vi", "google"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KeymapEnhanced",
+			"details": "https://github.com/shagabutdinov/sublime-keymap-enhanced",
+			"labels": ["sublime-enhanced", "keymap"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/welefen/KeymapManager",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Keymaps",
+			"details": "https://github.com/MiroHibler/sublime-keymaps",
+			"labels": ["keymap", "cheat sheet"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Khan",
+			"details": "https://github.com/gerardroche/sublime-khan",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kick Assembler (C64)",
+			"details": "https://github.com/Swoffa/SublimeKickAssemblerC64",
+			"labels": ["build system", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kickoff Snippets",
+			"details": "https://github.com/trykickoff/Kickoff-snippets",
+			"labels": ["completions", "html", "css", "sass", "js", "javascript"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kimbie Color Scheme",
+			"details": "https://github.com/idleberg/Kimbie.tmTheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Kirby2 CMS Snippets",
+			"details": "https://github.com/mauricerenck/sublime-kirby2",
+			"labels": ["completions", "snippets", "php"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kirikae",
+			"details": "https://github.com/dvcrn/sublime-kirikae",
+			"labels": ["tab"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kite Python Autocomplete",
+			"details": "https://github.com/kiteco/KiteSublime",
+			"labels": ["auto-complete", "documentation", "snippets", "python"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kivy Language",
+			"details": "https://github.com/ivlevdenis/kivylng",
+			"labels": ["auto-complete", "build system", "language syntax", "snippets"],
+			"author": "ivlevdenis",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KIXtart",
+			"details": "https://github.com/vipex/KIXtart.tmLanguage",
+			"labels": ["build system", "language syntax", "snippets", "kix"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "klog",
+			"details": "https://github.com/jotaen/klog-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "knitr",
+			"details": "https://github.com/andrewheiss/SublimeKnitr",
+			"labels": ["language syntax", "knitr", "latex", "r", "markdown"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/aziz/knockdown",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/SublimeText/KnowledgeBase",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Koala",
+			"details": "https://github.com/magneto538/Koala",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Koala - Snippets",
+			"details": "https://github.com/magneto538/Koala-snippets",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kodery",
+			"details": "https://github.com/tgvashworth/sublime.kodery",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KodiDevKit",
+			"details": "https://github.com/MikeSiLVO/KodiDevKit",
+			"donate": "https://ko-fi.com/mikesilvo",
+			"labels": ["auto-complete", "completions", "language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kohana 2.x Snippets",
+			"details": "https://github.com/golf3gtiii/Kohana234-sublimeText2-plugin",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Kohana 3 Snippets",
+			"details": "https://bitbucket.org/temperedvision/sublime-kohana3",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Koken",
+			"details": "https://github.com/koken/koken-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "KoLMafia ASH Syntax",
+			"details": "https://github.com/digitrev/KoLMafiaAshSyntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kotlin",
+			"details": "https://github.com/vkostyukov/kotlin-sublime-package",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Koto",
+			"details": "https://github.com/koto-lang/koto-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KRL (Kinetic Rule Language) Syntax",
+			"details": "https://github.com/drautb/krl-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KRL (Kinetic Rule Language) Validator",
+			"details": "https://github.com/trevordixon/sublime-krl-validator",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Kroman",
+			"details": "https://github.com/zhangkaiyulw/kroman-sublime",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KSP (Kontakt Script Processor)",
+			"details": "https://github.com/nojanath/SublimeKSP",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KSQL Syntax Highlighter",
+			"details": "https://github.com/blueedgenick/sublime-ksql",
+			"labels": ["language syntax", "ksql", "sql"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KuaiJi",
+			"details": "https://github.com/ChengAnXu2014/KuaiJi",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kubernetes Manifest autocomplete",
+			"details": "https://github.com/xr1337/sublime-kubernetes-autocomplete",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kulture",
+			"details": "https://github.com/OmniSharp/Kulture",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "release"
+				}
+			]
+		},
+		{
+			"name": "Kung Fury",
+			"details": "https://github.com/argyleink/Kung-Fury-Theme",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kusto Syntax Highlighter",
+			"details": "https://github.com/mmanela/kusto-sublime",
+			"labels": ["language syntax", "kusto", "azure"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Kustom Color Schemes",
+			"details": "https://github.com/kcmr/Kustom-Color-Schemes",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "KWrite Color Scheme",
+			"details": "https://github.com/daris/sublime-kwrite-color-scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		}
+	]
+}

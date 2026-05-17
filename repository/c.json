@@ -3831,6 +3831,16 @@
 			]
 		},
 		{
+			"name": "Copy Python Import",
+			"details": "https://github.com/odiroot/copy_python_import",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Copy Relative Command",
 			"details": "https://github.com/patoui/CopyRelativeCommand",
 			"releases": [

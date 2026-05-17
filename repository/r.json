@@ -950,6 +950,17 @@
 			]
 		},
 		{
+			"name": "RemoteSync",
+			"details": "https://github.com/NeloGH/RemoteSync",
+			"labels": ["ftp", "sftp", "sync", "remote"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RemoteTree",
 			"details": "https://github.com/deNULL/RemoteTree",
 			"releases": [

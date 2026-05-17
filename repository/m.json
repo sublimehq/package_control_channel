@@ -1828,6 +1828,10 @@
 			"labels": ["formatting", "syntax", "indention", "modeline"],
 			"releases": [
 				{
+					"sublime_text": "<4135",
+					"tags": "st3/"
+				},
+				{
 					"sublime_text": ">=4135",
 					"tags": "st4135/"
 				}

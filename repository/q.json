@@ -361,6 +361,22 @@
 			]
 		},
 		{
+			"name": "Quokka",
+			"details": "https://github.com/wallabyjs/sublime-text-releases",
+			"description": "Live Scratchpad for JavaScript.",
+			"author": "Wallaby.js",
+			"readme": "https://quokkajs.com/sublime/readme.md",
+			"homepage": "https://quokkajs.com",
+			"buy": "https://quokkajs.com/purchase",
+			"labels": ["scratchpad", "playground", "javascript", "typescript", "repl"],
+			"releases": [
+				{
+					"asset": "Quokka.sublime-package",
+					"tags": "Quokka-"
+				}
+			]
+		},
+		{
 			"name": "Quote With Marker",
 			"author": "Denny Korsukéwitz",
 			"details": "https://github.com/dennykorsukewitz/Sublime-QuoteWithMarker",

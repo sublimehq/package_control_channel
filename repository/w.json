@@ -44,6 +44,22 @@
 			]
 		},
 		{
+			"name": "Wallaby",
+			"details": "https://github.com/wallabyjs/sublime-text-releases",
+			"description": "Super fast test runner with realtime time code coverage for JavaScript.",
+			"author": "Wallaby.js",
+			"readme": "https://wallabyjs.com/sublime/readme.md",
+			"homepage": "https://wallabyjs.com/sublime/readme.md",
+			"buy": "https://wallabyjs.com/purchase",
+			"labels": ["javascript", "testing"],
+			"releases": [
+				{
+					"asset": "Wallaby.sublime-package",
+					"tags": "Wallaby-"
+				}
+			]
+		},
+		{
 			"name": "Wanderlei Color Scheme",
 			"details": "https://github.com/JeremySaks/wanderlei-color-scheme",
 			"labels": ["color scheme"],

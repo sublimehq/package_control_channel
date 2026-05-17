@@ -3,6 +3,18 @@
 	"schema_version": "4.0.0",
 	"packages": [
 		{
+			"name": "=BB= LSL",
+			"author": "Builder's Brewery (buildersbrewery)",
+			"details": "https://github.com/buildersbrewery/sublime-lsl",
+			"labels": ["language syntax", "snippets", "color scheme", "linting", "auto-complete", "build system", "completions", "editor emulation", "code style"],
+			"releases": [
+				{
+					"sublime_text": ">=4073",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "B Syntax Highlighting",
 			"details": "https://github.com/baleyko/sublime-b-syntax-highlighting",
 			"labels": ["language syntax", "snippets"],

@@ -1,0 +1,123 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "0x0",
+			"details": "https://github.com/axsuul/sublime-0x0",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "10% Too Dull for My Tastes Color Scheme",
+			"details": "https://github.com/scotch-io/10-percent-too-dull-for-my-tastes",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "1337 Color Scheme",
+			"details": "https://github.com/MarkMichos/1337-Scheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "2pdf",
+			"details": "https://github.com/fraoustin/Sublime2pdf",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "3024 Color Scheme",
+			"details": "https://github.com/idleberg/3024.tmTheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "3D Tool (Async Burst-Mode)",
+			"details": "https://github.com/leoheck/sublime-3d-tool/",
+			"labels": ["3d-tool", "burst-mode", "async"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "3v4l Uploader",
+			"details": "https://github.com/onlineth/3v4l_Uploader/",
+			"labels": ["php", "share", "file", "code", "upload"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "42 Function Count Lines",
+			"details": "https://github.com/DoKca42/42_sublime_ft_count_line",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "42 Headers",
+			"details": "https://github.com/Globidev/Sublime-Text-42-Headers",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "4GL",
+			"details": "https://github.com/skarcha/SublimeText2-4GL",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "65816",
+			"details": "https://github.com/ksherlock/65816.tmbundle",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		}
+	]
+}

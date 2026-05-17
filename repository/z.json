@@ -1,0 +1,344 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Z",
+			"details": "https://github.com/externl/sublime-z",
+			"labels": ["z", "z jump", "directory", "open directory"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Z80 Assembly",
+			"details": "https://github.com/mrcook/Z80Assembly",
+			"labels": ["language syntax", "z80", "assembly"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://bitbucket.org/abraly/zap-gremlins",
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Zeal",
+			"details": "https://github.com/SublimeText/Zeal",
+			"author": ["vaanwd", "FichteFoll"],
+			"releases": [
+				{
+					"sublime_text": "<3170",
+					"tags": "st2-v"
+				},
+				{
+					"sublime_text": ">=3170",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zeek Language",
+			"details": "https://github.com/zeek/zeek-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ZeitgeistLogger",
+			"details": "https://github.com/jolivares/sublime-zeitgeist-logger",
+			"labels": ["zeitgeist"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": "linux",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zen Language",
+			"details": "https://github.com/zenlang/sublime-zen",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zen Tabs",
+			"details": "https://github.com/travmik/ZenTabs",
+			"labels": ["utilities", "tab manipulation", "zen"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zen2Han",
+			"details": "https://github.com/KazIgu/sublime-zen2han",
+			"labels": ["text manipulation", "japanese"],
+			"releases": [
+				{
+					"sublime_text": ">2999",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zenoss",
+			"details": "https://github.com/cluther/SublimeZenoss",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ZenScript",
+			"details": "https://github.com/way2muchnoise/ZenScript-Highlighter",
+			"labels": ["completions", "language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zephir",
+			"details": "https://github.com/zephir-lang/zephir-sublime",
+			"author": "The Phalcon Team",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Zeus",
+			"details": "https://github.com/zaynali53/Zeus-Theme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zig Language",
+			"details": "https://github.com/ziglang/sublime-zig-language",
+			"labels": ["language syntax", "zig"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ZigUnofficial",
+			"details": "https://github.com/aidenfoxivey/sublime-zig-unofficial",
+			"labels": ["language syntax", "zig"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zimpl",
+			"details": "https://github.com/joneshf/sublime-zimpl",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ZipContents",
+			"details": "https://github.com/mawelborn/ZipContents",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zissou Color Schemes",
+			"details": "https://github.com/idleberg/Zissou.tmTheme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Zmpl",
+			"details": "https://github.com/uzyn/zmpl-grammar",
+			"author": "U-Zyn Chua",
+			"labels": ["zmpl", "zig", "jetzig", "language syntax", "html", "markdown"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "zmq",
+			"details": "https://github.com/reqshark/sublimezmq",
+			"labels": ["zeromq", "binding", "zmq"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx", "linux"],
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Znuny",
+			"details": "https://github.com/znuny/Znuny-Sublime",
+			"author": "Znuny GmbH",
+			"labels": ["snippets", "perl", "znuny"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "zoneinfo",
+			"details": "https://github.com/gilmoreorless/sublime-zoneinfo",
+			"labels": ["language syntax", "tz", "tzdb", "time zone", "olson"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ZPL Syntax",
+			"details": "https://github.com/tonylegrone/sublime-zpl-highlighting",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ZScript",
+			"details": "https://bitbucket.org/sonictk/sublime_zscript",
+			"description": "ZBrush ZScript syntax highlighter for Sublime Text",
+			"labels": ["auto-complete", "language syntax", "snippets"],
+			"author": "Siew Yi Liang",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ZSH",
+			"details": "https://github.com/molovo/sublime-zsh",
+			"description": "Native ZSH autocompletion and snippets for sublime text",
+			"labels": ["auto-complete", "snippets"],
+			"author": "James Dinsdale",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zukan Icon Theme",
+			"details": "https://github.com/53v3n3d4/Zukan-Icon-Theme",
+			"labels": ["theme", "file", "icons"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zurb Foundation",
+			"details": "https://github.com/ronydebnath/Sublime-Foundation",
+			"labels": ["automation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Zurb Foundation 4 Snippets",
+			"details": "https://github.com/liamr/Zurb-Foundation-Textmate-Bundle",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Zurb Ink Snippets",
+			"details": "https://github.com/christianrojas/zurb-ink-sublime-snippets",
+			"labels": ["snippets", "responsive", "email", "ink"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Zxx",
+			"details": "https://gitlab.com/zxxlang/ZxxSublime",
+			"labels": ["language syntax", "zxx"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		}
+	]
+}

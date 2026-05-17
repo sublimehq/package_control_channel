@@ -517,6 +517,16 @@
 			]
 		},
 		{
+			"name": "DeleteBlankLines",
+			"details": "https://github.com/NicholasBuse/sublime_DeleteBlankLines",
+			"author": "Nicholas Buse",
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Delphi IDE",
 			"details": "https://github.com/JeisonJHA/Delphi-IDE",
 			"labels": ["delphi", "ide"],

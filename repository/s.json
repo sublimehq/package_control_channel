@@ -3135,6 +3135,17 @@
 			]
 		},
 		{
+			"name": "SREC",
+			"details": "https://github.com/NicholasBuse/srec_syntax",
+			"author": "Nicholas Buse",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SRT",
 			"details": "https://github.com/SalGnt/Sublime-SRT",
 			"author": "Salvatore Gentile",

@@ -336,6 +336,18 @@
 			]
 		},
 		{
+			"name": "Makinda Themes",
+			"details": "https://github.com/makinda-jackson/makinda-sublime",
+			"labels": ["color scheme", "theme", "light", "dark", "orange"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["*"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Man Page Support",
 			"details": "https://github.com/carsonoid/sublime_man_page_support",
 			"labels": ["language syntax", "snippets"],

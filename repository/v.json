@@ -571,6 +571,21 @@
 			]
 		},
 		{
+			"name": "Viv",
+			"details": "https://github.com/siftystudio/viv",
+			"author": "Sifty",
+			"issues": "https://github.com/siftystudio/viv/issues?q=is%3Aissue+is%3Aopen+label%3Asublime",
+			"donate": "https://ko-fi.com/siftystudio",
+			"labels": ["language syntax", "build system", "completions", "snippets", "color scheme", "dsl", "narrative", "simulation", "gamedev"],
+			"releases": [
+				{
+					"asset": "Viv.sublime-package",
+					"sublime_text": ">=3149",
+					"tags": "sublime-v"
+				}
+			]
+		},
+		{
 			"name": "vm4docker",
 			"details": "https://github.com/yvess/sublime_vm4docker",
 			"releases": [

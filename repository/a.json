@@ -2152,6 +2152,17 @@
 			]
 		},
 		{
+			"name": "Atlas Ragnarok Color Scheme",
+			"details": "https://github.com/AyoubTadlaoui/atlas-ragnarok",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": "st-"
+				}
+			]
+		},
+		{
 			"name": "Atomic Color Scheme",
 			"details": "https://github.com/gerardbm/Sublime-Atomic-Scheme",
 			"labels": ["color scheme"],

@@ -235,6 +235,17 @@
 			]
 		},
 		{
+			"name": "Calendar Popup",
+			"labels": ["calendar", "utilities"],
+			"details": "https://github.com/blalor/SublimeCalendarPopup",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Can I Use",
 			"details": "https://github.com/Azd325/sublime-text-caniuse",
 			"labels": ["caniuse"],

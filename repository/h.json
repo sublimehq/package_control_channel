@@ -385,6 +385,18 @@
 			]
 		},
 		{
+			"name": "HDL Project",
+			"details": "https://github.com/bootsiaz/sublime-hdlproject",
+			"author": "Andrew Carter",
+			"labels": ["vhdl", "verilog", "fpga", "rtl", "hdl", "vivado", "quartus", "efinity"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "HDL Syntax Highlighting",
 			"details": "https://github.com/shreyasminocha/Sublime-HDL",
 			"labels": ["language syntax"],

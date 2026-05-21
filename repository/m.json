@@ -1733,7 +1733,7 @@
 			"name": "Minify on Save",
 			"details": "https://github.com/eltonvs/sublime-minify-on-save",
 			"author": "eltonvs",
-			"labels": ["automatization", "minify"],
+			"labels": ["automation", "minify"],
 			"releases": [
 				{
 					"sublime_text": "*",

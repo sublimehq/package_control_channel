@@ -125,7 +125,7 @@
 		{
 			"name": "LanguagePortuguese",
 			"details": "https://github.com/gusbemacbe/LanguagePortuguese",
-			"labels": ["spell check", "brasil", "brazil", "brazilian", "dicionário", "dictionnary", "português", "portuguese", "portugal"],
+			"labels": ["spell check", "brasil", "brazil", "brazilian", "dicionário", "dictionary", "português", "portuguese", "portugal"],
 			"releases": [
 				{
 					"sublime_text": "*",

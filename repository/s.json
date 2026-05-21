@@ -546,7 +546,7 @@
 		{
 			"name": "Scold",
 			"details": "https://github.com/Xion/SublimeScold",
-			"labels": ["code_sharing", "email", "remote_collaboration"],
+			"labels": ["code sharing", "email", "remote collaboration"],
 			"releases": [
 				{
 					"sublime_text": "<3000",
@@ -5621,7 +5621,7 @@
 		{
 			"name": "Swan",
 			"details": "https://github.com/efe-blue/Swan",
-			"labels": ["language syntax", "auto-complete", "swan", "miniapp", "smartprogramer"],
+			"labels": ["language syntax", "auto-complete", "swan", "miniapp", "smartprogram"],
 			"releases": [
 				{
 					"sublime_text": ">=3143",

@@ -502,7 +502,7 @@
 		{
 			"name": "Fight Color Scheme",
 			"details": "https://github.com/ghyatzo/fight-color-scheme",
-			"labels": ["color-scheme", "light", "dark"],
+			"labels": ["color scheme", "light", "dark"],
 			"releases": [
 				{
 					"sublime_text": "*",

@@ -282,6 +282,17 @@
 			]
 		},
 		{
+			"name": "Tahcia Script Sync",
+			"details": "https://github.com/tahcia/sublime_text",
+			"labels": ["automation", "scripting", "json", "remote execution"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Tailwind CSS",
 			"details": "https://github.com/SublimeText/TailwindCSS",
 			"labels": ["language syntax"],

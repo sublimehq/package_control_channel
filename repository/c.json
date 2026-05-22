@@ -3493,6 +3493,16 @@
 			]
 		},
 		{
+			"name": "ConfigHighlight",
+			"details": "https://github.com/pakhromov/ConfigHighlight",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Confluence",
 			"details": "https://github.com/mlf4aiur/SublimeConfluence",
 			"author": "Kevin Li",

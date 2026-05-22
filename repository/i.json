@@ -757,15 +757,15 @@
 		},
 		{
 			"name": "InlineGitBlame",
-		    "details": "https://github.com/akostoth02/ST-InlineGitBlame",
-		  	"labels": ["git", "blame", "inline", "annotation"],
-	  		"releases": [
-		  		{
-			  		"sublime_text": ">=4000",
-			  		"tags": true
-			  	}
-	  		]
-	  	},
+			"details": "https://github.com/akostoth02/ST-InlineGitBlame",
+			"labels": ["git", "blame", "inline", "annotation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
 		{
 			"name": "InlineOutline",
 			"details": "https://github.com/kaste/InlineOutline",

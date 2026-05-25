@@ -450,19 +450,6 @@
 			]
 		},
 		{
-			"name": "Open Finder",
-			"details": "https://github.com/kallepersson/Sublime-Finder",
-			"description": "Provides a command for opening Finder in the current directory",
-			"author": "Kalle Persson",
-			"labels": ["file navigation", "finder"],
-			"releases": [
-				{
-					"platforms": ["osx"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Open Folder",
 			"details": "https://github.com/mikepfirrmann/openfolder",
 			"labels": ["file navigation"],

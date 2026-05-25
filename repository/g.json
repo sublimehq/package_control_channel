@@ -1900,7 +1900,7 @@
 		{
 			"name": "Grun Colour Scheme",
 			"details": "https://github.com/SimonImbrogno/Grun",
-			"labels": ["colour scheme", "dark", "dim", "green"],
+			"labels": ["color scheme", "colour scheme", "dark", "dim", "green"],
 			"releases": [
 				{
 					"tags": true

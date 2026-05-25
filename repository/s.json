@@ -4752,7 +4752,7 @@
 		{
 			"name": "Swan",
 			"details": "https://github.com/efe-blue/Swan",
-			"labels": ["language syntax", "auto-complete", "swan", "miniapp", "smartprogramer"],
+			"labels": ["language syntax", "auto-complete", "swan", "miniapp", "smartprogram"],
 			"releases": [
 				{
 					"tags": true

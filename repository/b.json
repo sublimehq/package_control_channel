@@ -1338,6 +1338,17 @@
 			]
 		},
 		{
+            "name": "Borliana Color Scheme",
+            "details": "https://github.com/Avijit-1234/Borliana-Theme",
+            "labels": ["color scheme", "dark", "minimalist"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+		{
 			"name": "Bottle",
 			"details": "https://github.com/eric-wieser/sublime-bottle",
 			"labels": ["language syntax", "snippets", "python"],

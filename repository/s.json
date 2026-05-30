@@ -1215,6 +1215,30 @@
 			]
 		},
 		{
+			"name": "Sequoia Theme",
+			"description": "Sequoia color schemes for Sublime Text — Moonlight, Monochrome, and Retro (dark and light).",
+			"details": "https://github.com/Sequoia-Theme/sublime-text",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Serendipity Theme",
+			"description": "Serendipity color schemes for Sublime Text — Midnight, Morning, and Sunset.",
+			"details": "https://github.com/Serendipity-Theme/sublime-text",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/facelessuser/SerializedDataConverter",
 			"releases": [
 				{

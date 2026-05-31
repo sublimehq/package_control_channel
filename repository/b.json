@@ -1338,16 +1338,16 @@
 			]
 		},
 		{
-            "name": "Borliana Color Scheme",
-            "details": "https://github.com/Avijit-1234/Borliana-Color-Scheme",
-            "labels": ["color scheme", "dark", "minimalist"],
-            "releases": [
-                {
-                    "sublime_text": "*",
-                    "tags": true
-                }
-            ]
-        },
+			"name": "Borliana Color Scheme",
+			"details": "https://github.com/Avijit-1234/Borliana-Color-Scheme",
+			"labels": ["color scheme", "dark", "minimalist"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
 		{
 			"name": "Bottle",
 			"details": "https://github.com/eric-wieser/sublime-bottle",

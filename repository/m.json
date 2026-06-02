@@ -685,6 +685,18 @@
 			]
 		},
 		{
+			"name": "MarkdownImagePaste",
+			"details": "https://github.com/vjeantet/sublime-image-paste",
+			"labels": ["markdown", "image", "clipboard", "paste"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/sekogan/MarkdownLight",
 			"labels": ["language syntax", "markdown"],
 			"releases": [

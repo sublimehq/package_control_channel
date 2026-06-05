@@ -1335,7 +1335,7 @@
 			]
 		},
 		{
-			"name": "ES|QL",
+			"name": "ESQL",
 			"details": "https://github.com/elastic/esql-syntax",
 			"labels": ["language syntax"],
 			"releases": [

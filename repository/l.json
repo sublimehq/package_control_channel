@@ -1423,6 +1423,17 @@
 			]
 		},
 		{
+			"name": "LLM",
+			"details": "https://github.com/tonylchang/sublime-llm",
+			"labels": ["ai", "llm", "chat"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "LLVM",
 			"details": "https://github.com/whitequark/llvm.tmbundle",
 			"labels": ["language syntax"],

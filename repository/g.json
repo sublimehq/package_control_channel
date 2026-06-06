@@ -1308,18 +1308,6 @@
 			]
 		},
 		{
-			"name": "GoEscape",
-			"details": "https://bitbucket.org/shellzen/goescape",
-			"labels": ["go"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"platforms": ["linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/Manrich121/goFindCallers",
 			"labels": ["go"],
 			"releases": [

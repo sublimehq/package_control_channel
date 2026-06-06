@@ -2,17 +2,6 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "W2P",
-			"details": "https://bitbucket.org/kfog/w2p",
-			"labels": ["web2py"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "W3CValidators",
 			"details": "https://github.com/ericsorenson/Sublime-W3CValidators",
 			"labels": ["html", "svg", "validation"],

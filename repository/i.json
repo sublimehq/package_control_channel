@@ -580,12 +580,12 @@
 		},
 		{
 			"name": "Indent XML",
-			"details": "https://github.com/alek-sys/sublimetext_indentxml",
+			"details": "https://github.com/braver/IndentXML",
 			"labels": ["indentation", "xml"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -1300,6 +1300,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ISF",
+			"details": "https://github.com/newrosesystems/isf-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
 					"tags": true
 				}
 			]

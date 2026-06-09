@@ -81,6 +81,17 @@
 			]
 		},
 		{
+			"name": "Abrase",
+			"details": "https://github.com/KHN190/Abrase-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Abstract Markup Language",
 			"details": "https://github.com/abstractmarkup/sublimetext",
 			"labels": ["build system", "language syntax", "snippets"],
@@ -2148,6 +2159,17 @@
 				{
 					"sublime_text": ">=3092",
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Atlas Ragnarok Color Scheme",
+			"details": "https://github.com/AyoubTadlaoui/atlas-ragnarok",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": "st-"
 				}
 			]
 		},

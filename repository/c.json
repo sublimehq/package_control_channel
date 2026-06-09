@@ -2,6 +2,18 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"name": "C Family Rewrite (C23 and C++23)",
+			"details": "https://github.com/camila314/C-Family-Rewrite",
+			"labels": ["language syntax", "c", "c++", "objc", "objc++", "objective-c"],
+			"description": "Complete modern rewrite of C/C++/ObjC/ObjC++ syntax",
+			"releases": [
+				{
+					"sublime_text": ">=4199",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "C Improved",
 			"details": "https://github.com/abusalimov/SublimeCImproved",
 			"labels": ["language syntax", "c"],
@@ -230,6 +242,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Calendar Popup",
+			"labels": ["calendar", "utilities"],
+			"details": "https://github.com/blalor/SublimeCalendarPopup",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -2305,6 +2328,19 @@
 			]
 		},
 		{
+			"name": "CodeShot",
+			"details": "https://github.com/yasinahmed/CodeShot",
+			"author": "Yasin Jagral",
+			"labels": ["code", "screenshot", "clipboard", "windows"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},		
+		{
 			"name": "CodeStats",
 			"details": "https://github.com/code-stats/code-stats-sublime",
 			"labels": ["analytics", "statistics"],
@@ -3817,6 +3853,16 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Copy Python Import",
+			"details": "https://github.com/odiroot/copy_python_import",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
 				}
 			]
 		},

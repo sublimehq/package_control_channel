@@ -1308,18 +1308,6 @@
 			]
 		},
 		{
-			"name": "GoEscape",
-			"details": "https://bitbucket.org/shellzen/goescape",
-			"labels": ["go"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"platforms": ["linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/Manrich121/goFindCallers",
 			"labels": ["go"],
 			"releases": [
@@ -2257,7 +2245,7 @@
 		{
 			"name": "Grun Colour Scheme",
 			"details": "https://github.com/SimonImbrogno/Grun",
-			"labels": ["colour scheme", "dark", "dim", "green"],
+			"labels": ["color scheme", "colour scheme", "dark", "dim", "green"],
 			"releases": [
 				{
 					"sublime_text": "*",

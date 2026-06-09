@@ -11,6 +11,7 @@ A human will be reviewing the package and assess both the quality of the package
 - Provide the requested information, but no more.
 - Follow the indentation and overall formatting of the existing JSON files.
 - Insert the new package in alphabetical order.
+- If in trouble, use the formatter under `tools/` (see `tools/README.md`).
 - Refer to https://docs.sublimetext.io/guide/package-control/submitting.html for more details.
 
 ### Do not

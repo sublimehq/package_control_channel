@@ -2003,6 +2003,17 @@
 			]
 		},
 		{
+			"name": "GrADS",
+			"details": "https://github.com/fox91/GrADS-Sublime-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Grails",
 			"details": "https://github.com/osoco/sublimetext-grails",
 			"labels": ["auto-complete", "language syntax", "framework support"],

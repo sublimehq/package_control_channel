@@ -114,6 +114,17 @@
 			]
 		},
 		{
+			"name": "AccentLetters",
+			"details": "https://github.com/CJayM/AccentLetters",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Accessibility",
 			"details": "https://github.com/Yago/ST3-Accessibility",
 			"releases": [

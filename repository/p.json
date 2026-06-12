@@ -979,6 +979,17 @@
 			]
 		},
 		{
+			"name": "PETSCII",
+			"details": "https://github.com/thinkyhead/PETSCII",
+			"labels": ["text manipulation", "unicode", "commodore 64", "c64"],
+			"releases": [
+				{
+					"sublime_text": ">=3084",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PgcliSublime",
 			"details": "https://github.com/darikg/PgcliSublime",
 			"releases": [

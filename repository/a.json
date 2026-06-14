@@ -14,6 +14,17 @@
 			]
 		},
 		{
+			"name": "A6s",
+			"details": "https://github.com/The-Autonoma/a6s-sublime",
+			"labels": ["ai", "tools", "code", "websocket"],
+			"releases": [
+				{
+					"sublime_text": ">=3211",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ABAP",
 			"details": "https://github.com/flaiker/abap-st3",
 			"labels": ["language syntax"],

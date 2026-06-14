@@ -22,7 +22,7 @@
 					"tags": true
 				}
 			]
-		},
+		},		
 		{
 			"name": "M68k Assembly",
 			"details": "https://github.com/stevenjs/M68k-Assembly",
@@ -476,6 +476,17 @@
 				}
 			]
 		},
+		{
+         	"name": "MarkdownAutoPreview",
+			"labels": ["markdown"],
+        	"details": "https://github.com/ghmainone/MarkdownAutoPreview",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+   		},
 		{
 			"name": "Markdown Code Blocks",
 			"details": "https://github.com/molnarmark/markdowncodeblocks",

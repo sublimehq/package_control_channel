@@ -1134,17 +1134,6 @@
 			]
 		},
 		{
-			"name": "GoEscape",
-			"details": "https://bitbucket.org/shellzen/goescape",
-			"labels": ["go"],
-			"releases": [
-				{
-					"platforms": ["linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Gofmt",
 			"details": "https://github.com/noonat/sublime-gofmt",
 			"labels": ["go"],
@@ -1689,6 +1678,17 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "GrADS",
+			"details": "https://github.com/fox91/GrADS-Sublime-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
 					"tags": true
 				}
 			]

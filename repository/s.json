@@ -1025,6 +1025,26 @@
 			]
 		},
 		{
+			"name": "Sequoia Color Scheme",
+			"details": "https://github.com/Sequoia-Theme/sublime-text",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Serendipity Color Scheme",
+			"details": "https://github.com/Serendipity-Theme/sublime-text",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/facelessuser/SerializedDataConverter",
 			"releases": [
 				{

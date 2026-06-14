@@ -75,6 +75,16 @@
 			]
 		},
 		{
+			"name": "Abrase",
+			"details": "https://github.com/KHN190/Abrase-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Abstract Markup Language",
 			"details": "https://github.com/abstractmarkup/sublimetext",
 			"labels": ["build system", "language syntax", "snippets"],

@@ -1314,7 +1314,7 @@
 		},
 		{
 			"name": "Clickable URLs",
-			"details": "https://github.com/leonid-shevtsov/ClickableUrls_SublimeText",
+			"details": "https://github.com/pakhromov/ClickableUrls",
 			"releases": [
 				{
 					"tags": true

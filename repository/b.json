@@ -1133,6 +1133,16 @@
 			]
 		},
 		{
+			"name": "Borliana Color Scheme",
+			"details": "https://github.com/Avijit-1234/Borliana-Color-Scheme",
+			"labels": ["color scheme", "dark", "minimalist"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Bottle",
 			"details": "https://github.com/eric-wieser/sublime-bottle",
 			"labels": ["language syntax", "snippets", "python"],
@@ -1295,16 +1305,6 @@
 			"name": "BreakLines",
 			"details": "https://github.com/Moojuiceman/BreakLines",
 			"labels": ["break", "group", "split", "separate", "lines"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Brevis Autocomplete",
-			"details": "https://github.com/dlzi/brevis-autocomplete",
-			"labels": ["auto-complete", "language syntax"],
 			"releases": [
 				{
 					"tags": true

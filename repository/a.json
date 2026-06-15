@@ -2271,20 +2271,6 @@
 			]
 		},
 		{
-			"name": "AutoAppearance",
-			"details": "https://github.com/platformengineer/autoappearance",
-			"author": ["navisidhu"],
-			"issues": "https://bitbucket.org/Clams/smartvhdl/issues",
-			"labels": ["color scheme", "theme", "dark mode", "utilities", "xdg-desktop-portal"],
-			"releases": [
-				{
-					"sublime_text": ">=4000",
-					"tags": true,
-					"platforms": ["linux"]
-				}
-			]
-		},
-		{
 			"name": "Auto Close HTML Tags",
 			"details": "https://github.com/sh4nks/auto_close",
 			"labels": ["auto-complete", "html"],
@@ -2384,6 +2370,20 @@
 				{
 					"sublime_text": "*",
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "AutoAppearance",
+			"details": "https://github.com/platformengineer/autoappearance",
+			"author": ["navisidhu"],
+			"issues": "https://bitbucket.org/Clams/smartvhdl/issues",
+			"labels": ["color scheme", "theme", "dark mode", "utilities", "xdg-desktop-portal"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true,
+					"platforms": ["linux"]
 				}
 			]
 		},

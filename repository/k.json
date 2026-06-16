@@ -190,6 +190,17 @@
 			]
 		},
 		{
+			"details": "https://github.com/vwheeler63/KeyBindingReport",
+			"labels": ["key", "binding", "key binding", "utilities"],
+			"donate": "https://buymeacoffee.com/vwheeler63",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "KeyboardNavigation",
 			"details": "https://github.com/robertcollier4/KeyboardNavigation",
 			"releases": [

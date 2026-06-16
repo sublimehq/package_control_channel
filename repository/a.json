@@ -2377,7 +2377,7 @@
 			"name": "AutoAppearance",
 			"details": "https://github.com/platformengineer/autoappearance",
 			"author": ["navisidhu"],
-			"issues": "https://bitbucket.org/Clams/smartvhdl/issues",
+			"issues": "https://github.com/platformengineer/autoappearance/issues",
 			"labels": ["color scheme", "theme", "dark mode", "utilities", "xdg-desktop-portal"],
 			"releases": [
 				{

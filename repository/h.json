@@ -301,7 +301,7 @@
 		},
 		{
 			"name": "Harpoon",
-			"details": "Faster Navigate inside Sublime Text with your favourite list of file",
+			"details": "https://github.com/huyhoang8398/harpoon",
 			"labels": ["file navigation", "utilities"],
 			"releases": [
 				{

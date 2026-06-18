@@ -300,6 +300,17 @@
 			]
 		},
 		{
+			"name": "Harpoon",
+			"details": "https://github.com/huyhoang8398/Harpoon",
+			"labels": ["file navigation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "Harvey",
 			"details": "https://github.com/rayje/harvey-sublime",
 			"labels": ["language syntax"],

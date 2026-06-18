@@ -5121,17 +5121,6 @@
 		},
 		{
 			"name": "Cypher",
-			"details": "https://github.com/kollhof/sublime-cypher",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
-		{
-			"name": "Cypher ST3+",
 			"details": "https://github.com/fulguritude/cypher-sublime-syntax",
 			"labels": ["language syntax"],
 			"description": "Syntax highlighting for the Neo4j Cypher query language for ST3 and above.",

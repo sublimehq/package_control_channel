@@ -504,6 +504,18 @@
 			]
 		},
 		{
+			"name": "Paste Markdown",
+			"details": "https://github.com/Wuvist/subl_paste_md",
+			"labels": ["text manipulation", "clipboard", "paste", "markdown"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Paste PDF Text Block",
 			"details": "https://github.com/compleatang/sublimetext-pastepdf",
 			"releases": [

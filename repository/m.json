@@ -1204,6 +1204,17 @@
 			]
 		},
 		{
+			"name": "MCP Commander",
+			"details": "https://github.com/dpc00/sublime-mcp",
+			"labels": ["ai", "mcp"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MCPHelper",
 			"description": "Connects to a local Model Context Protocol (MCP) server for AI-powered code generation, review, refactoring, and translation using OpenAI or Gemini.",
 			"author": "David Donohue",

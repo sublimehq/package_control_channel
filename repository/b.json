@@ -1533,17 +1533,6 @@
 			]
 		},
 		{
-			"name": "Brevis Autocomplete",
-			"details": "https://github.com/dlzi/brevis-autocomplete",
-			"labels": ["auto-complete", "language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "BridleNSIS",
 			"details": "https://github.com/idleberg/sublime-bridlensis",
 			"labels": ["auto-complete", "language syntax", "nsis"],

@@ -2374,6 +2374,19 @@
 			]
 		},
 		{
+			"name": "AutoAppearance",
+			"details": "https://github.com/platformengineer/autoappearance",
+			"author": ["navisidhu"],
+			"labels": ["color scheme", "theme", "dark mode", "utilities", "xdg-desktop-portal"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true,
+					"platforms": ["linux"]
+				}
+			]
+		},
+		{
 			"name": "AutoBackups",
 			"details": "https://github.com/akalongman/sublimetext-autobackups",
 			"labels": ["backup", "utilities", "versioning"],

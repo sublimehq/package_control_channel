@@ -1308,18 +1308,6 @@
 			]
 		},
 		{
-			"name": "GoEscape",
-			"details": "https://bitbucket.org/shellzen/goescape",
-			"labels": ["go"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"platforms": ["linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/Manrich121/goFindCallers",
 			"labels": ["go"],
 			"releases": [
@@ -2010,6 +1998,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "GrADS",
+			"details": "https://github.com/fox91/GrADS-Sublime-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
 					"tags": true
 				}
 			]

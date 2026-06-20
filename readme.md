@@ -2,10 +2,11 @@
 
 ## Submitting your package
 
+Refer our [guide][guide] for more information, then
+
 - Fork this repository.
 - Add the details of your package, in alphabetical order,
   to the correct JSON file in the [repository directory][repodir].
-- Check the full [guide to submitting packages][guide] for more information.
 - Create a PR and make sure you check [all the boxes][prtemplate].
 
 [repodir]: https://github.com/wbond/package_control_channel/tree/master/repository

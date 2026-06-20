@@ -2860,6 +2860,15 @@
 			]
 		},
 		{
+			"details": "https://github.com/xalteropsx/CompareHistory",
+			"labels": ["diff", "compare", "comparison", "version-history", "side-by-side"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Compass",
 			"details": "https://github.com/whatwedo/sublime-text-compass",
 			"author": "whatwedo",

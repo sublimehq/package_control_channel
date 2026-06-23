@@ -1,4 +1,4 @@
-{
+﻿{
 	"schema_version": "3.0.0",
 	"packages": [
 		{
@@ -1199,17 +1199,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=4107",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "MCP Commander",
-			"details": "https://github.com/dpc00/sublime-mcp",
-			"labels": ["ai", "mcp"],
-			"releases": [
-				{
-					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
@@ -3090,3 +3079,4 @@
 		}
 	]
 }
+

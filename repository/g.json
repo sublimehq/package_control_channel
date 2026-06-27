@@ -356,7 +356,7 @@
 		},
 		{
 			"name": "Gettext",
-			"details": "https://github.com/idleberg/sublime-gettext",
+			"details": "https://github.com/michaelblyons/SublimeSyntax-gettext",
 			"labels": ["language syntax", "snippets", "gettext", "i18n", "l10n"],
 			"releases": [
 				{

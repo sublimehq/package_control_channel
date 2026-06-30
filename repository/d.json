@@ -1645,7 +1645,7 @@
 		{
 			"name": "Dracula Color Scheme",
 			"details": "https://github.com/dracula/sublime",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "dark"],
 			"releases": [
 				{
 					"sublime_text": "*",

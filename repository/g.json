@@ -661,6 +661,7 @@
 		},
 		{
 			"details": "https://github.com/jisaacks/GitGutter",
+			"labels": ["git", "diff", "gutter"],
 			"releases": [
 				{
 					"sublime_text": "<3176",
@@ -2384,7 +2385,7 @@
 		{
 			"name": "Guna",
 			"details": "https://github.com/poucotm/Guna",
-			"labels": ["theme", "color scheme", "clock", "weather"],
+			"labels": ["theme", "color scheme", "dark", "clock", "weather"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

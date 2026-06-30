@@ -2518,7 +2518,7 @@
 		{
 			"name": "Rust Enhanced",
 			"details": "https://github.com/rust-lang/rust-enhanced",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "rust"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

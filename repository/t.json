@@ -2134,7 +2134,7 @@
 		{
 			"name": "Theme - Spacegray",
 			"details": "https://github.com/SublimeText/Spacegray",
-			"labels": ["theme", "color scheme"],
+			"labels": ["theme", "color scheme", "dark", "light"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",

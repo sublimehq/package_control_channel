@@ -2285,7 +2285,7 @@
 		{
 			"name": "Skins",
 			"details": "https://github.com/deathaxe/sublime-skins",
-			"labels": ["themes", "utilities"],
+			"labels": ["theme", "utilities"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

@@ -2406,7 +2406,7 @@
 			"name": "Gutter Themes for SL",
 			"details": "https://github.com/SalGnt/gutter-themes-for-sl",
 			"author": "Salvatore Gentile",
-			"labels": ["gutter", "themes", "sl", "theme", "sublimelinter"],
+			"labels": ["gutter", "sl", "theme", "sublimelinter"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

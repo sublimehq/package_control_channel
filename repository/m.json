@@ -943,7 +943,7 @@
 		{
 			"name": "Material Monokai",
 			"details": "https://github.com/hlrossato/material-monokai",
-			"labels": ["color scheme", "material design", "monokai"],
+			"labels": ["color scheme", "material", "monokai"],
 			"releases": [
 				{
 					"sublime_text": "*",

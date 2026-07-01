@@ -2924,7 +2924,7 @@
 		},
 		{
 			"details": "https://github.com/facelessuser/ColorHelper",
-			"labels": ["color"],
+			"labels": ["color", "preview", "utilities"],
 			"releases": [
 				{
 					"sublime_text": "3170 - 3999",

@@ -6066,7 +6066,7 @@
 		{
 			"name": "Syntax History",
 			"details": "https://github.com/malexer/SyntaxHistory",
-			"labels": ["syntax", "syntax highlight"],
+			"labels": ["syntax", "utilities"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

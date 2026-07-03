@@ -504,6 +504,7 @@
 		{
 			"name": "Git badges like VS Code",
 			"details": "https://github.com/arxeiss/Sublime-GitBadgesLikeVSCode",
+			"labels": ["git", "sidebar"],
 			"releases": [
 				{
 					"sublime_text": ">=3200",
@@ -526,7 +527,7 @@
 			"author": ["Tomas Barry"],
 			"name": "Git CoAuthor",
 			"description": "Auto-complete a git commit co-authorship",
-			"labels": ["git", "git commit", "co-author"],
+			"labels": ["git", "commit", "co-author"],
 			"details": "https://github.com/TomasBarry/Sublime-git-co-author",
 			"releases": [
 				{
@@ -538,7 +539,7 @@
 		{
 			"name": "Git Commit Message Syntax",
 			"details": "https://github.com/adambullmer/sublime_git_commit_syntax",
-			"labels": ["git", "language", "syntax", "language syntax", "commit"],
+			"labels": ["language syntax", "git", "commit"],
 			"author": "adambullmer",
 			"releases": [
 				{
@@ -550,7 +551,7 @@
 		{
 			"name": "Git Config",
 			"details": "https://github.com/robballou/gitconfig-sublimetext",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "git"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -561,6 +562,7 @@
 		{
 			"name": "Git Conflict Resolver",
 			"details": "https://github.com/sascha-wolf/sublime-GitConflictResolver",
+			"labels": ["git", "conflicts", "gutter"],
 			"releases": [
 				{
 					"sublime_text": "*",

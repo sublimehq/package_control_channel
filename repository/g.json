@@ -1404,6 +1404,17 @@
 			]
 		},
 		{
+			"name": "GOLCheck",
+			"details": "https://github.com/golproductions/check-sublime",
+			"labels": ["ai", "validation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Golden Dragon Color Scheme",
 			"details": "https://github.com/zaynali53/golden-dragon",
 			"labels": ["color scheme"],

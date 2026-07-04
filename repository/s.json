@@ -1043,6 +1043,17 @@
 			]
 		},
 		{
+			"name": "Sema",
+			"details": "https://github.com/sema-lisp/sublime-sema",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Semantic Highlighter",
 			"details": "https://github.com/kapitanluffy/sublime-semantic-highlighter",
 			"donate": "https://www.patreon.com/kapitanluffy",

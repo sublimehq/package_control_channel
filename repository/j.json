@@ -941,16 +941,6 @@
 			]
 		},
 		{
-			"name": "JS2Coffee",
-			"details": "https://github.com/aziz/sublime-js2coffee",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/junosuarez/JsBDD",
 			"labels": ["language syntax"],
 			"releases": [

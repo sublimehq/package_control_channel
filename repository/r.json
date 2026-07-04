@@ -34,17 +34,6 @@
 			]
 		},
 		{
-			"name": "Ra Spring",
-			"details": "https://github.com/vbasky/RaSpring",
-			"labels": ["color scheme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Racket",
 			"details": "https://github.com/follesoe/sublime-racket",
 			"labels": ["language syntax"],
@@ -2589,7 +2578,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "Rux",
 			"details": "https://github.com/rux-lang/SublimeText",

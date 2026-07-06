@@ -308,7 +308,7 @@
 		},
 		{
 			"name": "Gettext",
-			"details": "https://github.com/idleberg/sublime-gettext",
+			"details": "https://github.com/michaelblyons/SublimeSyntax-gettext",
 			"labels": ["language syntax", "snippets", "gettext", "i18n", "l10n"],
 			"releases": [
 				{
@@ -2018,7 +2018,7 @@
 			"name": "Gutter Themes for SL",
 			"details": "https://github.com/SalGnt/gutter-themes-for-sl",
 			"author": "Salvatore Gentile",
-			"labels": ["gutter", "themes", "sl", "theme", "sublimelinter"],
+			"labels": ["gutter", "sl", "theme", "sublimelinter"],
 			"releases": [
 				{
 					"tags": true

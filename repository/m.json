@@ -816,7 +816,7 @@
 		{
 			"name": "Material Monokai",
 			"details": "https://github.com/hlrossato/material-monokai",
-			"labels": ["color scheme", "material design", "monokai"],
+			"labels": ["color scheme", "material", "monokai"],
 			"releases": [
 				{
 					"tags": true
@@ -1037,17 +1037,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=4107",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "MCP Commander",
-			"details": "https://github.com/dpc00/sublime-mcp",
-			"labels": ["ai", "mcp"],
-			"releases": [
-				{
-					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

@@ -1951,7 +1951,7 @@
 		{
 			"name": "Skins",
 			"details": "https://github.com/deathaxe/sublime-skins",
-			"labels": ["themes", "utilities"],
+			"labels": ["theme", "utilities"],
 			"releases": [
 				{
 					"tags": true
@@ -3725,6 +3725,14 @@
 			"releases": [
 				{
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"details": "https://github.com/leoshome/StyleTokenHighlighter",
+			"releases": [
+				{
+					"tags": true
 				}
 			]
 		},

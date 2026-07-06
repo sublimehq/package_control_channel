@@ -66,7 +66,7 @@
 			"name": "Hadar Theme",
 			"author": "Cristian Vásquez",
 			"details": "https://github.com/cristianvasquezc/hadar-sublime-text",
-			"labels": ["theme", "color scheme", "dark", "hadar", "hadar theme"],
+			"labels": ["theme", "color scheme", "dark"],
 			"releases": [
 				{
 					"tags": true
@@ -250,6 +250,16 @@
 			"releases": [
 				{
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Harpoon",
+			"details": "https://github.com/huyhoang8398/Harpoon",
+			"labels": ["file navigation", "utilities"],
+			"releases": [
+				{
+					"tags": true
 				}
 			]
 		},

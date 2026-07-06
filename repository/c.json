@@ -2429,6 +2429,17 @@
 			]
 		},
 		{
+			"name": "Codigrate Themes",
+			"details": "https://github.com/codigrate/sublime-text-themes",
+			"labels": ["color scheme", "theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Coffee Color Scheme",
 			"details": "https://github.com/watergear/sublime-coffee-color-scheme",
 			"labels": ["color scheme"],

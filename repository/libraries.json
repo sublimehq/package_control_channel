@@ -9,6 +9,11 @@
 			"issues": "https://github.com/sonic182/aiosonic",
 			"releases": [
 				{
+					"base": "https://github.com/packagecontrol/aiosonic",
+					"asset": "aiosonic-*-py3-none-any.whl",
+					"python_versions": ["3.8"]
+				},
+				{
 					"base": "https://pypi.org/project/aiosonic",
 					"asset": "aiosonic-*-py3-none-any.whl",
 					"python_versions": ["3.13", "3.14"]
@@ -286,14 +291,8 @@
 				},
 				{
 					"base": "https://pypi.org/project/charset-normalizer",
-					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
-					"platforms": ["osx-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
-				},
-				{
-					"base": "https://pypi.org/project/charset-normalizer",
 					"asset": "charset_normalizer-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
-					"platforms": ["osx-arm64"],
+					"platforms": ["osx-arm64", "osx-x64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
 				},
 				{
@@ -488,6 +487,19 @@
 					"asset": "coverage-*-cp33-cp33m-win_amd64.whl",
 					"platforms": ["windows-x64"],
 					"python_versions": ["3.3"]
+				}
+			]
+		},
+		{
+			"name": "cron-descriptor",
+			"description": "A Python library that converts cron expressions into human readable strings",
+			"author": "Adam Schubert",
+			"issues": "https://github.com/Salamek/cron-descriptor/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/cron-descriptor",
+					"asset": "cron_descriptor-*-py3-none-any.whl",
+					"python_versions": ["3.3", "3.8", "3.13", "3.14"]
 				}
 			]
 		},
@@ -1127,6 +1139,19 @@
 					"base": "https://github.com/packagecontrol/oauthlib",
 					"python_versions": ["3.3"],
 					"tags": true
+				}
+			]
+		},
+		{
+			"name": "objgraph",
+			"description": "objgraph is a module that lets you visually explore Python object graphs.",
+			"author": "Marius Gedminas",
+			"issues": "https://github.com/mgedmin/objgraph/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/objgraph",
+					"asset": "objgraph-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]
 		},

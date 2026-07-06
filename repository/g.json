@@ -562,7 +562,7 @@
 		{
 			"name": "Git Conflict Resolver",
 			"details": "https://github.com/sascha-wolf/sublime-GitConflictResolver",
-			"labels": ["git", "conflicts", "gutter"],
+			"labels": ["git", "gutter"],
 			"releases": [
 				{
 					"sublime_text": "*",

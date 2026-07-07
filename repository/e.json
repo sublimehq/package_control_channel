@@ -393,6 +393,17 @@
 			]
 		},
 		{
+			"name": "EDIBlime",
+			"details": "https://github.com/encefalopiatto/EDIBlime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4095",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "EdifactHighlighter",
 			"details": "https://github.com/Frogli/sublime-edifact",
 			"labels": ["language syntax"],

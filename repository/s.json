@@ -3375,6 +3375,17 @@
 			]
 		},
 		{
+			"name": "Spintax",
+			"details": "https://github.com/investblog/sublime-spintax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SPIP",
 			"details": "https://github.com/phenix-factory/Sublime-SPIP",
 			"labels": ["language syntax"],

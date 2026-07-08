@@ -183,7 +183,7 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/TabStack",
-			"author": ["FichteFoll"],
+			"author": "FichteFoll",
 			"labels": ["tab navigation"],
 			"releases": [
 				{

@@ -1981,6 +1981,17 @@
 			]
 		},
 		{
+			"name": "Extractor",
+			"details": "https://github.com/bogdancstrike/sublime_plugin_extractor",
+			"labels": ["text manipulation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "eZ Publish Syntax",
 			"details": "https://github.com/SirReal/eZ-Publish-Syntax",
 			"labels": ["language syntax"],

@@ -1802,8 +1802,44 @@
 			"releases": [
 				{
 					"base": "https://github.com/packagecontrol/pyyaml",
-					"python_versions": ["3.3", "3.8", "3.13", "3.14"],
+					"python_versions": ["3.3", "3.8"],
 					"tags": true
+				},
+				{
+					"base": "https://pypi.org/project/PyYAML",
+					"asset": "pyyaml-*-cp${py_version}-cp${py_version}*-macosx*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/PyYAML",
+					"asset": "pyyaml-*-cp${py_version}-cp${py_version}*-macosx*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/PyYAML",
+					"asset": "pyyaml-*-cp${py_version}-cp${py_version}*-manylinux*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/PyYAML",
+					"asset": "pyyaml-*-cp${py_version}-cp${py_version}*-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/PyYAML",
+					"asset": "pyyaml-*-cp${py_version}-cp${py_version}*-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/PyYAML",
+					"asset": "pyyaml-*-cp${py_version}-cp${py_version}*-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.13", "3.14"]
 				}
 			]
 		},

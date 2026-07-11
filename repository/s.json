@@ -3380,7 +3380,7 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=4000",
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

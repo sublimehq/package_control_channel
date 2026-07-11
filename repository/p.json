@@ -108,6 +108,10 @@
 				{
 					"sublime_text": ">=4094",
 					"tags": true
+				},
+				{
+					"sublime_text": ">=4135",
+					"tags": "st-4135/"
 				}
 			]
 		},

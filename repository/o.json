@@ -337,6 +337,17 @@
 			]
 		},
 		{
+		  "name": "OMLX",
+		  "details": "https://github.com/xraid/sublime-omlx",
+		  "labels": ["ai", "llm", "chat", "omlx", "macos", "silicon"],
+		  "releases": [
+		    {
+		      "sublime_text": ">=4050",
+		      "tags": true
+		    }
+		  ]
+		},
+		{
 			"name": "On Save",
 			"details": "https://github.com/wl879/SublimeOnSave/",
 			"releases": [

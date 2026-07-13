@@ -1376,6 +1376,17 @@
 			]
 		},
 		{
+			"name": "Claude Code IDE",
+			"details": "https://github.com/Cognisant-llc/sublime-claude-code",
+			"labels": ["ai", "claude", "diff"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Claudette",
 			"details": "https://github.com/barryceelen/Claudette",
 			"labels": ["ai", "claude"],

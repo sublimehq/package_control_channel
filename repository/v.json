@@ -336,7 +336,7 @@
 		{
 			"name": "Vibescript",
 			"details": "https://github.com/mgomes/sublime-vibescript",
-			"labels": ["language syntax", "lsp"],
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": ">=4107",

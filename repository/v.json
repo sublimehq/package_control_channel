@@ -334,6 +334,17 @@
 			]
 		},
 		{
+			"name": "Vibescript",
+			"details": "https://github.com/mgomes/sublime-vibescript",
+			"labels": ["language syntax", "lsp"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "View Bookmarks",
 			"details": "https://github.com/adam-zethraeus/SublimeViewBookmarks",
 			"labels": ["bookmarks", "file navigation"],

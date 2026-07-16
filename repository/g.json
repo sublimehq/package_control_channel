@@ -1406,6 +1406,17 @@
 			]
 		},
 		{
+			"name": "Gold Rose",
+			"details": "https://github.com/zacharytruong/gold-rose",
+			"labels": ["color scheme", "theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Golden Dragon Color Scheme",
 			"details": "https://github.com/zaynali53/golden-dragon",
 			"labels": ["color scheme"],

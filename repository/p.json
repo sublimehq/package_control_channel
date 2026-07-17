@@ -1395,7 +1395,7 @@
 		{
 			"name": "phpfmt",
 			"details": "https://github.com/driade/phpfmt8",
-			"labels": ["formatting", "language syntax", "php"],
+			"labels": ["formatting", "php"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

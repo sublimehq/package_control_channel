@@ -787,13 +787,14 @@
 			]
 		},
 		{
-			"name": "Recent Explorer",
+			"name": "RecentExplorer",
 			"details": "https://github.com/kushaagr/recent-explorer-sublime",
 			"labels": ["dashboard", "recent files", "project navigation", "explorer", "productivity"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "main"
+					"branch": "main",
+					"tags": true
 				}
 			]
 		},

@@ -1045,7 +1045,7 @@
 		{
 			"name": "Sema",
 			"details": "https://github.com/sema-lisp/sublime-sema",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "build system"],
 			"releases": [
 				{
 					"sublime_text": ">=4075",

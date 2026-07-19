@@ -405,7 +405,6 @@
 			"name": "Carve",
 			"details": "https://github.com/markup-carve/sublime-carve",
 			"labels": ["language syntax", "carve", "markup", "djot"],
-			"description": "Syntax highlighting for Carve, a post-Markdown lightweight markup language",
 			"releases": [
 				{
 					"sublime_text": ">=3092",

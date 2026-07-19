@@ -618,8 +618,6 @@
 			"author": "wtgg <wtlit@qq.com>",
 			"readme": "https://raw.githubusercontent.com/wtgg/MarkdownChartPreview/master/README.md",
 			"issues": "https://github.com/wtgg/MarkdownChartPreview/issues",
-			"donate": null,
-			"buy": null,
 			"releases": [
 				{
 					"sublime_text": ">=4075",

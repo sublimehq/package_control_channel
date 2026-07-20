@@ -1857,6 +1857,17 @@
 			]
 		},
 		{
+			"name": "LSP-carve",
+			"details": "https://github.com/markup-carve/sublime-carve-lsp",
+			"labels": ["language server", "lsp", "carve", "markup"],
+			"releases": [
+				{
+					"sublime_text": ">=4096",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Lua Dev",
 			"details": "https://github.com/rorydriscoll/LuaSublime",
 			"labels": ["language syntax", "lua"],

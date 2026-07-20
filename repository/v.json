@@ -334,6 +334,17 @@
 			]
 		},
 		{
+			"name": "Vibescript",
+			"details": "https://github.com/mgomes/sublime-vibescript",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "View Bookmarks",
 			"details": "https://github.com/adam-zethraeus/SublimeViewBookmarks",
 			"labels": ["bookmarks", "file navigation"],
@@ -602,7 +613,7 @@
 			"name": "Visual Studio Code Plus Scheme",
 			"details": "https://github.com/vbasky/sublime-vscode-plus",
 			"issues": "https://github.com/vbasky/sublime-vscode-plus/issues",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "dark", "light"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -613,7 +624,7 @@
 		{
 			"name": "Visual Studio Dark",
 			"details": "https://github.com/nikeee/visual-studio-dark",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "dark"],
 			"releases": [
 				{
 					"sublime_text": "*",

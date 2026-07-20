@@ -663,6 +663,7 @@
 		},
 		{
 			"details": "https://github.com/jisaacks/GitGutter",
+			"labels": ["git", "diff", "gutter"],
 			"releases": [
 				{
 					"sublime_text": "<3176",
@@ -1401,6 +1402,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3067",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Gold Rose",
+			"details": "https://github.com/zacharytruong/gold-rose",
+			"labels": ["color scheme", "theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
 					"tags": true
 				}
 			]
@@ -2386,7 +2398,7 @@
 		{
 			"name": "Guna",
 			"details": "https://github.com/poucotm/Guna",
-			"labels": ["theme", "color scheme", "clock", "weather"],
+			"labels": ["theme", "color scheme", "dark", "clock", "weather"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

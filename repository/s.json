@@ -3270,7 +3270,10 @@
 		{
 			"name": "Spartan Color Scheme",
 			"details": "https://github.com/renzojohnson/spartan-color-scheme",
-			"labels": ["color scheme", "dark"],
+			"homepage": "https://renzojohnson.com",
+			"issues": "https://renzojohnson.com/contact",
+			"donate": "https://www.paypal.com/paypalme/renzojohnson",
+			"labels": ["color scheme", "dark", "light"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -3370,6 +3373,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Spintax",
+			"details": "https://github.com/investblog/sublime-spintax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -5955,6 +5969,7 @@
 		{
 			"name": "SyncedSideBar",
 			"details": "https://github.com/TheSpyder/SyncedSideBar",
+			"labels": ["sidebar", "file navigation"],
 			"releases": [
 				{
 					"sublime_text": "<4050",
@@ -6066,7 +6081,7 @@
 		{
 			"name": "Syntax History",
 			"details": "https://github.com/malexer/SyntaxHistory",
-			"labels": ["syntax", "syntax highlight"],
+			"labels": ["syntax", "utilities"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

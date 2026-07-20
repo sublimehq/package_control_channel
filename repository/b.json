@@ -1447,6 +1447,7 @@
 		},
 		{
 			"details": "https://github.com/facelessuser/BracketHighlighter",
+			"labels": ["brackets"],
 			"releases": [
 				{
 					"sublime_text": "3000 - 4200",

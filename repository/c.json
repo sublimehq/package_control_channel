@@ -457,7 +457,7 @@
 			"name": "Catppuccin color schemes",
 			"details": "https://github.com/catppuccin/sublime-text",
 			"author": ["Catppuccin"],
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "dark", "light"],
 			"releases": [
 				{
 					"sublime_text": ">=3100",
@@ -2924,6 +2924,7 @@
 		},
 		{
 			"details": "https://github.com/facelessuser/ColorHelper",
+			"labels": ["color", "preview", "utilities"],
 			"releases": [
 				{
 					"sublime_text": "3170 - 3999",

@@ -508,7 +508,7 @@
 		},
 		{
 			"details": "https://github.com/facelessuser/HexViewer",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "binary"],
 			"releases": [
 				{
 					"sublime_text": "3000 - 4200",

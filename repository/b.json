@@ -1012,21 +1012,20 @@
 			]
 		},
 		{
-			"name": "Blame Explorer",
-			"details": "https://github.com/gatopeich/sublame",
+			"details": "https://github.com/RushabhJoshi/BladeFormatter",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"base": "https://github.com/RushabhJoshi/BladeFormatter",
 					"tags": true
 				}
 			]
 		},
 		{
-			"name": "BladeFormatter",
-			"details": "https://github.com/RushabhJoshi/BladeFormatter",
+			"name": "Blame Explorer",
+			"details": "https://github.com/gatopeich/sublame",
 			"releases": [
 				{
-					"base": "https://github.com/RushabhJoshi/BladeFormatter",
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

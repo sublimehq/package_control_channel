@@ -1001,16 +1001,6 @@
 			]
 		},
 		{
-			"name": "BladeFormatter",
-			"details": "https://github.com/RushabhJoshi/BladeFormatter",
-			"releases": [
-				{
-					"base": "https://github.com/RushabhJoshi/BladeFormatter",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Blade Snippets",
 			"details": "https://github.com/dev4dev/blade-snippets",
 			"labels": ["snippets"],
@@ -1027,6 +1017,16 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "BladeFormatter",
+			"details": "https://github.com/RushabhJoshi/BladeFormatter",
+			"releases": [
+				{
+					"base": "https://github.com/RushabhJoshi/BladeFormatter",
 					"tags": true
 				}
 			]

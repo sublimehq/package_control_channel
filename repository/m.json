@@ -284,7 +284,6 @@
 			"labels": ["color scheme", "theme", "light", "dark", "orange"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -295,7 +294,6 @@
 			"labels": ["theme", "icons", "file icons"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

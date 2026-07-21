@@ -223,7 +223,6 @@
 			"labels": ["odoo", "language syntax", "snippets", "auto-complete"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]

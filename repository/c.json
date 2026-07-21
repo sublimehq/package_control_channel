@@ -375,7 +375,6 @@
 			"labels": ["language syntax", "carve", "markup", "djot"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

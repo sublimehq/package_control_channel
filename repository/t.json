@@ -152,6 +152,17 @@
 			]
 		},
 		{
+			"details": "https://github.com/SublimeText/TabStack",
+			"author": "FichteFoll",
+			"labels": ["tab navigation"],
+			"releases": [
+				{
+					"sublime_text": ">=4100",
+					"tags": "st-4100/"
+				}
+			]
+		},
+		{
 			"details": "https://github.com/jbrooksuk/TabsToTable",
 			"releases": [
 				{
@@ -1815,7 +1826,7 @@
 		{
 			"name": "Theme - Spacegray",
 			"details": "https://github.com/SublimeText/Spacegray",
-			"labels": ["theme", "color scheme"],
+			"labels": ["theme", "color scheme", "dark", "light"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",

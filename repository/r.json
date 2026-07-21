@@ -868,7 +868,7 @@
 		{
 			"name": "RememberSyntax",
 			"details": "https://github.com/Suor/RememberSyntax",
-			"labels": ["utilities"],
+			"labels": ["syntax", "utilities"],
 			"releases": [
 				{
 					"tags": true
@@ -2062,7 +2062,7 @@
 		{
 			"name": "Rust Enhanced",
 			"details": "https://github.com/rust-lang/rust-enhanced",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "rust"],
 			"releases": [
 				{
 					"tags": true

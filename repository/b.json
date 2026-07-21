@@ -1015,7 +1015,7 @@
 			"details": "https://github.com/RushabhJoshi/BladeFormatter",
 			"releases": [
 				{
-					"base": "https://github.com/RushabhJoshi/BladeFormatter",
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

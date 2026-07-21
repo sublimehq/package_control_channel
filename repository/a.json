@@ -1650,6 +1650,7 @@
 		},
 		{
 			"details": "https://github.com/facelessuser/ApplySyntax",
+			"labels": ["syntax", "utilities"],
 			"releases": [
 				{
 					"sublime_text": "3000 - 4200",

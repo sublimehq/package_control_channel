@@ -216,6 +216,17 @@
 			]
 		},
 		{
+			"name": "Odoo",
+			"details": "https://github.com/Mr7F/sublime-odoo",
+			"labels": ["odoo", "language syntax", "snippets", "auto-complete"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Odoo Snippets",
 			"details": "https://github.com/Jarsa/Sublime-Odoo",
 			"labels": ["snippets", "odoo"],

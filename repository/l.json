@@ -576,6 +576,7 @@
 		},
 		{
 			"details": "https://github.com/SublimeText/LaTeXTools",
+			"labels": ["build system", "snippets", "completions", "file navigation", "citations", "latex", "bibtex"],
 			"releases": [
 				{
 					"sublime_text": "<3000",
@@ -1511,7 +1512,7 @@
 		{
 			"name": "LocalizedMenu",
 			"details": "https://github.com/zam1024t/LocalizedMenu",
-			"labels": ["localize", "tool", "menu"],
+			"labels": ["localize", "tool", "menu", "l10n", "i18n"],
 			"releases": [
 				{
 					"sublime_text": "*",

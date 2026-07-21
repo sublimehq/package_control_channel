@@ -1082,7 +1082,7 @@
 		{
 			"name": "RememberSyntax",
 			"details": "https://github.com/Suor/RememberSyntax",
-			"labels": ["utilities"],
+			"labels": ["syntax", "utilities"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -2507,7 +2507,7 @@
 		{
 			"name": "Rust Enhanced",
 			"details": "https://github.com/rust-lang/rust-enhanced",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "rust"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

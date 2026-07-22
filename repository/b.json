@@ -918,13 +918,14 @@
 			]
 		},
 		{
-			"name": "Bitbake Syntax",
-			"details": "https://github.com/Driim/bitbake-syntax",
+			"name": "BitBake",
+			"previous_names": ["BitBake Syntax"],
+			"details": "https://github.com/SublimeText/BitBake",
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">3084",
-					"tags": true
+					"sublime_text": ">=3176",
+					"tags": "3176-"
 				}
 			]
 		},

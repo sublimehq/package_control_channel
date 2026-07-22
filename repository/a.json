@@ -2035,6 +2035,17 @@
 			]
 		},
 		{
+			"name": "Assembly 6801-6301-68HC11",
+			"details": "https://github.com/raparici/sublime-assembly-6801-6303-68hc11",
+			"labels": ["syntax","assembly", "6801", "6803", "HD6301", "HD6303", "68HC11"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Assembly 6809 and 6309 Syntax Highlighting",
 			"details": "https://github.com/dougmasten/sublime-assembly-6809",
 			"labels": ["language syntax"],

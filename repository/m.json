@@ -754,6 +754,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/CaffeineOddity/MarkdownPreviewEnhanced",
+			"labels": ["markdown", "preview", "mermaid", "live preview", "syntax highlighting"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/naokazuterada/MarkdownTOC",
 			"labels": ["markdown", "toc", "table of contents"],
 			"releases": [

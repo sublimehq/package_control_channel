@@ -1424,6 +1424,17 @@
 			]
 		},
 		{
+			"name": "BoxLang",
+			"details": "https://github.com/ortus-boxlang/sublimetext-boxlang",
+			"labels": ["boxlang", "cfml", "jvm", "formatting", "language syntax", "java", "build system", "completions", "auto-complete", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BracketFlasher",
 			"details": "https://github.com/jaytiar/SublimeBracketFlasher",
 			"labels": ["brackets"],

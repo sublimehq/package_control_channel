@@ -5143,12 +5143,13 @@
 		},
 		{
 			"name": "Cypher",
-			"details": "https://github.com/kollhof/sublime-cypher",
+			"details": "https://github.com/fulguritude/cypher-sublime-syntax",
 			"labels": ["language syntax"],
+			"description": "Syntax highlighting for the Neo4j Cypher query language for ST3 and above.",
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"branch": "master"
+					"sublime_text": ">=3092",
+					"tags": true
 				}
 			]
 		},

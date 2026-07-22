@@ -1328,6 +1328,18 @@
 			]
 		},
 		{
+			"name": "SettingsUI",
+			"details": "https://github.com/mfuentesg/settings-ui",
+			"labels": ["settings", "settings-ui"],
+			"author": "mfuentesg",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SettingSwitcher",
 			"details": "https://github.com/halfmoonvic/SettingSwitcher",
 			"releases": [

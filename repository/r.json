@@ -787,6 +787,17 @@
 			]
 		},
 		{
+			"name": "RecentExplorer",
+			"details": "https://github.com/kushaagr/recent-explorer-sublime",
+			"labels": ["project", "open files", "file navigation", "productivity"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RecentTabSort",
 			"details": "https://github.com/Stuk/sublime-recent-tab-sort",
 			"releases": [

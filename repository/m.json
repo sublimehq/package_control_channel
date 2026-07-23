@@ -325,6 +325,28 @@
 			]
 		},
 		{
+			"name": "Makinda Color Scheme",
+			"details": "https://github.com/makinda-jackson/makinda-sublime",
+			"labels": ["color scheme", "theme", "light", "dark", "orange"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Makinda Icons",
+			"details": "https://github.com/makinda-jackson/makinda-icons-sublime",
+			"labels": ["theme", "icons", "file icons"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Mako",
 			"details": "https://github.com/marconi/mako-tmbundle",
 			"labels": ["language syntax"],

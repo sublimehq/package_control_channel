@@ -1195,6 +1195,17 @@
 			]
 		},
 		{
+			"name": "Json5Formatter",
+			"details": "https://github.com/RAMBOO1990/sublime-json5",
+			"labels": ["formatting", "formatter", "json", "json5"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "JSONComma",
 			"details": "https://github.com/jsoncomma/sublime-jsoncomma",
 			"labels": ["formatting", "text manipulation", "json"],

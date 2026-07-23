@@ -402,6 +402,17 @@
 			]
 		},
 		{
+			"name": "Carve",
+			"details": "https://github.com/markup-carve/sublime-carve",
+			"labels": ["language syntax", "carve", "markup", "djot"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Case Conversion",
 			"details": "https://github.com/jdavisclark/CaseConversion",
 			"releases": [

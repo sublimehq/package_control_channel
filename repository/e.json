@@ -348,6 +348,17 @@
 			]
 		},
 		{
+			"name": "EDIBlime",
+			"details": "https://github.com/encefalopiatto/EDIBlime",
+			"labels": ["language syntax", "utilities", "minify", "convert"],
+			"releases": [
+				{
+					"sublime_text": ">=4095",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "EdifactHighlighter",
 			"details": "https://github.com/Frogli/sublime-edifact",
 			"labels": ["language syntax"],
@@ -1698,6 +1709,17 @@
 			"details": "https://github.com/MohannadNaj/sublime-extract-to-blade",
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Extractor",
+			"details": "https://github.com/bogdancstrike/sublime_plugin_extractor",
+			"labels": ["text manipulation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

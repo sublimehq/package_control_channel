@@ -1377,10 +1377,9 @@
 			]
 		},
 		{
-			"name": "Ribosome",
+			"name": "Ribosome Syntax",
 			"details": "https://github.com/JesseTG/ribosome-sublime",
 			"labels": ["language syntax"],
-			"previous_names": ["Ribosome Syntax"],
 			"releases": [
 				{
 					"asset": "*.sublime-package"

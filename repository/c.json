@@ -4421,6 +4421,16 @@
 			]
 		},
 		{
+			"name": "Cypher",
+			"details": "https://github.com/fulguritude/cypher-sublime-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Cython",
 			"details": "https://github.com/NotSqrt/sublime-cython",
 			"labels": ["language syntax"],

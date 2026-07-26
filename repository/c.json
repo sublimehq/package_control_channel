@@ -2350,7 +2350,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "CodeStats",
 			"details": "https://github.com/code-stats/code-stats-sublime",
@@ -3321,6 +3321,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3143",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "CompareLive",
+			"details": "https://github.com/mwei-io/CompareLive",
+			"labels": ["diff", "compare", "productivity", "text manipulation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]

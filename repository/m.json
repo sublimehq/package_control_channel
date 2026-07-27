@@ -1562,6 +1562,17 @@
 			]
 		},
 		{
+			"name": "Metasyntax",
+			"details": "https://gitlab.com/doering-ai-sublime/metasyntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Meteor Autocomplete (TernJS)",
 			"details": "https://github.com/slava/tern-meteor-sublime",
 			"releases": [
@@ -3047,6 +3058,28 @@
 			]
 		},
 		{
+			"name": "myCSV",
+			"details": "https://gitlab.com/doering-ai-sublime/csv",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "myLedger",
+			"details": "https://gitlab.com/doering-ai-sublime/ledger",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "myPDDL",
 			"details": "https://github.com/Pold87/myPDDL",
 			"labels": ["language syntax"],
@@ -3065,6 +3098,28 @@
 			"releases": [
 				{
 					"sublime_text": ">=3084",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "myPython",
+			"details": "https://gitlab.com/doering-ai-sublime/python",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "myRegex",
+			"details": "https://gitlab.com/doering-ai-sublime/regex",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]
@@ -3092,12 +3147,45 @@
 			]
 		},
 		{
+			"name": "MystMarkdown",
+			"details": "https://gitlab.com/doering-ai-sublime/myst",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MySublimeQL",
 			"details": "https://github.com/biannetta/MySublimeQL",
 			"releases": [
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "myTaskfile",
+			"details": "https://gitlab.com/doering-ai-sublime/taskfile",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "myYAML",
+			"details": "https://gitlab.com/doering-ai-sublime/yaml",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
 				}
 			]
 		}

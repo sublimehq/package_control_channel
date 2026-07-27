@@ -330,6 +330,17 @@
 			]
 		},
 		{
+			"name": "Kitty",
+			"details": "https://gitlab.com/doering-ai-sublime/kitty",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Kivy Language",
 			"details": "https://github.com/ivlevdenis/kivylng",
 			"labels": ["auto-complete", "build system", "language syntax", "snippets"],

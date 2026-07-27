@@ -1387,6 +1387,17 @@
 			]
 		},
 		{
+			"name": "ClaudeSubagent",
+			"details": "https://github.com/iulianwebdev/ClaudeSubagent",
+			"labels": ["ai", "claude"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Claudette",
 			"details": "https://github.com/barryceelen/Claudette",
 			"labels": ["ai", "claude"],

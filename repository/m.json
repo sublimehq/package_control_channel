@@ -3037,11 +3037,44 @@
 			]
 		},
 		{
+			"name": "myBasis",
+			"details": "https://gitlab.com/doering-ai-sublime/basis",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Mybb Template Editor",
 			"details": "https://github.com/ionutvmi/SublimeMybbTplEditor",
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "myHeaders",
+			"details": "https://gitlab.com/doering-ai-sublime/headers",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "myIrix",
+			"details": "https://gitlab.com/doering-ai-sublime/irix",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]
@@ -3098,6 +3131,17 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "myTest",
+			"details": "https://gitlab.com/doering-ai-sublime/pytest",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
 				}
 			]
 		}

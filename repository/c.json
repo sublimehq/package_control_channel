@@ -1387,7 +1387,6 @@
 			]
 		},
 		{
-			"name": "ClaudeSubagent",
 			"details": "https://github.com/iulianwebdev/ClaudeSubagent",
 			"labels": ["ai", "claude"],
 			"releases": [

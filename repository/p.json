@@ -1723,11 +1723,11 @@
 			"releases": [
 				{
 					"sublime_text": "<3092",
-					"branch": "st2/"
+					"tags": "st2/"
 				},
 				{
 					"sublime_text": ">=3092",
-					"branch": "st3/"
+					"tags": "st3/"
 				}
 			]
 		},

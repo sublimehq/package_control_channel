@@ -269,9 +269,9 @@
 			]
 		},
 		{
-			"name": "Candela Themes",
+			"name": "Candela Color Schemes",
 			"details": "https://github.com/schovi/candela-themes-sublime",
-			"labels": ["color scheme", "theme"],
+			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": ">=3149",

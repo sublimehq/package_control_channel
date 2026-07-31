@@ -2679,6 +2679,16 @@
 			]
 		},
 		{
+			"name": "TOON",
+			"details": "https://github.com/mpgirro/sublime-toon-syntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Topas Syntax",
 			"details": "https://github.com/davidchall/topas-syntax",
 			"labels": ["language syntax"],

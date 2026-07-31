@@ -322,8 +322,12 @@
 			"labels": ["language syntax", "razor", "c#", "cshtml"],
 			"releases": [
 				{
-					"sublime_text": ">=4075",
-					"tags": true
+					"sublime_text": "4075 - 4205",
+					"tags": "4075-"
+				},
+				{
+					"sublime_text": ">=4206",
+					"tags": "4206-"
 				}
 			]
 		},

@@ -249,6 +249,17 @@
 			]
 		},
 		{
+			"name": "Candela Color Schemes",
+			"details": "https://github.com/schovi/candela-themes-sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3149",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Candy Dark Color Scheme",
 			"details": "https://github.com/rahulsharmagg/Candy-Dark",
 			"labels": ["color scheme"],

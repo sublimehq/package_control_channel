@@ -3,24 +3,6 @@
 	"schema_version": "4.0.0",
 	"libraries": [
 		{
-			"name": "aiosonic",
-			"description": "A very fast Python asyncio http and websockets client",
-			"author": "sonic182",
-			"issues": "https://github.com/sonic182/aiosonic",
-			"releases": [
-				{
-					"base": "https://github.com/packagecontrol/aiosonic",
-					"asset": "aiosonic-*-py3-none-any.whl",
-					"python_versions": ["3.8"]
-				},
-				{
-					"base": "https://pypi.org/project/aiosonic",
-					"asset": "aiosonic-*-py3-none-any.whl",
-					"python_versions": ["3.13", "3.14"]
-				}
-			]
-		},
-		{
 			"name": "annotated-types",
 			"description": "Reusable constraint types to use with typing.Annotated.",
 			"author": "adriangb",
@@ -635,6 +617,19 @@
 			]
 		},
 		{
+			"name": "h11",
+			"description": "A pure-Python implementation of a HTTP1.1 protocol stack.",
+			"author": "Cory Benfield",
+			"issues": "https://github.com/python-hyper/h11/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/h11",
+					"asset": "h11-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
 			"name": "h2",
 			"description": "A pure-Python implementation of a HTTP/2 protocol stack.",
 			"author": "Cory Benfield",
@@ -657,6 +652,32 @@
 					"base": "https://pypi.org/project/hpack",
 					"asset": "hpack-*-py3-none-any.whl",
 					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "httpcore2",
+			"description": "The HTTP Core package provides a minimal low-level HTTP client, which does one thing only. Sending HTTP requests.",
+			"author": "Tom Christie",
+			"issues": "https://github.com/pydantic/httpcore2",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/httpcore2",
+					"asset": "httpcore2-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "httpx2",
+			"description": "HTTPX2 is a fully featured HTTP client library for Python",
+			"author": "Tom Christie",
+			"issues": "https://github.com/pydantic/httpx2",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/httpx2",
+					"asset": "httpx2-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
 				}
 			]
 		},
@@ -1151,19 +1172,6 @@
 				{
 					"base": "https://pypi.org/project/objgraph",
 					"asset": "objgraph-*-py3-none-any.whl",
-					"python_versions": ["3.8", "3.13", "3.14"]
-				}
-			]
-		},
-		{
-			"name": "onecache",
-			"description": "Python cache for sync and async code.",
-			"author": "sonic182",
-			"issues": "https://github.com/python-hyper/onecache/issues",
-			"releases": [
-				{
-					"base": "https://pypi.org/project/onecache",
-					"asset": "onecache-*-py3-none-any.whl",
 					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]
@@ -2473,6 +2481,19 @@
 			]
 		},
 		{
+			"name": "truststore",
+			"description": "Truststore is a library which exposes native system certificate stores",
+			"author": "Seth Michael Larson",
+			"issues": "https://github.com/sethmlarson/truststore/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/truststore",
+					"asset": "truststore-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
 			"name": "typing",
 			"description": "Python typing module",
 			"author": "FichteFoll",
@@ -2708,6 +2729,19 @@
 					"asset": "websockets-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
 					"platforms": ["osx-arm64"],
 					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "wsproto",
+			"description": "A pure-Python implementation of a WebSocket protocol stack.",
+			"author": "Benno Rice",
+			"issues": "https://github.com/python-hyper/wsproto/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/wsproto",
+					"asset": "wsproto-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
 				}
 			]
 		},

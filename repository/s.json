@@ -1077,6 +1077,17 @@
 			]
 		},
 		{
+			"name": "Semble",
+			"details": "https://github.com/debjan/sublime-semble",
+			"labels": ["commands", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Semi",
 			"details": "https://github.com/yyx990803/semi-sublime",
 			"labels": ["text manipulation"],

@@ -265,6 +265,17 @@
 			]
 		},
 		{
+			"name": "UnicodeConverter",
+			"previous_names": ["ConvertChineseCharacters"],
+			"details": "https://github.com/leibnizli/UnicodeConverter",
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/mvoidex/UnicodeMath",
 			"releases": [
 				{

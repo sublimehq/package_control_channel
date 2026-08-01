@@ -2361,7 +2361,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "CodeStats",
 			"details": "https://github.com/code-stats/code-stats-sublime",
@@ -5017,16 +5017,6 @@
 				{
 					"sublime_text": "*",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Current Scope",
-			"details": "https://github.com/gumuz/currentscope",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},

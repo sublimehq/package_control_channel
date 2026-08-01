@@ -1,0 +1,17 @@
+[project]
+name = "package-control-channel"
+version = "0.1.0"
+description = "Utilities for maintaining package_control_channel"
+readme = "readme.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+  "pytest>=9.0.0",
+  "mockito>=2.0.4",
+  "pytest-mockito>=0.0.6.post1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tools"]

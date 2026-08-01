@@ -59,7 +59,6 @@
 			"name": "3D Tool (Async Burst-Mode)",
 			"details": "https://github.com/leoheck/sublime-3d-tool/",
 			"labels": ["3d-tool", "burst-mode", "async"],
-			"previous_names": ["3D Tool Syntax Hilight"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -71,6 +70,16 @@
 			"name": "3v4l Uploader",
 			"details": "https://github.com/onlineth/3v4l_Uploader/",
 			"labels": ["php", "share", "file", "code", "upload"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "42 Function Count Lines",
+			"details": "https://github.com/DoKca42/42_sublime_ft_count_line",
 			"releases": [
 				{
 					"sublime_text": "*",

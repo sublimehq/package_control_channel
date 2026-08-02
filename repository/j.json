@@ -373,15 +373,6 @@
 			]
 		},
 		{
-			"name": "JavaScript Refactor",
-			"details": "https://github.com/s-a/sublime-text-refactor",
-			"releases": [
-				{
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "JavaScript Scratch Pad",
 			"author": "Bijoy Thomas",
 			"details": "https://github.com/bijoythomas/sublime-jsscratchpad",

@@ -2035,7 +2035,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "CodeStats",
 			"details": "https://github.com/code-stats/code-stats-sublime",

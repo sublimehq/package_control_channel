@@ -3201,15 +3201,6 @@
 			]
 		},
 		{
-			"name": "ConvertChineseCharacters",
-			"details": "https://github.com/leibnizli/ConvertChineseCharacters",
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "ConvertEpochToDate",
 			"details": "https://github.com/nexional/ConvertEpochToDate",
 			"releases": [

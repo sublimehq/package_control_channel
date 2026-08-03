@@ -302,6 +302,16 @@
 			]
 		},
 		{
+			"name": "Datapack Icons",
+			"details": "https://github.com/FuncFusion/mc-dp-icons-sublime",
+			"labels": ["theme", "file", "icons"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Datastar",
 			"details": "https://github.com/SublimeText/Datastar",
 			"labels": ["completions", "language syntax"],

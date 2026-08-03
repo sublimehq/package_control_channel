@@ -1378,8 +1378,8 @@
 		},
 		{
 			"name": "psutil",
-			"description": "Python psutil module",
-			"author": "randy3k",
+			"description": "A cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python.",
+			"author": "giampaolo.rodola",
 			"issues": "https://github.com/packagecontrol/psutil/issues",
 			"releases": [
 				{
@@ -1390,33 +1390,63 @@
 				},
 				{
 					"base": "https://pypi.org/project/psutil",
-					"asset": "psutil-*-cp${py_version}-*-manylinux*_x86_64.whl",
+					"asset": "psutil-*-cp38-cp38-manylinux*_x86_64.whl",
 					"platforms": ["linux-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/psutil",
-					"asset": "psutil-*-cp${py_version}-*-macosx_*_arm64.whl",
+					"asset": "psutil-*-cp38-cp38-macosx_*_arm64.whl",
 					"platforms": ["osx-arm64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/psutil",
-					"asset": "psutil-*-cp${py_version}-*-macosx_*_x86_64.whl",
+					"asset": "psutil-*-cp38-cp38-macosx_*_x86_64.whl",
 					"platforms": ["osx-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/psutil",
-					"asset": "psutil-*-cp${py_version}-*-win32.whl",
+					"asset": "psutil-*-cp38-cp38-win32.whl",
 					"platforms": ["windows-x32"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/psutil",
-					"asset": "psutil-*-cp${py_version}-*-win_amd64.whl",
+					"asset": "psutil-*-cp38-cp38-win_amd64.whl",
 					"platforms": ["windows-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp3*-abi3-*-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp3*-abi3-*-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp3*-abi3-*-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp3*-abi3-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/psutil",
+					"asset": "psutil-*-cp3*-abi3-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.13", "3.14"]
 				}
 			]
 		},

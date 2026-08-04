@@ -2361,7 +2361,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "CodeStats",
 			"details": "https://github.com/code-stats/code-stats-sublime",
@@ -3674,16 +3674,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "ConvertChineseCharacters",
-			"details": "https://github.com/leibnizli/ConvertChineseCharacters",
-			"releases": [
-				{
-					"sublime_text": ">3000",
 					"tags": true
 				}
 			]
@@ -5017,16 +5007,6 @@
 				{
 					"sublime_text": "*",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Current Scope",
-			"details": "https://github.com/gumuz/currentscope",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},

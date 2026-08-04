@@ -912,16 +912,6 @@
 			]
 		},
 		{
-			"name": "AmpersandJS Snippets",
-			"details": "https://github.com/HSH/AmpersandJS-Sublime-Text-Snippets",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "AMPL language",
 			"details": "https://github.com/jackdunnnz/sublime-ampl",
 			"labels": ["language syntax"],

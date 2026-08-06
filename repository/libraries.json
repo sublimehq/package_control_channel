@@ -1883,9 +1883,9 @@
 		},
 		{
 			"name": "pyzmq",
-			"description": "Python ZMQ module",
-			"author": "randy3k",
-			"issues": "https://github.com/packagecontrol/pyzmq/issues",
+			"description": "Python bindings for ZeroMQ. ØMQ is a lightweight and fast messaging implementation.",
+			"author": ["Brian E. Granger", "Min Ragan-Kelley"],
+			"issues": "https://github.com/zeromq/pyzmq/issues",
 			"releases": [
 				{
 					"base": "https://github.com/packagecontrol/pyzmq",
@@ -1895,45 +1895,87 @@
 				},
 				{
 					"base": "https://pypi.org/project/pyzmq",
-					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-macosx_*_universal2.whl",
+					"asset": "pyzmq-*-cp38-cp38-macosx_*_universal2.whl",
 					"platforms": ["osx-arm64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/pyzmq",
-					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
+					"asset": "pyzmq-*-cp38-cp38-macosx_*_x86_64.whl",
 					"platforms": ["osx-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/pyzmq",
-					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-manylinux*_aarch64.whl",
+					"asset": "pyzmq-*-cp38-cp38-manylinux*_aarch64.whl",
 					"platforms": ["linux-arm64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/pyzmq",
-					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-manylinux*_i686.whl",
+					"asset": "pyzmq-*-cp38-cp38-manylinux*_i686.whl",
 					"platforms": ["linux-x32"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/pyzmq",
-					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-manylinux*_x86_64.whl",
+					"asset": "pyzmq-*-cp38-cp38-manylinux*_x86_64.whl",
 					"platforms": ["linux-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/pyzmq",
-					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-win32.whl",
+					"asset": "pyzmq-*-cp38-cp38-win32.whl",
 					"platforms": ["windows-x32"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/pyzmq",
-					"asset": "pyzmq-*-cp${py_version}-cp${py_version}-win_amd64.whl",
+					"asset": "pyzmq-*-cp38-cp38-win_amd64.whl",
 					"platforms": ["windows-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp*-abi3-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp*-abi3-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp*-abi3-manylinux*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp*-abi3-manylinux*_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp*-abi3-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp*-abi3-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/pyzmq",
+					"asset": "pyzmq-*-cp*-abi3-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.13", "3.14"]
 				}
 			]
 		},
@@ -2380,45 +2422,87 @@
 			"releases": [
 				{
 					"base": "https://pypi.org/project/tornado",
-					"asset": "tornado-*-cp${py_version}-*-macosx_*_universal2.whl",
+					"asset": "tornado-*-cp38-cp38-macosx_*_universal2.whl",
 					"platforms": ["osx-arm64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tornado",
-					"asset": "tornado-*-cp${py_version}-*-macosx_*_x86_64.whl",
+					"asset": "tornado-*-cp38-cp38-macosx_*_x86_64.whl",
 					"platforms": ["osx-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tornado",
-					"asset": "tornado-*-cp${py_version}-*-manylinux*_aarch64.whl",
+					"asset": "tornado-*-cp38-cp38-manylinux*_aarch64.whl",
 					"platforms": ["linux-arm64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tornado",
-					"asset": "tornado-*-cp${py_version}-*-manylinux*_i686.whl",
+					"asset": "tornado-*-cp38-cp38-manylinux*_i686.whl",
 					"platforms": ["linux-x32"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tornado",
-					"asset": "tornado-*-cp${py_version}-*-manylinux*_x86_64.whl",
+					"asset": "tornado-*-cp38-cp38-manylinux*_x86_64.whl",
 					"platforms": ["linux-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tornado",
-					"asset": "tornado-*-cp${py_version}-*-win32.whl",
+					"asset": "tornado-*-cp38-cp38-win32.whl",
 					"platforms": ["windows-x32"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tornado",
-					"asset": "tornado-*-cp${py_version}-*-win_amd64.whl",
+					"asset": "tornado-*-cp38-cp38-win_amd64.whl",
 					"platforms": ["windows-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp*-abi3-macosx_*_universal2.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp*-abi3-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp*-abi3-manylinux*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp*-abi3-manylinux*_i686.whl",
+					"platforms": ["linux-x32"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp*-abi3-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp*-abi3-win32.whl",
+					"platforms": ["windows-x32"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tornado",
+					"asset": "tornado-*-cp*-abi3-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.13", "3.14"]
 				}
 			]
 		},

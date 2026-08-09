@@ -1429,6 +1429,16 @@
 				}
 			]
 		},
+        {
+            "name": "Theme - DLUnire Dark",
+            "details": "https://github.com/dlunire/dlunire-dark-theme-sublime",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
 		{
 			"name": "Theme - Eightlime",
 			"details": "https://github.com/hrsetyono/eightlime",

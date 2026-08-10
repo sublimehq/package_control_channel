@@ -865,6 +865,14 @@
 			]
 		},
 		{
+			"details": "https://github.com/RushabhJoshi/BladeFormatter",
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Blame Explorer",
 			"details": "https://github.com/gatopeich/sublame",
 			"releases": [

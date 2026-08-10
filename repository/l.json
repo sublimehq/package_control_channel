@@ -1509,6 +1509,17 @@
 			]
 		},
 		{
+			"name": "LocalKeepAI",
+			"details": "https://github.com/laynef/localkeep-sublime",
+			"labels": ["ai", "assistant", "code generation"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Localpod",
 			"details": "https://github.com/ijoyc/Localpod",
 			"labels": ["cocoapods", "development pods", "ios"],

@@ -688,7 +688,7 @@
 		},
 		{
 			"name": "GitHub Desktop",
-			"previous_names": ["Git​Hub.app Menu"],
+			"previous_names": ["GitHub.app Menu"],
 			"details": "https://github.com/braver/SublimeGitHub",
 			"releases": [
 				{

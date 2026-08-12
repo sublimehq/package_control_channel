@@ -169,7 +169,7 @@
 			"name": "Jasmine JS",
 			"details": "https://github.com/NicoSantangelo/sublime-jasmine",
 			"labels": ["language syntax", "snippets"],
-			"previous_names": ["jasmine", "jasmine bdd"],
+			"previous_names": ["Jasmine", "Jasmine BDD"],
 			"releases": [
 				{
 					"sublime_text": "*",

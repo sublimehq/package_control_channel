@@ -629,6 +629,7 @@
 			"labels": ["utilities"],
 			"releases": [
 				{
+					"platforms": ["osx", "linux"],
 					"sublime_text": ">=3092",
 					"tags": true
 				}

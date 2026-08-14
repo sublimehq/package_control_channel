@@ -624,6 +624,17 @@
 			]
 		},
 		{
+			"name": "FileConverter",
+			"details": "https://github.com/gerph/sublimetext-fileconverter",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "FileDialog",
 			"details": "https://github.com/shagabutdinov/sublime-file-dialog",
 			"labels": ["sublime-enhanced", "file navigation", "utilities"],

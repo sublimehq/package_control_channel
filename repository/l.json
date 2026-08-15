@@ -799,6 +799,17 @@
 			]
 		},
 		{
+			"name": "LeetCodeTools",
+		    "details": "https://github.com/Francium-223/LeetCodeTools",
+		    "labels": ["leetcode"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "Legal Document Creator",
 			"details": "https://github.com/compleatang/Legal-Markdown-Sublime",
 			"labels": ["language syntax"],

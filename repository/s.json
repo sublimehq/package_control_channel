@@ -5213,7 +5213,6 @@
 			]
 		},
 		{
-			"name": "SubMerge",
 			"details": "https://github.com/stuffam/SubMerge",
 			"labels": ["diff", "merge", "diff/merge", "compare", "file management"],
 			"releases": [

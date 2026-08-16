@@ -2427,6 +2427,17 @@
 			]
 		},
 		{
+			"name": "Publora",
+			"details": "https://github.com/publora/sublime-publora",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Pue Syntax Highlight",
 			"details": "https://github.com/QingWei-Li/pue-syntax-highlight",
 			"labels": ["language syntax"],

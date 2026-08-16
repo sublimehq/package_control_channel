@@ -1238,6 +1238,16 @@
 			]
 		},
 		{
+			"name": "ClaudeSublime",
+			"details": "https://gitlab.com/petr.jakub/claudesublime",
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Claudette",
 			"details": "https://github.com/barryceelen/Claudette",
 			"labels": ["ai", "claude"],

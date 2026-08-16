@@ -654,7 +654,7 @@
 		},
 		{
 			"details": "https://github.com/CaffeineOddity/MarkdownPreviewEnhanced",
-			"labels": ["markdown", "preview", "mermaid", "live preview"],
+			"labels": ["markdown", "preview", "mermaid", "live preview", "syntax highlighting"],
 			"releases": [
 				{
 					"sublime_text": ">=4107",

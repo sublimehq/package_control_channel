@@ -3326,7 +3326,6 @@
 			]
 		},
 		{
-			"name": "CompareLive",
 			"details": "https://github.com/mwei-io/CompareLive",
 			"labels": ["diff", "compare", "productivity", "text manipulation", "utilities"],
 			"releases": [

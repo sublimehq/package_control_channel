@@ -799,13 +799,11 @@
 			]
 		},
 		{
-			"name": "LeetCodeTools",
-		    "details": "https://github.com/Francium-223/LeetCodeTools",
-		    "labels": ["leetcode"],
+			"details": "https://github.com/Francium-223/LeetCodeTools",
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},

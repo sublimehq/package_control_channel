@@ -1103,15 +1103,15 @@
 			]
 		},
 		{
-		    "name": "GlyphConstruction",
-		    "details": "https://github.com/adbac/GlyphConstruction-SublimePackage",
-		    "labels": ["language syntax", "completions"],
-		    "releases": [
-		        {
-		            "sublime_text": ">=3092",
-		            "tags": true
-		        }
-		    ]
+			"name": "GlyphConstruction",
+			"details": "https://github.com/adbac/GlyphConstruction-SublimePackage",
+			"labels": ["language syntax", "completions"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "GM Syntax",

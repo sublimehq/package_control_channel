@@ -1718,12 +1718,16 @@
 			]
 		},
 		{
-			"details": "https://github.com/aziz/PlainTasks",
+			"details": "https://github.com/SublimeText/PlainTasks",
 			"labels": ["language syntax", "todo", "tasks"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": "<3092",
+					"tags": "st2/"
+				},
+				{
+					"sublime_text": ">=3092",
+					"tags": "st3/"
 				}
 			]
 		},

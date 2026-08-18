@@ -2531,6 +2531,17 @@
 			]
 		},
 		{
+			"name": "SublimeLinter-contrib-cargo",
+			"details": "https://github.com/Second-Victor/rust-problems",
+			"labels": ["linting", "rust"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Rust Share",
 			"details": "https://github.com/benanders/Rust-Share",
 			"releases": [

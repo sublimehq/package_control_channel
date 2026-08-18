@@ -1083,6 +1083,17 @@
 			]
 		},
 		{
+			"name": "Limitcode",
+			"details": "https://github.com/Jawuilp/Limitcode",
+			"labels": ["ai", "coding assistant"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "LimitTabs",
 			"details": "https://github.com/maximilize/LimitTabs",
 			"releases": [

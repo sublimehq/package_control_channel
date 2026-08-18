@@ -2531,7 +2531,7 @@
 			]
 		},
 		{
-			"name": "Rust Problems",
+			"name": "SublimeLinter-contrib-cargo",
 			"details": "https://github.com/Second-Victor/rust-problems",
 			"labels": ["linting", "rust"],
 			"releases": [

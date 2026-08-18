@@ -1085,7 +1085,7 @@
 		{
 			"name": "Limitcode",
 			"details": "https://github.com/Jawuilp/Limitcode",
-			"labels": ["ai", "llm", "coding assistant"],
+			"labels": ["ai", "llm", "agent", "coding assistant"],
 			"releases": [
 				{
 					"sublime_text": "*",

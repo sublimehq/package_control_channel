@@ -695,7 +695,11 @@
 			"donate": "https://github.com/sponsors/yaroslavyaroslav",
 			"releases": [
 				{
-					"sublime_text": ">=4050",
+					"sublime_text": "4050 - 4204",
+					"tags": "py38-"
+				},
+				{
+					"sublime_text": ">=4205",
 					"tags": true
 				}
 			]

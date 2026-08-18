@@ -1791,6 +1791,17 @@
 			]
 		},
 		{
+			"name": "Expr",
+			"details": "https://github.com/guille/sublime-expr",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Express Color Scheme",
 			"details": "https://github.com/TitanKing/Express.tmTheme",
 			"labels": ["color scheme"],

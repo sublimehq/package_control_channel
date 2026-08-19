@@ -786,6 +786,17 @@
 			]
 		},
 		{
+			"name": "MarkdownX",
+			"details": "https://github.com/mgomes/sublime-markdownx",
+			"labels": ["markdown", "preview"],
+			"releases": [
+				{
+					"sublime_text": ">=4092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marked App Menu",
 			"details": "https://github.com/icio/sublime-text-marked",
 			"labels": ["markdown", "preview", "build system", "marked.app"],

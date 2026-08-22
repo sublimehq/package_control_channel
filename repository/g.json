@@ -967,6 +967,16 @@
 			]
 		},
 		{
+			"name": "GlyphConstruction",
+			"details": "https://github.com/adbac/GlyphConstruction-SublimePackage",
+			"labels": ["language syntax", "completions"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "GM Syntax",
 			"details": "https://github.com/andyp123/GMSyntax",
 			"labels": ["language syntax"],

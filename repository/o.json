@@ -446,6 +446,17 @@
 			]
 		},
 		{
+			"name": "Open All in Browser",
+			"details": "https://github.com/bogdancstrike/sublime_plugin_open_all_in_browser",
+			"labels": ["productivity", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Open DOI",
 			"details": "https://github.com/crazytexer/open_doi",
 			"releases": [

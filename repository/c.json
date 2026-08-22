@@ -5043,6 +5043,17 @@
 			]
 		},
 		{
+			"name": "CurrentContext",
+			"details": "https://github.com/GengCen-Qin/CurrentContext",
+			"labels": ["navigation", "code navigation", "status bar"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/icylace/CursorRuler",
 			"releases": [
 				{

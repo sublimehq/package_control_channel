@@ -743,6 +743,18 @@
 			]
 		},
 		{
+			"name": "Github Pull Request",
+			"details": "https://github.com/ViBiOh/sublime-GithubPullRequest",
+			"author": "ViBiOh",
+			"labels": ["github", "pull-request"],
+			"releases": [
+				{
+          			"sublime_text": ">=4205",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Github Search",
 			"details": "https://github.com/kanghj/sublime-text-github-search-plugin",
 			"releases": [

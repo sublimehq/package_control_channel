@@ -2303,6 +2303,19 @@
 			]
 		},
 		{
+			"name": "Auto Maximize",
+			"details": "https://github.com/mrflamingchad67/sublime-auto-maximize",
+			"author": "mrflamingchad67",
+			"labels": ["utilities", "window"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Auto Refresh",
 			"details": "https://github.com/Wouterdek/AutoRefresh",
 			"releases": [

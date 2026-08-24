@@ -626,7 +626,7 @@
 		{
 			"name": "FileConverter",
 			"details": "https://github.com/gerph/sublimetext-fileconverter",
-			"labels": ["utilities"],
+			"labels": ["utilities", "binary"],
 			"releases": [
 				{
 					"platforms": ["osx", "linux"],

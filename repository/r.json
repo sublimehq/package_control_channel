@@ -431,6 +431,18 @@
 			]
 		},
 		{
+			"name": "raylang",
+			"details": "https://github.com/ray-language/sublime-raylang",
+			"description": "Syntax highlighting for the raylang programming language (.ray), plus its compiled templates (.ray.html) and LSP setup.",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Razor C# Syntax",
 			"details": "https://github.com/LoneBoco/razor-sublime",
 			"description": "Razor C# .cshtml language syntax for Sublime Text 4.",

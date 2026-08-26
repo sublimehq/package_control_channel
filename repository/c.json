@@ -4119,6 +4119,19 @@
 			]
 		},
 		{
+			"name": "CppAssistant",
+			"details": "https://github.com/chenmoulaile/Sublime-CppAssistant",
+			"author": "chenmoulaile",
+			"labels": ["auto-complete", "linting", "formatting", "code navigation", "c++"],
+			"description": "Smart STL completions, Chinese diagnostics, goto definition and jiangly-style formatting",
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CppBuilder",
 			"details": "https://github.com/Sharlock93/CppBuilder",
 			"releases": [

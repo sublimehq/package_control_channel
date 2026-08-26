@@ -2743,6 +2743,16 @@
 			]
 		},
 		{
+			"name": "AvaloniaIDE",
+			"details": "https://github.com/Cerealphile-repo/Avalonia-IDE",
+			"releases": [
+		{
+			"sublime_text": "*",
+			"tags": true
+		}
+			]
+		},
+		{
 			"name": "AVM2 Pcode Syntax Highlighting",
 			"details": "https://github.com/calculuswhiz/pcode-syntax-definition",
 			"labels": ["language syntax"],

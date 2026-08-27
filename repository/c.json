@@ -1411,6 +1411,9 @@
 		{
 			"name": "ClaudeSublime",
 			"details": "https://gitlab.com/petr.jakub/claudesublime",
+			"description": "Run Claude Code in a Sublime Text panel with live highlighting of the files it edits, plus optional rsync-over-SSH project sync.",
+			"readme": "https://gitlab.com/petr.jakub/claudesublime/-/raw/main/README.md",
+			"labels": ["claude", "claude-code", "anthropic", "ai", "terminal", "terminus", "rsync", "sync"],
 			"releases": [
 				{
 					"sublime_text": ">=4107",

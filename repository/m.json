@@ -707,6 +707,18 @@
 			]
 		},
 		{
+			"name": "MarkdownGlance",
+			"details": "https://github.com/pandadolphin/MarkdownGlance",
+			"labels": ["markdown", "preview"],
+			"releases": [
+				{
+					"sublime_text": ">=4200",
+					"platforms": ["*"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/sekogan/MarkdownLight",
 			"labels": ["language syntax", "markdown"],
 			"releases": [

@@ -3,6 +3,24 @@
 	"schema_version": "4.0.0",
 	"libraries": [
 		{
+			"name": "aiosonic",
+			"description": "A very fast Python asyncio http and websockets client",
+			"author": "sonic182",
+			"issues": "https://github.com/sonic182/aiosonic",
+			"releases": [
+				{
+					"base": "https://github.com/packagecontrol/aiosonic",
+					"asset": "aiosonic-*-py3-none-any.whl",
+					"python_versions": ["3.8"]
+				},
+				{
+					"base": "https://pypi.org/project/aiosonic",
+					"asset": "aiosonic-*-py3-none-any.whl",
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
 			"name": "annotated-types",
 			"description": "Reusable constraint types to use with typing.Annotated.",
 			"author": "adriangb",
@@ -1172,6 +1190,19 @@
 				{
 					"base": "https://pypi.org/project/objgraph",
 					"asset": "objgraph-*-py3-none-any.whl",
+					"python_versions": ["3.8", "3.13", "3.14"]
+				}
+			]
+		},
+		{
+			"name": "onecache",
+			"description": "Python cache for sync and async code.",
+			"author": "sonic182",
+			"issues": "https://github.com/python-hyper/onecache/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/onecache",
+					"asset": "onecache-*-py3-none-any.whl",
 					"python_versions": ["3.8", "3.13", "3.14"]
 				}
 			]
@@ -2551,8 +2582,46 @@
 			]
 		},
 		{
+			"name": "tree-sitter-language-pack",
+			"description": "Successor to tree-sitter-languages; more languages, maintained, and compatible with Python 3.13 and beyond.",
+			"author": "xberg-io",
+			"issues": "https://github.com/xberg-io/tree-sitter-language-pack/issues",
+			"releases": [
+				{
+					"base": "https://pypi.org/project/tree_sitter_language_pack",
+					"asset": "tree_sitter_language_pack-*-cp*-abi3-manylinux*_aarch64.whl",
+					"platforms": ["linux-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_language_pack",
+					"asset": "tree_sitter_language_pack-*-cp*-abi3-manylinux*_x86_64.whl",
+					"platforms": ["linux-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_language_pack",
+					"asset": "tree_sitter_language_pack-*-cp*-abi3-macosx_*_arm64.whl",
+					"platforms": ["osx-arm64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_language_pack",
+					"asset": "tree_sitter_language_pack-*-cp*-abi3-macosx_*_x86_64.whl",
+					"platforms": ["osx-x64"],
+					"python_versions": ["3.13", "3.14"]
+				},
+				{
+					"base": "https://pypi.org/project/tree_sitter_language_pack",
+					"asset": "tree_sitter_language_pack-*-cp*-abi3-win_amd64.whl",
+					"platforms": ["windows-x64"],
+					"python_versions": ["3.13", "3.14"]
+				}
+			]
+		},
+		{
 			"name": "tree-sitter-languages",
-			"description": "Binary Python wheels for all tree sitter languages.",
+			"description": "Binary Python wheels for all tree sitter languages; doesn't support past Python 3.12",
 			"author": "grantjenks",
 			"issues": "https://github.com/grantjenks/py-tree-sitter-languages/issues",
 			"releases": [
@@ -2560,37 +2629,37 @@
 					"base": "https://pypi.org/project/tree_sitter_languages",
 					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-manylinux*_aarch64.whl",
 					"platforms": ["linux-arm64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tree_sitter_languages",
 					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-manylinux*_x86_64.whl",
 					"platforms": ["linux-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tree_sitter_languages",
 					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-macosx_*_arm64.whl",
 					"platforms": ["osx-arm64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tree_sitter_languages",
 					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-macosx_*_x86_64.whl",
 					"platforms": ["osx-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tree_sitter_languages",
 					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-win32.whl",
 					"platforms": ["windows-x32"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				},
 				{
 					"base": "https://pypi.org/project/tree_sitter_languages",
 					"asset": "tree_sitter_languages-*-cp${py_version}-cp${py_version}-win_amd64.whl",
 					"platforms": ["windows-x64"],
-					"python_versions": ["3.8", "3.13", "3.14"]
+					"python_versions": ["3.8"]
 				}
 			]
 		},

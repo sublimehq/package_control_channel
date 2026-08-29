@@ -707,7 +707,6 @@
 			]
 		},
 		{
-			"name": "MarkdownGlance",
 			"details": "https://github.com/pandadolphin/MarkdownGlance",
 			"labels": ["markdown", "preview"],
 			"releases": [

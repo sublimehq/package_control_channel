@@ -2967,7 +2967,11 @@
 			"author": "kylebebak",
 			"releases": [
 				{
-					"sublime_text": ">=4107",
+					"sublime_text": "4107 - 4200",
+					"tags": "st4-py38-"
+				},
+				{
+					"sublime_text": ">=4205",
 					"tags": true
 				}
 			]

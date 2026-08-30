@@ -884,6 +884,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/astandkaya/MarpPreview",
+			"labels": ["markdown", "preview", "marp"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Marshal Command Code",
 			"description": "Syntax highlighting for Minecraft Commands",
 			"details": "https://github.com/42iscool42/MCC",

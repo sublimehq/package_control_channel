@@ -4823,7 +4823,7 @@
 		{
 			"name": "SublimeERB",
 			"details": "https://github.com/eddorre/SublimeERB",
-			"labels": ["formatting", "snippets", "text_manipulation"],
+			"labels": ["formatting", "snippets", "text manipulation"],
 			"releases": [
 				{
 					"sublime_text": "*",

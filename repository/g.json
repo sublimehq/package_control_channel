@@ -743,17 +743,6 @@
 			]
 		},
 		{
-			"name": "GithubPullRequest",
-			"details": "https://github.com/ViBiOh/sublime-GithubPullRequest",
-			"labels": ["github", "pull-request"],
-			"releases": [
-				{
-					"sublime_text": ">=4205",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Github Search",
 			"details": "https://github.com/kanghj/sublime-text-github-search-plugin",
 			"releases": [
@@ -805,6 +794,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3084",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "GitHubPullRequest",
+			"details": "https://github.com/ViBiOh/sublime-GithubPullRequest",
+			"labels": ["github", "pull-request"],
+			"releases": [
+				{
+					"sublime_text": ">=4205",
 					"tags": true
 				}
 			]

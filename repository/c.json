@@ -4077,6 +4077,16 @@
 			]
 		},
 		{
+			"name": "CountCharLine",
+			"details": "https://github.com/andre-fga/count-char-line",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Cowsay",
 			"details": "https://github.com/adamchainz/SublimeCowsay",
 			"releases": [

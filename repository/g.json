@@ -799,6 +799,17 @@
 			]
 		},
 		{
+			"name": "GitHubPullRequest",
+			"details": "https://github.com/ViBiOh/sublime-GitHubPullRequest",
+			"labels": ["github", "pull-request"],
+			"releases": [
+				{
+					"sublime_text": ">=4205",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "GitHubTools",
 			"details": "https://github.com/braver/GitHubTools",
 			"donate": "https://ko-fi.com/koenlageveen",

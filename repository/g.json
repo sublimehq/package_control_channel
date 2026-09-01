@@ -800,7 +800,7 @@
 		},
 		{
 			"name": "GitHubPullRequest",
-			"details": "https://github.com/ViBiOh/sublime-GithubPullRequest",
+			"details": "https://github.com/ViBiOh/sublime-GitHubPullRequest",
 			"labels": ["github", "pull-request"],
 			"releases": [
 				{

@@ -2348,6 +2348,17 @@
 			]
 		},
 		{
+			"name": "Slang",
+			"details": "https://github.com/jwortmann/sublime-slang",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Slate",
 			"details": "https://github.com/kvs/ST2Slate",
 			"labels": ["language syntax"],

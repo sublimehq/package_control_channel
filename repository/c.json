@@ -4109,6 +4109,18 @@
 			]
 		},
 		{
+			"name": "cph-by-chenkx",
+			"details": "https://github.com/chenmoulaile/cph-by-chenkx",
+			"labels": ["competitive programming", "c++", "testing", "linting"],
+			"description": "Competitive programming helper with cph-ng style verdicts, Competitive Companion support, and stress test",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CPP Competitive Programming Snippets",
 			"details": "https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets",
 			"releases": [

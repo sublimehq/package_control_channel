@@ -4109,11 +4109,35 @@
 			]
 		},
 		{
+			"name": "cph-by-chenkx",
+			"details": "https://github.com/chenmoulaile/cph-by-chenkx",
+			"labels": ["competitive programming", "c++", "testing", "linting"],
+			"description": "Competitive programming helper with cph-ng style verdicts, Competitive Companion support, and stress test",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CPP Competitive Programming Snippets",
 			"details": "https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets",
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "CppAssistant",
+			"details": "https://github.com/chenmoulaile/Sublime-CppAssistant",
+			"labels": ["auto-complete", "linting", "formatting", "code navigation", "c++"],
+			"description": "Smart STL completions, Chinese diagnostics, goto definition and jiangly-style formatting",
+			"releases": [
+				{
+					"sublime_text": ">=4050",
 					"tags": true
 				}
 			]

@@ -23,6 +23,18 @@
 			]
 		},
 		{
+			"name": "Vala",
+			"description": "Language support for the Vala programming language (and Genie)",
+			"details": "https://github.com/colinkiama/vala_sublime_text",
+			"labels": ["language syntax", "build system", "snippets", "completions", "vala", "genie"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Vala-TMBundle",
 			"details": "https://github.com/technosophos/Vala-TMBundle",
 			"labels": ["language syntax", "vala"],

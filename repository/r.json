@@ -2190,6 +2190,7 @@
 			"name": "RTLAssistant",
 			"details": "https://github.com/jd1378/sublime_rtl_assistant",
 			"labels": ["text manipulation", "unicode"],
+			"previous_names": ["Bidirectional text support"],
 			"releases": [
 				{
 					"sublime_text": ">=4107",

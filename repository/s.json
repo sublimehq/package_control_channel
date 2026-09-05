@@ -5214,6 +5214,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/stuffam/SubMerge",
+			"labels": ["diff", "merge", "diff/merge", "compare", "file management"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/facelessuser/SubNotify",
 			"releases": [
 				{

@@ -667,6 +667,17 @@
 			]
 		},
 		{
+			"name": "VisuBezier",
+			"details": "https://github.com/mrcgrtz/visubezier",
+			"labels": ["css", "preview", "hover", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Vlt",
 			"details": "https://github.com/tomalec/Sublime-Text-2-Vlt-Plugin",
 			"releases": [

@@ -2207,6 +2207,17 @@
 			]
 		},
 		{
+			"name": "RTLAssistant",
+			"details": "https://github.com/jd1378/sublime_rtl_assistant",
+			"labels": ["text manipulation", "unicode"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RubocopDaemon",
 			"details": "https://github.com/Lichtbit/sublime_rubocop_daemon",
 			"releases": [

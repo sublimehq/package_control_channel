@@ -810,16 +810,6 @@
 			]
 		},
 		{
-			"name": "Bidirectional text support",
-			"details": "https://github.com/praveenvijayan/Sublime-Text-2-BIDI",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "Bigine",
 			"details": "https://github.com/dahaode/st3-bigine",
 			"labels": ["language syntax"],

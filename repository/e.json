@@ -1529,17 +1529,6 @@
 			]
 		},
 		{
-			"name": "EXAPUNKS",
-			"details": "https://github.com/cafuneandchill/exapunks-syntax",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"details": "https://github.com/SublimeText/ExcelExec",
 			"releases": [
 				{

@@ -732,17 +732,6 @@
 			]
 		},
 		{
-			"name": "SCSS Expander",
-			"details": "https://github.com/garetht/sublime-scss-expander",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "SCSS Snippets",
 			"details": "https://github.com/npostulart/SCSS-Snippets",
 			"labels": ["snippets"],
@@ -2208,16 +2197,6 @@
 			"name": "Singularity Definition File Syntax",
 			"details": "https://github.com/MorganRodgers/singularity_definition_file_syntax",
 			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "SingularitySnippets",
-			"details": "https://github.com/blcook223/SingularitySnippets",
 			"releases": [
 				{
 					"sublime_text": "*",

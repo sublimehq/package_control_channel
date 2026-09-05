@@ -4272,16 +4272,6 @@
 			]
 		},
 		{
-			"name": "CreativeCrocodile",
-			"details": "https://github.com/Abban/CreativeCrocodile",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Creeper Reverse Polish Language",
 			"details": "https://github.com/KubeRoot/Sublime-CRPL",
 			"labels": ["language syntax", "completions"],

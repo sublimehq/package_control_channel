@@ -1991,7 +1991,13 @@
 		{
 			"name": "PolyRun",
 			"details": "https://github.com/mara1784/SublimeExtension-PolyRun",
-			"labels": ["terminal","multi-run","runner","execution"]
+			"labels": ["terminal","multi-run","runner","execute"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "Pomodoro",

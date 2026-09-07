@@ -2219,6 +2219,16 @@
 			]
 		},
 		{
+		    "name": "RTL Preview",
+		    "details": "https://github.com/itszux/RTLPreview",
+		    "releases": [
+		        {
+		            "sublime_text": "*",
+		            "tags": true
+		        }
+		    ]
+		},
+		{
 			"name": "RubocopDaemon",
 			"details": "https://github.com/Lichtbit/sublime_rubocop_daemon",
 			"releases": [

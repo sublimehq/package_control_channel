@@ -4394,6 +4394,16 @@
 			]
 		},
 		{
+			"name": "SubCalc",
+			"details": "https://github.com/vonbehr/SubCalc",
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Subclim",
 			"details": "https://github.com/JulianEberius/Subclim",
 			"releases": [

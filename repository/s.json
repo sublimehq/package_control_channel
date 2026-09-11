@@ -3684,6 +3684,18 @@
 			]
 		},
 		{
+			"name": "SquareTable",
+			"author": ["Jake Barlow (cjdbarlow)"],
+			"details": "https://github.com/cjdbarlow/squaretable-st",
+			"labels": ["markdown", "textile", "restructuredtext", "pandoc", "emacs org mode", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Squib Snippets",
 			"details": "https://github.com/andymeneely/sublime-squib",
 			"labels": ["snippets", "dsl", "ruby"],

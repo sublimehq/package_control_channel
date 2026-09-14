@@ -1033,6 +1033,31 @@
 			]
 		},
 		{
+			"name": "Glimmer JS",
+			"details": "https://github.com/ijlee2/sublime-syntax-definition-template-tag",
+			"description": "Provides syntax highlighting for *.gjs files",
+			"labels": ["language syntax", "ember", "gjs", "template tag"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "glimmer-js"
+				}
+			]
+		},
+		{
+			"name": "Glimmer TS",
+			"details": "https://github.com/ijlee2/sublime-syntax-definition-template-tag",
+			"description": "Provides syntax highlighting for *.gts files",
+			"labels": ["language syntax", "ember", "gts", "template tag"],
+			"previous_names": ["Template Tag"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "glimmer-ts"
+				}
+			]
+		},
+		{
 			"name": "Glot",
 			"details": "https://github.com/hyrious/glot",
 			"labels": ["code sharing"],

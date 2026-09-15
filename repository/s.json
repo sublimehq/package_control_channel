@@ -6217,6 +6217,17 @@
 			]
 		},
 		{
+			"name": "systemd",
+			"details": "https://github.com/macowie/sublime-systemd",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SystemRDL",
 			"details": "https://github.com/deanMaker/sublime-language-systemrdl",
 			"labels": ["language syntax"],

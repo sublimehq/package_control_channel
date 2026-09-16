@@ -2197,6 +2197,16 @@
 			]
 		},
 		{
+			"name": "RTL Preview",
+			"details": "https://github.com/itszux/RTLPreview",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RTL To Dialog",
 			"details": "https://github.com/mohammad6006/RTLtoDialog",
 			"releases": [
@@ -2217,16 +2227,6 @@
 					"tags": true
 				}
 			]
-		},
-		{
-		    "name": "RTL Preview",
-		    "details": "https://github.com/itszux/RTLPreview",
-		    "releases": [
-		        {
-		            "sublime_text": "*",
-		            "tags": true
-		        }
-		    ]
 		},
 		{
 			"name": "RubocopDaemon",

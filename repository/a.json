@@ -562,7 +562,6 @@
 		},
 		{
 			"name": "AhuAIComplete",
-			"description": "Inline AI ghost-text completion for Sublime Text (Ollama / OpenAI / FIM).",
 			"details": "https://github.com/ahu/AIComplete",
 			"labels": ["auto-complete", "completions", "ai", "ghost text"],
 			"releases": [

@@ -4396,6 +4396,7 @@
 		{
 			"name": "SubCalc",
 			"details": "https://github.com/vonbehr/SubCalc",
+			"labels": ["utilities", "calculator"],
 			"releases": [
 				{
 					"sublime_text": ">=4050",

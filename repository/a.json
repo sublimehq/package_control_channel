@@ -563,7 +563,7 @@
 		{
 			"name": "AhuAIComplete",
 			"details": "https://github.com/ahu/AIComplete",
-			"labels": ["auto-complete", "completions", "ai", "ghost text"],
+			"labels": ["auto-complete", "completions", "ai"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",

@@ -1247,6 +1247,18 @@
 			]
 		},
 		{
+			"name": "MCP Commander",
+			"description": "Turns Sublime Text into an MCP server that an external AI agent (e.g. Claude Code) can directly control: read cursor context, edit files, navigate, run builds, and evaluate Python in ST's runtime, while the user watches changes happen live.",
+			"details": "https://github.com/dpc00/sublime-mcp",
+			"labels": ["ai", "mcp"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MCPHelper",
 			"description": "Connects to a local Model Context Protocol (MCP) server for AI-powered code generation, review, refactoring, and translation using OpenAI or Gemini.",
 			"author": "David Donohue",

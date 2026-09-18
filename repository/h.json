@@ -257,6 +257,17 @@
 			]
 		},
 		{
+			"name": "Harbour",
+			"details": "https://github.com/mirogeorg/Harbour",
+			"labels": ["language syntax", "completions", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Hare",
 			"details": "https://github.com/artursartamonovs/hare-highlight",
 			"labels": ["language syntax"],

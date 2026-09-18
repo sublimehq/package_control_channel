@@ -1293,6 +1293,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/deese/MDLinknavigator",
+			"labels": ["utilities", "markdown"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MDN Search",
 			"details": "https://github.com/jackfranklin/ST2-MDN-Search",
 			"releases": [

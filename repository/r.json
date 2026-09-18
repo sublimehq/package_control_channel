@@ -35,12 +35,16 @@
 		},
 		{
 			"name": "Racket",
-			"details": "https://github.com/follesoe/sublime-racket",
-			"labels": ["language syntax"],
+			"details": "https://github.com/17451k/sublime-racket",
+			"labels": ["language syntax", "racket"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"branch": "master"
+					"sublime_text": ">=4000",
+					"tags": true
+				},
+				{
+					"sublime_text": "<4000",
+					"tags": "st3-"
 				}
 			]
 		},
@@ -427,6 +431,18 @@
 				{
 					"sublime_text": ">=3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "raylang",
+			"details": "https://github.com/ray-language/sublime-raylang",
+			"description": "Syntax highlighting for the raylang programming language (.ray), plus its compiled templates (.ray.html) and LSP setup.",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
 				}
 			]
 		},
@@ -1388,7 +1404,11 @@
 					"tags": "st3-"
 				},
 				{
-					"sublime_text": ">=4107",
+					"sublime_text": "4107 - 4200",
+					"tags": "st4-py38-"
+				},
+				{
+					"sublime_text": ">=4205",
 					"tags": true
 				}
 			]
@@ -2186,6 +2206,18 @@
 			"releases": [
 				{
 					"sublime_text": ">=3080",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RTLAssistant",
+			"details": "https://github.com/jd1378/sublime_rtl_assistant",
+			"labels": ["text manipulation", "unicode"],
+			"previous_names": ["Bidirectional text support"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]

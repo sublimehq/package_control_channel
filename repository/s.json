@@ -732,17 +732,6 @@
 			]
 		},
 		{
-			"name": "SCSS Expander",
-			"details": "https://github.com/garetht/sublime-scss-expander",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "SCSS Snippets",
 			"details": "https://github.com/npostulart/SCSS-Snippets",
 			"labels": ["snippets"],
@@ -2216,16 +2205,6 @@
 			]
 		},
 		{
-			"name": "SingularitySnippets",
-			"details": "https://github.com/blcook223/SingularitySnippets",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Sinon",
 			"details": "https://github.com/mokkabonna/sublime-sinon",
 			"labels": ["language syntax", "completions", "sinon"],
@@ -2343,6 +2322,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Slang",
+			"details": "https://github.com/jwortmann/sublime-slang",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]
@@ -4404,6 +4394,17 @@
 			]
 		},
 		{
+			"name": "SubCalc",
+			"details": "https://github.com/vonbehr/SubCalc",
+			"labels": ["utilities", "calculator"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Subclim",
 			"details": "https://github.com/JulianEberius/Subclim",
 			"releases": [
@@ -4823,7 +4824,7 @@
 		{
 			"name": "SublimeERB",
 			"details": "https://github.com/eddorre/SublimeERB",
-			"labels": ["formatting", "snippets", "text_manipulation"],
+			"labels": ["formatting", "snippets", "text manipulation"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -5219,6 +5220,16 @@
 			"releases": [
 				{
 					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/stuffam/SubMerge",
+			"labels": ["diff", "merge", "diff/merge", "compare", "file management"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]

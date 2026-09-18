@@ -659,7 +659,7 @@
 		},
 		{
 			"name": "Open URL",
-			"details": "https://github.com/noahcoad/open-url",
+			"details": "https://github.com/noahcoad/SublimeOpenUrl",
 			"labels": ["open paths", "open files", "shortcut", "power user", "web search", "url"],
 			"releases": [
 				{

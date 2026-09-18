@@ -234,6 +234,19 @@
 			]
 		},
 		{
+			"name": "Ungulate Theme",
+			"details": "https://github.com/dontwanttothink/ungulate-theme",
+			"homepage": "https://tangled.org/dontwanttoth.ink/ungulate-theme",
+			"description": "An adaptive theme based on Ayu.",
+			"labels": ["theme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Unicode Character Highlighter",
 			"details": "https://github.com/possan/sublime_unicode_nbsp",
 			"releases": [

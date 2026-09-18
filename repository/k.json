@@ -436,17 +436,6 @@
 			]
 		},
 		{
-			"name": "Kohana 2.x Snippets",
-			"details": "https://github.com/golf3gtiii/Kohana234-sublimeText2-plugin",
-			"labels": ["snippets"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "Kohana 3 Snippets",
 			"details": "https://bitbucket.org/temperedvision/sublime-kohana3",
 			"releases": [

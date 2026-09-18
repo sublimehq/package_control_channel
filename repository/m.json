@@ -553,6 +553,17 @@
 			]
 		},
 		{
+			"name": "Markdown Nav",
+			"details": "https://github.com/noahcoad/SublimeMarkdownNav",
+			"labels": ["markdown", "code navigation", "search"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Markdown Numbered Headers",
 			"details": "https://github.com/weituotian/md_numbered_headers",
 			"labels": ["markdown", "headers", "numbered headers"],
@@ -2585,6 +2596,17 @@
 		{
 			"name": "MOOS",
 			"details": "https://github.com/oviquezr/sublime-moos",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "MOOSE",
+			"details": "https://github.com/elcarrillo/moose-sublime",
 			"labels": ["language syntax"],
 			"releases": [
 				{

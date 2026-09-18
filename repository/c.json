@@ -1411,6 +1411,7 @@
 		{
 			"name": "ClaudeSublime",
 			"details": "https://gitlab.com/petr.jakub/claudesublime",
+			"labels": ["claude", "anthropic", "ai", "rsync", "sync"],
 			"releases": [
 				{
 					"sublime_text": ">=4107",
@@ -3358,6 +3359,16 @@
 			]
 		},
 		{
+			"details": "https://github.com/mwei-io/CompareLive",
+			"labels": ["diff", "compare", "productivity", "text manipulation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Compass",
 			"details": "https://github.com/whatwedo/sublime-text-compass",
 			"author": "whatwedo",
@@ -4264,16 +4275,6 @@
 			"name": "Create WebP Image",
 			"labels": ["webp", "cwebp"],
 			"details": "https://github.com/TomasBarry/Sublime-create-webp-image",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "CreativeCrocodile",
-			"details": "https://github.com/Abban/CreativeCrocodile",
 			"releases": [
 				{
 					"sublime_text": "*",

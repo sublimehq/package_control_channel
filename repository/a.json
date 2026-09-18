@@ -2586,6 +2586,17 @@
 			]
 		},
 		{
+			"name": "AutoOpenReadme",
+			"details": "https://github.com/noahcoad/SublimeAutoOpenReadme",
+			"labels": ["utilities", "file navigation", "project"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AutoPEP8",
 			"details": "https://github.com/wistful/SublimeAutoPEP8",
 			"labels": ["formatting", "linting"],

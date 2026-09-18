@@ -1993,6 +1993,17 @@
 			]
 		},
 		{
+			"name": "PolyRun",
+			"details": "https://github.com/mara1784/SublimeExtension-PolyRun",
+			"labels": ["terminal","multi-run","runner","execute"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Pomodoro",
 			"details": "https://github.com/Neway6655/Sublime-Pomodoro",
 			"labels": ["timer"],

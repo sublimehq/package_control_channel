@@ -494,6 +494,18 @@
 			]
 		},
 		{
+			"name": "AgentIDE",
+			"description": "Standalone Sublime Text plugin bridging ST to any IDE-protocol agent CLI (Claude Code and others) -- diff review via Sublime's native Incremental Diff, selection/context sharing, generic across agents rather than tied to one vendor.",
+			"details": "https://github.com/dpc00/AgentIDE",
+			"labels": ["ai", "claude", "ide"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AgentRansack",
 			"details": "https://github.com/Starli0n/SublimeAgentRansack",
 			"releases": [

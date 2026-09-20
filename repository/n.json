@@ -1092,6 +1092,18 @@
 			]
 		},
 		{
+			"name": "NotionSave",
+			"details": "https://github.com/adelhamad/sublime-notion-auto-save",
+			"labels": ["utilities", "productivity"],
+			"releases": [
+				{
+					"sublime_text": ">=2221",
+					"platforms": ["*"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "NotmuchAddress",
 			"details": "https://github.com/yeled/sublime-notmuch-address",
 			"releases": [

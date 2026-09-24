@@ -955,6 +955,17 @@
 			]
 		},
 		{
+			"name": "AMX Mod X Pawn Syntax",
+			"details": "https://github.com/NiceFeatures/sublime-pawn-syntax",
+			"labels": ["language syntax", "pawn", "amxmodx"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AmxxEditor",
 			"details": "https://github.com/evandrocoan/AmxxEditor",
 			"labels": ["language syntax", "auto-complete", "build system", "amxmodx", "amx mod x", "amxx", "pawn"],

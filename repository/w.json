@@ -244,18 +244,6 @@
 			]
 		},
 		{
-			"name": "WebHare",
-			"details": "https://github.com/WebHare/sublime-package",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": ">=3092",
-					"platforms": ["osx", "linux"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "WebIDL",
 			"details": "https://github.com/queengooborg/WebIDL-Sublime",
 			"labels": ["language syntax", "webidl"],

@@ -1286,10 +1286,14 @@
 		{
 			"name": "iRules",
 			"details": "https://github.com/billchurch/sublime-iRules",
-			"labels": ["language syntax"],
+			"labels": ["language syntax", "snippets", "auto-complete", "formatting"],
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": "3000 - 4106",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]

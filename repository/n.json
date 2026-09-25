@@ -860,6 +860,17 @@
 			]
 		},
 		{
+			"name": "Noctis Color Scheme",
+			"details": "https://github.com/ziishaned/sublime-text-noctis",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4143",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Nocturnal Color Scheme",
 			"details": "https://github.com/noct/nocturnal-color-scheme",
 			"labels": ["color scheme"],

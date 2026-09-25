@@ -5915,6 +5915,18 @@
 			]
 		},
 		{
+			"name": "Symbols",
+			"details": "https://github.com/ziishaned/sublime-text-symbols",
+			"author": ["ziishaned"],
+			"labels": ["theme", "file", "icons"],
+			"releases": [
+				{
+					"sublime_text": ">=3114",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Symfony2 Override",
 			"details": "https://github.com/igormukhingmailcom/sublimetext3-symfony2-override-package",
 			"releases": [

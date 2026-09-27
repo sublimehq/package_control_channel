@@ -1330,8 +1330,7 @@
 		{
 			"name": "SettingsUI",
 			"details": "https://github.com/mfuentesg/settings-ui",
-			"labels": ["settings", "settings-ui"],
-			"author": "mfuentesg",
+			"labels": ["settings", "preferences"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",

@@ -2746,10 +2746,10 @@
 			"name": "AvaloniaIDE",
 			"details": "https://github.com/Cerealphile-repo/Avalonia-IDE",
 			"releases": [
-		{
-			"sublime_text": "*",
-			"tags": true
-		}
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
 			]
 		},
 		{

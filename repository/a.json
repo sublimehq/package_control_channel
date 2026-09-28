@@ -955,7 +955,7 @@
 			]
 		},
 		{
-			"name": "AMX Mod X Pawn Syntax",
+			"name": "AMX Mod X Pawn",
 			"details": "https://github.com/NiceFeatures/sublime-pawn-syntax",
 			"labels": ["language syntax", "pawn", "amxmodx"],
 			"releases": [

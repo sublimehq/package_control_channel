@@ -3685,7 +3685,7 @@
 		},
 		{
 			"name": "SquareTable",
-			"author": ["Jake Barlow (cjdbarlow)"],
+			"author": "Jake Barlow (cjdbarlow)",
 			"details": "https://github.com/cjdbarlow/squaretable-st",
 			"labels": ["markdown", "textile", "restructuredtext", "pandoc", "emacs org mode", "text manipulation"],
 			"releases": [

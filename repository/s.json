@@ -834,6 +834,17 @@
 			]
 		},
 		{
+			"name": "Search in Project 4",
+			"details": "https://github.com/deese/SearchInProject4_SublimeText",
+			"labels": ["search"],
+			"releases": [
+				{
+					"sublime_text": ">4500",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Search Stack Overflow",
 			"details": "https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin",
 			"releases": [

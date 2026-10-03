@@ -4120,11 +4120,32 @@
 			]
 		},
 		{
+			"details": "https://github.com/chenmoulaile/cph-by-chenkx",
+			"labels": ["c", "c++", "competitive programming", "testing"],
+			"releases": [
+				{
+					"sublime_text": ">=4095",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CPP Competitive Programming Snippets",
 			"details": "https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets",
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "CppAssistant",
+			"details": "https://github.com/chenmoulaile/Sublime-CppAssistant",
+			"labels": ["c++", "competitive programming", "code completion", "linting"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

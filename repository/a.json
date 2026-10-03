@@ -8,7 +8,11 @@
 			"labels": ["theme", "file", "icons"],
 			"releases": [
 				{
-					"sublime_text": ">=3114",
+					"sublime_text": "3114 - 4205",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4206",
 					"tags": true
 				}
 			]

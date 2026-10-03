@@ -671,6 +671,7 @@
 		{
 			"name": "FileIcons",
 			"details": "https://github.com/braver/FileIcons",
+			"readme": "https://raw.githubusercontent.com/braver/FileIcons/color/README.md",
 			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["file", "icons"],
 			"releases": [
@@ -690,6 +691,18 @@
 				{
 					"sublime_text": ">=3000",
 					"tags": "mono-"
+				}
+			]
+		},
+		{
+			"name": "FileIcons Theme",
+			"details": "https://github.com/braver/FileIcons",
+			"donate": "https://ko-fi.com/koenlageveen",
+			"labels": ["file", "icons", "file icon theme"],
+			"releases": [
+				{
+					"sublime_text": ">=4206",
+					"tags": "theme-"
 				}
 			]
 		},

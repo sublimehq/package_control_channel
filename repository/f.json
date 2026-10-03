@@ -1165,17 +1165,6 @@
 			]
 		},
 		{
-			"name": "Flask Hello",
-			"details": "https://github.com/tanrax/SublimeFlaskHello",
-			"labels": ["auto-complete", "snippets"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Flask Starter",
 			"details": "https://github.com/JoePriesto/Sublime-Flask-Starter",
 			"releases": [

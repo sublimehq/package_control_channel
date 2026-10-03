@@ -1899,17 +1899,6 @@
 			]
 		},
 		{
-			"name": "LuaAutocomplete",
-			"details": "https://github.com/ColonelThirtyTwo/LuaAutocomplete",
-			"labels": ["auto-complete", "lua"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "LuaComplete",
 			"details": "https://github.com/FourierTransformer/LuaComplete-Sublime",
 			"labels": ["auto-complete", "snippets", "lua"],

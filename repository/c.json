@@ -662,7 +662,11 @@
 					"tags": "st3-v"
 				},
 				{
-					"sublime_text": ">=4084",
+					"sublime_text": "4084 - 4207",
+					"tags": "st4084-v"
+				},
+				{
+					"sublime_text": ">=4208",
 					"tags": true
 				}
 			]

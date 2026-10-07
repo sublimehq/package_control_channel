@@ -4130,6 +4130,17 @@
 			]
 		},
 		{
+			"name": "CppAssistant",
+			"details": "https://github.com/chenmoulaile/Sublime-CppAssistant",
+			"labels": ["c++", "competitive programming", "code completion", "linting"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CppBuilder",
 			"details": "https://github.com/Sharlock93/CppBuilder",
 			"releases": [

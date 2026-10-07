@@ -2926,7 +2926,7 @@
 			"name": "Solarized Color Scheme",
 			"details": "https://github.com/braver/Solarized",
 			"donate": "https://ko-fi.com/koenlageveen",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "theme", "file icon theme"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",

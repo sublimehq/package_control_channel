@@ -520,16 +520,6 @@
 			]
 		},
 		{
-			"name": "Paste PDF Text Block",
-			"details": "https://github.com/compleatang/sublimetext-pastepdf",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "Paste Plus",
 			"details": "https://github.com/ggets/Sublime_PastePlus",
 			"labels": ["text manipulation", "clipboard", "paste"],

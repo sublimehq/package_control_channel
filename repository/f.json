@@ -671,6 +671,7 @@
 		{
 			"name": "FileIcons",
 			"details": "https://github.com/braver/FileIcons",
+			"description": "Colorful file icons for older versions of Sublime Text",
 			"readme": "https://raw.githubusercontent.com/braver/FileIcons/color/README.md",
 			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["file", "icons"],
@@ -684,6 +685,7 @@
 		{
 			"name": "FileIcons Mono",
 			"details": "https://github.com/braver/FileIcons",
+			"description": "Monochrome file icons for older versions of Sublime Text",
 			"readme": "https://raw.githubusercontent.com/braver/FileIcons/mono/README.md",
 			"donate": "https://ko-fi.com/koenlageveen",
 			"labels": ["file", "icons"],

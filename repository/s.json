@@ -6103,6 +6103,17 @@
 			]
 		},
 		{
+			"name": "SyncSettingsReborn",
+			"details": "https://github.com/ZhangMing520/SyncSettingsReborn",
+			"labels": ["settings", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Synesthesia",
 			"details": "https://github.com/dariusf/synesthesia",
 			"releases": [

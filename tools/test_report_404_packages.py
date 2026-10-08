@@ -463,7 +463,7 @@ def test_render_pr_title_and_body_support_singular_and_plural():
 
         - **testify** [since 2026-02-28; 7 weeks]
 
-        You can check the current [status](https://packages.sublimetext.io/status).
+        You can check the current [status](https://packagecontrol.github.io/thecrawl/status/).
 
         This PR removes the package from the registry.
         """
@@ -478,7 +478,7 @@ def test_render_pr_title_and_body_support_singular_and_plural():
         - **testify** [since 2026-02-28; 7 weeks]
         - **KarmaRunner** [since 2026-03-21; 4 weeks]
 
-        You can check their current [status](https://packages.sublimetext.io/status).
+        You can check their current [status](https://packagecontrol.github.io/thecrawl/status/).
 
         This PR removes the packages from the registry.
         """
@@ -507,7 +507,7 @@ def test_write_pr_message_files_writes_expected_files(tmp_path):
 
         - **testify** [since 2026-02-28; 7 weeks]
 
-        You can check the current [status](https://packages.sublimetext.io/status).
+        You can check the current [status](https://packagecontrol.github.io/thecrawl/status/).
 
         This PR removes the package from the registry.
         """

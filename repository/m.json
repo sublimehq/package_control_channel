@@ -900,7 +900,11 @@
 			"author": "retif",
 			"releases": [
 				{
-					"sublime_text": ">=4099",
+					"sublime_text": "4099 - 4204",
+					"tags": "4099-"
+				},
+				{
+					"sublime_text": ">=4205",
 					"tags": "v"
 				}
 			]

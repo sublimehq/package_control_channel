@@ -1230,6 +1230,17 @@
 			]
 		},
 		{
+			"name": "JsonFormat",
+			"details": "https://github.com/victordov/JsonFormat",
+			"labels": ["folding", "formatter", "formatting", "json", "json5", "jsonc"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://bitbucket.org/hmml/jsonlint",
 			"labels": ["linting", "json"],
 			"releases": [

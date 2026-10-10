@@ -5229,6 +5229,17 @@
 			]
 		},
 		{
+			"name": "subLiNe edit",
+			"details": "https://github.com/mohsyn/subline",
+			"labels": ["find", "search", "regex", "filter", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Sublitesse Color Scheme",
 			"details": "https://github.com/hhofner/sublitesse",
 			"labels": ["color scheme"],

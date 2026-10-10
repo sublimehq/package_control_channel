@@ -586,11 +586,11 @@ def render_pr_title(packages: list[UnreachablePackage]) -> str:
 def render_pr_body(packages: list[UnreachablePackage]) -> str:
     if len(packages) == 1:
         subject = "The following package responds with a 404:"
-        status_line = "You can check the current [status](https://packages.sublimetext.io/status)."
+        status_line = "You can check the current [status](https://packagecontrol.github.io/thecrawl/status/)."
         outro = "This PR removes the package from the registry."
     else:
         subject = "The following packages respond with 404s:"
-        status_line = "You can check their current [status](https://packages.sublimetext.io/status)."
+        status_line = "You can check their current [status](https://packagecontrol.github.io/thecrawl/status/)."
         outro = "This PR removes the packages from the registry."
 
     bullets = [

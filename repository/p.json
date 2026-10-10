@@ -3657,6 +3657,17 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "PureSublimeMarkdown",
+			"details": "https://github.com/piotrzielinski1994/pure-sublime-markdown",
+			"labels": ["markdown", "preview"],
+			"releases": [
+				{
+					"sublime_text": ">=3150",
+					"tags": true
+				}
+			]
 		}
 	]
 }

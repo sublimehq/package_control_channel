@@ -3579,7 +3579,7 @@
 			"author": "Kevin Li",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
+					"sublime_text": ">=4215",
 					"tags": true
 				}
 			]

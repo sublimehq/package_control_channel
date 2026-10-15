@@ -6113,6 +6113,17 @@
 			]
 		},
 		{
+			"name": "Synesthete",
+			"details": "https://github.com/dchacke/synesthete",
+			"labels": ["music", "audio", "visualization"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Synonymizer",
 			"details": "https://github.com/A5308Y/sublime-synonymizer",
 			"author": "A5308Y",

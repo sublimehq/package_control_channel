@@ -1339,6 +1339,17 @@
 			]
 		},
 		{
+			"name": "mdview",
+			"details": "https://github.com/mdview2026/sublime-mdview",
+			"labels": ["markdown", "preview"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MDX",
 			"details": "https://github.com/SublimeText/MDX",
 			"labels": ["jsx", "language syntax", "markdown", "mdx"],

@@ -1215,6 +1215,18 @@
 			]
 		},
 		{
+			"name": "RemoteTreeFTP",
+			"details": "https://github.com/samoyluk/RemoteTreeFTP",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RemoveComments",
 			"details": "https://github.com/mejunliu/RemoveComments",
 			"releases": [

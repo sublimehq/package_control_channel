@@ -1012,6 +1012,18 @@
 			]
 		},
 		{
+			"name": "OrgEverywhere",
+			"details": "https://github.com/ihdavids/orgeverywhere",
+			"author": "Ian Davids",
+			"labels": ["language syntax", "org mode", "notes", "note taking", "authoring", "todo", "tasks"],
+			"releases": [
+				{
+					"sublime_text": ">=4213",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "OrgExtended",
 			"details": "https://github.com/ihdavids/orgextended",
 			"author": "Ian Davids",

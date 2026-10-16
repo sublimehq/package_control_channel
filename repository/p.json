@@ -3012,7 +3012,7 @@
 		},
 		{
 			"name": "PureMarkdown",
-			"details": "https://github.com/piotrzielinski1994/pure-sublime-markdown",
+			"details": "https://github.com/piotrzielinski1994/pure-markdown",
 			"labels": ["markdown", "preview"],
 			"releases": [
 				{

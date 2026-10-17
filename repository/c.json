@@ -3577,7 +3577,7 @@
 			"name": "Confluence",
 			"details": "https://github.com/mlf4aiur/SublimeConfluence",
 			"author": "Kevin Li",
-			"labels": ["confluence", "markdown", "restructuredtext"]
+			"labels": ["confluence", "markdown", "restructuredtext"],
 			"releases": [
 				{
 					"sublime_text": "3000 - 4213",

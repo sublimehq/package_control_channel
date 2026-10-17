@@ -170,6 +170,20 @@
 			]
 		},
 		{
+			"name": "Santafe",
+			"description": "Official language support for Santafé.",
+			"details": "https://github.com/rafaellemos/santafe-sublime",
+			"author": "Rafael Alves Lemos",
+			"labels": ["language syntax", "snippets", "build system"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"python_versions": ["3.3", "3.8", "3.14"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SAS Programming",
 			"description": "For using SAS Institute's Analytics & Data Management system.",
 			"details": "https://github.com/rpardee/sas",

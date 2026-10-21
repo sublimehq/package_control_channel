@@ -1,23 +1,24 @@
 {
-	"schema_version": "3.0.0",
+	"$schema": "sublime://packagecontrol.io/schemas/repository",
+	"schema_version": "4.0.0",
 	"packages": [
-		{
-			"name": "X to Y",
-			"details": "https://github.com/superguigui/xtoy",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
 		{
 			"name": "X10Language",
 			"details": "https://github.com/ltronky/sublime-x10",
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "X3-Alpha Color Scheme",
+			"details": "https://github.com/x3ns/x3-alpha-theme",
+			"author": "x3ns <ns@nsyed.com>",
+			"labels": ["color scheme"],
+			"releases": [
+				{
 					"tags": true
 				}
 			]
@@ -28,7 +29,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -39,7 +39,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -72,18 +71,7 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "Xdebug",
-			"details": "https://github.com/Kindari/SublimeXdebug",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},
@@ -93,7 +81,6 @@
 			"labels": ["php", "xdebug"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -104,7 +91,6 @@
 			"labels": ["language syntax", "xeto"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -115,7 +101,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -125,18 +110,7 @@
 			"details": "https://github.com/EivindArvesen/xkcd",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "XLI Template Converter",
-			"details": "https://github.com/apex2060/xli-templateize",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},
@@ -146,18 +120,7 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
-				}
-			]
-		},
-		{
-			"name": "xml-guesser",
-			"details": "https://github.com/CrypticTemple/sublime-xml-guesser",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},
@@ -166,7 +129,6 @@
 			"details": "https://github.com/vontio/sublime-xml2json",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -177,7 +139,6 @@
 			"labels": ["documentation", "c-sharp"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -186,7 +147,6 @@
 			"details": "https://github.com/haloway13/XmlTransformer",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -196,7 +156,6 @@
 			"details": "https://github.com/kassi/sublime-text-2-xmpfilter",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -222,10 +181,6 @@
 			"labels": ["xml", "xpath", "xquery", "clipboard", "preview"],
 			"releases": [
 				{
-					"sublime_text": "<3000",
-					"tags": "st2-"
-				},
-				{
 					"sublime_text": "<4050",
 					"tags": "v"
 				},
@@ -241,7 +196,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -252,7 +206,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -264,7 +217,7 @@
 			"previous_names": ["XSLT Snippets"],
 			"releases": [
 				{
-					"sublime_text": "3083 - 4106",
+					"sublime_text": "<=4106",
 					"tags": "st3-"
 				},
 				{
@@ -278,22 +231,11 @@
 			]
 		},
 		{
-			"name": "XSnippet",
-			"details": "https://github.com/xsnippet/sublime-xsnippet",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "XssEncode",
 			"description": "Converts characters from one encoding to another using a transformation.",
 			"details": "https://github.com/medicean/SublimeXssEncode",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -304,7 +246,6 @@
 			"labels": ["language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -315,7 +256,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -326,7 +266,6 @@
 			"labels": ["language syntax", "gecko"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

@@ -1462,17 +1462,26 @@
 				}
 			]
 		},
-		{
-			"name": "Evernote",
-			"details": "https://github.com/bordaigorl/sublime-evernote",
-			"labels": ["language syntax", "evernote", "markdown"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
+	    {
+            "name": "Evernote",
+            "details": "https://github.com/chinakr/sublime-evernote",
+            "labels": [
+                "language syntax",
+                "evernote",
+                "markdown"
+            ],
+            "releases": [
+                {
+                    "sublime_text": "<4000",
+                    "version": "2.7.4",
+                    "url": "https://github.com/bordaigorl/sublime-evernote/archive/refs/tags/2.7.4.zip"
+                },
+                {
+                    "sublime_text": ">=4000",
+                    "tags": true
+                }
+            ]
+        },
 		{
 			"name": "Everything Search",
 			"details": "https://github.com/XuefengWu/EverythingSearch-sublime2",

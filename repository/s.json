@@ -170,6 +170,19 @@
 			]
 		},
 		{
+			"name": "Santafe",
+			"description": "Santafé syntax, snippets and optional SLS 1.0 integration.",
+			"details": "https://github.com/rafaellemos/santafe-sublime",
+			"author": "Rafael Alves Lemos",
+			"labels": ["language syntax", "snippets", "build system"],
+			"releases": [
+				{
+					"sublime_text": ">=4171",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SAS Programming",
 			"description": "For using SAS Institute's Analytics & Data Management system.",
 			"details": "https://github.com/rpardee/sas",

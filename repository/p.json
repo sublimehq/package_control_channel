@@ -3001,6 +3001,17 @@
 			]
 		},
 		{
+			"name": "PureMarkdown",
+			"details": "https://github.com/piotrzielinski1994/sublime-pure-markdown",
+			"labels": ["markdown", "preview"],
+			"releases": [
+				{
+					"sublime_text": ">=3150",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PureScript",
 			"details": "https://github.com/b123400/purescript-ide-sublime",
 			"labels": ["language syntax", "ide"],

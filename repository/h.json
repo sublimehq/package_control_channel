@@ -449,6 +449,18 @@
 			]
 		},
 		{
+			"name": "Heritage Themes",
+			"author": "Andrzej Piontek",
+			"details": "https://github.com/heritage-themes/heritage-themes-sublime",
+			"labels": ["theme", "color scheme", "dark", "light"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Heta",
 			"details": "https://github.com/hetalang/heta-highlight-sublime",
 			"labels": ["language syntax"],

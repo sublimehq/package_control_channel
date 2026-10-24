@@ -681,6 +681,17 @@
 			]
 		},
 		{
+			"name": "ReadableResume Snippets",
+			"details": "https://github.com/supertj/readable-resume-sublime",
+			"labels": ["snippets", "latex", "typst", "resume"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/idleberg/Readme-Helper",
 			"labels": ["snippets", "markdown", "restructuredtext", "textile"],
 			"releases": [

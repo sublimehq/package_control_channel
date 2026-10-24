@@ -5843,6 +5843,17 @@
 			]
 		},
 		{
+			"name": "Swift6",
+			"details": "https://github.com/hanguokai/sublime-swift",
+			"labels": ["language syntax", "swift"],
+			"releases": [
+				{
+					"sublime_text": ">=4075",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SwiftKitten",
 			"details": "https://github.com/johncsnyder/SwiftKitten",
 			"labels": ["auto-complete", "swift"],

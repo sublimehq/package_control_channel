@@ -2023,10 +2023,10 @@
 			"name": "ASL Syntax Highlight",
 			"details": "https://github.com/Fansaly/ASL-Syntax-Highlight",
 			"author": "Fansaly",
-			"labels": ["language syntax"],
+			"labels": ["completions", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3143",
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

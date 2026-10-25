@@ -23,6 +23,17 @@
 			]
 		},
 		{
+			"name": "RGC",
+			"details": "https://github.com/rgc-lang/sublime-rgc",
+			"labels": ["language syntax", "rgc"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "R_comments",
 			"details": "https://github.com/anasrana/R_Comments",
 			"labels": ["comment", "r", "statistics"],

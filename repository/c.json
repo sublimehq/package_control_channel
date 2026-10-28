@@ -4314,6 +4314,17 @@
 			]
 		},
 		{
+			"name": "Cremisi Color Scheme",
+			"details": "https://github.com/vari-sh/cremisi-sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3149",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/Siddley/Creole",
 			"labels": ["language syntax"],
 			"releases": [

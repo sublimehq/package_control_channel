@@ -1697,6 +1697,17 @@
 			]
 		},
 		{
+			"name": "Plagx Writing Companion",
+			"details": "https://github.com/plagiarismcheckerx/plagx-writing-companion-sublime",
+			"labels": ["linting", "markdown", "latex", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PlainNotes",
 			"details": "https://github.com/aziz/PlainNotes",
 			"labels": ["language syntax", "notes", "note taking", "authoring", "todo", "tasks"],

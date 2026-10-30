@@ -5776,11 +5776,15 @@
 		},
 		{
 			"name": "Swift",
-			"details": "https://github.com/quiqueg/Swift-Sublime-Package",
-			"labels": ["language syntax"],
+			"details": "https://github.com/hanguokai/sublime-swift",
+			"labels": ["language syntax", "swift"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<3092",
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

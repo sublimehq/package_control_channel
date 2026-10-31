@@ -4097,6 +4097,18 @@
 			]
 		},
 		{
+			"name": "CoworkingView",
+			"details": "https://github.com/coworkingview/sublime-coworkingview",
+			"homepage": "https://coworkingview.com",
+			"labels": ["coworking", "search"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Cowsay",
 			"details": "https://github.com/adamchainz/SublimeCowsay",
 			"releases": [

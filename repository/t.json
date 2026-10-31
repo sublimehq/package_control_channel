@@ -1412,6 +1412,18 @@
 			]
 		},
 		{
+			"name": "Theme - Darkroom",
+			"details": "https://github.com/pioug/sublime-darkroom",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4197",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Theme - DC",
 			"details": "https://github.com/dubeg/theme-dc",
 			"labels": ["theme"],

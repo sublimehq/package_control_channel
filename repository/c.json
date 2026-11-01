@@ -3074,21 +3074,6 @@
 			]
 		},
 		{
-			"name": "COLT",
-			"details": "https://github.com/code-orchestra/colt-sublime-plugin",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
-				},
-				{
-					"sublime_text": ">=3000",
-					"base": "https://github.com/code-orchestra/colt-sublime3-plugin",
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "Columbus Syntax",
 			"details": "https://bitbucket.org/canlustenberger/brainwarecolumbus",
 			"labels": ["language syntax"],

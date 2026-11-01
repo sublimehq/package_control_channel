@@ -719,6 +719,17 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "Uxntal",
+			"details": "https://codeberg.org/jan_Mija/sublime-Uxntal",
+			"labels": ["language syntax", "build system", "auto-complete"],
+			"releases": [
+				{
+					"sublime_text": ">=4215",
+					"tags": true
+				}
+			]
 		}
 	]
 }

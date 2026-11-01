@@ -259,6 +259,15 @@
 			]
 		},
 		{
+			"name": "Random HEX Color",
+			"details": "https://github.com/lindskogen/RandomHEXColor",
+			"releases": [
+				{
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "Random Text",
 			"details": "https://github.com/dallbee/RandomText",
 			"labels": ["text manipulation"],
@@ -524,6 +533,16 @@
 			"releases": [
 				{
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "ReadableResume Snippets",
+			"details": "https://github.com/supertj/readable-resume-sublime",
+			"labels": ["snippets", "latex", "typst", "resume"],
+			"releases": [
+				{
+					"tags": true
 				}
 			]
 		},

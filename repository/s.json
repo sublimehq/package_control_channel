@@ -4902,8 +4902,8 @@
 		},
 		{
 			"name": "Swift",
-			"details": "https://github.com/quiqueg/Swift-Sublime-Package",
-			"labels": ["language syntax"],
+			"details": "https://github.com/hanguokai/sublime-swift",
+			"labels": ["language syntax", "swift"],
 			"releases": [
 				{
 					"tags": true
@@ -5172,6 +5172,17 @@
 			"details": "https://github.com/dariusf/synesthesia",
 			"releases": [
 				{
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Synesthete",
+			"details": "https://github.com/dchacke/synesthete",
+			"labels": ["music", "audio", "visualization"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]

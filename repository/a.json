@@ -1489,6 +1489,17 @@
 			]
 		},
 		{
+			"name": "Archive Nested Lines",
+			"details": "https://github.com/holgerl/archive-nested-lines",
+			"labels": ["text manipulation", "todo", "notes"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ArcticTypescript",
 			"details": "https://github.com/Phaiax/ArcticTypescript",
 			"labels": ["language syntax"],
@@ -1727,9 +1738,10 @@
 			"name": "ASL Syntax Highlight",
 			"details": "https://github.com/Fansaly/ASL-Syntax-Highlight",
 			"author": "Fansaly",
-			"labels": ["language syntax"],
+			"labels": ["completions", "language syntax"],
 			"releases": [
 				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

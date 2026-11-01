@@ -847,6 +847,17 @@
 			]
 		},
 		{
+			"name": "BlackboardForever Color Scheme",
+			"details": "https://github.com/danwolff/BlackboardForever",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BlackRain",
 			"details": "https://github.com/ginfuru/Sublime-BlackRain",
 			"labels": ["color scheme"],

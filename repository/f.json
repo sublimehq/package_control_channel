@@ -629,18 +629,6 @@
 			]
 		},
 		{
-			"name": "FileIcons Theme",
-			"details": "https://github.com/braver/FileIcons",
-			"donate": "https://ko-fi.com/koenlageveen",
-			"labels": ["file", "icons", "file icon theme"],
-			"releases": [
-				{
-					"sublime_text": ">=4206",
-					"tags": "theme-"
-				}
-			]
-		},
-		{
 			"name": "FileList",
 			"details": "https://github.com/shagabutdinov/sublime-file-list",
 			"labels": ["sublime-enhanced", "file navigation", "file manipulation", "utilities"],

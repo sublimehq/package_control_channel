@@ -2033,9 +2033,12 @@
 		{
 			"name": "ASL Syntax Highlight",
 			"details": "https://github.com/Fansaly/ASL-Syntax-Highlight",
-			"author": "Fansaly",
 			"labels": ["completions", "language syntax"],
 			"releases": [
+				{
+					"sublime_text": "3143 - 3999",
+					"tags": "st3-"
+				},
 				{
 					"sublime_text": ">=4000",
 					"tags": true

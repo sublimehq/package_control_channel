@@ -1660,7 +1660,7 @@
 		{
 			"name": "GoSaveTool",
 			"details": "https://github.com/mitolocya/sublime-gosavetools",
-			"labels": ["subtitles", "text manipulation", "formatting", "word count"],
+			"labels": ["subtitles", "captions", "srt", "webvtt"],
 			"releases": [
 				{
 					"sublime_text": ">=4107",

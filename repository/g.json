@@ -1658,15 +1658,15 @@
 			]
 		},
 		{
-		    "name": "GoSaveTool",
-		    "details": "https://github.com/mitolocya/sublime-gosavetools",
-		    "labels": ["subtitles", "text manipulation", "formatting", "word count"],
-		    "releases": [
-		        {
-		            "sublime_text": ">=4107",
-		            "tags": true
-		        }
-		    ]
+			"name": "GoSaveTool",
+			"details": "https://github.com/mitolocya/sublime-gosavetools",
+			"labels": ["subtitles", "text manipulation", "formatting", "word count"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
 		},
 		{
 			"name": "GoTags",

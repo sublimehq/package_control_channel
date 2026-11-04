@@ -857,6 +857,17 @@
 			]
 		},
 		{
+			"name": "OpenInObsidian",
+			"details": "https://github.com/thedanheller/sublime-text-open-in-obsidian",
+			"labels": ["markdown", "obsidian"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "OpenLastRPT",
 			"details": "https://github.com/jonpas/Sublime-OpenLastRPT/",
 			"labels": ["logs", "file open"],

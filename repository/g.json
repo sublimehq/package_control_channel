@@ -652,6 +652,17 @@
 			]
 		},
 		{
+			"name": "GitExt",
+			"details": "https://github.com/almakano/sublimetext-gitext",
+			"labels": ["git", "vcs", "diff", "commit"],
+			"releases": [
+				{
+					"sublime_text": ">=4132",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "GitGrep",
 			"details": "https://github.com/jugyo/SublimeGitGrep",
 			"releases": [

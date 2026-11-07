@@ -224,17 +224,6 @@
 			]
 		},
 		{
-			"name": "ACTG",
-			"details": "https://github.com/hackerfriendly/ACTG",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "ActionScript 3",
 			"details": "https://github.com/skoch/Sublime-ActionScript-3",
 			"labels": ["language syntax"],
@@ -349,17 +338,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "AddToFile",
-			"details": "https://github.com/nchauhan890/AddToFile",
-			"labels": ["text manipulation"],
-			"releases": [
-				{
-					"sublime_text": ">=3114",
 					"tags": true
 				}
 			]
@@ -1258,17 +1236,6 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "AnonymousFile",
-			"details": "https://github.com/nchauhan890/anonymous-file",
-			"labels": ["file creation", "testing"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

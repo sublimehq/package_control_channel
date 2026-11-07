@@ -1893,16 +1893,6 @@
 			]
 		},
 		{
-			"name": "FT Origami",
-			"details": "https://github.com/Financial-Times/FTOrigamiSublimeText",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "FTPSync",
 			"details": "https://github.com/NoxArt/SublimeText2-FTPSync",
 			"labels": ["ftp", "sync"],

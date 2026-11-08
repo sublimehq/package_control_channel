@@ -4213,6 +4213,17 @@
 			]
 		},
 		{
+			"name": "Stranger Theme Color Schemes",
+			"details": "https://github.com/stranger-theme/stranger-theme",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"asset": "StrangerTheme.sublime-package"
+				}
+			]
+		},
+		{
 			"name": "Strapdown Markdown Preview",
 			"details": "https://github.com/michfield/sublime-strapdown-preview",
 			"releases": [

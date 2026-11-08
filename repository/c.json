@@ -2682,15 +2682,6 @@
 			]
 		},
 		{
-			"name": "COLT",
-			"details": "https://github.com/code-orchestra/colt-sublime3-plugin",
-			"releases": [
-				{
-					"branch": "master"
-				}
-			]
-		},
-		{
 			"name": "Columbus Syntax",
 			"details": "https://bitbucket.org/canlustenberger/brainwarecolumbus",
 			"labels": ["language syntax"],

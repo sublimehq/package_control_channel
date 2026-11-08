@@ -206,16 +206,6 @@
 			]
 		},
 		{
-			"name": "ACTG",
-			"details": "https://github.com/hackerfriendly/ACTG",
-			"labels": ["language syntax"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "ActionScript 3",
 			"details": "https://github.com/skoch/Sublime-ActionScript-3",
 			"labels": ["language syntax"],
@@ -317,16 +307,6 @@
 		{
 			"name": "AddRemoveFolder",
 			"details": "https://github.com/fsaad/Sublime-AddRemoveFolder",
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "AddToFile",
-			"details": "https://github.com/nchauhan890/AddToFile",
-			"labels": ["text manipulation"],
 			"releases": [
 				{
 					"tags": true
@@ -1086,16 +1066,6 @@
 			]
 		},
 		{
-			"name": "AnonymousFile",
-			"details": "https://github.com/nchauhan890/anonymous-file",
-			"labels": ["file creation", "testing"],
-			"releases": [
-				{
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Ansible",
 			"details": "https://github.com/clifford-github/sublime-ansible",
 			"labels": ["language syntax", "ansible"],
@@ -1737,9 +1707,12 @@
 		{
 			"name": "ASL Syntax Highlight",
 			"details": "https://github.com/Fansaly/ASL-Syntax-Highlight",
-			"author": "Fansaly",
 			"labels": ["completions", "language syntax"],
 			"releases": [
+				{
+					"sublime_text": "3143 - 3999",
+					"tags": "st3-"
+				},
 				{
 					"sublime_text": ">=4000",
 					"tags": true
@@ -1860,6 +1833,17 @@
 			"releases": [
 				{
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Asyntai AI Chatbot",
+			"details": "https://github.com/asyntai/sublime-ai-chatbot",
+			"labels": ["ai", "chatbot", "knowledge base"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
 				}
 			]
 		},

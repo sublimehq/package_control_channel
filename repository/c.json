@@ -2874,6 +2874,17 @@
 			]
 		},
 		{
+			"name": "Color Scheme - Steadfast",
+			"details": "https://github.com/ello-lithuania/sublime-steadfast-color-schemes",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=3149",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Color Scheme - Thunderstorm",
 			"details": "https://github.com/39digits/thunderstorm-sublime-theme",
 			"author": "Christopher Hamilton",

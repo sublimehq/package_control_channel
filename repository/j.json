@@ -609,7 +609,11 @@
 			"labels": ["auto-complete", "build system", "file creation", "file navigation", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<4083",
+					"tags": "st3-"
+				},
+				{
+					"sublime_text": ">=4083",
 					"tags": true
 				}
 			]

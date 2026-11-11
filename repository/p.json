@@ -585,6 +585,17 @@
 			]
 		},
 		{
+			"details": "https://github.com/shivamsupr/PasteImage",
+			"labels": ["clipboard", "image", "markdown", "paste"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Pastel Paws Color Scheme",
 			"details": "https://github.com/Ociidii-Works/pastel_paws",
 			"author": "XenHat",

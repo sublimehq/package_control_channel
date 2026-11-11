@@ -6328,7 +6328,11 @@
 			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=4000",
+					"sublime_text": ">=4205",
+					"tags": "st4.2-"
+				},
+				{
+					"sublime_text": "4000 - 4199",
 					"tags": "st4-"
 				},
 				{

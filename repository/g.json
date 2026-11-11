@@ -1658,6 +1658,17 @@
 			]
 		},
 		{
+			"name": "GoSaveTool",
+			"details": "https://github.com/mitolocya/sublime-gosavetools",
+			"labels": ["subtitles", "captions", "srt", "webvtt"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "GoTags",
 			"details": "https://github.com/howcrazy/Sublime-GoTags",
 			"releases": [

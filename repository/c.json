@@ -3955,6 +3955,17 @@
 			]
 		},
 		{
+			"name": "CopyPath",
+			"details": "https://github.com/madmaxohyeah/sublime-copy-path",
+			"labels": ["utilities", "clipboard", "json", "yaml", "xml"],
+			"releases": [
+				{
+					"sublime_text": ">=4215",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/crash5/CopyWithLineNumbersReloaded",
 			"releases": [
 				{

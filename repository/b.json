@@ -790,7 +790,7 @@
 		},
 		{
 			"name": "Biblia",
- 			"details": "https://github.com/Casara/biblia-sublime",
+			"details": "https://github.com/Casara/biblia-sublime",
 			"labels": ["bible", "text manipulation", "markdown", "typst"],
 			"releases": [
 				{

@@ -789,6 +789,17 @@
 			]
 		},
 		{
+			"name": "Biblia",
+			"details": "https://github.com/Casara/biblia-sublime",
+			"labels": ["bible", "text manipulation", "markdown", "typst"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Bibtex Bibliography Sort",
 			"details": "https://github.com/wolfposd/Sublime-Bibtex-Sort",
 			"releases": [

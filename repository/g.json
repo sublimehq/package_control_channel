@@ -12,6 +12,22 @@
 			]
 		},
 		{
+		    "name": "GAI",
+		    "description": "General AI",
+		    "author": "Promptility",
+		    "homepage": "https://promptility.github.io/GAI-pages-pub/",
+		    "releases": [
+    		{
+			   	 	"version": "1.1.0",
+			   		"date": "2026-11-13 00:00:00",
+				    "url": "https://github.com/promptility/GAI/releases/tag/v1.1.0",
+			        "url": "https://sos-ch-dk-2.exo.io/promptility-assets/GAI/releases/v1.1.0/gai.sublime-package?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=EXO79309f0ee12d77aee4685818%2F20261112%2Fch-dk-2%2Fs3%2Faws4_request&X-Amz-Date=20261112T234109Z&X-Amz-Expires=17280000&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=5e6869c4a71e0bff10e9ec3ee7c6453bddd4346ac6c6ac21e193c6edf646fdaa",
+					"sublime_text": ">=4213",
+				    "platforms": ["*"]
+    		}
+  			]
+		},
+		{
 			"name": "Galen v2+",
 			"details": "https://github.com/davidrv87/syntax-sublime-galen2",
 			"labels": ["language syntax"],

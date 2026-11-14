@@ -1737,10 +1737,7 @@
 			"details": "https://github.com/zzheer/plant-doctor-sublime",
 			"homepage": "https://plantdoctor.app",
 			"author": "Moruk LLC",
-			"labels": [
-				"utilities",
-				"snippets"
-			],
+			"labels": ["utilities"],
 			"releases": [
 				{
 					"sublime_text": ">=4107",

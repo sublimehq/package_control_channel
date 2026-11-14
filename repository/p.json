@@ -1733,6 +1733,22 @@
 			]
 		},
 		{
+			"name": "PlantDoctorCare",
+			"details": "https://github.com/zzheer/plant-doctor-sublime",
+			"homepage": "https://plantdoctor.app",
+			"author": "Moruk LLC",
+			"labels": [
+				"utilities",
+				"snippets"
+			],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PlantUmlDiagrams",
 			"details": "https://github.com/evandrocoan/PlantUmlDiagrams",
 			"labels": ["language syntax", "uml", "plantuml"],

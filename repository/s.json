@@ -1339,6 +1339,17 @@
 			]
 		},
 		{
+			"name": "Settings Sync",
+			"details": "https://github.com/ichi0g0y/settings-sync",
+			"labels": ["sync", "settings", "gist"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SettingsUI",
 			"details": "https://github.com/mfuentesg/settings-ui",
 			"labels": ["settings", "preferences"],

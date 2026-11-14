@@ -1186,6 +1186,17 @@
 			]
 		},
 		{
+			"name": "Lingo",
+			"details": "https://github.com/thewaysofwyrd/sublime-lingo",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Linguist Syntax",
 			"details": "https://github.com/hronro/sublime-linguist-syntax",
 			"labels": ["language syntax"],

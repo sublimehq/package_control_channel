@@ -13,6 +13,17 @@
 			]
 		},
 		{
+			"name": "p3n",
+			"details": "https://github.com/Barabosik/p3n-sublime",
+			"labels": ["ai", "text manipulation", "prose"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "P4 Syntax Highlighter",
 			"details": "https://github.com/c3m3gyanesh/p4-syntax-highlighter",
 			"labels": ["language syntax"],

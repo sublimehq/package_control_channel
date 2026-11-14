@@ -718,6 +718,17 @@
 			]
 		},
 		{
+			"name": "MarkdownFormatting",
+			"details": "https://github.com/madmaxohyeah/sublime-md-format",
+			"labels": ["formatting", "markdown"],
+			"releases": [
+				{
+					"sublime_text": ">=4215",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/feibuilds/MarkdownGlance",
 			"labels": ["markdown", "preview"],
 			"releases": [

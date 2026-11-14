@@ -978,6 +978,17 @@
 			]
 		},
 		{
+			"name": "HornSignal",
+			"details": "https://github.com/bosshorncom-cmd/HornSignal",
+			"labels": ["utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Hosts",
 			"details": "https://github.com/tijn/hosts.tmLanguage",
 			"labels": ["language syntax", "hosts", "hostsfile"],

@@ -5168,6 +5168,17 @@
 			]
 		},
 		{
+			"name": "SyncSettingsReborn",
+			"details": "https://github.com/ZhangMing520/SyncSettingsReborn",
+			"labels": ["settings", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4050",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Synesthesia",
 			"details": "https://github.com/dariusf/synesthesia",
 			"releases": [
@@ -5334,7 +5345,11 @@
 			"labels": ["completions", "language syntax", "snippets"],
 			"releases": [
 				{
-					"sublime_text": ">=4000",
+					"sublime_text": ">=4205",
+					"tags": "st4.2-"
+				},
+				{
+					"sublime_text": "4000 - 4199",
 					"tags": "st4-"
 				},
 				{

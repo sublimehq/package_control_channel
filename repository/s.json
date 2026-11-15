@@ -3640,6 +3640,18 @@
 			]
 		},
 		{
+			"name": "Stranger Theme Color Schemes",
+			"details": "https://github.com/stranger-theme/stranger-theme",
+			"homepage": "https://github.com/stranger-theme/stranger-theme/tree/main/sublime-text",
+			"readme": "https://raw.githubusercontent.com/stranger-theme/stranger-theme/main/sublime-text/README.md",
+			"releases": [
+				{
+					"asset": "StrangerTheme.sublime-package",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Strapdown Markdown Preview",
 			"details": "https://github.com/michfield/sublime-strapdown-preview",
 			"releases": [

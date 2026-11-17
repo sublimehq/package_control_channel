@@ -817,6 +817,17 @@
 			]
 		},
 		{
+			"name": "MarkdownSplitPreview",
+			"details": "https://github.com/duduppp/MarkdownSplitPreview",
+			"labels": ["markdown", "preview", "split"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "MarkdownWriter",
 			"details": "https://github.com/vanleo2001/MarkdownWriter",
 			"labels": ["markdown", "html", "converting"],

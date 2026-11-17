@@ -1393,7 +1393,7 @@
 		},
 		{
 			"name": "LiveReload",
-			"details": "https://github.com/alepez/LiveReload-sublimetext3",
+			"details": "https://github.com/aik099/LiveReload-sublimetext4",
 			"releases": [
 				{
 					"sublime_text": ">=3000",

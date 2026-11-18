@@ -241,7 +241,7 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
+					"sublime_text": ">=4200",
 					"tags": true
 				}
 			]

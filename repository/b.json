@@ -1904,6 +1904,17 @@
 			]
 		},
 		{
+			"name": "By3Menu",
+			"details": "https://github.com/kibernet/SublimePluginBy3Menu",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "BYOND",
 			"details": "https://github.com/Wirewraith/sublime-byond",
 			"labels": ["build system", "language syntax", "dream maker", "dream seeker", "dream daemon"],

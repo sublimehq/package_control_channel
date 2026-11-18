@@ -3609,6 +3609,17 @@
 			]
 		},
 		{
+    			"name": "Console Theme",
+    			"details": "https://github.com/lost-traveler/Console-Theme-for-Sublime-Text-4",
+    			"labels": ["theme", "color scheme"],
+    			"releases": [
+        			{
+            			"sublime_text": ">=4000",
+            			"tags": true
+        			}
+    			]
+		},
+		{
 			"name": "Console Wrap",
 			"details": "https://github.com/unknownuser88/consolewrap",
 			"author": "David Bekoyan",

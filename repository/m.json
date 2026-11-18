@@ -807,22 +807,22 @@
 			]
 		},
 		{
-			"details": "https://github.com/naokazuterada/MarkdownTOC",
-			"labels": ["markdown", "toc", "table of contents"],
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "MarkdownSplitPreview",
 			"details": "https://github.com/duduppp/MarkdownSplitPreview",
 			"labels": ["markdown", "preview", "split"],
 			"releases": [
 				{
 					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/naokazuterada/MarkdownTOC",
+			"labels": ["markdown", "toc", "table of contents"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]

@@ -70,6 +70,17 @@
 			]
 		},
 		{
+	    	"name": "Tabletop Simulator Editor",
+	    	"details": "https://github.com/wunditta/tabletop-simulator-editor",
+	    	"labels": ["tabletop simulator", "lua", "game"],
+	    	"releases": [
+	        	{
+	            	"sublime_text": ">=3000",
+	            	"tags": true
+	        	}
+	    	]
+		},
+		{
 			"name": "Tabletop Simulator Lua",
 			"details": "https://github.com/rolandostar/tabletopsimulator-lua-sublime",
 			"releases": [

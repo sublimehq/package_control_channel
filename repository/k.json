@@ -47,6 +47,17 @@
 			]
 		},
 		{
+			"name": "Kanagawa",
+			"details": "https://github.com/pfinette/kanagawa-sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "KanaKana",
 			"details": "https://github.com/mitsu-ksgr/KanaKana",
 			"labels": ["japanese", "text manipulation"],

@@ -1061,6 +1061,16 @@
 			]
 		},
 		{
+			"name": "Lingo",
+			"details": "https://github.com/thewaysofwyrd/sublime-lingo",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Linguist Syntax",
 			"details": "https://github.com/hronro/sublime-linguist-syntax",
 			"labels": ["language syntax"],
@@ -1245,7 +1255,7 @@
 		},
 		{
 			"name": "LiveReload",
-			"details": "https://github.com/alepez/LiveReload-sublimetext3",
+			"details": "https://github.com/aik099/LiveReload-sublimetext4",
 			"releases": [
 				{
 					"tags": true

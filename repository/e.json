@@ -1293,10 +1293,16 @@
 		},
 		{
 			"name": "Evernote",
-			"details": "https://github.com/bordaigorl/sublime-evernote",
+			"details": "https://github.com/chinakr/sublime-evernote",
 			"labels": ["language syntax", "evernote", "markdown"],
 			"releases": [
 				{
+					"sublime_text": "<4000",
+					"base": "https://github.com/bordaigorl/sublime-evernote",
+					"tags": true
+				},
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]

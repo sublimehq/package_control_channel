@@ -1,5 +1,6 @@
 {
-	"schema_version": "3.0.0",
+	"$schema": "sublime://packagecontrol.io/schemas/repository",
+	"schema_version": "4.0.0",
 	"packages": [
 		{
 			"name": "Z",
@@ -7,7 +8,6 @@
 			"labels": ["z", "z jump", "directory", "open directory"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -18,17 +18,7 @@
 			"labels": ["language syntax", "z80", "assembly"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
-				}
-			]
-		},
-		{
-			"details": "https://bitbucket.org/abraly/zap-gremlins",
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"branch": "master"
 				}
 			]
 		},
@@ -53,7 +43,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -64,7 +53,6 @@
 			"labels": ["zeitgeist"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": "linux",
 					"tags": true
 				}
@@ -76,7 +64,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -87,7 +74,6 @@
 			"labels": ["utilities", "tab manipulation", "zen"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -98,7 +84,6 @@
 			"labels": ["text manipulation", "japanese"],
 			"releases": [
 				{
-					"sublime_text": ">2999",
 					"tags": true
 				}
 			]
@@ -108,7 +93,6 @@
 			"details": "https://github.com/cluther/SublimeZenoss",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -119,7 +103,6 @@
 			"labels": ["completions", "language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -131,7 +114,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -142,7 +124,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -153,7 +134,6 @@
 			"labels": ["language syntax", "zig"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -164,7 +144,6 @@
 			"labels": ["language syntax", "zig"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -175,7 +154,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -185,7 +163,6 @@
 			"details": "https://github.com/mawelborn/ZipContents",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -196,7 +173,6 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -208,7 +184,6 @@
 			"labels": ["zmpl", "zig", "jetzig", "language syntax", "html", "markdown"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]
@@ -219,7 +194,6 @@
 			"labels": ["zeromq", "binding", "zmq"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"platforms": ["osx", "linux"],
 					"branch": "master"
 				}
@@ -232,7 +206,6 @@
 			"labels": ["snippets", "perl", "znuny"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -243,7 +216,6 @@
 			"labels": ["language syntax", "tz", "tzdb", "time zone", "olson"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -254,7 +226,6 @@
 			"labels": ["language syntax"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -267,7 +238,6 @@
 			"author": "Siew Yi Liang",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -280,7 +250,6 @@
 			"author": "James Dinsdale",
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -302,7 +271,6 @@
 			"labels": ["automation", "utilities"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"tags": true
 				}
 			]
@@ -313,7 +281,6 @@
 			"labels": ["snippets"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -324,7 +291,6 @@
 			"labels": ["snippets", "responsive", "email", "ink"],
 			"releases": [
 				{
-					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
@@ -335,7 +301,6 @@
 			"labels": ["language syntax", "zxx"],
 			"releases": [
 				{
-					"sublime_text": ">=3092",
 					"tags": true
 				}
 			]

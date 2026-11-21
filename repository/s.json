@@ -1630,6 +1630,17 @@
 			]
 		},
 		{
+			"name": "ShotLedger",
+			"details": "https://github.com/shipandsail/ShotLedger",
+			"labels": ["health", "log", "medication"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "shoulda-matchers Snippets",
 			"details": "https://github.com/maxehmookau/shoulda-matchers-snippets",
 			"releases": [

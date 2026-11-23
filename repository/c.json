@@ -4398,6 +4398,17 @@
 			]
 		},
 		{
+			"name": "CRS-CopyJSONReference",
+			"details": "https://github.com/orozcodiaz/CRS-CopyJSONReference",
+			"labels": ["json", "clipboard", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Crypto",
 			"details": "https://github.com/mediaupstream/SublimeText-Crypto",
 			"releases": [

@@ -1888,6 +1888,20 @@
 			]
 		},
 		{
+			"name": "LSP-llvm-ir",
+			"details": "https://github.com/SohamTilekar/LSP-llvm-ir",
+			"description": "Advanced LLVM IR Language Server & Visualizer for Sublime Text",
+			"homepage": "https://github.com/SohamTilekar/llvm-ir-studio",
+			"author": "Soham Tilekar",
+			"labels": ["lsp", "llvm", "language-server", "compiler", "diagnostics"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Lua Dev",
 			"details": "https://github.com/rorydriscoll/LuaSublime",
 			"labels": ["language syntax", "lua"],

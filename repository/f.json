@@ -1612,6 +1612,18 @@
 			]
 		},
 		{
+			"name": "ForceGroup",
+			"details": "https://github.com/Scribilicious/ForceGroup",
+			"author": "Jens Eldering",
+			"labels": ["layout", "groups", "panes"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ForceMoveToGroup",
 			"details": "https://github.com/tkotosz/SublimeForceMoveToGroup",
 			"releases": [

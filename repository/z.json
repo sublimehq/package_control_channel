@@ -249,6 +249,17 @@
 			]
 		},
 		{
+			"name": "ZotInstruct",
+			"details": "https://github.com/unlight/ZotInstruct",
+			"labels": ["utilities", "ai", "zot"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ZPL Syntax",
 			"details": "https://github.com/tonylegrone/sublime-zpl-highlighting",
 			"labels": ["language syntax"],

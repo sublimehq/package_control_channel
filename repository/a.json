@@ -118,6 +118,17 @@
 			]
 		},
 		{
+			"name": "Accent Letters",
+			"details": "https://github.com/roshanti1/sublime-accent-letters",
+			"labels": ["text manipulation", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Accessibility",
 			"details": "https://github.com/Yago/ST3-Accessibility",
 			"releases": [

@@ -2436,6 +2436,17 @@
 			]
 		},
 		{
+			"name": "GunsNPrices",
+			"details": "https://github.com/gunsnprices/sublime-gunsnprices",
+			"labels": ["text manipulation", "utilities", "csv", "json"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Gutter Color",
 			"details": "https://github.com/ggordan/GutterColor",
 			"releases": [

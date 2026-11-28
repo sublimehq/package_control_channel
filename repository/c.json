@@ -3715,6 +3715,18 @@
 			]
 		},
 		{
+			"name": "Converter Studio",
+			"details": "https://github.com/tariksucu/sublime-converter-studio",
+			"homepage": "https://converter.studio",
+			"labels": ["convert", "utilities", "pdf", "markdown", "image", "video"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ConvertFullHalfWidth",
 			"details": "https://github.com/naoyukik/SublimeConvertFullHalfWidth",
 			"labels": ["japanese", "zenkaku", "hankaku"],

@@ -3086,11 +3086,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=4000",
-					"platforms": [
-						"osx",
-						"windows",
-						"linux"
-					],
+					"platforms": ["osx", "windows", "linux"],
 					"tags": true
 				}
 			]
@@ -6366,19 +6362,6 @@
 				{
 					"sublime_text": "<4000",
 					"tags": "st3-"
-				}
-			]
-		},
-		{
-			"name": "SortJson",
-			"details": "https://github.com/derek3e01/Sublime-Text-SortJson",
-			"labels": ["json", "jsonc", "sort", "formatting"],
-			"description": "Sort JSON and JSONC arrays of objects by top-level or nested dot-notated properties, or recursively sort object property keys—featuring cursor-aware path detection and type-annotated key dropdowns.",
-			"releases": [
-				{
-					"sublime_text": ">=4000",
-					"platforms": ["osx", "windows", "linux"],
-					"tags": true
 				}
 			]
 		}

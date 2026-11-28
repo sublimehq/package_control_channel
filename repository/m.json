@@ -2745,6 +2745,16 @@
 			]
 		},
 		{
+			"name": "Move By Paragraph 2",
+			"details": "https://github.com/davidhcefx/sublime-MoveByParagraph2",
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": "st4-"
+				}
+			]
+		},
+		{
 			"name": "Move By Symbols",
 			"details": "https://github.com/abusalimov/SublimeMoveBySymbols",
 			"labels": ["code navigation"],

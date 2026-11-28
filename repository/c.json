@@ -3966,6 +3966,17 @@
 			]
 		},
 		{
+			"name": "CopyJSONReference",
+			"details": "https://github.com/orozcodiaz/CopyJSONReference",
+			"labels": ["json", "clipboard", "utilities"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/crash5/CopyWithLineNumbersReloaded",
 			"releases": [
 				{

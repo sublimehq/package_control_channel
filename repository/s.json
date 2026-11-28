@@ -13,6 +13,18 @@
 			]
 		},
 		{
+			"name": "SaaSCity Launch Readiness",
+			"details": "https://github.com/best-directories/saascity-sublime",
+			"homepage": "https://saascity.io",
+			"labels": ["web development", "utilities", "linting"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SabeNight",
 			"details": "https://github.com/SabeDoesThings/SabeNight",
 			"labels": ["color scheme", "dark"],

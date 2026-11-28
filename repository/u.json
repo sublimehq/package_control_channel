@@ -278,6 +278,17 @@
 			]
 		},
 		{
+			"name": "Unicode NFD Highlighter",
+			"details": "https://github.com/wangyanxi/UnicodeNfdHighlighter",
+			"labels": ["unicode", "nfd"],
+			"releases": [
+				{
+					"sublime_text": ">=4205",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "UnicodeConverter",
 			"previous_names": ["ConvertChineseCharacters"],
 			"details": "https://github.com/leibnizli/UnicodeConverter",

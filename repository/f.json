@@ -1634,6 +1634,17 @@
 			]
 		},
 		{
+			"name": "Forge",
+			"details": "https://github.com/forge-language/sublime-syntax",
+			"labels": ["language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=4132",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Format Apex Log",
 			"details": "https://github.com/jdrbc/format-apex-log",
 			"labels": ["formatting", "apex", "salesforce"],
